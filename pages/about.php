@@ -1,7 +1,6 @@
 <?php
-    
     $page_title = 'About';
-    include ('header.html');
+    include ('../shared/header.html');
 ?>    
     <div class="content">
         <div class="bio">
@@ -47,5 +46,5 @@
     </div>
        
 <?php
-    include ('footer.html');            
- ?>     
+    include ('../shared/footer.html');            
+?>     

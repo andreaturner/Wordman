@@ -1,15 +1,15 @@
 <?php
     
     $page_title = 'Wordman Enterprise';
-    include ('header.html');
+    include ('../shared/header.html');
     
 ?> 
         <div class="content">
-            <div class="photo-cover">
-                <img src="images/eric-standing.jpg" width="480" height="605" "alt="Eric Standing" />
+            <div class="image-border">
+                <img src="../images/eric-standing.jpg" width="480" height="605" "alt="Eric Standing" />
             </div>
-        ></div>    
+        </div>    
 <?php
-    include ('footer.html');            
+    include ('../shared/footer.html');            
  ?>     
        
