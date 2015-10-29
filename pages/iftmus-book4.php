@@ -27,6 +27,10 @@
             <span>O</span>n all the three worlds there was nothing that promised them victory. At this, the final battle it is a forgone conclusion that they
             will be bitterly and utterly defeated, unless&#46;&#46;&#46;they can discover the one living weapon that was rejected and ignored by all three
             worlds, so many ages ago!
+            
+            <div class="return-bottom">
+                <a href="iftmus-series.php">Return to Iftmus Series page.</a>
+            </div>
         </div>
     </div>
 

@@ -19,7 +19,7 @@
             magics of Sha-talon twist and pervert the balance of Flow.
             <br>
             <br>
-            <span>T</span>he nine comrades are pusued from the moment the first six of them come together on Iftmus. As they flee, they meet with the last remaining three
+            <span>T</span>he nine comrades are pursued from the moment the first six of them come together on Iftmus. As they flee, they meet with the last remaining three
             and piece together some of the related prophesies. Since their own worlds are threatened as well, they are forced by events to set off in search
             of Greenstone, the corridor between all three worlds.
             <br>

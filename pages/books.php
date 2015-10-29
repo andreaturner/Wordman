@@ -12,7 +12,7 @@
                                 <li><a href="iftmus-series.php">Iftmus</a></li>
                                 <li>Old Alyssia</li>
                                 <li><a href="ungodly-disciple.php">The Ungodly Disciple</a></li>
-                                <li>The Ongoing Adventures of Sholama &amp; Jamolok</li>
+                                <li><a href="sholama-series.php">The Ongoing Adventures of Sholama &amp; Jamolok</a></li>
                             </ul>
                         </li>
                         <li>Novels

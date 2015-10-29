@@ -61,9 +61,9 @@
                 <img src="../images/ungodly-disciple-217x326.jpg" width="217" height="326" alt="The Ungodly Disciple" />
             </div>
             <div class="series-text" style="width: 75%;">
-                Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&ldquo;A Twist In The Mirror&rdquo;</span><br>
-                Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&ldquo;The Unexpected Tryst&rdquo;</span><br>
-                Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&ldquo;The Final Portrait&rdquo;</span><br>
+                Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;A Twist In The Mirror&rdquo;</span><br>
+                Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;The Unexpected Tryst&rdquo;</span><br>
+                Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;The Final Portrait&rdquo;</span><br>
                 <br>
             </div>
                 <div class="poem">
@@ -81,7 +81,6 @@
                     That remain twisted and pass that legacy on!&rdquo;
                 </div>   
                 
-            
     </div>
         <div class="p-credit">
             From the book of Nathanial,<br>
@@ -97,25 +96,24 @@
                 <a href="sholama-series.php">The Ongoing Adventures of Sholama and Jamalok</a>
             </div>
             <div class="series-pic">
-                <a href="sholama-series.php"><img src="../images/sholama-season-cover-228x300.jpg" width="228" height="300" alt="Sholama and Jamalok" /></a>
+                <a href="sholama-series.php"><img src="../images/sholama-season-out-of-time-231x300.png" width="231" height="300" alt="Sholama and Jamalok" /></a>
             </div>
             <div class="series-text">
-                Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book1.php"><span>&ldquo;Season Out Of Time&rdquo;</span></a><br>
-                Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&ldquo;The Girl With The Wind In Her Hair&rdquo;</span><br>
-                Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&ldquo;The Color Of Smell&rdquo;</span><br>
-                Book IV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&ldquo;Tears Of The River&rdquo;</span><br>
+                Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book1.php"><span class="large">&ldquo;Season Out Of Time&rdquo;</span></a><br>
+                Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book2.php"><span class="large">&ldquo;The Girl With The Wind In Her Hair&rdquo;</span></a><br>
+                Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book3.php"><span class="large">&ldquo;The Color Of Smell&rdquo;</span></a><br>
+                Book IV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book4.php"><span class="large">&ldquo;Tears Of The River&rdquo;</span></a><br>
                 <br>
                 <br>
-                
                 A seven-year-old girl is the unanticipated Shaman, destined to combat the spirit of winter, &ldquo;Ever&#39;ice&rdquo; who has halted<br>
                 the awakening of the Seasons. The Spirits of spring; &ldquo;Da&#39;born&rdquo;, summer; &ldquo;Sun&#39;sha&rdquo; and fall; &ldquo;Co&#39;napa&rdquo; have been<br>
                 forced to sleep so that &ldquo;Ever&#39;ice&rdquo;, may live on past his season.    
             </div>
+            
+        </div>
             <div class="read-more">
                 <a href="sholama-series.php">Read more!</a>
             </div>
-        </div>
-   
 
 <?php
     include ('../shared/footer.html');            
