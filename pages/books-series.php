@@ -10,7 +10,7 @@
             <div class="small-header">
                 Iftmus
             </div>
-            <div class="series-pic">
+            <div class="series-pic-iftmus">
                 <a href="iftmus-series.php"><img src="../images/iftmus-of-dreams-like-mist-211x300.jpg" width="211" height="300" alt="Iftmus Image" /></a>
             </div>
             <div class="series-text-book">
