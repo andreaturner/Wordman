@@ -1,0 +1,484 @@
+/* general page style */
+body {
+    font-size: larger;
+    color: #000;
+    font-family:'Lora', serif;
+    background-image: url("../images/brushedsteel5.jpg");
+    background-color: #eee;
+}
+
+.main {
+    width: auto;
+    margin: 0 auto;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.content {
+   overflow: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0;
+    text-decoration: underline;
+}
+
+/*header {
+    position: relative;
+}*/
+
+.header-container {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    width: 100%;
+}
+
+.header {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.small-header {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.smaller-header {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+   
+}
+
+/* span tags */
+
+.italic {
+    font-style: italic;
+}
+
+.vivaldi {
+    font-family: 'VivaldiD';
+}
+
+.large {
+    font-size: 130%;
+}
+
+.larger {
+    font-size: 200%;
+}
+
+.medium {
+    font-size: 175%;
+}
+
+.small {
+    font-size: small;
+}
+
+/* end span tags */
+/* end pages style */
+
+/* navigation*/
+#menu {
+    background: none;
+    padding: 0;
+}
+
+#menu ul {
+    background: none;
+}
+
+.nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.nav ul {
+    font-weight: bold;
+    list-style: none;
+    font-size: 11pt;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav li {
+    display: inline;
+    text-decoration: none;
+    font-size: 11pt;
+    color: #000;
+    margin: 0 10px 0 10px;
+}
+
+.nav a {
+    color: #000;        
+}
+
+.nav a:hover {
+    color: #FF0;
+}
+/* end navigation */
+
+/* photos/images */
+.image-border {
+}
+
+.image-border img {
+    border: solid 2px #000;
+    padding: 5px;
+}
+/* end photos */
+
+/* text */
+.p {
+   font-family:'Lora', serif;
+   color: #000;
+   font-size: medium;
+   text-align: left;
+   float: left;
+   padding: 20px 0 0 40px;
+}
+
+.p span {
+    font-size: 130%;
+}
+
+.p-book {
+   font-family:'Lora', serif;
+   font-size: large;
+   text-align: left;
+   float: left;
+   padding: 20px 0 0 40px;
+}
+/* end text */
+
+/* credits */
+.p-credit {
+   width: 75%;
+   font-style: italic;
+   font-size: medium;
+   text-align: right;
+}
+/* end credits */
+
+.tagline{
+    text-align: left;
+    /*margin-left: 25%;*/
+    font-style: italic;
+}
+
+.tagline span {
+    font-size:larger;
+}
+
+.tagline-right {
+    text-align: right;
+    margin-right: 30%;
+    font-style: italic; 
+}
+
+.copyright {
+    font-family:'Lora', serif;
+    font-size: smaller;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.copyright span {
+    font-family: 'VivaldiD';
+}
+
+text-p::first-letter {
+    font-size: 130%;
+    color: #000;
+}
+
+/* about */
+.bio {
+    font-family:'Lora', serif;
+    font-size: medium;
+    width: 75%;
+    margin: 0 auto;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.bio-para {
+    margin-bottom: 10px;
+}
+ /* end about */
+ 
+.logo {
+    /*float: left;*/
+    position: absolute;
+    left: auto;
+    top: auto;
+    padding-left: 960px;
+    margin: 5px 0 0 0;
+}
+
+/* margins */
+.margin-rt5 {
+    margin-right: 5px;
+}
+/* end margins */
+
+/* footer */
+.footer {
+    font-family:'Lora', serif;
+    color: #000;
+    font-size: smaller;
+    text-align: left;
+    margin-top: 20px;
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+}
+/* end footer */
+
+/* alignment */
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center-sholama {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.center {
+    /*width: 50%;*/
+    text-align: center;
+    padding-left: 200px;
+}
+/* end alignment */
+
+/* books */
+.books-nav {
+    width: 50%;
+    text-align: left;
+    overflow: auto;
+}
+
+.books-nav a {
+    color: #000000;
+}
+
+.books-nav a:hover {
+    color: #FFFFOO;
+    text-decoration: underline;
+}
+
+.books-nav ul {
+    text-decoration: none;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: 11pt;
+    font-family:'Lora', serif;
+    color: #000;
+    padding: 0 0 0 20px;
+}
+    
+.books-nav li {
+    text-decoration: none;
+    font-size: 11pt;
+    color: #000;
+    margin: 10px;
+    border: solid 1px #ccc;
+    padding: 10px;
+}
+
+.books-nav a {
+    color: #000;        
+}
+
+.series {
+    font-size: small;
+    font-family:'Lora', serif;
+    text-align: center;
+    float: left;
+    margin: auto;
+}
+
+.book-title {
+    font-family: "lucida calligraphy",arial,'sans serif';
+    text-align: left;
+    float: right;
+    margin: auto;
+}
+
+.name {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    float: left;
+}
+
+.images {
+    width: 30%;
+    display: inline;
+    padding-bottom: 15px;
+}
+
+.series-pic {
+    text-align: left;
+    padding-left: 50px;
+    float: left;
+}
+
+.series-pic-about {
+    text-align: center;
+    float: left;
+}
+.series-pic img {
+    border: solid 2px #000;
+    padding: 5px;   
+}
+
+.series-pic-about img {
+    border: solid 2px #000;
+    padding: 5px;   
+}
+
+.series-text {
+    font-family:'Lora', serif;
+    font-size: medium;
+    text-align: left;
+    padding-left: 200px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 15px;
+}
+
+.series-text-book {
+    font-family:'Lora', serif;
+    font-size: 100%;
+    text-align: left;
+    padding-left: 220px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 15px;
+    width: 75%;
+}
+
+.series-text-iftmus {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 233px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 15px;
+    width: 45%;
+}
+
+.series-text-axtoph {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 15px;
+    width: 45%;
+}
+
+.series-text-sholama {
+    font-family:'Lora', serif;
+    font-size: larger;
+    text-align: left;
+    padding-left: 150px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 25px;
+    width: 50%;
+}
+
+.series-text-wind {
+    font-family:'Lora', serif;
+    font-size: larger;
+    text-align: left;
+    padding-left: 230px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 25px;
+    width: 50%;
+}
+
+.book-series-summary {
+   font-family: Lora, serif;
+   overflow: auto;
+   margin-bottom: 10px;
+}
+
+.read-more {
+    text-align: center;
+    font-size: 130%;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+.return-bottom {
+    text-align: center;
+    font-size: 130%;
+    font-style: italic;
+    margin-top: 25px;
+}
+
+.take-me-back {
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    bottom-margin: 50px;
+    overflow: auto;
+}
+
+.poem {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 50%;
+}
+
+.poem-wind {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 100%;
+}

@@ -1,7 +1,8 @@
 <?php
     
     $page_title = 'Wordman Enterprise';
-    include ('header.html');
+    include_path = '../shared/';
+    $include = "header.html";
     
 ?> 
         <div class="content">
@@ -10,6 +11,6 @@
             </div>
         ></div>    
 <?php
-    include ('footer.html');            
+    include ('../shared/footer.html');            
  ?>     
        

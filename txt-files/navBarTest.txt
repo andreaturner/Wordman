@@ -1,0 +1,51 @@
+<li>The Ungodly Disciple</li>
+                                            <ul>
+                                                <li><a href="pages/mirror.html">A Twist in the Mirror (Book I)</a></li>
+                                                <li><a href="pages/unexpected.html">The Unexpected Twist (Book II)</a></li>
+                                                <li><a href="pages/portrait.html">The Final Portrait (Book III)</a></li>
+                                            </ul>
+                                    </ul>
+                                <li>Novels</li>
+                                    <ul>
+                                        <li>The Ongoing Adventures of Sholama &amp; Jamolok</li>
+                                            <ul>
+                                                <li><a href="pages/season.html">Season Out of Time (Book I)</a></li>
+                                                <li><a href="pages/wind.html">The Girl With the Wind in Her Hair (Book II)</a></li>
+                                                <li><a href="pages/smell.html">The Color of Smell (Book III)</a></li>
+                                                <li><a href="pages/river.html">Tears of the River (Book IV)</a></li>
+                                            </ul>
+                                        <li>Portraits of My Spirit in Passing</li>
+                                        <li>And There Isn't Any Magic Here Today</li>
+                                        <li>Paintin&#39; &#40;The Color of Change&#41;</li>
+                                    </ul>
+                                <li>Short Stories</li>
+                                    <ul>
+                                        <li>The Shortcut</li>
+                                        <li>Next Time the Wind Blows</li>
+                                        <li>The Shortcut</li>
+                                        <li>The Last Step</li>
+                                    </ul>
+                                <li>Children&#39;s Books</li>
+                                    <ul>
+                                        <li>The B.E.R. Who Couldn&#39;t Afford Christmas (Book I)</li>
+                                        <li>The Monster Under My Bed</li>
+                                        <li>The Once Little Breeze</li>
+                                    </ul>
+                                <li>Essays and Collections</li>
+                                    <ul>
+                                        <li>Shards of a Broken Mirror</li>
+                                            <ul>
+                                                <li><a href="pages/songs.html">Songs</a></li>
+                                                <li>Poems</li>
+                                                <li>Thoughts</li>
+                                            </ul>
+                                        <li>Eulogy Through My Grandfather</li>
+                                        <li>Random Thoughts</li>
+                                        <li>Eulogy Through My Grandfather</li>
+                                        <li>I Have Dreamed Many Things</li>
+                                        <li>Side View Mirror</li>
+                                    </ul>
+                            </ul>
+                        
+                    </ul>
+                </nav>

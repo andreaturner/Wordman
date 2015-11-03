@@ -1,0 +1,12 @@
+<link href='http://fonts.googleapis.com/css?family=Adamina|Alegreya|Alegreya+SC' rel='stylesheet' type='text/css'>
+
+font-family: 'Adamina', serif;
+
+font-family: 'Alegreya', serif;
+
+font-family: 'Alegreya SC', serif;
+
+font-size:75%;
+font-family:"lucida calligraphy",arial,'sans serif'; 
+background-color:#7ca0bf;
+color:#606060;

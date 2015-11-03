@@ -69,6 +69,9 @@
                 </ul>
             </nav>
         </div>
+        <div class="series-pic">
+            
+        </div>
     </div>
     
 <?php
