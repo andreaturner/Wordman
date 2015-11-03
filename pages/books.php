@@ -75,9 +75,9 @@
         <div class="series-pic-books">
             <img src="../images/feather-quill-700x916.png" width="700" height="916" alt="Feather Quill Pen" /></a>
         </div>
-        </div>
+    </div>
    
     
 <?php
     include ('../shared/footer.html');            
-?>           
+ ?>          

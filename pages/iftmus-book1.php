@@ -8,11 +8,11 @@
             <span>O</span>f <span>D</span>reams <span>L</span>ike <span>M</span>ist
         </div>
         
-        <div class="image-border">
+        <div class="series-pic">
             <img src="../images/iftmus-of-dreams-like-mist-353x500.jpg" width="353" height="500" alt="Of Dreams Like Mist Illustration">
         </div>
         
-        <div class="series-text-book">
+        <div class="series-text-book-iftmus">
             <span>P</span>rophecy is fulfilled as nine reluctant heroes come together, three from each of the threatened worlds, Iftmus, Axtoph and Terra. Baushra&#39;,
             the anti-thesis of the creative force has found its&#39; host disciples in the Shinghaut priest of the late Babylon. They in turn have passed
             their deadly gifts on to thier new pawns on each of the three worlds. Now Iftmus, the land cats are in their death throes as the newly perverted
