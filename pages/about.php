@@ -3,8 +3,8 @@
     include ('../shared/header.html');
 ?>    
     <div class="content">
-        <div class="series-pic-about">
-                <img src="../images/wedding-264x350.jpg" width="246" height="350" alt="Eric and Leslie Koch Image" /></a>
+        <div class="series-pic-about-top">
+                <img src="../images/eric-color-head-shot-319x400.jpg" width="319" height="400" alt="Eric Color Head Shot Image" /></a>
         </div>
         
         <div class="bio">
@@ -59,6 +59,11 @@
                 <span class="large">F</span>urther insights into my biography can be found in all the rest of my projects. At your request I can offer you any of these.
             </div>
         </div>
+            <div class="series-pic-about-bottom">
+                    <img src="../images/wedding-302x400.jpg" width="302" height="400" alt="Eric and Leslie Koch Image" /></a>
+            </div> 
+            
+        
     </div>
        
 <?php

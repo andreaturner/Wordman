@@ -225,11 +225,12 @@ text-p::first-letter {
 /* about */
 .bio {
     font-family:'Lora', serif;
-    font-size: medium;
-    width: 75%;
-    margin: 0 auto;
+    font-size: large;
+    width: 65%;
+    /*margin: 0 auto;*/
     text-align: left;
-    padding-left: 20px;
+    float: left;
+    padding-left: 40px;
 }
 
 .bio-para {
@@ -242,7 +243,7 @@ text-p::first-letter {
     position: absolute;
     left: auto;
     top: auto;
-    padding-left: 960px;
+    padding-left: 75px;
     margin: 5px 0 0 0;
 }
 
@@ -370,20 +371,33 @@ text-p::first-letter {
 
 .series-pic-books-top {
     text-align: left;
-    padding: 75px 0 40px 50px;
+    padding-top: 10px;
     float: left;
 }
 
-.series-pic-about {
-    text-align: center;
+.series-pic-about-top {
+    text-align: left;
     float: left;
+    padding-left: 30px;
+    padding-top: 60px;
+}
+
+.series-pic-about-bottom {
+    float: right;
+    padding-right: 30px;
+    padding-top: 200px;
 }
 .series-pic img {
     border: solid 2px #000;
     padding: 5px;   
 }
 
-.series-pic-about img {
+.series-pic-about-top img {
+    border: solid 2px #000;
+    padding: 5px;   
+}
+
+.series-pic-about-bottom img {
     border: solid 2px #000;
     padding: 5px;   
 }
