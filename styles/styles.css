@@ -264,6 +264,10 @@ text-p::first-letter {
     position: absolute;
     bottom: 10px;
 }
+
+.footer span {
+    font-size: 130%;
+}
 /* end footer */
 
 /* alignment */
@@ -431,7 +435,8 @@ text-p::first-letter {
     float: left;
     margin: auto;
     overflow: auto;
-    padding-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 65%;
 }
 
