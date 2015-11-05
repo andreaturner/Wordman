@@ -46,24 +46,19 @@
                 <span class="large">B</span>ack on the road, while playing music in Summit New Jersey, I was lucky enough to meet a woman who rekindled hope and inspiration to my heart;
                 this is a good thing since, by then, I was a sputtering candle. She tells me that she is my souvenir from the East Coast and while I have to agree, I include Lesley as a
                 force in this final endeavor in my life; she always refused to allow me to accept anything less than my best which she is&#33;
-                
-                
             </div>
-            
-                <div class="center">
-                    <p>
-                     *****   
-                    </p>
-                </div>
             <div class="center">
+                <p>
+                 *****   
+                </p>
+            </div>
+            <div class="bio-para">
                 <span class="large">F</span>urther insights into my biography can be found in all the rest of my projects. At your request I can offer you any of these.
             </div>
         </div>
             <div class="series-pic-about-bottom">
                     <img src="../images/wedding-302x400.jpg" width="302" height="400" alt="Eric and Leslie Koch Image" /></a>
             </div> 
-            
-        
     </div>
        
 <?php

@@ -8,7 +8,7 @@
             <span>O</span>f <span>D</span>reams <span>L</span>ike <span>M</span>ist
         </div>
         
-        <div class="series-pic">
+        <div class="series-pic-dreams-like-mist">
             <img src="../images/iftmus-of-dreams-like-mist-353x500.jpg" width="353" height="500" alt="Of Dreams Like Mist Illustration">
         </div>
         
@@ -43,11 +43,11 @@
             on three worlds, fear them? For if indeed they do, the answer is not forthcoming since everything the group discovers only alludes to the horrors of their
             own impending doom and the bleak fates of the worlds they came from!
         </div>
-    </div>        
+    </div>
             <div class="return-bottom">
                 <a href="iftmus-series.php">Return to Iftmus Series page.</a>
             </div>
-    </div>
+    
 
 <?php
     include ('../shared/footer.html');            

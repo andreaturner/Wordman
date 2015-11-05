@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'Iftmus';
+    $page_title = 'Iftmus Series';
     include ('../shared/header.html');
 ?>
     <div class="content">
@@ -76,7 +76,7 @@
             <a href="iftmus-book3.php">Read more!</a>
         </div>
 
-        <div class="book-series-summary">
+    <div class="book-series-summary">
             <div class="small-header">
                 <a href="iftmus-book4.php">Book IV Return To Iftmus: That None Shall Remain</a>
             </div>
@@ -96,11 +96,12 @@
                 enemy. There has been death and loss on both sides and there are wounds that will never heal.
             </div>
             
-        </div>
+    </div>
             <div class="read-more">
                 <a href="iftmus-book4.php">Read more!</a>
             </div>
-    </div>
+
+
 
 <?php
     include ('../shared/footer.html');            

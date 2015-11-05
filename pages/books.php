@@ -70,14 +70,16 @@
             </nav>
         </div>
         <div class="series-pic-books-top">
-            <img src="../images/book-tree-700x866.png" width="700" height="866" alt="Book with Tree Image" /></a>
+            <img src="../images/book-tree-700x866.jpg" width="700" height="866" alt="Book with Tree Image" /></a>
         </div>
         <div class="series-pic-books">
-            <img src="../images/feather-quill-700x916.png" width="700" height="916" alt="Feather Quill Pen" /></a>
+            <img src="../images/feather-quill-700x916.jpg" width="700" height="916" alt="Feather Quill Pen" /></a>
         </div>
     </div>
+    
    
     
 <?php
     include ('../shared/footer.html');            
- ?>          
+ ?>
+ 
