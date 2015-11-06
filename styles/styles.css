@@ -40,7 +40,7 @@ html, body {
 
 .content {
    overflow: auto;
-   padding-bottom: 30px;
+   padding-bottom: 10px;
 }
 
 a {
@@ -248,7 +248,7 @@ text-p::first-letter {
     /*margin: 0 auto;*/
     text-align: left;
     float: left;
-    padding-left: 40px;
+    padding-left: 20px;
 }
 
 .bio-para {
@@ -275,7 +275,7 @@ text-p::first-letter {
 .footer {
     font-size: small;
     width: 100%;
-    height: 30px;
+    height: 10px;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -423,14 +423,14 @@ text-p::first-letter {
 .series-pic-about-top {
     text-align: left;
     float: left;
-    padding-left: 30px;
+    padding-left: 20px;
     padding-top: 60px;
 }
 
 .series-pic-about-bottom {
     float: right;
-    padding-right: 30px;
     padding-top: 270px;
+    padding-right: 20px;
 }
 .series-pic img {
     border: double #000;
@@ -530,7 +530,6 @@ text-p::first-letter {
     width: 75%;
 }
 
-
 .series-text-sholama {
     font-family:'Lora', serif;
     font-size: larger;
@@ -571,10 +570,11 @@ text-p::first-letter {
 }
 
 .return-bottom {
-    text-align: center;
-    font-size: 130%;
+    font-size: large;
     font-style: italic;
-    margin-top: 25px;
+    float: left;
+    overflow: auto;
+    /*margin-top: 20px;*/
 }
 
 .take-me-back {
@@ -589,7 +589,7 @@ text-p::first-letter {
     text-align: center;
     font-size: large;
     float: left;
-    width: 50%;
+    width: 75%;
 }
 
 .poem-wind {
@@ -613,6 +613,6 @@ text-p::first-letter {
     font-family: "vivaldi";
     font-size: larger;
     text-align: right;
-    padding-right: 300px;
+    padding-right: 430px;
 }
 

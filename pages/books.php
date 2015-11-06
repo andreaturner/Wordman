@@ -7,7 +7,7 @@
             <nav>
                 <ul>
                     <ul>
-                        <li><a href="books-series.php">Series &#40;excerpts&#41;</a>
+                        <!-- <li><a href="books-series.php">Series &#40;excerpts&#41;</a> -->
                             <ul>
                                 <li><a href="iftmus-series.php">Iftmus</a></li>
                                 <li>Old Alyssia</li>

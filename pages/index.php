@@ -15,11 +15,11 @@
                 any  mind can expound on the narrative. We all need to grow and change as desperately as any species that is so endangered.&rdquo;
                 </span>
             </div>
-            <div class="credit">
-                <span>E</span>ric <span>K</span>och
-            </div>
-        </div>
             
+            <div class="credit">
+                    <span>E</span>ric <span>K</span>och
+            </div>
+        </div>      
 <?php
     include ('../shared/footer.html');            
  ?>     

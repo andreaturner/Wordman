@@ -43,11 +43,11 @@
             on three worlds, fear them? For if indeed they do, the answer is not forthcoming since everything the group discovers only alludes to the horrors of their
             own impending doom and the bleak fates of the worlds they came from!
         </div>
-    </div>
+    
             <div class="return-bottom">
                 <a href="iftmus-series.php">Return to Iftmus Series page.</a>
             </div>
-    
+    </div>
 
 <?php
     include ('../shared/footer.html');            
