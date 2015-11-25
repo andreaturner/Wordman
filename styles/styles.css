@@ -10,6 +10,7 @@ html, body {
     font-family:'Lora', serif;
     background-image: url("../images/brushedsteel5.jpg");
     background-color: #eee;
+    background-repeat: no-repeat;
     margin:0;
 	padding:0;
 	height:100%;
@@ -40,7 +41,11 @@ html, body {
 
 .content {
    overflow: auto;
-   padding-bottom: 10px;
+   padding-bottom: 20px;
+}
+
+.keep-it-together {
+    overflow: auto;
 }
 
 a {
@@ -56,12 +61,12 @@ a:hover {
     position: relative;
 }*/
 
-.header-container {
+/*.header-container {
     position: absolute;
     top: 10px;
     left: 0;
     width: 100%;
-}
+}*/
 
 .header {
     font-size: xx-large;
@@ -79,13 +84,66 @@ a:hover {
     margin-bottom: 10px;
 }
 
+.small-header-red {
+    font-size: x-large;
+    font-weight: bold;
+    color: #9F000F;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
 .smaller-header {
     font-size: large;
     font-weight: bold;
     text-align: center;
     font-family: "lucida calligraphy",arial,'sans serif';
     margin-bottom: 10px;
-   
+}
+
+.smaller-header-red {
+    font-size: large;
+    font-weight: bold;
+    color: #9F000F;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.smaller-header-w-logo {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.smaller-header-wordman {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+    width: auto;
+}
+
+.smallest-header {
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.extra-small-header {
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+    float: left;
+}
+
+.extra-small-header img{
+    float: left;
 }
 
 .eric-koch {
@@ -201,10 +259,30 @@ a:hover {
 
 /* credits */
 .p-credit {
-   width: 75%;
+   width: 80%;
    font-style: italic;
    font-size: medium;
    text-align: right;
+}
+
+.p-credit-river {
+   width: 50%;
+   font-style: italic;
+   font-size: medium;
+   text-align: right;
+   float: right;
+   padding-right: 20px;
+   padding-top: 20px;
+}
+
+.p-credit-mirror {
+   width: 50%;
+   font-style: italic;
+   font-size: medium;
+   text-align: right;
+   float: right;
+   padding-right: 380px;
+   padding-top: 30px;
 }
 /* end credits */
 
@@ -274,12 +352,10 @@ text-p::first-letter {
 /* footer */
 .footer {
     font-size: small;
-    width: 100%;
-    height: 10px;
+    height: 20px;
     position: absolute;
     bottom: 0;
-    left: 0;
-    padding-left: 20px;
+    left: 20px;
 }
 
 .footer span {
@@ -297,6 +373,12 @@ text-p::first-letter {
 }
 
 .text-center-sholama {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.text-center-river{
     text-align: center;
     margin-bottom: 20px;
     font-size: large;
@@ -404,6 +486,11 @@ text-p::first-letter {
     float: left;
 }
 
+.series-pic img {
+    border: double #000;
+    padding: 5px;   
+}
+
 .series-pic-iftmus img {
     border: double  #000;
     padding: 5px;
@@ -412,12 +499,6 @@ text-p::first-letter {
 .series-pic-dreams-like-mist img{
     border: double  #000;
     padding: 5px;
-}
-
-.series-pic-books-top {
-    text-align: left;
-    padding-top: 10px;
-    float: left;
 }
 
 .series-pic-about-top {
@@ -431,10 +512,6 @@ text-p::first-letter {
     float: right;
     padding-top: 270px;
     padding-right: 20px;
-}
-.series-pic img {
-    border: double #000;
-    padding: 5px;   
 }
 
 .series-pic-about-top img {
@@ -452,7 +529,13 @@ text-p::first-letter {
     padding: 5px;   
 }
 
-.series-pic-books-top img {
+.series-pic-construction {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.series-pic-construction img {
     border: double #000;
     padding: 5px;   
 }
@@ -481,6 +564,17 @@ text-p::first-letter {
     width: 65%;
 }
 
+.series-text-book-prologue {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 220px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 20px;
+    width: 75%;
+}
 .series-text-iftmus {
     font-family:'Lora', serif;
     font-size: large;
@@ -498,6 +592,19 @@ text-p::first-letter {
     font-size: large;
     text-align: left;
     padding-left: 90px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 15px;
+    width: 50%;
+}
+
+.series-text-alyssia {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 80px;
     float: left;
     margin: auto;
     overflow: auto;
@@ -532,7 +639,7 @@ text-p::first-letter {
 
 .series-text-sholama {
     font-family:'Lora', serif;
-    font-size: larger;
+    font-size: large;
     text-align: left;
     padding-left: 150px;
     float: left;
@@ -545,7 +652,7 @@ text-p::first-letter {
 
 .series-text-wind {
     font-family:'Lora', serif;
-    font-size: larger;
+    font-size: large;
     text-align: left;
     padding-left: 230px;
     float: left;
@@ -556,25 +663,96 @@ text-p::first-letter {
     width: 50%;
 }
 
+.series-text-book {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 20px;
+    width: 87%;
+}
+
+.series-text-past {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    width: 50%;
+}
+
+.series-text-past-80 {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    width: 80%;
+}
+
+.series-text-mirror {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    width: 65%;
+}
+
+.series-text-tryst {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-bottom:  10px;
+    padding-left: 45px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    width: 85%;
+}
+
 .book-series-summary {
    font-family: Lora, serif;
    overflow: auto;
    margin-bottom: 10px;
 }
 
+.book-series-alyssia {
+   font-family: Lora, serif;
+   float: left;
+   overflow: auto;
+   margin-bottom: 10px;
+   width: 100%;
+}
+
 .read-more {
     text-align: center;
-    font-size: 130%;
+    font-size: larger;
     font-style: italic;
     margin-bottom: 50px;
+    clear: left;
 }
 
 .return-bottom {
-    font-size: large;
+    font-size: larger;
     font-style: italic;
-    float: left;
+    text-align: center;
     overflow: auto;
-    /*margin-top: 20px;*/
+    margin-top: 20px;
 }
 
 .take-me-back {
@@ -597,6 +775,88 @@ text-p::first-letter {
     font-size: large;
     float: left;
     width: 100%;
+}
+
+.poem-river {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 58%;
+}
+
+.poem-smell {
+    text-align: center;
+    font-size: large;
+    float: left;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.poem-hunt {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.poem-future {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+}
+
+.poem-future-page {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 190px;
+}
+
+.poem-present {
+    text-align: center;
+    font-size: large;
+    width: 75%;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.poem-present-page {
+    text-align: center;
+    font-size: large;
+    width: 70%;
+    padding-top: 20px;
+    /*padding-left: 10px;*/
+}
+
+.poem-present-last {
+    text-align: center;
+    font-size: large;
+    width: 75%;
+    padding-left: 255px;
+}
+
+.poem-mirror{
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 66%;
+    padding-top: 20px;
+}
+
+.poem-tryst{
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 46%;
+    padding-top: 40px;
 }
 
 .contact-text {

@@ -47,14 +47,6 @@
         <div class="return-bottom">
                 <a href="iftmus-series.php">Return to Iftmus Series page.</a>
         </div>
-             
-        
-        
-        
-        
-        
-        
-    </div>
 
 <?php
     include ('../shared/footer.html');            

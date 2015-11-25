@@ -5,7 +5,7 @@
 
     
         <div class="header">
-            <span>T</span>o <span>E</span>mbrace <span>T</span>he <span>N</span>ight
+            <span>A</span>xtoph:  <span>T</span>o <span>E</span>mbrace <span>T</span>he <span>N</span>ight
         </div>
         
         <div class="content">
@@ -38,11 +38,11 @@
                 <span>D</span>espite their own private wars, the search for the Willaward is desperate at least. The Book Of Tashon, its prophecies and surrounding
                 legends allude to a day when the sacred Willaward might be used for the opening of a door that would allow an evil to manifest itself as a living breathing god.
             </div>
-    
+        </div>
             <div class="return-bottom">
                     <a href="iftmus-series.php">Return to Iftmus Series page.</a>
             </div>
-        </div>
+        
     
              
         

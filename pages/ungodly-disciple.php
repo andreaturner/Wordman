@@ -40,20 +40,9 @@
             <div class="tagline">
                 A philosophical warrior becomes the leader of a revolution, rebelling against an established and <span>corrupt church</span>.
             </div>
-        
                 
-                
-                
-                <div class="copyright">
-                    <p>
-                        &copy;, 2012, <span><span1>E</span1>ric <span1>K</span1>och</span> / All Rights Reserved<br>
-                        603 SW 305th St.  Federal Way WA 98023<br>   
-                        Email: <a href="mailto:wordman1@hotmail.com">wordman1@hotmail.com</a><br>  
-                        (253) 569-8426 <span>&bull;</span> (253) 569-1888  
-                    </p>
-                </div>
-            </div>
-        </div>    
+        </div>
+    </div>    
               
 
 <?php

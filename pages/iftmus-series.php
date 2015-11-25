@@ -68,7 +68,7 @@
                 in Babylon. Used by the Shinghaut priests to communicate with the force they call Baushra&#39;, it has become the focus of worship fo the new and evil
                 cult. The priests are reinitiating human blood sacrifice and planning the assassination of two kings in an effort to unite two failing empires as one
                 force. This will in turn twart the invading Persians, plunging the world into war and inadvertently change the time line future of the coming Alexandrian
-                Empire. In blood and suffereing they will change history and condemn the world to a new dark age.
+                Empire. In blood and suffering they will change history and condemn the world to a new dark age.
                 </div>
     </div>
     
