@@ -473,6 +473,12 @@ text-p::first-letter {
     float: left;
 }
 
+.series-pic-tree {
+    text-align: right;
+    padding: 50px 0 40px 50px;
+    float: left;
+}
+
 .series-pic-iftmus {
     text-align: left;
     padding-left: 118px;
@@ -729,6 +735,13 @@ text-p::first-letter {
    font-family: Lora, serif;
    overflow: auto;
    margin-bottom: 10px;
+   width: 70%;
+}
+
+.book-series-tree {
+   font-family: Lora, serif;
+   overflow: auto;
+   margin-top: 50px;
 }
 
 .book-series-alyssia {

@@ -96,7 +96,19 @@
                     <div class="read-more">
                         <a href="ungodly-unexpected-tryst-book2.php">Read more!</a>
                     </div>
-               
+                    
+                <div class="book-series-alyssia">    
+                    <div class="small-header">
+                        <a href="ungodly-final-portrait-book3.php">Book III&nbsp;The Final Portrait</a>
+                    </div>
+                    <div class="series-pic">
+                        <a href="ungodly-final-portrait-book3.php"><img src="../images/ungodly-final-portrait-480x300.jpg" width="480" height="300" alt="The Final Portrait Image" /></a>
+                    </div>
+                    
+                </div>
+                    <div class="read-more">
+                        <a href="under-construction.php">Read more!</a>
+                    </div>
             </div>
         </div>
     

@@ -27,7 +27,7 @@
                                     <li><a href="ungodly-prologue.php">Prologue</a></li>
                                     <li><a href="ungodly-twist-in-the-mirror-book1.php">Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Twist In The Mirror</a></li>
                                     <li><a href="ungodly-unexpected-tryst-book2.php">Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Unexpected Tryst</a></li>
-                                    <!-- <li><a href="ungodly-final-portrait-book3.php">Book III&nbsp;&nbsp;&nbsp;&nbsp;The Final Portrait</a></li>  -->
+                                    <li><a href="ungodly-final-portrait-book3.php">Book III&nbsp;&nbsp;&nbsp;&nbsp;The Final Portrait</a></li>  
                                 </ul>
                             <li><a href="sholama-series.php">The Ongoing Adventures of Sholama &amp; Jamolok</a></li>
                                 <ul>
@@ -97,7 +97,7 @@
         <div class="series-pic-books">
             <img src="../images/feather-quill-700x916.jpg" width="700" height="916" alt="Feather Quill Pen" /></a>
         </div>
-    </div>
+    </div>  <!-- end of content div -->
     
 <?php
     include ('../shared/footer.html');            

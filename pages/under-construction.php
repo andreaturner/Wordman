@@ -9,8 +9,8 @@
         <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
         <link rel="shortcut icon" type="image/x-icon" href="../images/w_circle_logo_QM9_icon.ico" />
         <link href='http://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" type="text/css" href="/styles/MyFontsWebfontsKit.css">
-        <link rel="stylesheet" href="/styles/styles.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="../styles/MyFontsWebfontsKit.css">
+        <link rel="stylesheet" href="../styles/styles.css" rel="stylesheet" type="text/css" />
     </head>
     
     <body>
@@ -29,17 +29,17 @@
                     <span style="color: #9F000F;">Web Developer</span> / Paige Israel / <a href="mailto:paige.israel@yahoo.com">paige.israel@yahoo.com</a> / 206.715.1597
                 </div>
                 <div class="small-header">
-                    <span class="small">The</span> Original Art / books / Songs / Poems / Journals / Photography
+                    <span class="small">The</span> Original Art / Books / Songs / Poems / Journals / Photography
                 </div>
                 <div class="small-header">
                     <span class="vivaldi">of &nbsp;<span class="large">E</span>ric <span class="large">K</span>och</span>
                 </div>
                 <div class="smaller-header-w-logo">
-                    <img src="/images/w-logo-50x50.png" width="50" height="50" alt="Wordman Logo Image"  style="position: relative; bottom: -5px;"/>
+                    <img src="../images/w-logo-50x50.png" width="50" height="50" alt="Wordman Logo Image"  style="position: relative; bottom: -5px;"/>
                     Wordman Enterprise / <span ="large:>&copy;&nbsp;</span><span class="vivaldi"><span class="large">E</span>ric <span class="large">K</span>och</span> / All rights reserved
                 </div>
                 <div class="series-pic-construction">
-                    <img src="/images/under-construction-painting-625x500.jpg" width="625" height="500" alt="Pastel Oil Painting" />
+                    <img src="../images/under-construction-painting-625x500.jpg" width="625" height="500" alt="Pastel Oil Painting" />
                 </div>
                 <div class="small-header-red">
                     Join Us Often and Witness the Ongoing Process
