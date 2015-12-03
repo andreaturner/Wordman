@@ -266,12 +266,12 @@ a:hover {
 }
 
 .p-credit-river {
-   width: 50%;
+   width: 40%;
    font-style: italic;
    font-size: medium;
    text-align: right;
    float: right;
-   padding-right: 20px;
+   margin-right: 250px;
    padding-top: 20px;
 }
 
@@ -311,11 +311,6 @@ a:hover {
 
 .copyright span {
     font-family: 'VivaldiD';
-}
-
-text-p::first-letter {
-    font-size: 130%;
-    color: #000;
 }
 
 /* about */
@@ -682,6 +677,19 @@ text-p::first-letter {
     width: 87%;
 }
 
+.series-text-adventure {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 40px;
+    float: left;
+    /*margin: auto;*/
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 20px;
+    width: 55%;
+}
+
 .series-text-past {
     font-family:'Lora', serif;
     font-size: large;
@@ -735,7 +743,14 @@ text-p::first-letter {
    font-family: Lora, serif;
    overflow: auto;
    margin-bottom: 10px;
-   width: 70%;
+   width: 100%;
+}
+
+.book-series-summary-100 {
+   font-family: Lora, serif;
+   overflow: auto;
+   margin-bottom: 10px;
+   width: 100%;
 }
 
 .book-series-tree {

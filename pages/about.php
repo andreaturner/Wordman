@@ -48,13 +48,9 @@
                 force in this final endeavor in my life; she always refused to allow me to accept anything less than my best which she is&#33;
             </div>
             <div class="center">
-                <p>
                  *****   
-                </p>
             </div>
-            <div class="bio-para">
-                <span class="large">F</span>urther insights into my biography can be found in all the rest of my projects. At your request I can offer you any of these.
-            </div>
+            
         </div>
             <div class="series-pic-about-bottom">
                     <img src="../images/wedding-302x400.jpg" width="302" height="400" alt="Eric and Leslie Koch Image" /></a>
