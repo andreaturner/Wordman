@@ -759,6 +759,11 @@ a:hover {
    margin-top: 50px;
 }
 
+.book-series-books1 {
+   font-family: Lora, serif;
+   overflow: auto;
+}
+
 .book-series-alyssia {
    font-family: Lora, serif;
    float: left;

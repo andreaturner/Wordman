@@ -3,43 +3,43 @@
     include ('../shared/header.html');
 ?>
     <div class="content">
-            <div class="book-series-summary">
-                <div class="header">
-                    Sholama &amp; Jamalok
-                </div>
-                    
-                <div class="small-header">
-                    Prologue
-                </div>
+        <div class="book-series-summary">
+            <div class="header">
+                Sholama &amp; Jamalok
+            </div>
                 
-                    <div class="text-center-sholama">
-                        &nbsp;&nbsp;&nbsp;&nbsp;<span class="large">A</span>nd in that day, Raven soared on the winds and called each breeze his<br>
-                        brother. Then came the day the winds halted their run from the far North Augustan<br>
-                        Mountains and lifted Raven with their voice. And Raven was warned by the winds of storm:
-                    </div>
-                    <div class="text-center-sholama">   
-                        &ldquo;Beware when Ever&rsquo;ice, the Spirit of Winter<br>
-                        Seeks what is not his to hold.<br>
-                        He would steal from Da&rsquo;born, the Spirit of Spring,<br>
-                        And in so doing, take also from Sun&rsquo;sha, the Spirit of Summer,<br>
-                        And Co&rsquo;napa, the Spirit of Fall.
-                    </div>
-                    <div class="text-center-sholama">
-                        When this has come to pass<br>   
-                        The earth shall grow cold and weep<br>    
-                        And the animals cry aloud and mourn.<br>
-                        Many voices will be heard to say &ldquo;Surely this is the end.&rdquo;<br>
-                        And the Mother Spirit of Earth will seem to agree.
-                    </div>
-                     <div class="text-center-sholama">
-                        But in that time of times there will also be whispers,<br>
-                        Whispers of a Shaman...<br>
-                        One who loves the earth...<br>
-                        One who walks with the animals...<br>
-                        One who would war with Nature...<br>
-                        In the search to reclaim the Mother Spirit&rsquo;s children,<br>
-                        And return to her, the Seasons.&rdquo;
-                    </div>
+            <div class="small-header">
+                Prologue
+            </div>
+            
+                <div class="text-center-sholama">
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="large">A</span>nd in that day, Raven soared on the winds and called each breeze his<br>
+                    brother. Then came the day the winds halted their run from the far North Augustan<br>
+                    Mountains and lifted Raven with their voice. And Raven was warned by the winds of storm:
+                </div>
+                <div class="text-center-sholama">   
+                    &ldquo;Beware when Ever&rsquo;ice, the Spirit of Winter<br>
+                    Seeks what is not his to hold.<br>
+                    He would steal from Da&rsquo;born, the Spirit of Spring,<br>
+                    And in so doing, take also from Sun&rsquo;sha, the Spirit of Summer,<br>
+                    And Co&rsquo;napa, the Spirit of Fall.
+                </div>
+                <div class="text-center-sholama">
+                    When this has come to pass<br>   
+                    The earth shall grow cold and weep<br>    
+                    And the animals cry aloud and mourn.<br>
+                    Many voices will be heard to say &ldquo;Surely this is the end.&rdquo;<br>
+                    And the Mother Spirit of Earth will seem to agree.
+                </div>
+                 <div class="text-center-sholama">
+                    But in that time of times there will also be whispers,<br>
+                    Whispers of a Shaman...<br>
+                    One who loves the earth...<br>
+                    One who walks with the animals...<br>
+                    One who would war with Nature...<br>
+                    In the search to reclaim the Mother Spirit&rsquo;s children,<br>
+                    And return to her, the Seasons.&rdquo;
+                </div>
                 
                 <div class="small-header">
                     <a href="sholama-season-out-of-time-book1.php">Book I&nbsp;&nbsp;Season Out Of Time</a>
