@@ -10,7 +10,7 @@
                  
             <div class="series-pic-books1">
                   <img src="../images/book-stack-239x300.jpg" width="239" height="300" alt="Stack of Books Image" /></a>
-                </div>
+            </div>
             
                 <div class="books-nav1">
                     <nav>
@@ -22,7 +22,7 @@
                         </ul>
                     </nav>
                 </div>
-            </div>
+        </div>
         
             <div class="header">
                     Novels &amp; Short Stories 
@@ -73,35 +73,30 @@
             </div>
     
             <div class="header">
-                    Essays &amp; Collections 
+                Essays &amp; Collections 
             </div>
                  
             <div class="book-series-books1">
                 <div class="series-pic-books1">
-                    <img src="../images/feather-quill-230x300.jpg" width="230" height="300" alt="Quill Pen Image" /></a>
+                    <img src="../images/shards-of-a-broken-mirror-408x250.jpg" width="408" height="250" alt="Shards Of A Broken Mirror Image" /></a>
                 </div>
-            </div>
-            <div class="books-nav1">
-                <div class="small-header-essays">
-                    Shards of a Broken Mirror
+                <div class="books-nav2">
+                    <div class="small-header-novels">
+                        Shards of a Broken Mirror
+                    </div>
                 </div>
-                <!--<nav>
-                    <ul>
-                        <li><a href="under-construction.php">Songs</a></li>
-                        <li><a href="under-construction.php">Poems</a></li>
-                        <li><a href="under-construction.php">Thoughts</a></li>
-                    </ul>
-                </nav> -->
-            </div>
             
-            <div class="header">
+            
+            <!--<div class="header">
                     Children's Books 
             </div>
                  
             <div class="book-series-books1">
                 <div class="series-pic-books1">
                     <img src="../images/bali-gabriel-eliz-pickle-333x250.jpg" width="333" height="250" alt="Cat Image" /></a>
-                </div>
+                </div> -->
+            
+            
             </div>
             
             

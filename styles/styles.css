@@ -4,6 +4,9 @@
     position: relative;
 }*/
 
+div {
+    border: 1px solid red;
+}
 html, body {
     font-size: larger;
     color: #000;
@@ -124,7 +127,7 @@ a:hover {
     font-weight: bold;
     text-align: left;
     font-family: "lucida calligraphy",arial,'sans serif';
-    padding-left: 10px;
+    padding-left: 80px;
     /*margin-bottom: 10px;*/
 }
 
