@@ -76,6 +76,14 @@ a:hover {
     margin-bottom: 10px;
 }
 
+.header-excerpts {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-top: 20px;
+}
+
 .small-header {
     font-size: x-large;
     font-weight: bold;
@@ -91,6 +99,33 @@ a:hover {
     text-align: center;
     font-family: "lucida calligraphy",arial,'sans serif';
     margin-bottom: 10px;
+}
+
+.small-header-novels {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 150px;
+    /*margin-bottom: 10px;*/
+}
+
+.small-header-short-stories {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 275px;
+    /*margin-bottom: 10px;*/
+}
+
+.small-header-essays {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 10px;
+    /*margin-bottom: 10px;*/
 }
 
 .smaller-header {
@@ -387,6 +422,8 @@ a:hover {
 /* end alignment */
 
 /* books */
+
+/* begin books-nav */
 .books-nav {
     width: 50%;
     text-align: left;
@@ -426,6 +463,134 @@ a:hover {
 .books-nav a {
     color: #000;        
 }
+/* end books-nav */
+
+/* start books-nav1 */
+.books-nav1 {
+    width: 50%;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.books-nav1 a {
+    color: #000;        
+}
+
+.books-nav1 a:hover {
+    color: #FF0;
+    text-decoration: underline;
+}
+
+.books-nav1 ul {
+    text-decoration: none;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: large;
+    font-family:'Lora', serif;
+    color: #000;
+    padding: 0 0 0 20px;
+}
+    
+.books-nav1 li {
+    text-decoration: none;
+    font-size: large;
+    color: #000;
+    margin: 10px;
+    /*border: solid 1px #ccc;*/
+    padding: 10px;
+}
+
+.books-nav1 a {
+    color: #000;        
+}
+/* end books-nav1 */
+
+/* start books-nav2 */
+.books-nav2 {
+    width: 27%;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.books-nav2 a {
+    color: #000;        
+}
+
+.books-nav2 a:hover {
+    color: #FF0;
+    text-decoration: underline;
+}
+
+.books-nav2 ul {
+    text-decoration: none;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: larger;
+    font-family:'Lora', serif;
+    color: #000;
+    padding: 0 0 0 20px;
+}
+    
+.books-nav2 li {
+    text-decoration: none;
+    font-size: large;
+    color: #000;
+    margin: 10px;
+    /*border: solid 1px #ccc;*/
+    padding: 10px;
+}
+
+.books-nav2 a {
+    color: #000;        
+}
+/* end books-nav2 */
+
+/*start books-nav3 */
+.books-nav3 {
+    width: 20%;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.books-nav3 a {
+    color: #000;        
+}
+
+.books-nav3 a:hover {
+    color: #FF0;
+    text-decoration: underline;
+}
+
+.books-nav3 ul {
+    text-decoration: none;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: large;
+    font-family:'Lora', serif;
+    color: #000;
+    padding: 0 0 0 20px;
+    margin-top: 30px;
+}
+    
+.books-nav3 li {
+    text-decoration: none;
+    font-size: large;
+    color: #000;
+    margin: 10px;
+    /*border: solid 1px #ccc;*/
+    padding: 10px;
+}
+
+.books-nav3 a {
+    color: #000;        
+}
+/* end books-nav3 */
 
 .series {
     font-size: small;
