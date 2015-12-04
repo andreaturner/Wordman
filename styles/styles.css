@@ -4,9 +4,9 @@
     position: relative;
 }*/
 
-div {
+/*div {
     border: 1px solid red;
-}
+}*/
 html, body {
     font-size: larger;
     color: #000;
@@ -118,7 +118,16 @@ a:hover {
     font-weight: bold;
     text-align: left;
     font-family: "lucida calligraphy",arial,'sans serif';
-    padding-left: 275px;
+    padding-left: 290px;
+    /*margin-bottom: 10px;*/
+}
+
+.small-header-children {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 330px;
     /*margin-bottom: 10px;*/
 }
 
