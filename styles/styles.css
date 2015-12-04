@@ -321,7 +321,7 @@ a:hover {
     /*margin: 0 auto;*/
     text-align: left;
     float: left;
-    padding-left: 20px;
+    padding-left: 40px;
 }
 
 .bio-para {
@@ -468,6 +468,12 @@ a:hover {
     float: left;
 }
 
+.series-pic-books1 {
+    text-align: left;
+    padding: 0 0 40px 50px;
+    float: left;
+}
+
 .series-pic-tree {
     text-align: right;
     padding: 50px 0 40px 50px;
@@ -505,14 +511,14 @@ a:hover {
 .series-pic-about-top {
     text-align: left;
     float: left;
-    padding-left: 20px;
+    padding-left: 40px;
     padding-top: 60px;
 }
 
 .series-pic-about-bottom {
     float: right;
     padding-top: 270px;
-    padding-right: 20px;
+    padding-right: 40px;
 }
 
 .series-pic-about-top img {
@@ -526,6 +532,11 @@ a:hover {
 }
 
 .series-pic-books img {
+    border: double #000;
+    padding: 5px;   
+}
+
+.series-pic-books1 img {
     border: double #000;
     padding: 5px;   
 }
