@@ -68,7 +68,7 @@
                             <li>The Monster Under My Bed</li>
                             <li>The Once Little Breeze</li>
                             <li>Cuddle Puddle and Thunder Thump</li>
-                            <li>Peanut &amp; The Horse</li>
+                            <li>Heart</li>
                             <li>Gabriel, Bali &amp; The Pickle Factory</li>
                             <li>The Broken Unicorn</li>
                         </ul>

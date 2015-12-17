@@ -47,8 +47,8 @@
                 this is a good thing since, by then, I was a sputtering candle. She tells me that she is my souvenir from the East Coast and while I have to agree, I include Lesley as a
                 force in this final endeavor in my life; she always refused to allow me to accept anything less than my best which she is&#33;
             </div>
-            <div class="center">
-                 *****   
+            <div class="entry-footer">
+                <img src="../images/breakLine.png" width="150" height="25" alt="Break Line Image"/>
             </div>
             
         </div>

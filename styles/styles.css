@@ -109,7 +109,7 @@ a:hover {
     font-weight: bold;
     text-align: left;
     font-family: "lucida calligraphy",arial,'sans serif';
-    padding-left: 150px;
+    padding-left: 130px;
     /*margin-bottom: 10px;*/
 }
 
@@ -118,7 +118,7 @@ a:hover {
     font-weight: bold;
     text-align: left;
     font-family: "lucida calligraphy",arial,'sans serif';
-    padding-left: 290px;
+    padding-left: 200px;
     /*margin-bottom: 10px;*/
 }
 
@@ -127,7 +127,7 @@ a:hover {
     font-weight: bold;
     text-align: left;
     font-family: "lucida calligraphy",arial,'sans serif';
-    padding-left: 330px;
+    padding-left: 235px;
     /*margin-bottom: 10px;*/
 }
 
@@ -194,7 +194,7 @@ a:hover {
 }
 
 .eric-koch {
-   font-size: 225%;
+    font-size: 225%;
     font-weight: bold;
     text-align: center;
     font-family: 'VivaldiD';
@@ -368,7 +368,7 @@ a:hover {
     /*margin: 0 auto;*/
     text-align: left;
     float: left;
-    padding-left: 40px;
+    padding-left: 30px;
 }
 
 .bio-para {
@@ -695,7 +695,7 @@ a:hover {
 .series-pic-about-bottom {
     float: right;
     padding-top: 270px;
-    padding-right: 40px;
+    padding-right: 30px;
 }
 
 .series-pic-about-top img {

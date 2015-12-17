@@ -1,0 +1,25 @@
+/* appearance styles */
+
+.entry-signature{
+    font-family: 'VivaldiD';
+    float: right;
+}
+
+.entry-signature span {
+   font-size: 130%; 
+}
+
+
+#journal {
+    font-family:'Lora', serif;
+    font-size: large;
+    border: #000 double;
+    width: 80%;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.entry-footer {
+    font-weight: bold;
+    text-align: center;
+}
