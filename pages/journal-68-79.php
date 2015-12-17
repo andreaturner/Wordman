@@ -5,7 +5,7 @@
 
 
 		<div class="header">
-			Wordman Journal
+			<span>E</span>ric <span>K</span>och <span>J</span>ournal 1968 - 1979
 		</div>
 		<div id="journal">
 			<h3>1968</h3>
@@ -47,7 +47,7 @@
 			<h3>1970</h3>
 			<div>
 				<p>
-					My son was born today.  I don’t know why fathers have to wait in the hall. He is beautiful and all I can do is look forward to the future with faith.
+					My son was born today.  I don&#39;t know why fathers have to wait in the hall. He is beautiful and all I can do is look forward to the future with faith.
 				</p>
 				<div class="entry-signature"><span>E</span>ric <span>K</span>och <span>&#39;70</span></div>		
 			</div>
@@ -123,16 +123,16 @@
 					afternoon&#39;s breakfast.<br><br>
 					On any given day I want to take him to the zoo or the park; and some days we do. More often, when I tell him to go outside and play; he knows I&#39;m going to write. Reluctantly, I
 					have chosen, without knowing earlier, something he views as a rival.<br><br>
-					Bedtime and a story come and hours later, the little monkey is, laying upside down with no covers on. He doesn’t even wake as I rudely rearrange his sleeping habits.<br><br>
+					Bedtime and a story come and hours later, the little monkey is, laying upside down with no covers on. He doesn&#39;t even wake as I rudely rearrange his sleeping habits.<br><br>
 					I love him so much&#46;&#46;&#46; he gives me no choice! 
 				</p>
 				<div class="entry-footer">
 					<img src="../images/breakLine.png" width="150" height="25" alt="Break Line Image"/>  
 				</div>
 				<p>
-					So many dwell safe in a shell of ignorance, and so many people wish they’d had never pecked through that shell.<br><br>
+					So many dwell safe in a shell of ignorance, and so many people wish they&#39;d had never pecked through that shell.<br><br>
 					I cried last night for myself. I wonder where that puts me?  It&#39;s like I was taking pity on a stranger.<br><br>
-					It’s Easter, Knowing Christ died for me, gave me inspiration and hope. To have someone care so much… to know his tears were shed for our own redemption&#46;&#46;&#46; to know that God could
+					It&#39;s Easter, Knowing Christ died for me, gave me inspiration and hope. To have someone care so much&#46;&#46;&#46; to know his tears were shed for our own redemption&#46;&#46;&#46; to know that God could
 					love us so much&#46;&#46;&#46; in spite of ourselves!<br><br>
 					When I write&#46;&#46;&#46; I sometimes know whose gift I am receiving!
 				</p>
@@ -140,7 +140,7 @@
 					<img src="../images/breakLine.png" width="150" height="25" alt="Break Line Image"/>  
 				</div>
 				<p>
-					I watched my son playing baseball from the car yesterday. I won’t go down to the field and put him through turmoil he went through as a young child. But it was nice to see him laugh, push 
+					I watched my son playing baseball from the car yesterday. I won&#39;t go down to the field and put him through turmoil he went through as a young child. But it was nice to see him laugh, push 
 					his cap back and wipe the sun out of his eyes.<br><br>
 					I drove away wanting to cry but could only summon a reluctant smile.
 				</p>
@@ -193,6 +193,14 @@
 					known this before.
 				</p>
 				<div class="entry-signature"><span>E</span>ric <span>K</span>och <span>&#39;78</span></div>		
+			</div>
+			<h3>1979</h3>
+			<div>
+				<p>
+					There’s a trick to love. To find, to hold, to even feel it, we must be ready to put the other person first. In all things we must be willing to step back and let our partner not only state their case but in the
+					presentation, preserve at least a good portion of it.
+				</p>
+				<div class="entry-signature"><span>E</span>ric <span>K</span>och <span>&#39;79</span></div>		
 			</div>
 		
 			

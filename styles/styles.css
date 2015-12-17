@@ -79,6 +79,10 @@ a:hover {
     margin-bottom: 10px;
 }
 
+.header span {
+    font-size: 130%;
+}
+
 .header-excerpts {
     font-size: xx-large;
     font-weight: bold;
