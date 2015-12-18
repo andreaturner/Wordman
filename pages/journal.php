@@ -26,7 +26,7 @@
 		</div>
 		
 		<div class="series-pic">
-             <img src="../images/feather-quill-700x911.png" width="700" height="911" alt="Feather Pen Image" /></a>
+             <img src="../images/feather-quill-461x600.jpg" width="461" height="600" alt="Feather Pen Image" /></a>
         </div>
 
 
