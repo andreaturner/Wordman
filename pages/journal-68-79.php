@@ -2,8 +2,7 @@
     $page_title = 'Journal';
     include ('../shared/header.html');
 ?>
-
-
+	<div class="content">
 		<div class="header">
 			<span>E</span>ric <span>K</span>och <span>J</span>ournal 1968 - 1979
 		</div>
@@ -197,14 +196,37 @@
 			<h3>1979</h3>
 			<div>
 				<p>
-					There’s a trick to love. To find, to hold, to even feel it, we must be ready to put the other person first. In all things we must be willing to step back and let our partner not only state their case but in the
-					presentation, preserve at least a good portion of it.
+					There&#39;s a trick to love. To find, to hold, to even feel it, we must be ready to put the other person first. In all things we must be willing to step back and let our partner not only state their case but in the
+					presentation, preserve at least a good portion of it.<br><br>
+					Now you know why true love is not all that common. We are, by nature, egotistical to the point of self-preservation. This is our lot in life. In truth, what we perceive as threat is, in reality, only a threat
+					to our own perception.<br><br>
+					If we put someone else first, we stand a far better chance that they will instinctively do the same for us. The trick is&#46;&#46;&#46; we cannot sell sincerity with a motive. If our motive is to be first, we must expect
+					sincerity to come in last!
+				</p>
+			<div class="entry-footer">
+				<img src="../images/breakLine.png" width="150" height="25" alt="Break Line Image"/>  
+			</div>
+				<p>
+					A walk on the beach can be anything from romantic to heartbreaking. It can be breathtaking to calming, inspiring to mood altering, or simply a spiritual moment to supersede all of the above.<br><br>
+					My wish is to be cremated and left upon the waves of any beach. Our passing, is insignificant, yet we are still precious in the total picture, to some family and in the eyes of our God. Water is the source of
+					life and certainly befits our passing to the next fountain of truth.<br><br>
+					I for one appreciate being humbled one more time!
+				</p>
+			<div class="entry-footer">
+				<img src="../images/breakLine.png" width="150" height="25" alt="Break Line Image"/>  
+			</div>
+				<p>
+					Genuine feelings require very few words to express themselves. They lie in a word, a phrase, a passage or the silence of a look. The depth of such feelings are more often weighed and measured by
+					the actions that finally define them.<br><br>
+					There are those souls who beat their chests and demand to be acknowledged. These people haven&#39;t evolved enough to warrant such acknowledgement.<br><br>
+					It is far better to create a voice by our actions; those actions and that voice that will follow us like an echo into the next life!
 				</p>
 				<div class="entry-signature"><span>E</span>ric <span>K</span>och <span>&#39;79</span></div>		
 			</div>
 		
 			
 		</div> <!-- journal div ending tag -->
+	</div> <!-- content div ending tag -->
 	
 		<!-- jquery library -->
 		<script src="../scripts/jquery-1.11.3.js"></script>
@@ -216,6 +238,7 @@
 			//shorthand version - everybody uses this one in real life
 			$(function(){
 				$( "#journal" ).accordion({
+					heightStyle: 'content',
 					active: false,
 					collapsible: true
 				});
