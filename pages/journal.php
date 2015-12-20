@@ -29,12 +29,6 @@
              <img src="../images/feather-quill-461x600.jpg" width="461" height="600" alt="Feather Pen Image" /></a>
         </div>
 
-
-
-
-
-
-
 	</div> <!-- end of content div -->
 <?php
     include ('../shared/footer.html');            
