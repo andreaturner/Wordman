@@ -49,6 +49,7 @@ html, body {
 
 .keep-it-together {
     overflow: auto;
+    border: 1px solid red;
 }
 
 a {
@@ -419,11 +420,26 @@ a:hover {
 /* alignment */
 .text-right {
     text-align: right;
+    width:45%;
+}
+
+.text-right-books {
+    text-align: right;
+    width: 45%;
+    float: right;
 }
 
 .text-left {
     text-align: left;
 }
+
+.text-left-books {
+    text-align: left;
+    width: 45%;
+    float: left;
+    padding-left: 100px;
+}
+
 
 .text-center-sholama {
     text-align: center;
@@ -650,6 +666,10 @@ a:hover {
     float: left;
 }
 
+.series-pic-center {
+    text-align: center;
+}
+
 .series-pic-books {
     text-align: left;
     padding: 50px 0 40px 50px;
@@ -659,6 +679,16 @@ a:hover {
 .series-pic-books1 {
     text-align: left;
     padding: 0 0 40px 50px;
+    float: left;
+}
+
+.series-pic-books2-rt {
+    text-align: right;
+    float: right;
+}
+
+.series-pic-books2 {
+    text-align: left;
     float: left;
 }
 
@@ -684,6 +714,11 @@ a:hover {
 .series-pic img {
     border: double #000;
     padding: 5px;   
+}
+
+.series-pic-center img {
+    border: double #000;
+    padding: 5px;
 }
 
 .series-pic-iftmus img {
@@ -729,6 +764,10 @@ a:hover {
     padding: 5px;   
 }
 
+.series-pic-books2 img {
+    border: double #000;
+    padding: 5px;   
+}
 .series-pic-construction {
     text-align: center;
     margin-top: 20px;
