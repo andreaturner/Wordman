@@ -128,6 +128,19 @@ a:hover {
     font-size: 130%;
 }
 
+.header-right {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: right;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-right: 250px;
+    margin-bottom: 10px; 
+}
+
+.header-right span {
+    font-size: 130%;
+}
+
 .header-right-music {
     font-size: 1.5em;
     font-weight: bold;
