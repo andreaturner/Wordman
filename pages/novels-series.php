@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'Books ';
+    $page_title = 'Novels ';
     include ('../shared/header.html');
 ?>
 
@@ -7,10 +7,10 @@
         <div class="keep-it-together">
             <div class="text-left-books"> 
                 <div class="header-left">
-                    <a href="novels.php"><span>N</span>ovels</a>
+                    <a href="series.php"><span>S</span>eries</a>
                 </div>
                 <div class="series-pic-books2">
-                    <a href="under-construction.php"><img src="../images/novels-654x500.jpg" width="654" height="500" alt="Novels Image" /></a>
+                    <a href="series.php"><img src="../images/novels-654x500.jpg" width="654" height="500" alt="Novels Image" /></a>
                 </div>
             </div>  <!-- end text-left-books div -->
                 

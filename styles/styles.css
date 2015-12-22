@@ -503,13 +503,14 @@ a:hover {
     text-align: right;
     width: 45%;
     float: right;
-    padding-right: 100px;
+    padding-right: 50px;
 }
 
 .text-right-books-plays {
     text-align: right;
     width: 45%;
     float: right;
+     padding-right: 50px;
 }
 
 .text-left {
@@ -518,9 +519,9 @@ a:hover {
 
 .text-left-books {
     text-align: left;
-    width: 35%;
+    width: 45%;
     float: left;
-    padding-left: 130px;
+    padding-left: 50px;
 }
 
 .text-center-sholama {
