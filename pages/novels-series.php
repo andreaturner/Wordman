@@ -1,76 +1,59 @@
 <?php
-    $page_title = 'Novels ';
+    $page_title = 'Novels & Series';
     include ('../shared/header.html');
 ?>
+    
+    <div class="keep-it-together">
+        <div class="text-left-books-novels"> 
+            <div class="header-left">
+                <a href="under-construction.php"><span>N</span>ovels</a>
+            </div>
+            <div class="series-pic-books2">
+                <a href="under-construction.php"><img src="../images/novels-654x500.jpg" width="654" height="500" alt="Novels Image" /></a>
+            </div>
+        </div>  <!-- end text-left-books-novels div -->
+            
+        <div class="text-right-books-series">
+            <div class="header-right-series">
+                <a href="under-construction.php"><span>S</span>eries 
+            </div>
+            <div class="series-pic-books2-rt">
+                <a href="under-construction.php"><img src="../images/book-tree-402x500.jpg" width="402" height="500" alt="Series Image" /></a>
+            </div>
+        </div> <!-- end text-right-books -->
+    </div>  <!-- end keep-it-together div -->
+    
+    
+    <!-- start of text below images -->
+    
+    <!-- text below Novels image -->
+    <div class="keep-it-together">
+        <div class="text-left-books">
+            <div class="nav1">
+                <ul>
+                    <li><a href="under-construction.php">True Lies</a></li>
+                    <li><a href="under-construction.php">Portraits of My Spirit in Passing</a></li>
+                    <li><a href="under-construction.php">And There Isn't Any Magic Here Today</a></li>
+                    <li><a href="under-construction.php">Paintin&#39; &#40;The Color of Change&#41;</a></li>
+                </ul>
+             </div> <!-- end of nav1 div -->
+        </div> <!-- end text-left-books div -->
+    </div>  <!-- end of keep-it-together-80 div -->
+    
+    <!-- start of text below Series image -->
+    <div class="keep-it-together">
+        <div class="text-right-books">
+            <div class="nav2">
+                <ul>
+                    <li><a href="under-construction.php">Iftmus</a></li>
+                    <li><a href="under-construction.php">Old Alyssia</a></li>
+                    <li><a href="under-construction.php">The Ungodly Disciple</a></li>
+                    <li><a href="under-construction.php">The Ongoing Adventures of <br>Sholama & Jamalok</a></li>
+                </ul>
+             </div> <!-- end of nav1 div -->
+        </div> <!-- end of text-right-books -->
+    </div>  <!-- end of keep-it-together div -->
 
-    <div class="books-page">
-        <div class="keep-it-together">
-            <div class="text-left-books"> 
-                <div class="header-left">
-                    <a href="series.php"><span>S</span>eries</a>
-                </div>
-                <div class="series-pic-books2">
-                    <a href="series.php"><img src="../images/novels-654x500.jpg" width="654" height="500" alt="Novels Image" /></a>
-                </div>
-            </div>  <!-- end text-left-books div -->
-                
-            <div class="text-right-books">
-                <div class="header-right">
-                    <a href="under-construction.php"><span>S</span>hort <span>S</span>tories
-                </div>
-                <div class="series-pic-books2-rt">
-                    <a href="sunder-construction.php"><img src="../images/short-stories-728x500.jpg" width="728" height="500" alt="Short Stories Image" /></a>
-                </div>
-            </div> <!-- end text-right-books -->
-        </div>  <!-- end keep-it-together div -->
-    </div> <!-- end of books-page div -->
-    
-    <!-- start of second tier of subjects -->
-    <div class="books-page">
-        <div class="keep-it-together">
-            <div class="text-left-books"> 
-                <div class="header-left-essays">
-                    <a href="under-construction.php"><span>E</span>ssays and <span>C</span>ollections</a>
-                </div>
-                <div class="series-pic-books2">
-                    <a href="under-construction.php"><img src="../images/essays-and-collections-687x500.jpg" width="687" height="500" alt="Essays and Collections Image" /></a>
-                </div>
-            </div>  <!-- end text-left-books-essays div -->
-                
-            <div class="text-right-books">
-                <div class="header-right-children">
-                    <a href="under-construction.php"><span>C</span>hildren&#39;s <span>B</span>ooks
-                </div>
-                <div class="series-pic-books2-rt">
-                    <a href="under-construction.php"><img src="../images/children-624x500.jpg" width="624" height="500" alt="Children's Books Image" /></a>
-                </div>
-            </div> <!-- end text-right-books-children -->
-        </div>  <!-- end keep-it-together div -->
-    </div> <!-- end of books-page div -->
-    
-    <!-- start of third tier of subjects -->
-    <div class="books-page">
-        <div class="keep-it-together">
-            <div class="text-left-books"> 
-                <div class="header-left-music">
-                    <a href="under-construction.php"><span>M</span>usic, <span>A</span>lbums and <span>P</span>erformances</a>
-                </div>
-                <div class="series-pic-books2">
-                    <a href="under-construction.php"><img src="../images/music-albums-performances-626x498.jpg" width="626" height="500" alt="Music, Albums and Performances Image" /></a>
-                </div>
-            </div>  <!-- end text-left-books-essays div -->
-                
-            <div class="text-right-books-plays">
-                <div class="header-right-music">
-                    <a href="under-construction.php"><span>P</span>lays and <span>S</span>creenplays
-                </div>
-                <div class="series-pic-books2-rt">
-                    <a href="under-construction.php"><img src="../images/plays-screenplays-778x500.jpg" width="778" height="500" alt="Plays and Screenplays Image" /></a>
-                </div>
-            </div> <!-- end text-right-books-plays -->
-        </div>  <!-- end keep-it-together div -->
-    </div> <!-- end of books-page div -->
-    
-<?php
+ <?php
     include ('../shared/footer.html');            
 ?>

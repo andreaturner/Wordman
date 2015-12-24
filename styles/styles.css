@@ -51,6 +51,11 @@ html, body {
     overflow: auto;
 }
 
+.keep-it-together-80 {
+    overflow: auto;
+    width: 80%
+}
+
 a {
     text-decoration: none;
 }
@@ -164,6 +169,19 @@ a:hover {
 }
 
 .header-right-children span {
+    font-size: 130%;
+}
+
+.header-right-series {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: right;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-right: 450px;
+    margin-bottom: 10px;
+}
+
+.header-right-series span {
     font-size: 130%;
 }
 
@@ -513,6 +531,13 @@ a:hover {
      padding-right: 50px;
 }
 
+.text-right-books-series {
+    text-align: right;
+    /*width: 45%;*/
+    float: right;
+    padding-right: 50px;
+}
+
 .text-left {
     text-align: left;
 }
@@ -522,6 +547,13 @@ a:hover {
     width: 45%;
     float: left;
     padding-left: 50px;
+}
+
+.text-left-books-novels {
+    text-align: left;
+    width: 45%;
+    float: left;
+    padding-left: 350px;
 }
 
 .text-center-sholama {
@@ -768,6 +800,7 @@ a:hover {
 .series-pic-books2-rt {
     text-align: right;
     float: right;
+    padding-right: 300px;
 }
 
 .series-pic-books2 {

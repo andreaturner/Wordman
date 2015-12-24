@@ -36,3 +36,72 @@
     padding-top: 20px;
     /*padding-left: 230px;*/
 }
+
+/* start nav1 */
+.nav1 {
+    text-align: left;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.nav1 ul {
+    font-weight: bold;
+    list-style: none;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav1 li {
+    display: block;
+    text-align: left;
+    padding-left: 300px;
+    text-decoration: none;
+    font-size: xx-large;
+    color: #000;
+    margin: 0 10px 0 10px;
+}
+
+.nav1 a {
+    color: #000;        
+}
+
+.nav1 a:hover {
+    color: #FF0;
+}
+
+/* end nav1 */
+
+/*start nav2 */
+
+.nav2 {
+    text-align: left;
+    margin-bottom: 20px;
+    float: right;
+}
+
+.nav2 ul {
+    font-weight: bold;
+    list-style: none;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav2 li {
+    display: block;
+    text-align: left;
+    padding-left: 300px;
+    text-decoration: none;
+    font-size: xx-large;
+    color: #000;
+    margin: 0 10px 0 10px;
+}
+
+.nav2 a {
+    color: #000;        
+}
+
+.nav2 a:hover {
+    color: #FF0;
+}
+
+/* end nav2 */

@@ -7,10 +7,10 @@
         <div class="keep-it-together">
             <div class="text-left-books"> 
                 <div class="header-left">
-                    <a href="novels.php"><span>N</span>ovels</a>
+                    <a href="novels-series.php"><span>N</span>ovels</a>
                 </div>
                 <div class="series-pic-books2">
-                    <a href="under-construction.php"><img src="../images/novels-654x500.jpg" width="654" height="500" alt="Novels Image" /></a>
+                    <a href="novels-series.php"><img src="../images/novels-654x500.jpg" width="654" height="500" alt="Novels Image" /></a>
                 </div>
             </div>  <!-- end text-left-books div -->
                 
@@ -28,7 +28,7 @@
     <!-- start of second tier of subjects -->
     <div class="books-page">
         <div class="keep-it-together">
-            <div class="text-left-books"> 
+            <div class="text-left-books-series"> 
                 <div class="header-left-essays">
                     <a href="under-construction.php"><span>E</span>ssays and <span>C</span>ollections</a>
                 </div>
