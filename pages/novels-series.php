@@ -15,7 +15,7 @@
             
         <div class="text-right-books-series">
             <div class="header-right-series">
-                <a href="under-construction.php"><span>S</span>eries 
+                <a href="under-construction.php"><span>S</span>eries &#40;excerpts&#41;
             </div>
             <div class="series-pic-books2-rt">
                 <a href="under-construction.php"><img src="../images/book-tree-402x500.jpg" width="402" height="500" alt="Series Image" /></a>
@@ -27,8 +27,9 @@
     <!-- start of text below images -->
     
     <!-- text below Novels image -->
-    <div class="keep-it-together">
-        <div class="text-left-books">
+    
+    <!--<div class="keep-it-together">-->
+        <div class="text-left-books-nav1">
             <div class="nav1">
                 <ul>
                     <li><a href="under-construction.php">True Lies</a></li>
@@ -38,21 +39,22 @@
                 </ul>
              </div> <!-- end of nav1 div -->
         </div> <!-- end text-left-books div -->
-    </div>  <!-- end of keep-it-together-80 div -->
+    <!-- </div> -->  <!-- end of keep-it-together-80 div -->
     
     <!-- start of text below Series image -->
-    <div class="keep-it-together">
+    
+    <!-- <div class="keep-it-together"> -->
         <div class="text-right-books">
             <div class="nav2">
                 <ul>
                     <li><a href="under-construction.php">Iftmus</a></li>
                     <li><a href="under-construction.php">Old Alyssia</a></li>
                     <li><a href="under-construction.php">The Ungodly Disciple</a></li>
-                    <li><a href="under-construction.php">The Ongoing Adventures of <br>Sholama & Jamalok</a></li>
+                    <li><a href="under-construction.php">The Ongoing Adventures of Sholama & Jamalok</a></li>
                 </ul>
              </div> <!-- end of nav1 div -->
         </div> <!-- end of text-right-books -->
-    </div>  <!-- end of keep-it-together div -->
+    <!-- </div>  <!-- end of keep-it-together div -->
 
  <?php
     include ('../shared/footer.html');            

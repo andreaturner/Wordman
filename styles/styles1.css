@@ -9,7 +9,6 @@
    font-size: 130%; 
 }
 
-
 #journal {
     font-family:'Lora', serif;
     font-size: large;
@@ -54,11 +53,11 @@
 .nav1 li {
     display: block;
     text-align: left;
-    padding-left: 300px;
+    padding-left: 10%;
     text-decoration: none;
-    font-size: xx-large;
+    font-size: x-large;
     color: #000;
-    margin: 0 10px 0 10px;
+    /*margin: 0 10px 0 10px;*/
 }
 
 .nav1 a {
@@ -77,6 +76,7 @@
     text-align: left;
     margin-bottom: 20px;
     float: right;
+    padding-right: 17%;
 }
 
 .nav2 ul {
@@ -89,11 +89,11 @@
 .nav2 li {
     display: block;
     text-align: left;
-    padding-left: 300px;
+    padding-left: 10%;
     text-decoration: none;
-    font-size: xx-large;
+    font-size: x-large;
     color: #000;
-    margin: 0 10px 0 10px;
+    /*margin: 0 10px 0 10px;*/
 }
 
 .nav2 a {

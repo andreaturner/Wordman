@@ -177,7 +177,7 @@ a:hover {
     font-weight: bold;
     text-align: right;
     font-family: "lucida calligraphy",arial,'sans serif';
-    padding-right: 450px;
+    padding-right: 20%;
     margin-bottom: 10px;
 }
 
@@ -521,21 +521,21 @@ a:hover {
     text-align: right;
     width: 45%;
     float: right;
-    padding-right: 50px;
+    padding-right: 5%;
 }
 
 .text-right-books-plays {
     text-align: right;
     width: 45%;
     float: right;
-     padding-right: 50px;
+    padding-right: 50px;
 }
 
 .text-right-books-series {
     text-align: right;
     /*width: 45%;*/
     float: right;
-    padding-right: 50px;
+    padding-right: 10%;
 }
 
 .text-left {
@@ -549,11 +549,18 @@ a:hover {
     padding-left: 50px;
 }
 
+.text-left-books-nav1 {
+    text-align: left;
+    width: 50%;
+    float: left;
+    /*padding-left: 30px;*/
+}
+
 .text-left-books-novels {
     text-align: left;
     width: 45%;
     float: left;
-    padding-left: 350px;
+    padding-left: 5%;
 }
 
 .text-center-sholama {
@@ -800,12 +807,13 @@ a:hover {
 .series-pic-books2-rt {
     text-align: right;
     float: right;
-    padding-right: 300px;
+    padding-right: 10%;
 }
 
 .series-pic-books2 {
     text-align: left;
     float: left;
+    padding-left: 10%;
 }
 
 .series-pic-tree {

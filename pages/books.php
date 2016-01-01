@@ -40,9 +40,10 @@
                     </li>
                     <li>Novels
                         <ul>
-                            <li>Portraits of My Spirit in Passing</li>
-                            <li>And There Isn't Any Magic Here Today</li>
-                            <li>Paintin&#39; &#40;The Color of Change&#41;</li>
+                            <li><a href="under-construction.php">True Lies</a></li>
+                            <li><a href="under-construction.php">Portraits of My Spirit in Passing</a></li>
+                            <li><a href="under-construction.php">And There Isn't Any Magic Here Today</a></li>
+                            <li><a href="under-construction.php">Paintin&#39; &#40;The Color of Change&#41;</a></li>
                         </ul>
                     </li>
                     <li>Short Stories
