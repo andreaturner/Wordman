@@ -20,7 +20,7 @@
             <div class="series-pic-books2-rt">
                 <a href="under-construction.php"><img src="../images/book-tree-402x500.jpg" width="402" height="500" alt="Series Image" /></a>
             </div>
-        </div> <!-- end text-right-books -->
+        </div> <!-- end text-right-books-series -->
     </div>  <!-- end keep-it-together div -->
     
     
