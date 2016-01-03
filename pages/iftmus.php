@@ -10,21 +10,19 @@
                 <span>I</span>ftmus
             </div>
 
-            <div class="photo-cover">
-                <img src="../images/iftmus-300x413.jpg" width="300" height="413" alt="Iftmus image">
+            <div class="series-pic-center">
+                <img src="../images/iftmus-cover-667x500.jpg" width="667" height="500" alt="Iftmus image">
             </div>
+            
+            <div class="header-excerpts">
+                <span>T</span>he <span>T</span>hree <span>W</span>orld <span>S</span>aga
+            </div>
+            
+            
                 
-                <div class="copyright">
-                    <p>
-                        &copy;, 2012, <span>E</span>ric <span>K</span>och / All Rights Reserved<br>
-                        603 SW 305th St.  Federal Way WA 98023<br>   
-                        Email: <a href="mailto:wordman1@hotmail.com">wordman1@hotmail.com</a><br>  
-                        (253) 569-8426 <span>&bull;</span>  (253) 569-1888  
-                    </p>
-                </div>
-            </div>
-        </div>    
-    </div>            
+                
+        </div> <!-- end content div -->
+                   
 
 <?php
     include ('../shared/footer.html');            

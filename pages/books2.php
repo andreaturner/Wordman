@@ -19,7 +19,7 @@
                     <a href="under-construction.php"><span>S</span>hort <span>S</span>tories
                 </div>
                 <div class="series-pic-books2-rt">
-                    <a href="sunder-construction.php"><img src="../images/short-stories-728x500.jpg" width="728" height="500" alt="Short Stories Image" /></a>
+                    <a href="novels-series.php"><img src="../images/short-stories-728x500.jpg" width="728" height="500" alt="Short Stories Image" /></a>
                 </div>
             </div> <!-- end text-right-books -->
         </div>  <!-- end keep-it-together div -->

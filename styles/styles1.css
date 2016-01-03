@@ -41,6 +41,7 @@
     text-align: left;
     margin-bottom: 20px;
     float: left;
+    padding-left: 20%;
 }
 
 .nav1 ul {
@@ -74,7 +75,7 @@
     text-align: left;
     margin-bottom: 20px;
     float: right;
-    padding-right: 0%;
+    padding-right: 7%;
 }
 
 .nav2 ul {
