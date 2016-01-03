@@ -47,7 +47,7 @@
         <div class="text-right-books">
             <div class="nav2">
                 <ul>
-                    <li><a href="under-construction.php">Iftmus</a></li>
+                    <li><a href="iftmus.php">Iftmus</a></li>
                     <li><a href="under-construction.php">Old Alyssia</a></li>
                     <li><a href="under-construction.php">The Ungodly Disciple</a></li>
                     <li><a href="under-construction.php">The Ongoing Adventures of Sholama & Jamalok</a></li>

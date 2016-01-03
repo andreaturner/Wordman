@@ -5,7 +5,7 @@
     <div class="content">
         <div class="book-series-summary">
             <div class="header">
-                Iftmus
+                <a href="iftmus.php">Iftmus</a>
             </div>
             <div class="small-header">
                 <a href="iftmus-book1.php">Book I&nbsp;&nbsp; Iftmus: Of Dreams Like Mist</a>
@@ -100,6 +100,10 @@
             <div class="read-more">
                 <a href="iftmus-book4.php">Read more!</a>
             </div>
+            
+            <div class="return-bottom">
+				<a href="iftmus.php">Return to Iftmus Home Page</a>
+			</div>
 
 
 

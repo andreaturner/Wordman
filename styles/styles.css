@@ -943,6 +943,21 @@ a:hover {
     width: 45%;
 }
 
+.series-text-iftmus-cover {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: center;
+    margin: auto;
+    overflow: auto;
+    padding-top: 15px;
+    width: 45%;
+}
+
+.series-text-iftmus-cover span {
+    font-size: 130%;   
+}
+
+
 .series-text-axtoph {
     font-family:'Lora', serif;
     font-size: large;
