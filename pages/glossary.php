@@ -8,152 +8,230 @@
 		</div>
 		
 		<div id="glossary">
-			<h3>There Is A New Dark God on Iftmus!</h3>
+			<h3 style="font-weight: bold;">Glossary of Characters</h3>
 				<div>
-					<p>
-						The once proud heritage of the Sa-bata cat, the first ruling breed in Iftmus, is now as good as forgotten; lost in the violent new reign
-						of the Li-horan and the elusive Pan-duran cat, as foretold in the prophecies of Ky-lor. <br><br>
-						This is a time where there is no honor, no rules; only deceit and cowardice that will shame the Spirit of Felis and all cat that have ever dwelt upon fair Iftmus.<br><br>
-						Sha-talon, the magic&#39;s of the long departed Abyssinian cat, are being perverted in their resurrection by the dark evil Pan-duran cat. Iftmus, the
-						living land, writhes in silent agony, trembling in the pain of its own desecration. Its tremors can be felt, even in the distant provinces, as ominous
-						firestorms sweep the sky over the Pri-hy Mountains in the ruling province of Pa-tan.<br><br>
-						Ky-lor, the once precious laws, histories and prophecies of Iftmus, are being relegated to cat lore.  This is the time of prophecy, the beginning of the end,
-						the herald to the coming of the Nakostoma &ldquo;The Outsiders&rdquo;. Three from Terra arrive and meet up with three from Axtoph. They in turn meet up with the three from Iftmus.
-						The Nakostoma are now a reality and as predicted, the final sign, the very worst of abominations has come to pass. Cat are drawing the deathblood of cat!					
-					</p>
 				</div>
-			<h3>There Is A New Dark God on Axtoph!</h3>
+					
+			<h3 style="font-weight: bold;">Glossary of Language</h3>
 				<div>
-					<p>
-						For the first time in recorded history, Elbron, the queen city of the Da-ton Empire is threatened. The Mingstaugh Goblia hordes have left their mountain holds
-						and gone beyond their usual annoying raids in the high passes. Possessed and driven by a demonic force, they have almost destroyed the entire race of Sanchean
-						Fayra in the Aleation Forests. Even the Denrus Trolya warriors, the powerful feared legion guard of the Elbron Council, pledged to protect the Fayras, have
-						been powerless against them.<br><br>
-						Whole race annihilation has begun, the like of which threatens to overshadow the Two Span War that decimated the Elvon Race.<br><br>
-						Along with the rumored existence of a new mad god, there is now an unexpected force among the dead. Elvon warlords and their dragons have returned to Axtoph
-						to find their whole race decimated in a past war. Armed with the Willaward, as predicted by the book of Tashon, they now lead a vengeful army of spirits, bent on the
-						destruction of all who participated in the extinction of their race. Suddenly there are so many allies for the cause of chaos. For the first time in recorded history,
-						this last bastion of the mage world appears to be little more than helpless.
-					</p>
 				</div>
-			<h3>There Is A New Dark God on Terra!</h3>
+			<h3 style="font-weight: bold;">Glossary of Animals &amp; Plant Life</h3>
 				<div>
-					<p>
-						The end is actually the beginning. An ever-growing, perverted cult of Shinghaut priests have inherited new powers that rival the old gods of Babylon and Egypt.
-						While establishing their fanatic, religious order and reinitiating blood sacrifice, some of these priests have traversed to Iftmus and trained the Pan-duran cat
-						in a twisted new version of Sha-talon, the old magic&#39;s. More have gone to Axtoph and have raised the race of Mingstaugh Goblia up to demon status.<br><br>
-						Meanwhile their bloody zealous cult on earth threatens to overthrow two aging Empires. Out of the ashes of Babylon and Egypt, they seek to create a new order that
-						would crush the newly emerging, civilized world while ushering in a new dark age. Due to their very actions, a pending alternate history might very well show that
-						here in this time, the Persian Empire was halted and brought to its knees. Never will the Alexandrian Empire ever extend to a portion of its destined glory.<br><br>
-						Now there are three worlds woven together by a new, evil thread of blood, death and chaos. The Shinghaut Priests have set in motion a change of history on all three
-						worlds that will herald the end of times and the coming of the mad god Baushra&#39;!
-					</p>
-				</div>
-			<h3>There Is A New Dark God!</h3>
-				<div>
-					<p>
-						Baushra&#39; is the name of the mad god worshipped on Terra by the Shinghaut, a name that is the anti-thesis of the creative force. Known on Iftmus as Mauca-taun
-						and on Axtoph as &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. Once merely a part of the balance of creation and life, Baushra&#39; has separated itself and seeks to become
-						its own entity by first overpowering the balance on these three worlds. It has sought out and found it&#39;s worldly hosts and is using them to spread the imbalance.
-						The younger god, malevolent, yet with purpose, is an unchecked disease whose only goal is to change the balance of creation.<br><br>
-						Its only desire is to defile all that has been created and unmake everything to its own likeness, chaos and darkness. By doing so, Baushra&#39; gathers sustenance in
-						the physical world and that manifestation will be the body of the new god that revels in all the misery therein!
-					</p>
-				</div>
-			<h3>There Is Prophecy!</h3>
-				<div>
-					<p>
-						The end of time is in motion. The beginning of the end will be marked by the joining of &ldquo;three from three worlds&rdquo;.<br><br>
-						On Terra, Aumerabi Istaer, the mad Shinghaut priest speaks directly to his god and is writing his own prophecies.<br><br>
-						On Axtoph the Book of Tashon speaks of a day when despite losing a war, the Willaward will open a door and the wrath of the decimated Elvon race will manifest itself as
-						a new god of wrath.<br><br>
-						On Iftmus it is spoken in Ky-lor that the worst of abominations shall herald the end times. Cat shall draw the death blood of cat.<br><br>
-						Then, three from three worlds, the nine shall come together. One from each world shall have the magic&#39;s; one from each shall be the warrior; and one from each shall be
-						the healer. It is said &ldquo;&#46;&#46;&#46;they will not only challenge the old, but they will destroy the new; crushing the dreams of three worlds and bringing pain even
-						unto their own souls. They will gather among them the strong and the weak and will bring life and death to friend and foe alike.&rdquo; Despite the tears that shall accompany them,
-						there is one among them who will be the only hope, when the land and all that live upon it, the skies, the universe and it&#39;s many worlds, indeed when the very gods themselves go to war!
-					</p>
-				</div>
-			<h3>There Is Christopher,</h3>
-				<div>
-					<p>
-						A troubled seventeen-year-old boy fighting epilepsy and a bitter past, a tragic blend of power and a curse that seems to constantly haunt and stalk him. Of the nine he is <span class="italic">the
-						magic from Terra</span>.  For all the power he may discover and wield, his&#46;&#46;&#46;is destined to be a terrible and uncontrolled force. He has come under the scrutiny of the
-						dark god and has been named an apt disciple. It was the boys early found ability to walk the roads of his mind that robbed him of his childhood. Now those old roads and
-						new ones forced upon him, could end up stealing what little future might have been left. There are those who say his only destiny is to sit at the right hand of the mad god Baushra&#39;!
-					</p>
-				</div>
-			<h3>There Is Joshua</h3>
-				<div>
-					<p>
-						Christopher&#39;s&#39; five-year-old brother whose only desire is to be a five year old and play, simply enjoying the moment. Of the nine he is <span class="italic">the healer from Terra</span>. The price
-						he will pay for that title will steal his innocence. It is said, &ldquo;Only as a child may one walk among the gods.&rdquo; Without innocence there can be no child. Bereft of one
-						he can claim none. His life is forfeit if those around him cannot determine why this little boys &ldquo;innocence lost&rdquo; might be a greater weapon and more precious than life!
-					</p>
-				</div>
-			<h3>There Is Nage</h3>
-				<div>
-					<p>
-						A sharp tongued sarcastic cat whose bloodlines trace back to the roots of the magic he doesn't even believe in. Of the nine he is <span class="italic">the magic from Iftmus</span>. He is the answer and
-						key to a long fabled race of Abyssinian cat that vanished around the age of the perverting of Sha-talon, the lost arts. Neither he nor those who still remain, realize that Nage
-						is the one cat that should be feared by all cat in Iftmus. Those who are an integral part of his power, know it not and therefore cannot speak. Too many are predisposed to make
-						sure the hidden secret remains that way. Before Nage can look for answers he must learn to believe in the questions. If his heritage and prophecy don't get him killed, his
-						doubts and caustic sense of humor just might!
-					</p>
-				</div>
-			<h3>There Is Samone</h3>
-				<div>
-					<p>
-						The secretive, moody, old Dwarif Mage, who would rather spend his time drinking in an outland inn than be off on any errand or mission.  Even if the gods themselves commissioned
-						him to do so, he would choose to argue.  Of the nine he is <span class="italic">the magic from Axtoph</span>. Despite his drinking and sour moods he is still one of the most respected and powerful wizards
-						on his world. Blurring that greatness is guilt. He has thrown away his soul and forsaken his heritage to be rid of the secret that ever haunts him. Buried in his need to escape,
-						is a story so far sweeping and devastating&#46;&#46;&#46; he would willingly chose to die, rather than face his, obvious, role in it!
-					</p>
-				</div>
-			<h3>There Is Lere&#39;yll</h3>
-				<div>
-					<p>
-						Possibly the sole surviving Sanchean Fayra of her whole race. Of the nine she is <span class="italic">the healer from Axtoph</span>. Healer is a contradictive title for one who has been forcibly separated
-						from her gods and the living trees she was bonded with. The forests are burning and the trees destroyed. Lere&#39;yll has been bonded to many to preserve her life for she is the
-						queen of her race. Her faith has been shaken and a foreign anger kindled. She feels abandoned by her gods; a helpless victim to the myriad ages of every tree her spirit touches.
-						One day a child, the next a seductive woman; maybe the next, an ill-tempered crone, none of whom can seem to heal her own aching soul!
-					</p>
-				</div>
-			<h3>There Is Chaltak&#39;</h3>
-				<div>
-					<p>
-						Of the nine he is <span class="italic">the warrior from Axtoph</span>.  His honor and duty are his pride and his life. Now they have been shaken to the very core. The giant Denrus Trolya, legendary
-						warriors sworn to protect the Sanchean Fayra race and yet&#46;&#46;&#46; they have failed most miserably in what should have been, for them, a simple task. The Sanchean Fayras are being 
-						decimated and when last he saw, his own warriors defeated. There is no precedent for this. The Denrus Trolya have never been defeated nor even threatened. Chaltak&#39; is a
-						warrior most fearsome; a warrior most effective, if&#46;&#46;&#46; this warrior thought he still had the right to live!
-					</p>
-				</div>
-			<h3>There Is Etoshia</h3>
-				<div>
-					<p>
-						The haunting renegade priestess who poses her own quandaries!  Of the nine she is <span class="italic">the warrior from Terra</span>. She is not from Iftmus but has attained a
-						status among many cat and even spoken of in prophecy. Beneath the mountains on the Grasswater she dwells in secret with the Ch&#39;aun, the outcast mixed breed cats of Iftmus, shunned
-						and persecuted by all purebred cat. She herself might be called an outcast. She was once a member of the Shinghaut cult, the very core of the evil destroying the three worlds.
-						She now claims she has switched sides!
-					</p>
-				</div>
-			<h3>There Is Ja-bota Cha-tain</h3>
-				<div>
-					<p>
-						A bitter Cha-tain cat from the Grasswater who has broken his vow of generations of separation from all other cats, out of the need to avenge the deaths of his mate and cubs. Of the nine
-						he is <span class="italic">the warrior from Iftmus</span>. A wise and spiritual cat who is suddenly ripped down to the most basic emotions.  &ldquo;The spirit always battles the flesh&#46;&#46;&#46;&rdquo; he
-						has been quoted as saying, but compound the flesh with family lost and what chance does the spirit stand?  The anger and hatred he nurses have created his own insanity, making him as
-						to his allies as the enemy they must fight!
-					</p>
-				</div>
-			<h3>There Is Fa-tera</h3>
-				<div>
-					<p>
-						The old, &ldquo;Teacher&rdquo; cat. Of the nine she is the healer from Iftmus. She has witnessed a time of change; a time of contradiction. Like a lover unwilling to see the
-						betrayal, she merely says she is beyond her time of usefulness, too tired and with little else to offer. In her own words, &ldquo;&#46;&#46;&#46;life should be left to the young.&rdquo;  Prophecy and
-						bloodline argue her view. Surely she has not outlived her usefulness nor importance, for if so, why would there be so many who are working so hard to see to this cat&#39;s demise?
-					</p>
-				</div>
+					<dl>
+						<dt style="font-weight: bold;">Abyssinian Cat</dt>
+						<dd>
+							<span class="italic">(Ab-ah-sin-ee-an)</span> This cat was of the smaller breeds, small boned and sleek. Born in the area that would later become the province of
+							La-mor they were the first to control and treat Sha-talon, the magic&#39;s of Iftmus, as an art.   They separated themselves from all other
+							cats to reside at Greensun and it was then that the Cha-tain cat closed off the larger portion of the Grasswater and allowed no other cat
+							to trespass it. Since then, little more is known about the Abyssinians. The last entry into Kylor of their disappearance was the fact that
+							they totally vanished almost within a single Sunfall with no message nor explanation. The Cha-tain make no comment of it other than to
+							affirm the Abyssinians are indeed gone.
+						</dd>
+						<dt style="font-weight: bold;">Acca Trees</dt>
+						<dd>
+							A Birch like tree that sheds it&#39;s white bark twice a season.  When chewed during religious festivals on Iftmus, cats use the hallucinogenic
+							properties of the bark to meditate and commune with the Spirit of Felis.
+						</dd>
+						<dt style="font-weight: bold;">Araupaso</dt>
+						<dd>
+							<span class="italic">(Ah-rap-ah-sue)</span> A breed of horse on Axtoph existing only on the Northland Plains. The Northland Mercenaries lay sole claim to the horse
+							and protect that religiously.  An Araupaso, is known for its strength and endurance and it&#39;s longevity, living for thirty to forty spans.
+							Unknown to all but the Northland Mercenaries the Araupaso possesses the ability to communicate within its own breed making it a sentient life
+							form. This is not an animal that is owned. If any are allowed to ride one, it is only by consent of the horse.
+						</dd>
+						<dt style="font-weight: bold;">Chafi&#39;</dt>
+						<dd>
+							<span class="italic">(Chafee)</span> A high protein sugar melon believed to have been cultivated within the confines of Greensun and presently flourishing in the lo-hils
+							of both the Pri-hy and Saber-sha Mountains in Iftmus.
+						</dd>
+						<dt style="font-weight: bold;">Ch&#39;aun</dt>
+						<dd>
+							<span class="italic">(Chawn)</span> Those cat on Iftmus of mixed blood resulting from to unaccepted cross breeding. These cats have no status and are allowed no
+							title nor name other than to be called a Ch&#39;aun. Treated as misfits in Iftmus they either die from the lack of belonging to a pride or flee to the Grasswater seeking
+							the fabled sanctuary, Greensun. 
+						</dd>
+						<dt style="font-weight: bold;">Cha-tain Cat</dt>
+						<dd>
+							<span class="italic">(Cha-tang)</span> Much like the Cheetah in speed this larger, pure white cat has long flowing fur that blows like the tall grass they hunt in.
+							They are the only breed of cat living on the Grasswater of Iftmus and are rumored to have once served the Abyssinian cat. They tolerate no other cat in their domain
+							though many believe that they now allow the Ch&#39;aun cat, sanctuary through the Grasswater to seek and find refuge at Greensun. Due to their isolation little more is
+							known about them. The Shi-kauti that bring Ky-lor to the Cha-tain are strangely quiet about any of their secrets and ways.
+						</dd>
+						<dt style="font-weight: bold;">Gindoo</dt>
+						<dd>
+							<span class="italic">(G-in-dew)</span> Small apelike creatures on Iftmus on the level of a domestic pet or slave. The Gindoo have a limited understanding of basic
+							mind commands but do not communicate back themselves. They are docile and used by most cat for simple chores that require the extra limbs for carrying or lifting.
+						</dd>
+						<dt style="font-weight: bold;">Gragmue</dt> 
+						<dd>
+							<span class="italic">(G-rag-mew)</span> Deer size mountain goats living on the slopes of both the Pri-hy mountains in Pa-tan and the Saber-wa mountains on the
+							Grasswater. Their musical trill as they climb the mountains is said, in catlore, to be a song of praise between life and the living land.
+						</dd>
+						<dt style="font-weight: bold;">Harkensong</dt> 
+						<dd>
+							A large flamingo type bird on Iftmus that keeps to the air unless nesting in the high cliff areas. It sings to its mate in flight and for the most part is nocturnal.
+							It&#39;s song has created catlore that says &ldquo;The wandering bird,  carrying it&#39;s lament across the lonely night skies shall remind all cat to listen to the land, for
+							Iftmus speaks even when none might hear&rdquo;. A lesser-known proverb calls it &ldquo;the voice of all cats that have died violently crying out for home&rdquo;.
+						</dd>
+						<dt style="font-weight: bold;">Jum-Hopper</dt> 
+						<dd>
+							On Iftmus this is a gray and white stripped creature about three feet tall, very affectionate but deadly with it&#39;s front short paws. It can jump high or long but cannot
+							keep that pace for any length of time. Another major food source for the cats.
+						</dd>
+						<dt style="font-weight: bold;">Ka-tem</dt> 
+						<dd>
+							A breed of cat much like a mountain lion but vaguely reminiscent of a small version of the Saber tooth cats who first ruled Iftmus, probably due more to the small fangs that
+							protrude outside the lips from the lower jaw than any other physical characteristic.
+						</dd>
+						<dt style="font-weight: bold;">Las&#39;trea</dt> 
+						<dd>
+							<span class="italic">(Lass-tree-ah)</span> A bird, turkey size whose wings cannot support the body for flight. Instead they help it run faster taking leaps. Abundant in the
+							more open areas along the Tears of Rensis.
+						</dd>
+						<dt style="font-weight: bold;">Li-Horan Cat</dt> 
+						<dd>
+							<span class="italic">(La-hore-ann)</span> This lion-like breed has been the ruling cat in Iftmus since the passing on of the Sa-bata cat as a race. It was during the
+							latter part of their rule that cat began drawn the deathblood of cat. The strength of their rule, even in the face of such abomination is that they are supported by
+							the Ti-breen cat, another larger cat more militia minded, but more important, the Pan-duran cat with their magic&#39;s. Since the Cha-tain keep to their Grasswater and
+							have no active interest in the politics of Iftmus, there is none to challenge the Li-horan rule.
+						</dd>
+						<dt style="font-weight: bold;">Lich&#39; Moss</dt> 
+						<dd>
+							<span class="italic">(Like-Moss)</span> A soft yellow green carpet type found mostly in the province of La-mor on Iftmus.  An evergreen with the exception of a short period
+							when it germinates and has much the same stimulating effect as a mild catnip.
+						</dd>
+						<dt style="font-weight: bold;">Mayka</dt> 
+						<dd>
+							Rabbit like creature on Axtoph. Digs sand traps to capture and suffocate it&#39;s prey.
+						</dd>
+						<dt style="font-weight: bold;">Masuin&#39;wahle</dt> 
+						<dd>
+							<span class="italic">(Ma-soo-in-whale)</span> Breed name of the Syran ocean race on Axtoph. They keep to themselves allied only once in history through Samone to aid in the Elvon wars.
+						</dd>
+						<dt style="font-weight: bold;">Mingstaugh Goblia</dt> 
+						<dd>
+							<span class="italic">(Ming-st-how Go-blee-ah)</span> Named after the mountains they live in on Axtoph, these are barbaric tribes of half human half apelike creatures that  divided
+							into squabbling tribes whose inner conflicts have always kept them from being any threat to other races. Extremely vicious and cannibalistic by nature. They are by virtue of
+							numbers, if ever organized, a force to be reckoned with.
+						</dd>
+						<dt style="font-weight: bold;">Mud-Waump</dt> 
+						<dd>
+							<span class="italic">(Mud Wamp)</span> This animal resides in all three provinces of Iftmus.  Makes its home around the lakes and swamps.  It is three times the size of a beaver and
+							deadly if approached in the water.  Outside of the water it is totally helpless and another food source for the cats.
+						</dd>
+						<dt style="font-weight: bold;">Nashanti</dt> 
+						<dd>
+							<span class="italic">(Nah-shaun-tay)</span> Religious fanatics on Iftmus made up of various breeds of cat that reside at Fina&#39;sha the center falls at the border of all three
+							provinces.  Their sect believe that the original Saber cat, the Sa-bata will come back to save Iftmus and hold to the belief that any cat, not of pure blood, is an abomination to
+							the spirit of Felis.
+						</dd>
+						<dt style="font-weight: bold;">Northlands Mercenaries</dt> 
+						<dd>
+							The largest settlements of humans on Axtoph that due to persecution from many of the other races has developed and honed their fighting and riding skills to legendary proportions.
+							Divided into seven tribes they are their own nation and ally themselves most often to the Da-ton&#39; Empire. Most races leave humans alone, if only out of fear of reprisal from
+							these warriors.
+						</dd>
+						<dt style="font-weight: bold;">Pacha&#39;si</dt> 
+						<dd>
+							<span class="italic">(Pa-chah-sa)</span> Race of aborigine type people inhabiting Iftmus without most cats knowledge. They were stranded when the boundaries of Maka-shu,
+							(Whisper of Dead), were set up by the Sa-bata cat.
+						</dd>
+						<dt style="font-weight: bold;">Pan-duran Cat</dt> 
+						<dd>
+							<span class="italic">(Pan-dur-in)</span> This cat would most resemble a black panther though larger and more shaggy. They claim to be legitimate heirs to "Sha-talon" on
+							Iftmus and barely tolerate all other breeds, including the now ruling Li-horan cat.  Their perversion of the original Sha-talon is noted but not spoken of openly by most cat.
+							They have withdrawn themselves to a citadel called Amas&#39;ka in the Pri-hy Mountains in the province of Pa-tan. No cat is allowed there and few have ever returned if summoned.
+							It is the one place besides Greensun, in Iftmus, that bars even the Shi-kauti from entering.
+						</dd>
+						<dt style="font-weight: bold;">Photoke</dt> 
+						<dd>
+							<span class="italic">(Fo-toke)</span> Plant vine that grows on Axtoph  similar to Tem-bata on Iftmus used to control seizures.
+						</dd>
+						<dt style="font-weight: bold;">Pinesca</dt> 
+						<dd>
+							<span class="italic">(P-ness-ka)</span> A yellow green snake growing often to twenty or thirty feet in length and over a foot in diameter. It lays its eggs in the
+							shallow water regions of the lakes on Iftmus.  Fast in the water it is more than slow moving on land, crushing its victim and then injecting it with a venom that decomposes its
+							flesh. This makes the prey deadly and offensive to other animals while allowing the snake to leave it and come back later at its leisure to eat.
+						</dd>
+						<dt style="font-weight: bold;">Purocia</dt> 
+						<dd>
+							<span class="italic">(Purr-row-see-ah)</span> Related to the small chimpanzee like Gindoo on Iftmus, these ferocious cousins are five feet of muscle with violent tempers and are
+							carnivorous. They dwell in the forests of Pa-tan of Iftmus.
+						</dd>
+						<dt style="font-weight: bold;">Rakatoos</dt> 
+						<dd>
+							<span class="italic">(Rack-a-twos)</span> Small antelope type creatures with large ears and white speckled feather-fur. Lives in abundance on the Grasswater of Iftmus and its outer regions.
+							Is hunted by the larger cats as the main source of food supply.
+						</dd>
+						<dt style="font-weight: bold;">Sa-bata Cat</dt> 
+						<dd>
+							<span class="italic">(Sa-bought-a)</span> This sabertooth cat was the mother of the race and the first ruling cat in Iftmus. It was the Sa-bata cat that received the gift of Ky-lor and
+							touched upon the first powers of "Sha-talon". All breeds owe allegiance and honor this cat, though in recent times it has slipped into more catlore than history.
+						</dd>
+						<dt style="font-weight: bold;">Sanchean Fayra</dt> 
+						<dd>
+							<span class="italic">(San-chee-an Fey&#39;ra)</span> These Fayra have bonded with the oldest trees in the Aleation Forests on Axtoph and represent the living tie with the land.
+							Conservative estimates place the race over ten thousand spans old each generation living at least five hundred spans. Ageless and mischievous they have always been the most peaceful of
+							the races.
+						</dd>
+						<dt style="font-weight: bold;">Senku Dwarifs</dt> 
+						<dd>
+							<span class="italic">(Cen-cue Dwarifs)</span> The Dwarifs race dwelling in the mountains.
+						</dd>
+						<dt style="font-weight: bold;">Sh&#39;pata Root</dt> 
+						<dd>
+							<span class="italic">(Sha-pa-ta)</span> Water bearing root in Greensun that stores as well as enriches the nutrients of drinking water.
+						</dd>
+						<dt style="font-weight: bold;">Stank Flies</dt> 
+						<dd>
+							A large breed of fly attracted mainly to carrion and the biggest source of pestilence and disease on Axtoph.  The difference between them and the more common horse flies lay not only in their size
+							but their ability to attack as an organized swarm.
+						</dd>
+						<dt style="font-weight: bold;">Tanka Root</dt> 
+						<dd>
+							<span class="italic">(Tang-kah)</span> A root harvested by the Sanchean Fayra on Axtoph that is their confectionery substitute for sweets. Its facsimile on Iftmus has similar taste and texture but
+							is slightly more addictive than true tanka.
+						</dd>
+						<dt style="font-weight: bold;">Tembata Leaf</dt> 
+						<dd>
+							<span class="italic">(Tem-baa-ta)</span> Grows on Iftmus and when mixed with wine increases flow of chloride ions, stabilizing nerve cells; thereby suppressing Epileptic Seizures.
+						</dd>
+						<dt style="font-weight: bold;">Thornthistle</dt> 
+						<dd>
+							Scrub brush with barbed stickers that grows quickly and profusely in all lowland areas of Iftmus.  Because of the nature of its sap, it burns very slowly and bright.  Used by most cat for night
+							fires.  Harvested by Gindoo.
+						</dd>
+						<dt style="font-weight: bold;">Ti-breen Cat</dt> 
+						<dd>
+							The large white tiger-like cats that serve the Li-horan and Pan-duran cats on Iftmus. They are not noted for their wit or wisdom but are ferocious fighters and military minded in their
+							loyalty with a need to be led.
+						</dd>
+						<dt style="font-weight: bold;">Wachiwood</dt> 
+						<dd>
+							<span class="italic">(Watch-a-wood)</span> A rare white hardwood found only in the lowland forests in the province of Tasqua on Axtoph. Used in the past by Elvon artists like marble, to make sculptures
+							that, by virtue of the unique wood grain, creates a shimmering and the look of movement.
+						</dd>
+						<dt style="font-weight: bold;">Windtalkers</dt> 
+						<dd>Trees common to the province of La-mor in Iftmus. Profuse around the Takinta Glade near Pursong these trees produce leaves that have stiff spines. When they rub together in the wind the leaves produce
+							a sound that resembles the mewing of a newborn kitten.
+						</dd>
+						<dt style="font-weight: bold;">Wood-wars</dt> 
+						<dd>
+							A large bristle-furred animal on Iftmus, resembling a cross between a wild boar and a small wolf; a carrion hunter that usually stays to the forest. It hunts in packs and when frenzied has been known
+							to bring down several Ti-breen cats. For the most part it hunts smaller animals or sick or separated cat, mostly at night.
+						</dd>
+						<dt style="font-weight: bold;">Wraita</dt> 
+						<dd>
+							<span class="italic">(Wry-tah)</span> A four winged bird the nests in the lo-hill of both mountain ranges in Iftmus and flies and hunts insects and rodents on the Grasswater. The bird is ungainly on
+							the ground requiring much runway to accommodate the four wings and for that reason is hunted for food by cat.
+						</dd>
+					</dl>
+				</div> <!-- end animals and plant life div -->
+				
+			
+				
+			
+					
 				
 		</div> <!-- glossary div end tag -->
 	</div> <!-- content div end tag -->

@@ -11,9 +11,9 @@ html, body {
     font-size: larger;
     color: #000;
     font-family:'Lora', serif;
-    background-image: url("../images/brushedsteel5.jpg");
+    /*background-image: url("../images/brushedsteel5.jpg");*/
     background-color: #eee;
-    background-repeat: repeat-y;
+    /*background-repeat: repeat-y;*/
     margin:0;
 	padding:0;
 	height:100%;
@@ -45,6 +45,14 @@ html, body {
 .content {
    overflow: auto;
    padding-bottom: 20px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd span {
+    font-style: italic;
 }
 
 .keep-it-together {
@@ -291,7 +299,7 @@ a:hover {
 
 .eric-koch {
     font-size: 225%;
-    font-weight: bold;
+    font-weight: normal;
     text-align: center;
     font-family: 'VivaldiD';
     margin-bottom: 10px; 
