@@ -1,5 +1,14 @@
 /* appearance styles */
 
+.cd-top.cd-is-visible {
+  /* the button becomes visible */
+  visibility: visible;
+  opacity: 1;
+}
+.cd-top.cd-fade-out {
+  /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+  opacity: .5;
+}
 .entry-signature{
     font-family: 'VivaldiD';
     float: right;
@@ -27,6 +36,15 @@
     height: auto;
     text-align: left;
     margin: 0 auto;
+}
+
+#top a {
+    color: #4863A0;
+    padding-left: 5%;
+}
+
+#top a:hover {
+    color: #000080;
 }
 
 .entry-footer {
@@ -148,7 +166,6 @@
 }
 
 /* end nav3 */
-
 
 
 

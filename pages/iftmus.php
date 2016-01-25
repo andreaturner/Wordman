@@ -2,7 +2,6 @@
     $page_title = 'Iftmus';
     include ('../shared/header.html');
 ?> 
-    
     <div class="content">
 
         <div class="header">
@@ -14,13 +13,53 @@
         </div>
         
         <div class="keep-it-together">
-                
+            <div class="series-text-book-iftmus">
+            <span class="large">P</span>rophecy is fulfilled as nine reluctant heroes come together, three from each of the threatened worlds, Iftmus, Axtoph and Terra. Baushra&#39;,
+            the anti-thesis of the creative force has found its&#39; host disciples in the Shinghaut priest of the late Babylon. They in turn have passed
+            their deadly gifts on to thier new pawns on each of the three worlds. Now Iftmus, the land cats are in their death throes as the newly perverted
+            magics of Sha-talon twist and pervert the balance of Flow.
+        </div>
+        <div class="series-text-book-iftmus">
+            <span class="large">T</span>he nine comrades are pursued from the moment the first six of them come together on Iftmus. As they flee, they meet with the last remaining three
+            and piece together some of the related prophesies. Since their own worlds are threatened as well, they are forced by events to set off in search
+            of Greenstone, the corridor between all three worlds.
+        </div>
+        <div class="series-text-book-iftmus">
+            <span class="large">W</span>ithin that quest they must not only discover the powers of Greenstone but also unravel the truth behind the long vanished race of Abyssinian cat
+            who possessed the magics before the Panduran cat claimed thier new twisted version. It is here that one of the heroes must bury the demon of his own madness
+            lest it betray his true motives. Another must do battle with race and age prejudices before they can even begin to confront the true enemy. A third must
+            die and lose all innocence, if others are ever to be granted a chance at any type of life.
+        </div>
+        <div class="series-text-book-iftmus">
+            <span class="large">G</span>reenstone is a religious artifact, rumored to be hidden in an area of Iftmus known as Fina&#39;sha Falls where the tri-rivers meet and tumble
+            into a bottomless abyss. Fina&#39;sha Falls, a holy place, inhabited by the Nashanti, a large religious cult of fanatical purebred cat who will kill or
+            be killed before letting these sacred grounds, the symbol of their heritage, be desicrated by outsiders or any noname Ch&#39;aun cat.
+        </div>
+            <div class="series-text-book-iftmus">
+            <span class="large">T</span>he group&#39;s continuing quest finally forces them to enter the heart of the evil. They must make thier way beneath the firestorms that
+            sweep the sky in Pa-tan, and enter the forbidden fortress of Amas&#39;ka. There is a traitor in thier ranks and there is death among their own.
+        </div>
+            <div class="series-text-book-iftmus">
+            <span class="large">W</span>hy would a god and its disciple priests, who have already affected their plans, without hinderance, and run over all oppositon
+            on three worlds, fear them? For if indeed they do, the answer is not forthcoming since everything the group discovers only alludes to the horrors of their
+            own impending doom and the bleak fates of the worlds they came from!
+        </div>
+            
+        </div> <!-- end top keep-it-together div -->
+        
+        <div class="keep-it-together">
+            
+              
             <div class="header-excerpts">
-                <a href="glossary.php">Glossary</a>
+                Glossary
             </div>
+            
         <div id="glossary">
+            
 			<h3 style="font-weight: bold;">Glossary of Characters</h3>
 				<div>
+                     <a name="top"></a> 
+                    <h1>A</h1>
                     <dl>
                        <dt>Abe Somon</dt>
                             <dd>
@@ -69,6 +108,12 @@
                                 perversion of Sha-talon, the magic&#39;s. Now those twisted magic&#39;s are destroying Flow and the living land and setting the stage for the coming of Baushra&#39; to that
                                 dimensional plane as a god incarnate.
                             </dd>
+                            <br>
+                         
+                        <a href="#top">Back to Top</a>
+                          
+                           
+                        <H1>B</H1>
                         <dt>Bakala Achaemed.</dt>
                             <dd>
                                 <span>(Boc-ah-law Ach-mead)</span> The Shinghaut priest along with Mithra Ardashir, in charge of the mission on Axtoph.
@@ -87,11 +132,136 @@
                                 <span>(Baush-rah)</span> In the balance of all nature Chaos decides to remove itself from that balance. It is one of the younger gods the Shinghaut priests
                                 worship and call Baushra&#39;. On Axtoph he is known as Apheta Tukan. On Iftmus, Mauca-taun.
                             </dd>
+                            
                         <dt>Chaltak&#39;</dt>
                             <dd>
                                 <span>(Chall-talk)</span> Second Toma to the third division of The Council Legion.  A Denrus Trolya Warrior sworn to protect the Sanchean Fayra and personally
                                 bound to Lere'yll their queen. The &ldquo;warrior&rdquo; from the second world Axtoph, fulfilling and taking his place among the prophesied nine.
                             </dd>
+                        <dt>Che-kaw</dt>
+                            <dd>
+                                <span>(Cha-kah)</span> Present day Shi-kauti on Iftmus, Lingst cat from the Province of La-mor.
+                            </dd>
+                        <dt>Chikoma</dt>
+                            <dd>
+                                <span>(Sha-come-ah)</span> The name given by the Pacha&#39;si to the elemental force of water, one of the younger gods.
+                            </dd>
+                        <dt>Christopher</dt>
+                            <dd>
+                                 An eighteen-year-old boy just learning the powers he possess.  The &ldquo;magic&#39;s&rdquo; from the third world Terra fulfilling and taking his place among the prophesied nine.
+                            </dd>
+                            <br>
+                            <a href="#top">Back to Top</a>
+                            <br><br>
+                        <dt>Dous&#39; Maudra La&#39;Moso</dt>
+                            <dd>
+                                 <span>(Dos-Maud-ray-La-Mow-So)</span> Second to Mauldren. Liaison between the Warlord and the Generals of each tribe of the Northland Mercenaries.
+                            </dd>
+                        <dt>Emit&#39; By-Char</dt>
+                            <dd>
+                                 <span>(Etna-Bi-Char)</span> Healer in the Court of Elbron on Axtoph. The art of healing has been passed down through her family since the First Mage ever to rule from the three
+                                 towers on Axtoph.
+                            </dd>
+                        <dt>Etoshia</dt>
+                            <dd>
+                                 <span>(E-toe-sha)</span> A runaway acolyte of the Shinghaut priests who was taken to the mountains of the Grasswater to Green-sun by the Abyssinian Cats. There, never seen
+                                 by even the Cha-tain Cats who dwell on the Grasswater, she gathers to her all No-name cats that flee to this fabled sanctuary. The &ldquuo;warrior&rdquo; from the third world Terra,
+                                 fulfilling and taking her place among the prophesied nine.
+                            </dd>
+                        <dt>Etue Bonfir of the Tashon Tribe</dt>
+                            <dd>
+                                 <span>(Et-two Bon-fur)</span> The Elvon Wizard who designed and created The Willaward.  He was the last known surviving Elv and legend says the last soul to enter the talisman of The
+                                 Willaward. History names him a traitor to the Elbron Council who set in motion the Helgstrum Siege, which ultimately destroyed his whole race.
+                            </dd>
+                        <dt>Fa-sinto</dt>
+                            <dd>
+                                 <span>(Fa-sin-toe)</span> Teacher of the Shi-kauti at Sefttora on Iftmus when Fa-tera was brought there to be trained to take his place.  It was he who found Fa-tera and discovered
+                                 her gift, bringing her to the Abyssinians attention.
+                            </dd>
+                        <dt>Fa-tera</dt>
+                            <dd>
+                                 <span>(Fa-tear-a)</span> A No-name cat and the last Teacher in the end times to train The Shi-kauti in preserving Ky-lor, the histories, the laws and the lore of Iftmus. The
+                                 &ldquo;peacemaker&rdquo; from the first world Iftmus, fulfilling and taking her place among the chosen nine.
+                            </dd>
+                            
+                        <a href="#top">Back to Top</a>
+                            
+                        <dt>Gamill Jamasta</dt>
+                            <dd>
+                                 <span>(Ju-mill)</span> The Shinghaut priest along with Arutapha Emtu in charge of the mission on Iftmus.
+                            </dd>
+                        <dt>Goston</dt>
+                            <dd>
+                                 &ldquo;The Slayer of Evil&rdquo; Name given to the leader of underground resistance battling the Shinghaut religion in Babylon on Terra.
+                            </dd>
+                        <dt>Hestra</dt>
+                            <dd>
+                                 <span>(Hess-tra)</span> An Abyssinian cat.
+                            </dd>
+                        <dt>Hestr&#39;yn</dt>
+                            <dd>
+                                 <span>(Hss&#39;turn)</span> First mate to Lere&#39;yll. Killed by dragon hunters.
+                            </dd>
+                        <dt>Illio</dt>
+                            <dd>
+                                 <span>(Ill ee-oh)</span> Orphaned dragon adopted by the thieves guild on Axtoph as mascot.
+                            </dd>
+                        <dt>Ja-bota Cha-tain</dt>
+                            <dd>
+                                 <span>(Ju-bow-ta)</span> The Cha-tain cat from the Grasswater who lost his mate and cubs and most of his pride when the Ti-breen and Pan-thera cats
+                                 invaded the Grasswater Province in search of the Outsiders of prophecy. Despite his thirst for vengeance he is destined to be the warrior from the first
+                                 world Iftmus, fulfilling and taking his place among the prophesied nine. 
+                            </dd>
+                        <dt>Ja-cera Cha-tain</dt>
+                            <dd>
+                                 <span>(Ju-seer-ra)</span> Mate to Ja-bota, she, as all female Cha-tain, becomes head of the pride when confronting the trespassing on territories on the Grasswater.
+                            </dd>
+                        <dt>Ja-falta Cha-tain</dt>
+                            <dd>
+                                 <span>(Ja-fault-ah)</span> From the pride of Ja-bota.
+                            </dd>
+                        <dt>Ja-lacu Cha-tain</dt>
+                            <dd>
+                                 <span>(Ja-lay-saw)</span> The Cha-tain cat that gave formal notice to the teacher Fa-sinto that the Abyssinians were no longer in Iftmus.
+                            </dd>
+                        <dt>Ja-natia Cha-tain</dt>
+                            <dd>
+                                 <span>(Ju-nay-cia)</span> A quiet Cha-tain cat that appeared at Sefttora, the sanctuary school in Pursong in the Province of La-mor. She requested
+                                 the right of testing, alluding to the time that she, out of duty would have to take Fa-tera’s place as Teacher of the Shi-kauti.
+                            </dd>
+                        <dt>Ja-naupta Cha-tain</dt>
+                            <dd>
+                                 <span>(Ja-nop-tah)</span> From the pride of Ja-bota.
+                            </dd>
+                        <dt>Ja-penta Cha-tain</dt>
+                            <dd>
+                                 The Cha-tain cat second to Ja-bota left in charge of what remains of that pride of cats.
+                            </dd>
+                        <dt>Joshua</dt>
+                            <dd>
+                                 A five year old boy who unknowingly is the &ldquo;peacemaker&rdquo; from third world Terra, fulfilling and taking his place among the prophesied nine.
+                            </dd>
+                    
+                    <a href="#top">Back to Top</a>
+                    
+                        <dt>Ki-raos Li-horan</dt>
+                            <dd>
+                               Present day ruling Li-horan cat of Iftmus.  
+                            </dd>
+                        <dt>La-kinta Ka-tem</dt>
+                            <dd>
+                              One of the young Shi-kauti serving the Grasswater region of Iftmus.  The first Shi-kauti ever killed by another cat.   
+                            </dd>
+                        <dt>Lastoma</dt>
+                            <dd>
+                              <span>(Los-Toe-Maw)</span> Abyssinian Cat.
+                            </dd>
+                    
+                            
+                            
+                            
+                            
+                            
                             
                         
                         
@@ -321,6 +491,10 @@
                 
             </div>    
         </div> <!-- end content div -->
+        <script src=”//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js”></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        
+
 
 <!-- jquery library -->
 		<script src="../scripts/jquery-1.11.3.js"></script>
