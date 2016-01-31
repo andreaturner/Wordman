@@ -78,7 +78,9 @@
                                 <li><a href="#L">L</a></li>
                                 <li><a href="#M">M</a></li>
                                 <li><a href="#N">N</a></li>
-                                <li><a href="#O">O</a></li> 
+                                <li><a href="#O">O</a></li>
+                                <li>P</li>
+                                <li>Q</li>
                                 <li><a href="#R">R</a></li>
                                 <li><a href="#S">S</a></li>
                                 <li><a href="#T">T</a></li>
@@ -406,7 +408,7 @@
                             </dd>
                         <dt>Norean</dt>
                             <dd>
-                              Ba’ka’s (Mauldren’s nephew) betrothed.
+                              Ba&#39;ka&#39;s (Mauldren&#39;s nephew) betrothed.
                             </dd>
                             <div class="back-to-top">
                                 <a href="#top"><span>&#x21e7;</span>Back to Top</a>
@@ -444,30 +446,211 @@
                             <dd>
                                 Servant but more friend and confidant to Toma Ra&#39; Elevou, Rosora was Tomas Fathers aide and took on the raising of his son on a deathbed request.
                             </dd>
-                        
-                    
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
-                            
-                            
-                            
-                            
-                            
-                        
-                        
-                        
-                        
-                        
-                        
-                        
+                        <a name="S"><h1>S</h1></a>
+                        <dt>Saycoris</dt>
+                            <dd>
+                                <span>(say-cory)</span> Shoufa&#39;s worsha(First wife) head of all wives and family.
+                            </dd>
+                        <dt>Sagof Uosta</dt>
+                            <dd>
+                                <span>(Sayg-of U-oos-tah)</span> Cabin boy on trade ship Ve-enesa on Axtoph.
+                            </dd>
+                        <dt>Sa-hetra</dt>
+                            <dd>
+                               A Persian type cat chosen at birth to be a Shi-kauti, keeper of Kylor.  Due to her breed she would most likely be assigned to the Province of La-mor to
+                               minister to the smaller breeds of cat. 
+                            </dd>
+                        <dt>Sandua &#39;Sa Estabon</dt>
+                            <dd>
+                                <span>(Sand dow Sa S Tay bon)</span> A rouge in the thieves guild second only to Anstue Nayta the godfather of sorts.
+                            </dd>
+                        <dt>Sa-mabum Makta</dt>
+                            <dd>
+                                Second Shinghaut High Priest just under Aumerabi Istaer himself.
+                            </dd>
+                        <dt>Samone</dt>
+                            <dd>
+                                <span>(Sa&#39;moan)</span> The two hundred and fifty span old Dwarif wizard whose secret commits him to be the “magic’s” from the second world Axtoph, fullfilling
+                                and taking his place among the prophesied nine. from Axtoph.
+                            </dd>
+                        <dt>Sere&#39;rmn</dt>
+                            <dd>
+                                <span>(Sir- rim)</span> Lere&#39;yll&#39;s sister.
+                            </dd>
+                        <dt>Sescua Madawn</dt>
+                            <dd>
+                                Son of land owner, brother of Pro’tesna Madawn who caught the eye of Sa-mabum Makta, second under Aumerabi Istaer.
+                            </dd>
+                        <dt>Shanlo</dt>
+                            <dd>
+                                <span>(Shan-law)</span> God of the Dragonlords. God of War and Conquest.
+                            </dd>
+                        <dt>Shalti</dt>
+                            <dd>
+                                <span>(Pan-dur-in)</span> A trolya warrior without rank.
+                            </dd>
+                        <dt>Sheshonk IV</dt>
+                            <dd>
+                                <span>(Sheshonk the fourth)</span> Egyptian Pharaoh 760 BC
+                            </dd>
+                            <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="T"><h1>T</h1></a>
+                        <dt>Ta-posh</dt>
+                            <dd>
+                                <span>(Taw-posh)</span> An Abyssinian cat.
+                            </dd>
+                         <dt>Tahel Tibreen</dt>
+                            <dd>
+                                Sibling to Tas and confidant to Ra-vin Panduran.
+                            </dd>
+                        <dt>Tas Tibreen</dt>
+                            <dd>
+                                <span>(Tass Tie-breen)</span> Any cat on Iftmus using their breed name after their given name is usually head of a pride of cats
+                                or in charge of a group. Tas is confidant to Ra-col Panduran sent to the Grasswater by the Guarded Ones that dwell in Ama&#39;ska.
+                            </dd>
+                        <dt>Teeah</dt>
+                            <dd>
+                                The Chaun cat who Josh befriended and named.
+                            </dd>
+                        <dt>Toma Ra&#39; Elevou</dt>
+                            <dd>
+                                Young Elvon Warlord, son of Marroc who stood against the warlord code of &ldquo;conquer by strength&rdquo; and was outspoken at the methods used to bond
+                                the dragons to the Dragon-Lords.
+                            </dd>
+                            <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="U"><h1>U</h1></a>
+                            <dt>Urista Se&$39; Tem Armester</dt>
+                            <dd>
+                                <span>(Your-ista Sa Tem R-mess-tur)</span> First Mage to the Wizards Council last living descendent of the Armester Family, the longest ruling
+                                family of the Three Towers on Axtoph. Their family&#39;s reign was only interrupted by Samone being raised to First Mage during a brief war where his power and
+                                Guild status over the element of water gave him the authority to speak for the council to placate  the Syrans, an underwater race that briefly threatened
+                                the Straits Of Fe&#39;tuer.
+                            </dd>
+                            <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="Y"><h1>Y</h1></a>
+                            <dt>Ya-siff Amaur</dt>
+                                <dd>
+                                    A third level Shinghaut Priest used as a host body for Aumerabi to traverse to Iftmus.
+                                </dd>
+                            <dt>Yasta</dt>
+                                <dd>
+                                    <span>(Yawsta)</span> The Chaun cat witnessing the first intrusion and murder on the Grasswater by the Panduran cat.
+                                </dd>
+                            <dt>Yoshef Saver-Ata</dt>
+                                <dd>
+                                    <span>(Yo-shef Sauv-ver-austa)</span> Second to Goston leader of the underground against the Shinghaut in Babylon.
+                                </dd>
+                            <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="Z"><h1>Z</h1></a>
+                            <dt>Zacora Tem&#39; Malua</dt>
+                                <dd>
+                                   Elvon Dragonlord
+                                </dd>
                     </dl>
 				</div>
 					
 			<h3 style="font-weight: bold;">Glossary of Language</h3>
-				<div>
-				</div>
+				<div>  <!-- start Glossary of Language div -->
+                    <a name="top"></a>
+                    
+                    <div class="nav">
+                        <nav>
+                            <ul class="nav4">
+                                <li><a href="#A">A</a></li> 
+                                <li><a href="#B">B</a></li>
+                                <li><a href="#C">C</a></li>
+                                <li><a href="#D">D</a></li>
+                                <li><a href="#E">E</a></li>
+                                <li><a href="#F">F</a></li>
+                                <li><a href="#G">G</a></li>
+                                <li><a href="#H">H</a></li> 
+                                <li><a href="#I">I</a></li>
+                                <li><a href="#J">J</a></li>
+                                <li><a href="#K">K</a></li>
+                                <li><a href="#L">L</a></li>
+                                <li><a href="#M">M</a></li>
+                                <li><a href="#N">N</a></li>
+                                <li><a href="#O">O</a></li>
+                                <li><a href="#P">P</a></li>
+                                <li><a href="#Q">Q</a></li> 
+                                <li><a href="#R">R</a></li>
+                                <li><a href="#S">S</a></li>
+                                <li><a href="#T">T</a></li>
+                                <li><a href="#U">U</a></li>
+                                <li><a href="#V">V</a></li>
+                                <li><a href="#W">W</a></li>
+                                <li><a href="#X">X</a></li>
+                                <li><a href="#Y">Y</a></li>
+                                <li><a href="#Z">Z</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <a name="A"><h1>A</h1></a>
+                    <dl>
+                       <dt>A&#39;nusk</dt>
+                            <dd>
+                                <span>(Ah-new-sk)</span> A Sanchean term of endearment loosely translated means &ldquo;much beloved&rdquo; or when traced to it&#39;s Elvon derivatives
+                                &ldquo;heart of my past still beating&rdquo;.
+                            </dd>
+                            
+                            
+                            
+                            
+                            
+				</div>  <!-- end Glossary of Language div -->
+                
 			<h3 style="font-weight: bold;">Glossary of Plant &amp; Animal Life</h3>
-				<div>
+				<div>  <!-- start Glossary of Plant and Animal Life div -->
+                    <div class="nav">
+                        <nav>
+                            <ul class="nav4">
+                                <li><a href="#A">A</a></li> 
+                                <li>B</li>
+                                <li><a href="#C">C</a></li>
+                                <li>D</li>
+                                <li>E</li>
+                                <li>F</li>
+                                <li><a href="#G">G</a></li>
+                                <li><a href="#H">H</a></li> 
+                                <li>I</li>
+                                <li><a href="#J">J</a></li>
+                                <li><a href="#K">K</a></li>
+                                <li><a href="#L">L</a></li>
+                                <li><a href="#M">M</a></li>
+                                <li><a href="#N">N</a></li>
+                                <li>O</li>
+                                <li><a href="#P">P</a></li>
+                                <li>Q</li> 
+                                <li><a href="#R">R</a></li>
+                                <li><a href="#S">S</a></li>
+                                <li><a href="#T">T</a></li>
+                                <li>U</li>
+                                <li>V</li>
+                                <li><a href="#W">W</a></li>
+                                <li>X</li>
+                                <li>Y</li>
+                                <li>Z</li>
+                            </ul>
+                        </nav>
+                    </div>
 					<dl>
+                        <a name="A"><h1>A</h1></a>
 						<dt >Abyssinian Cat</dt>
                             <dd>
                                 <span>(Ab-ah-sin-ee-an)</span> This cat was of the smaller breeds, small boned and sleek. Born in the area that would later become the province of
@@ -489,6 +672,11 @@
                                 Unknown to all but the Northland Mercenaries the Araupaso possesses the ability to communicate within its own breed making it a sentient life
                                 form. This is not an animal that is owned. If any are allowed to ride one, it is only by consent of the horse.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="C"><h1>C</h1></a>                                                    
 						<dt>Chafi&#39;</dt>
                             <dd>
                                 <span>(Chafee)</span> A high protein sugar melon believed to have been cultivated within the confines of Greensun and presently flourishing in the lo-hils
@@ -507,6 +695,11 @@
                                 though many believe that they now allow the Ch&#39;aun cat, sanctuary through the Grasswater to seek and find refuge at Greensun. Due to their isolation little more is
                                 known about them. The Shi-kauti that bring Ky-lor to the Cha-tain are strangely quiet about any of their secrets and ways.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="G"><h1>G</h1></a>                                
 						<dt>Gindoo</dt>
                             <dd>
                                 <span>(G-in-dew)</span> Small apelike creatures on Iftmus on the level of a domestic pet or slave. The Gindoo have a limited understanding of basic
@@ -517,22 +710,42 @@
                                 <span>(G-rag-mew)</span> Deer size mountain goats living on the slopes of both the Pri-hy mountains in Pa-tan and the Saber-wa mountains on the
                                 Grasswater. Their musical trill as they climb the mountains is said, in catlore, to be a song of praise between life and the living land.
                             </dd>
+                         <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="H"><h1>H</h1></a>    
 						<dt>Harkensong</dt> 
                             <dd>
                                 A large flamingo type bird on Iftmus that keeps to the air unless nesting in the high cliff areas. It sings to its mate in flight and for the most part is nocturnal.
                                 It&#39;s song has created catlore that says &ldquo;The wandering bird,  carrying it&#39;s lament across the lonely night skies shall remind all cat to listen to the land, for
                                 Iftmus speaks even when none might hear&rdquo;. A lesser-known proverb calls it &ldquo;the voice of all cats that have died violently crying out for home&rdquo;.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="J"><h1>J</h1></a>     
 						<dt>Jum-Hopper</dt> 
                             <dd>
                                 On Iftmus this is a gray and white stripped creature about three feet tall, very affectionate but deadly with it&#39;s front short paws. It can jump high or long but cannot
                                 keep that pace for any length of time. Another major food source for the cats.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="K"><h1>K</h1></a>     
 						<dt>Ka-tem</dt> 
                             <dd>
                                 A breed of cat much like a mountain lion but vaguely reminiscent of a small version of the Saber tooth cats who first ruled Iftmus, probably due more to the small fangs that
                                 protrude outside the lips from the lower jaw than any other physical characteristic.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="L"><h1>L</h1></a> 
 						<dt>Las&#39;trea</dt> 
                             <dd>
                                 <span>(Lass-tree-ah)</span> A bird, turkey size whose wings cannot support the body for flight. Instead they help it run faster taking leaps. Abundant in the
@@ -550,6 +763,11 @@
                                 <span>(Like-Moss)</span> A soft yellow green carpet type found mostly in the province of La-mor on Iftmus.  An evergreen with the exception of a short period
                                 when it germinates and has much the same stimulating effect as a mild catnip.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="M"><h1>M</h1></a> 
 						<dt>Mayka</dt> 
                             <dd>
                                 Rabbit like creature on Axtoph. Digs sand traps to capture and suffocate it&#39;s prey.
@@ -569,6 +787,11 @@
                                 <span>(Mud Wamp)</span> This animal resides in all three provinces of Iftmus.  Makes its home around the lakes and swamps.  It is three times the size of a beaver and
                                 deadly if approached in the water.  Outside of the water it is totally helpless and another food source for the cats.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="N"><h1>N</h1></a> 
 						<dt>Nashanti</dt> 
                             <dd>
                                 <span>(Nah-shaun-tay)</span> Religious fanatics on Iftmus made up of various breeds of cat that reside at Fina&#39;sha the center falls at the border of all three
@@ -581,6 +804,11 @@
                                 Divided into seven tribes they are their own nation and ally themselves most often to the Da-ton&#39; Empire. Most races leave humans alone, if only out of fear of reprisal from
                                 these warriors.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="P"><h1>P</h1></a> 
 						<dt>Pacha&#39;si</dt> 
                             <dd>
                                 <span>(Pa-chah-sa)</span> Race of aborigine type people inhabiting Iftmus without most cats knowledge. They were stranded when the boundaries of Maka-shu,
@@ -608,11 +836,21 @@
                                 <span>(Purr-row-see-ah)</span> Related to the small chimpanzee like Gindoo on Iftmus, these ferocious cousins are five feet of muscle with violent tempers and are
                                 carnivorous. They dwell in the forests of Pa-tan of Iftmus.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="R"><h1>R</h1></a> 
 						<dt>Rakatoos</dt> 
                             <dd>
                                 <span>(Rack-a-twos)</span> Small antelope type creatures with large ears and white speckled feather-fur. Lives in abundance on the Grasswater of Iftmus and its outer regions.
                                 Is hunted by the larger cats as the main source of food supply.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="S"><h1>S</h1></a> 
 						<dt>Sa-bata Cat</dt> 
                             <dd>
                                 <span>(Sa-bought-a)</span> This sabertooth cat was the mother of the race and the first ruling cat in Iftmus. It was the Sa-bata cat that received the gift of Ky-lor and
@@ -637,6 +875,11 @@
                                 A large breed of fly attracted mainly to carrion and the biggest source of pestilence and disease on Axtoph.  The difference between them and the more common horse flies lay not only in their size
                                 but their ability to attack as an organized swarm.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="T"><h1>T</h1></a> 
 						<dt>Tanka Root</dt> 
                             <dd>
                                 <span>(Tang-kah)</span> A root harvested by the Sanchean Fayra on Axtoph that is their confectionery substitute for sweets. Its facsimile on Iftmus has similar taste and texture but
@@ -656,6 +899,11 @@
                                 The large white tiger-like cats that serve the Li-horan and Pan-duran cats on Iftmus. They are not noted for their wit or wisdom but are ferocious fighters and military minded in their
                                 loyalty with a need to be led.
                             </dd>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                                
+                            <a name="W"><h1>W</h1></a> 
 						<dt>Wachiwood</dt> 
                             <dd>
                                 <span>(Watch-a-wood)</span> A rare white hardwood found only in the lowland forests in the province of Tasqua on Axtoph. Used in the past by Elvon artists like marble, to make sculptures
@@ -678,8 +926,8 @@
 					</dl>
 				</div> <!-- end animals and plant life div -->        
             <h3 style="font-weight: bold;">Maps</h3>
-				<div>
-				</div>
+				<div>  <!-- start Maps div -->
+				</div>  <!-- end Maps div -->
             </div>    
         </div> <!-- end content div -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
