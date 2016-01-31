@@ -92,7 +92,7 @@
 }
 
 .nav1 a:hover {
-    color: #FF0;
+    color: #9F000F;
 }
 
 /* end nav1 */
@@ -127,7 +127,7 @@
 }
 
 .nav2 a:hover {
-    color: #FF0;
+    color: #9F000F;
 }
 
 /* end nav2 */
@@ -162,11 +162,44 @@
 }
 
 .nav3 a:hover {
-    color: #FF0;
+    color: #9F000F;
 }
 
 /* end nav3 */
 
+/* start nav4 */
+
+.nav4 {
+    display: inline;
+    text-align: center;
+    margin-bottom: 1%;
+    /*float: right;*/
+    /*padding-left: 30%;*/
+}
+
+.nav4 ul {
+    font-weight: bold;
+    list-style: none;
+    font-size: 24pt;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav4 li {
+    display: inline;
+    text-align: left;
+    text-decoration: none;
+    font-size: x-large;
+    color: #000;
+}
+
+.nav4 a {
+    color: #000;        
+}
+
+.nav4 a:hover {
+    color: #9F000F;
+}
 
 
 

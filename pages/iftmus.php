@@ -9,7 +9,7 @@
         </div>
 
         <div class="series-pic-center">
-            <a href="iftmus-series.php"><img src="../images/iftmus-cover-667x500.jpg" width="667" height="500" alt="Iftmus image"></a>
+            <a href="iftmus-series.php"><img src="../images/iftmus-cover-934x700.jpg" width="934" height="700" alt="Iftmus image"></a>
         </div>
         
         <div class="keep-it-together">
@@ -48,8 +48,7 @@
         </div> <!-- end top keep-it-together div -->
         
         <div class="keep-it-together">
-            
-              
+                          
             <div class="header-excerpts">
                 Glossary
             </div>
@@ -57,9 +56,42 @@
         <div id="glossary">
             
 			<h3 style="font-weight: bold;">Glossary of Characters</h3>
+            <!-- alphabet links -->
+            
 				<div>
-                     <a name="top"></a> 
-                    <h1>A</h1>
+                    <a name="top"></a>
+                    
+                    <div class="nav">
+                        <nav>
+                            <ul class="nav4">
+                                <li><a href="#A">A</a></li> 
+                                <li><a href="#B">B</a></li>
+                                <li><a href="#C">C</a></li>
+                                <li><a href="#D">D</a></li>
+                                <li><a href="#E">E</a></li>
+                                <li><a href="#F">F</a></li>
+                                <li><a href="#G">G</a></li>
+                                <li><a href="#H">H</a></li> 
+                                <li><a href="#I">I</a></li>
+                                <li><a href="#J">J</a></li>
+                                <li><a href="#K">K</a></li>
+                                <li><a href="#L">L</a></li>
+                                <li><a href="#M">M</a></li>
+                                <li><a href="#N">N</a></li>
+                                <li><a href="#O">O</a></li> 
+                                <li><a href="#R">R</a></li>
+                                <li><a href="#S">S</a></li>
+                                <li><a href="#T">T</a></li>
+                                <li><a href="#U">U</a></li>
+                                <li><a href="#V">V</a></li>
+                                <li><a href="#W">W</a></li>
+                                <li><a href="#X">X</a></li>
+                                <li><a href="#Y">Y</a></li>
+                                <li><a href="#Z">Z</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <a name="A"><h1>A</h1></a>
                     <dl>
                        <dt>Abe Somon</dt>
                             <dd>
@@ -108,12 +140,11 @@
                                 perversion of Sha-talon, the magic&#39;s. Now those twisted magic&#39;s are destroying Flow and the living land and setting the stage for the coming of Baushra&#39; to that
                                 dimensional plane as a god incarnate.
                             </dd>
-                            <br>
-                         
-                        <a href="#top">Back to Top</a>
-                          
-                           
-                        <H1>B</H1>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="B"><h1>B</h1></a>
                         <dt>Bakala Achaemed.</dt>
                             <dd>
                                 <span>(Boc-ah-law Ach-mead)</span> The Shinghaut priest along with Mithra Ardashir, in charge of the mission on Axtoph.
@@ -132,7 +163,11 @@
                                 <span>(Baush-rah)</span> In the balance of all nature Chaos decides to remove itself from that balance. It is one of the younger gods the Shinghaut priests
                                 worship and call Baushra&#39;. On Axtoph he is known as Apheta Tukan. On Iftmus, Mauca-taun.
                             </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
+                        <a name="C"><h1>C</h1></a>
                         <dt>Chaltak&#39;</dt>
                             <dd>
                                 <span>(Chall-talk)</span> Second Toma to the third division of The Council Legion.  A Denrus Trolya Warrior sworn to protect the Sanchean Fayra and personally
@@ -150,13 +185,21 @@
                             <dd>
                                  An eighteen-year-old boy just learning the powers he possess.  The &ldquo;magic&#39;s&rdquo; from the third world Terra fulfilling and taking his place among the prophesied nine.
                             </dd>
-                            <br>
-                            <a href="#top">Back to Top</a>
-                            <br><br>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                         
+                        <a name="D"><h1>D</h1></a>
+                        <br>
                         <dt>Dous&#39; Maudra La&#39;Moso</dt>
                             <dd>
                                  <span>(Dos-Maud-ray-La-Mow-So)</span> Second to Mauldren. Liaison between the Warlord and the Generals of each tribe of the Northland Mercenaries.
                             </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                             
+                        <a name="E"><h1>E</h1></a>
                         <dt>Emit&#39; By-Char</dt>
                             <dd>
                                  <span>(Etna-Bi-Char)</span> Healer in the Court of Elbron on Axtoph. The art of healing has been passed down through her family since the First Mage ever to rule from the three
@@ -173,6 +216,11 @@
                                  <span>(Et-two Bon-fur)</span> The Elvon Wizard who designed and created The Willaward.  He was the last known surviving Elv and legend says the last soul to enter the talisman of The
                                  Willaward. History names him a traitor to the Elbron Council who set in motion the Helgstrum Siege, which ultimately destroyed his whole race.
                             </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                             
+                        <a name="F"><h1>F</h1></a>
                         <dt>Fa-sinto</dt>
                             <dd>
                                  <span>(Fa-sin-toe)</span> Teacher of the Shi-kauti at Sefttora on Iftmus when Fa-tera was brought there to be trained to take his place.  It was he who found Fa-tera and discovered
@@ -183,9 +231,11 @@
                                  <span>(Fa-tear-a)</span> A No-name cat and the last Teacher in the end times to train The Shi-kauti in preserving Ky-lor, the histories, the laws and the lore of Iftmus. The
                                  &ldquo;peacemaker&rdquo; from the first world Iftmus, fulfilling and taking her place among the chosen nine.
                             </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
-                        <a href="#top">Back to Top</a>
-                            
+                        <a name="G"><h1>G</h1></a>
                         <dt>Gamill Jamasta</dt>
                             <dd>
                                  <span>(Ju-mill)</span> The Shinghaut priest along with Arutapha Emtu in charge of the mission on Iftmus.
@@ -194,6 +244,11 @@
                             <dd>
                                  &ldquo;The Slayer of Evil&rdquo; Name given to the leader of underground resistance battling the Shinghaut religion in Babylon on Terra.
                             </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="H"><h1>H</h1></a>
                         <dt>Hestra</dt>
                             <dd>
                                  <span>(Hess-tra)</span> An Abyssinian cat.
@@ -202,10 +257,20 @@
                             <dd>
                                  <span>(Hss&#39;turn)</span> First mate to Lere&#39;yll. Killed by dragon hunters.
                             </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="I"><h1>I</h1></a>
                         <dt>Illio</dt>
                             <dd>
                                  <span>(Ill ee-oh)</span> Orphaned dragon adopted by the thieves guild on Axtoph as mascot.
                             </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="J"><h1>J</h1></a>
                         <dt>Ja-bota Cha-tain</dt>
                             <dd>
                                  <span>(Ju-bow-ta)</span> The Cha-tain cat from the Grasswater who lost his mate and cubs and most of his pride when the Ti-breen and Pan-thera cats
@@ -227,7 +292,7 @@
                         <dt>Ja-natia Cha-tain</dt>
                             <dd>
                                  <span>(Ju-nay-cia)</span> A quiet Cha-tain cat that appeared at Sefttora, the sanctuary school in Pursong in the Province of La-mor. She requested
-                                 the right of testing, alluding to the time that she, out of duty would have to take Fa-tera’s place as Teacher of the Shi-kauti.
+                                 the right of testing, alluding to the time that she, out of duty would have to take Fa-tera&#39;s place as Teacher of the Shi-kauti.
                             </dd>
                         <dt>Ja-naupta Cha-tain</dt>
                             <dd>
@@ -235,27 +300,151 @@
                             </dd>
                         <dt>Ja-penta Cha-tain</dt>
                             <dd>
-                                 The Cha-tain cat second to Ja-bota left in charge of what remains of that pride of cats.
+                                The Cha-tain cat second to Ja-bota left in charge of what remains of that pride of cats.
                             </dd>
                         <dt>Joshua</dt>
                             <dd>
-                                 A five year old boy who unknowingly is the &ldquo;peacemaker&rdquo; from third world Terra, fulfilling and taking his place among the prophesied nine.
+                                A five year old boy who unknowingly is the &ldquo;peacemaker&rdquo; from third world Terra, fulfilling and taking his place among the prophesied nine.
                             </dd>
-                    
-                    <a href="#top">Back to Top</a>
-                    
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="K"><h1>K</h1></a>
                         <dt>Ki-raos Li-horan</dt>
                             <dd>
-                               Present day ruling Li-horan cat of Iftmus.  
+                                Present day ruling Li-horan cat of Iftmus.  
                             </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="L"><h1>L</h1></a>
                         <dt>La-kinta Ka-tem</dt>
                             <dd>
-                              One of the young Shi-kauti serving the Grasswater region of Iftmus.  The first Shi-kauti ever killed by another cat.   
+                                One of the young Shi-kauti serving the Grasswater region of Iftmus.  The first Shi-kauti ever killed by another cat.   
                             </dd>
                         <dt>Lastoma</dt>
                             <dd>
-                              <span>(Los-Toe-Maw)</span> Abyssinian Cat.
+                                <span>(Los-Toe-Maw)</span> Abyssinian Cat.
                             </dd>
+                        <dt>Latro&#39;llme</dt>
+                            <dd>
+                                <span>(La-tru-lum)</span> The younger goddess of death.
+                            </dd>
+                        <dt>Lausha&#39;</dt>
+                            <dd>
+                                <span>(Law-shaw)</span> Mauldren&#39;s horse. The name was chosen by Mauldren when the stallion was born and in the Northlands tongue means
+                                &ldquo;Heart of the Wind&rdquo;. Existing only on the Northland Plains it is an Araupaso, a breed of horse known for its strength and endurance, it&#39;s
+                                longevity and rumored to possess the ability to communicate within it&#39;s own breed. It&#39;s herd name is Savostia.
+                            </dd>
+                        <dt>La-seta Ta-pan</dt>
+                            <dd>
+                                <span>(La-see-ta)</span> A gold long hair small cat, a Shi-kauti of Ky-lor. First cat to ever have death blood spilled by another cat on the Grasswater.
+                                First Shi-kauti to ever be admitted under the mountains to see Green-sun, the sanctuary for the Ch&#39;aun and meet Etoshia.
+                            </dd>
+                        <dt>Lere&#39;yll</dt>
+                            <dd>
+                                <span>(Lur-ill)</span> One of the last remaining Sanchean Fayra. Their chosen queen and liaison to the Da-ton&#39; Empire. The &ldquo;peacemaker&rdquo; from the second
+                                world Axtoph, fulfilling and taking her place among the prophesied nine.
+                            </dd>
+                        <dt>Lere&#39;risfa</dt>
+                            <dd>
+                                <span>(Lure-Ris-Fa)</span> Lere&#39;yll&#39;s mother.
+                            </dd>
+                        <dt>Lere&#39;ymn</dt>
+                            <dd>
+                                <span>(Lure-Im)</span> Lere&#39;yll&#39;s sister.
+                            </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="M"><h1>M</h1></a>
+                        <dt>Marroc Ra&#39; Elevou</dt>
+                            <dd>
+                                <span>(Ma-rock Ra  El Vee Oh)</span> Toma&#39;s father.
+                            </dd>
+                        <dt>Maseta InRa</dt>
+                            <dd>
+                                Captain of the Kings Guard.
+                            </dd>
+                        <dt>Mauldren Tomphia Estavey</dt>
+                            <dd>
+                                <span>(Mall-dr-en Tom-fa S-ta-vay)</span> Leader of The Seven Tribes made up of the Northland Mercenaries from up in the Northland Plains on Axtoph.  Although this human
+                                settlement is not a part of the Da-ton&339; Empire they are a powerful ally&#46;&#46;&#46; for the right price.
+                            </dd>
+                        <dt>Mauca-taun</dt>
+                            <dd>
+                                <span>(Maw-kaw-tongue)</span> Ancient god of death on Iftmus, possible their interpretation of Baushra&#39;. 
+                            </dd>
+                        <dt>Merodach Balasu Ikbu</dt>
+                            <dd>
+                                <span>(Mare-odak Bala-sue Ikbu)</span> King of Babylon 760 BC. 
+                            </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                        <a name="N"><h1>N</h1></a>
+                        
+                        <dt>Nage</dt>
+                            <dd>
+                                Daniel and Joshua’s large silver blue gray cat who due to his Abyssinian blood can mind talk with the boys. It is that bloodline that makes him the
+                                &ldquo;magic&#39;s&rdquo; from the first world Iftmus, fulfilling and taking his place among the prophesied nine.
+                            </dd>
+                        <dt>Nau</dt>
+                            <dd>
+                                <span>(Nawah)</span> The god of creation who placed his work in the hands of the younger gods to maintain balance.
+                            </dd>
+                        <dt>Nayagan Masta-Sescue</dt>
+                            <dd>
+                                <span>(Nay-again-Mausta-Cess-Cue)</span> Madawns best friend butchered by Sa-mabum Macta.
+                            </dd>
+                        <dt>Na-yous Be&#39; Coosta</dt>
+                            <dd>
+                                <span>(Na-you-bee-Costa)</span> Second Mage in authority under Urista in the Mage Council.
+                            </dd>
+                        <dt>Norean</dt>
+                            <dd>
+                              Ba’ka’s (Mauldren’s nephew) betrothed.
+                            </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="O"><h1>O</h1></a>
+                        <dt>One Named Shoufa</dt>
+                            <dd>
+                                <span>(Show fa)</span> Chief of the Pacha&#39;si on Iftmus
+                            </dd>
+                        <dt>The Old Ones</dt>
+                            <dd>
+                                Ish&#39;tin The oldest trees in the Aleatian Forests of Axtoph called Ish&#39;tin in verse and song, said to be the elder gods to the Sanchean Fayra.
+                                The spirit bond between fairie and tree is tied through the Old Ones and therein the heart of their religion.  Their power is unknown as they
+                                are guarded and kept secret by the whole fairie race.
+                            </dd>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                            
+                        <a name="R"><h1>R</h1></a>
+                         <dt>Ra-col Panduran</dt>
+                            <dd>
+                                Leader of the largest pride of Panduran cats and strongest among them in the twisted version of Sha-talon&#46;&#46;&#46; The Arts.
+                            </dd>
+                        <dt>Ra-vin Panduran</dt>
+                            <dd>
+                                Second only to Ra-col among the Panduran cats and leader of the second largest pride in Pa-tan.
+                            </dd>
+                        <dt>Ren-Shara Sabata</dt>
+                            <dd>
+                                <span>(Wren-Share-A)</span> Descendant of Rensis Sabata.
+                            </dd>
+                        <dt>Rosora Et&#39; Neevou</dt>
+                            <dd>
+                                Servant but more friend and confidant to Toma Ra&#39; Elevou, Rosora was Tomas Fathers aide and took on the raising of his son on a deathbed request.
+                            </dd>
+                        
                     
                             
                             
@@ -488,18 +677,18 @@
                             </dd>
 					</dl>
 				</div> <!-- end animals and plant life div -->        
-                
+            <h3 style="font-weight: bold;">Maps</h3>
+				<div>
+				</div>
             </div>    
         </div> <!-- end content div -->
-        <script src=”//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js”></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 
 <!-- jquery library -->
-		<script src="../scripts/jquery-1.11.3.js"></script>
+		<!--<script src="../scripts/jquery-1.11.3.js"></script> -->
 		
-		<!-- jQuery UI libaray -->
+		<!-- jQuery UI library -->
 		<script src="../scripts/jquery-ui/jquery-ui.min.js"></script>
 		
 		<script type="text/javascript">

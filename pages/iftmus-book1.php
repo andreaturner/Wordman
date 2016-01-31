@@ -13,7 +13,7 @@
         </div>
         
         <div class="series-text-book-iftmus">
-            <span  class="large">P</span>rophecy is fulfilled as nine reluctant heroes come together, three from each of the threatened worlds, Iftmus, Axtoph and Terra. Baushra&#39;,
+            <span class="large">P</span>rophecy is fulfilled as nine reluctant heroes come together, three from each of the threatened worlds, Iftmus, Axtoph and Terra. Baushra&#39;,
             the anti-thesis of the creative force has found its&#39; host disciples in the Shinghaut priest of the late Babylon. They in turn have passed
             their deadly gifts on to thier new pawns on each of the three worlds. Now Iftmus, the land cats are in their death throes as the newly perverted
             magics of Sha-talon twist and pervert the balance of Flow.
