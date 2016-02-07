@@ -1044,7 +1044,7 @@
             <h3 style="font-weight: bold;">Prologue</h3>
 				<div>  <!-- start Prologues div -->
                     <div class="keep-it-together">
-                        <div class="header-excerpts">
+                        <div class="prologue-center-title">
                             Of Dreams, Like Mist
                         </div>
                         
@@ -1058,7 +1058,47 @@
                             Thee should never dare to see its face<br>
                             For it is death to them who look upon it.<br>
                             Pray it remain an apparition<br>
-                            <span "font-weight: bold;">Of Dreams, Like Mist.</span>
+                            <span>Of Dreams, Like Mist.</span>
+                        </div>
+                        
+                        <div class="prologue-center">
+                            While thee hang upon cruel fate,<br>
+                            Heedless of thy peril,<br>
+                            There is a thread that is tied to thee.<br>
+                            For thee are but one of morning&#39;s tears<br>
+                            Clinging to an intricate web of fragile strength<br>
+                            That binds thee to many other threads.<br>
+                            Thee must keep thy vigil and be ready.<br>
+                            For the danger; is real and if thee sleep<br>
+                            It shall come out<br>
+                            <span>Of Dreams, Like Mist.</span>
+                        </div>
+                        
+                        <div class="prologue-center">
+                            Thee are numbered as the stars in the heavens.<br>
+                            And though all would struggle for the light,<br>
+                            None alone can fight the darkness.<br>
+                            Worlds wait, as the heavens must,<br>
+                            For that time of prophecy;<br>
+                            The time when blood and healing<br>
+                            Shall wash upon the same shores<br>
+                            And the waters and the sands shall do battle,<br>
+                            That in the end, thee or the abomination<br>
+                            Shall become a thing<br>
+                            <span>Of Dreams, Like Mist.&rdquo;</span>
+                        </div>
+                        
+                        <div class="tagline-right-prologue">
+                            As mindspoken in Ky-lor by Rensis Sa-bata<br>
+                            From the Sky-lashe Verse Prophecies
+                        </div>
+                        
+                        <div class="prologue-psi">
+                            &#936;
+                        </div>
+                        
+                        <div class="prologue-text">
+                            
                         </div>
                         
                         
