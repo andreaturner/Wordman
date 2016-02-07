@@ -1104,7 +1104,7 @@
                         
                         <div class="prologue-text">
                             <span class="pt-oet">T</span>hunder-roared challenges shook the air; pummeling nature as two Li-horan cat circled each other warily. The combatants were
-                            dust covered and panting, each bearing bloody wounds that would,, possibly one day,, be worn as scars and embellished by the bragging stories
+                            dust covered and panting, each bearing bloody wounds that would, possibly one day, be worn as scars and embellished by the bragging stories
                             of old cat. Scores of cat backed one or the other Li-horan, each adding to the tangle of snarled mind speak, as the two males vied for the
                             right to rule. Dozens of prides of cat watched from the hillside above with no allegiance, save being anxious to witness either cat draw more blood. 
                         </div>
@@ -1258,6 +1258,45 @@
                             &#936;
                         </div>
                         
+                        <div class="prologue-text">
+                            <span class="pt-oet">A</span>s quiet as night, the Babylonian troops efficiently entered the small village of Natora, and before anyone could raise an alarm they set fire to most every structure. Panicked, dazed people tried to rush out to escape from their
+                            individual infernos, but were forced back at spear point; or put to the sword and the corpses thrown back in. 
+                        </div>
+                        
+                        <div class="prologue-text">
+                            King Merodach Balasu Ikbu had affixed his seal to orders. Orders for the destruction of this, and many more villages within a twenty day ride of Babylon. The plague having reached this far was too close to the city walls; it had to be stopped, even though
+                            they were part of his kingdom. The dying screams of men, women and children drifted out in the night desert air on an unholy wind.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Captain Maseta Inra clutched the orders in a white knuckled hand and set his jaw in resolve. &ldquo;Gods forgive me.&rdquo; he whispered and set about issuing orders for one last inspection of this torched village. &ldquo;Burn it all to the dust it rests on!&rdquo;
+                        </div>
+                        
+                        <div class="prologue-text">
+                            He turned away from his soldiers, lest they witness his own wavering will. As if talking to a demon companion he whispered. &ldquo;I have done what you have asked. And we will march to the next village and the next and my sins will multiply until my corrupted soul is
+                            no different than the bodies of those we condemn.&rdquo; He shook his head and waited for his soldiers to finish their task.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            By dawn, the smell of burnt flesh wafted to the sky like a sinful offering. The slaves who had been forced to throw bodies into the flames were put to death and burned as well,&#46;&#46;&#46; &ldquo;lest they themselves carry the curse back into the city.&rdquo;
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Younger soldiers, still pale from retching, stood abject contrast to the older, more seasoned veterans who were making uncomfortable jokes. Troops were finally reassembled as the last oils were
+                            thrown upon lingering, accusing flames. By dawn&#39;s light, the wind mourned and the procession solemnly left.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            None noticed the thin wail of a scalded child that barely escaped from beneath a tumble of burnt clay wall. The madness summoned by the child&#39;s pain was a whimper of prophecy.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            For but a brief moment the earth itself was somber and quiet, save for the smoke and remnants of pain floating on the wind.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            For but a brief moment something in the heavens took notice of dreams like mist.
+                        </div>
                         
                     </div>  <!-- end keep-it-together div Section 3-->
                                                                   
