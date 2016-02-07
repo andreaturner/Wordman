@@ -1295,7 +1295,11 @@ a:hover {
     font-weight: bold;
     display: inline-block;
     margin-right: 10px;
-    
-    
-    
+}
+
+.prologue-center {
+    text-align: center;
+    padding-top: .3%;
+    font-size: larger;
+    font-style: italic;
 }
