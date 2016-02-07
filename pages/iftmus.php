@@ -1299,6 +1299,45 @@
                         </div>
                         
                     </div>  <!-- end keep-it-together div Section 3-->
+                    
+                     <!-- Section 4 -->
+                    
+                    <div class="keep-it-together"> <!-- start keep-it-together div Section 4 -->
+                        
+                        <div class="prologue-psi">
+                            &#936;
+                        </div>
+                        
+                        <div class="prologue-text">
+                            <span class="pt-oet">W</span>hen everything was nothing&#46;&#46;&#46; by the Word and The Will, nothing suddenly became something and there was, for the first time&#46;&#46;&#46;
+                            order. There was order because there was balance to all that was created. And within that order there was neither strife nor jealousy for all was at peace within this balance. 
+                        </div>
+                        
+                        <div class="prologue-text">
+                            And it flowed as such:  where there was life there was death. Where there was order there was chaos. Where there was love there was hate. Where there was joy there was sadness.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            And though these were the names of only a few of the younger gods, the result was ultimately the same. Where there was black there was white, night and day, water and earth, good,
+                            evil, dark and light…and all the younger gods breathed balance between themselves and their sisters and brothers. These younger gods lived in the flow of that gentle river of life,
+                            sprung from the beginning of creation.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            And when Nau saw that creation was finished, he passed it on to the younger gods and pledged them to continue to preserve all he had created.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Nau went off by himself to rest&#46;&#46;&#46; and while he slept he dreamt. In that dream Nau walked through a mist and met Baushra&#39;; the younger god of Chaos.
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>  <!-- end keep-it-together Section 4 -->
                                                                   
                         
                                               
