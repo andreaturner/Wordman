@@ -445,50 +445,13 @@
                                 Servant but more friend and confidant to Toma Ra&#39; Elevou, Rosora was Tomas Fathers aide and took on the raising of his son on a deathbed request.
                             </dd>
                         
-                    
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
-                            
-<<<<<<< HEAD
-				</div>  <!-- end Glossary of Language div -->
+				</div>  <!-- end Glossary of Characters div -->
                 
-=======
-=======
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
-                            
-                            
-                            
-                            
-                            
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-                            
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
-=======
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                    </dl>
-				</div>
-					
+                  
 			<h3 style="font-weight: bold;">Glossary of Language</h3>
 				<div>
 				</div>
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
-=======
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
-=======
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
+
 			<h3 style="font-weight: bold;">Glossary of Plant &amp; Animal Life</h3>
 				<div>
 					<dl>
@@ -700,31 +663,16 @@
                                 the ground requiring much runway to accommodate the four wings and for that reason is hunted for food by cat.
                             </dd>
 					</dl>
-				</div> <!-- end animals and plant life div -->        
+				</div> <!-- end animals and plant life div -->
+                
             <h3 style="font-weight: bold;">Maps</h3>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 				<div>  <!-- start Maps div -->
 				</div>  <!-- end Maps div -->
             
             <h3 style="font-weight: bold;">Prologue</h3>
 				<div>  <!-- start Maps div -->
 				</div>  <!-- end Maps div -->
-                
-                
-=======
-				<div>
-				</div>
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
-=======
-				<div>
-				</div>
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
-=======
-				<div>
-				</div>
->>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
+              
             </div>    
         </div> <!-- end content div -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
@@ -747,11 +695,6 @@
 			});			
 			
 		</script>        
-        
-            
-            
-    
-                   
 
 <?php
     include ('../shared/footer.html');            
