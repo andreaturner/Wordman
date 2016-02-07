@@ -446,16 +446,23 @@
                             </dd>
                         
                     
+<<<<<<< HEAD
                             
 <<<<<<< HEAD
 				</div>  <!-- end Glossary of Language div -->
                 
 =======
+=======
+>>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
                             
                             
                             
                             
                             
+<<<<<<< HEAD
+=======
+                            
+>>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
                         
                         
                         
@@ -469,6 +476,9 @@
 			<h3 style="font-weight: bold;">Glossary of Language</h3>
 				<div>
 				</div>
+<<<<<<< HEAD
+>>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
+=======
 >>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
 			<h3 style="font-weight: bold;">Glossary of Plant &amp; Animal Life</h3>
 				<div>
@@ -684,6 +694,7 @@
 				</div> <!-- end animals and plant life div -->        
             <h3 style="font-weight: bold;">Maps</h3>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<div>  <!-- start Maps div -->
 				</div>  <!-- end Maps div -->
             
@@ -692,6 +703,10 @@
 				</div>  <!-- end Maps div -->
                 
                 
+=======
+				<div>
+				</div>
+>>>>>>> parent of ed95104... Fixed alphabet links on glossary pages
 =======
 				<div>
 				</div>
