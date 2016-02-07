@@ -575,7 +575,7 @@
                                 <li><a href="#A">A</a></li> 
                                 <li>B</li>
                                 <li><a href="#C">C</a></li>
-                                <li>D</li>
+                                <li><a href="#D">D</a></li>
                                 <li>E</li>
                                 <li><a href="#F">F</a></li>
                                 <li><a href="#G">G</a></li>
@@ -621,19 +621,45 @@
                                     <a href="#top"><span>&#x21e7;</span>Back to Top</a>
                                 </div>
                                                     
-                                                
+                    <a name="D"><h1>D</h1></a>
+                        <dt>Daca&#39;</dt>
+                            <dd>
+                                <span>(Dock-ah)</span> Unit of time measurement on Axtoph close to a Terran day & night.
+                            </dd>
+                        <dt>Da-coup</dt>
+                            <dd>
+                                <span>(Da-koo)</span> Unit of time measurement on Axtoph close to a Terran hour.
+                            </dd>
+                        
+                            <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                            
                     <a name="F"><h1>F</h1></a>
                         <dt>Frasha</dt>
                             <dd>
                                 <span>(Frau-shaw)</span> A Sanchean term of admonishment meaning &ldquo;Be Still long enough to hear your thoughts before you give birth to words.&rdquo;
                             </dd>
-                                                    
+                       <dt>Forearm</dt>
+                            <dd>
+                                Unit of measurement on Axtoph. One forearm equals approx 1 foot.
+                            </dd>
+                             
                              <div class="back-to-top">
                                     <a href="#top"><span>&#x21e7;</span>Back to Top</a>
                                 </div>                   
                             
                     <a name="G"><h1>G</h1></a>
-                        <dt>Gua-tost</dt>
+                        <dt>Goldweight</dt>
+                            <dd>
+                                Unit of measurement on Axtoph. 1 goldweight equals approx 1 pound.
+                            </dd>
+                        <dt>Guild</dt>
+                            <dd>
+                                A term of measurement or accomplishment used by most crafts but in this case the Mages in the Three Towers of Elbron on Axtoph. There are four guilds, one
+                                for each of the elements, earth, air, fire and water. A mage’s status is based on the guilds they have mastered which are displayed in some way upon their attire.
+                            </dd>
+                       <dt>Gua-tost</dt>
                             <dd>
                                 <span>(Gwa-toss)</span> A name roughly translated to mean &ldquo;the guarded ones,&rdquo; used by the Ti-breen and Panduran cats when referring to the Shing-haut Priests in
                                 Iftmus who are training the Panduran Cats in the twisted version of Sha-talon.
@@ -682,7 +708,11 @@
                             <dd>
                                 Panduran male cat&#39;s term of belittlement for the female of their species
                             </dd>
-                                                    
+                        <dt>Span</dt>
+                            <dd>
+                                Axtoph unit of measurement, equivalent to a year.
+                            </dd>
+                            
                             <div class="back-to-top">
                                     <a href="#top"><span>&#x21e7;</span>Back to Top</a>
                                 </div>
@@ -697,33 +727,7 @@
                             <div class="back-to-top">
                                     <a href="#top"><span>&#x21e7;</span>Back to Top</a>
                                 </div>
-                    <h1>Units of Measurement</h1>
-                        <dt>Daca&#39;</dt>
-                            <dd>
-                                <span>(Dock-ah)</span> Unit of time measurement on Axtoph close to a Terran day & night.
-                            </dd>
-                        <dt>Da-coup</dt>
-                            <dd>
-                                <span>(Da-koo)</span> Unit of time measurement on Axtoph close to a Terran hour.
-                            </dd>
-                        <dt>Forearm</dt>
-                            <dd>
-                                Unit of measurement on Axtoph. One forearm equals approx 1 foot.
-                            </dd>
-                        <dt>Goldweight</dt>
-                            <dd>
-                                Unit of measurement on Axtoph. 1 goldweight equals approx 1 pound.
-                            </dd>
-                        <dt>Guild</dt>
-                            <dd>
-                                A term of measurement or accomplishment used by most crafts but in this case the Mages in the Three Towers of Elbron on Axtoph. There are four guilds, one
-                                for each of the elements, earth, air, fire and water. A mage&#39;s status is based on the guilds they have mastered which are displayed in some way upon their attire.
-                            </dd>
-                        <dt>Span</dt>
-                            <dd>
-                                Axtoph unit of measurement, equivalent to a year.
-                            </dd>
-                                                    
+                            
 				</div>  <!-- end Glossary of Language div -->
                 
 			<h3 style="font-weight: bold;">Glossary of Plant &amp; Animal Life</h3>
@@ -1035,18 +1039,19 @@
                                 the ground requiring much runway to accommodate the four wings and for that reason is hunted for food by cat.
                             </dd>
 					</dl>
-				</div> <!-- end animals and plant life div -->
-                
+				</div> <!-- end animals and plant life div -->        
             <h3 style="font-weight: bold;">Maps</h3>
 				<div>  <!-- start Maps div -->
 				</div>  <!-- end Maps div -->
                 
-            <h3 style="font-weight: bold;">Prologue</h3>
+            <h3 style="font-weight: bold;">Prologues</h3>
 				<div>  <!-- start Prologues div -->
+                <div>  <!-- start Prologues div -->
+                
                     <div class="keep-it-together">
                         <div class="prologue-center-title">
                             Of Dreams, Like Mist
-                        </div>
+                        </div> 
                         
                         <div class="prologue-center">
                             &ldquo;There is a hunger in the void,<br>
@@ -1098,11 +1103,35 @@
                         </div>
                         
                         <div class="prologue-text">
-                            
+                            <span class="pt-oet">T</span>hunder-roared challenges shook the air; pummeling nature as two Li-horan cat circled each other warily. The combatants were
+                            dust covered and panting, each bearing bloody wounds that would,, possibly one day,, be worn as scars and embellished by the bragging stories
+                            of old cat. Scores of cat backed one or the other Li-horan, each adding to the tangle of snarled mind speak, as the two males vied for the
+                            right to rule. Dozens of prides of cat watched from the hillside above with no allegiance, save being anxious to witness either cat draw more blood. 
                         </div>
+                        
+                        <div class="prologue-text">
+                            The younger Li-horan was less winded but his breathing was quickened from youthful uncertainty. He was strong but unseasoned; the lack of years
+                            served up brash bravado. <span class="italic">&ldquo;Surrender yourself p&#39;hac!&rdquo;</span>
+                         <div>
+                            
+                        <div class="prologue-text">
+                             The elder was more fatigued but betrayed it less as he sparred with confident moves. He eyed the younger cat measuring him to have more stamina
+                             in the stretch, yet in the short term he would be predictably reckless.<span class="italic"> &ldquo;Not this sunwalk! I would sooner relinquish right to
+                             rule to a Ch&#39;aun than submit to an arrogant cub!&rdquo;</span>
+                         <div>
+                            
+                        <div class="prologue-text">
+                            <span class="italic">&ldquo;Your mindspeak is empty. I am the stronger!&rdquo;</span> The younger could smell his advantage but still yearned for some
+                            physical betrayal on the part of his adversary.
+                         <div>
+                         
+                         
+                            
                         
                         
                     </div>  <!-- end keep-it-together div -->
+			
+                
 				</div>  <!-- end Prologues div -->
             </div>    
         </div> <!-- end content div -->
@@ -1125,7 +1154,7 @@
 				});
 			});			
 			
-        </script>        
+		</script>        
         
             
             

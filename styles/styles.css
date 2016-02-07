@@ -1329,7 +1329,7 @@ a:hover {
 
 .prologue-text {
     font-family: 'Lora', serif;
-    font-size: large;
+    font-size: larger;
     overflow: visible;
     padding-top: 0.5%;
     margin: 0 auto;
@@ -1337,7 +1337,8 @@ a:hover {
     width: 75%;
 }
 
-.prologue-text span {
+.prologue-text .pt-oet {
     font-family: 'Old English Text MT';
-    font-size: 120%;
+    font-size: 130%;
 }
+
