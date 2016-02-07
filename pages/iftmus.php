@@ -1046,9 +1046,9 @@
                 
             <h3 style="font-weight: bold;">Prologue</h3>
 				<div>  <!-- start Prologues div -->
-                <div>  <!-- start Prologues div -->
                 
-                    <div class="keep-it-together">
+                <!--  Section 1 -->
+                    <div class="keep-it-together">  <!-- start keep-it-together dive Section 1 -->
                         <div class="prologue-center-title">
                             Of Dreams, Like Mist
                         </div> 
@@ -1174,7 +1174,97 @@
                             For but a brief moment, something in the heavens took notice of dreams like mist.
                         </div>
                         
-                    </div>  <!-- end keep-it-together div -->
+                    </div>  <!-- end keep-it-together div section 1-->
+                    
+                    <!-- Section 2 -->
+                    
+                    <div class="keep-it-together"> <!-- start keep-it-together div Section 2 -->
+                        
+                        <div class="prologue-psi">
+                            &#936;
+                        </div>
+                        
+                        <div class="prologue-text">
+                            <span class="pt-oet">T</span>he war was not going well. The Elvon warlords had been held on two fronts, but a major push of late had brought over ten Besto&#39;maka of Dragonlords, each commanding twenty units to the gates of Elbron,
+                            the queen city of the Da-ton&#39; Empire. 
+                        </div>
+                        
+                        <div class="prologue-text">
+                            On sea, the once victorious Elvon fleets had finally been reduced to less a threat, owed in part to the fragile treaty between the Mage Council and the Syrans, the usually placid underwater race of Masuin&#39;wahle.
+                            The ancient species had finally and fortuitously been persuaded to ally with the Mage Council.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Despite the favorable outcome of so many crucial battles of late, it seemed the three towers of the Mages now suddenly found itself at risk. What looked to be the final siege of the war was now being waged on a new
+                            front. The battle that had started spans back in the Elvon woods of Helgstrum was culminating here at Elbron and might well determine whether the Da-ton&#39; Empire would be a council ruled coalition of United kingdoms,
+                            or slaves to the Elvon race. This final battle could ultimately determine two spans of brutal war!
+                        </div>
+                        
+                        <div class="prologue-text">
+                            In the pit of the Three Towers, water bled through the stone walls of ancient dungeons, shedding tears down tired rock. Reflected shadows mimicked the sounds of battle outside as the Elv, Etue Bonfir of the Tashon Tribe,
+                            was dragged across blood stained sand by two Denrus Trolya guards and thrown down before the Dwarif Mage.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Though he struggled and cursed it was to no avail!  The Mage walked up to the captive Elv. He waited until the prisoner finally raised his head and their eyes met. &ldqup;Whatever possessed you Etue? Did you think we would
+                            not divine the purpose of this vile artifact of yours?&rdquo;
+                        </div>
+                        
+                        <div class="prologue-text">
+                            The Dwarif accusingly held up an intricate staff. This was the Willaward&#46;&#46;&#46; and for all its beauty it had been crafted most foul. It was finely spun from thin filaments of glass. The crystal tendrils wove like living vine,
+                            in and around themselves, to form an exquisite rod; complex and busy yet still smooth to the touch. Within the spinning of the filaments, intricate patterns could be seen, each embracing a whisper of the dark magic held
+                            in the heart of the staff. For any who could perceive, it sang of its own twisted dreams with the voices of the dead souls contained within.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Etue tried to curse but his swollen lip and broken teeth denied him speech and would not allow the indulgence of more vulgarity. Instead he settled for spitting blood at his captor. The Elv struggled to grab for the staff but the
+                            attempt was rendered impotent by the strong Trolya guard.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            The young Dwarif slowly wiped his cheek with a look of profound sadness. &ldquo;How many of your own did you sacrifice to obtain this power? This is not life and blood but the power of death and lost souls! Gods&#46;&#46; do you hate so much?&rdquo;
+                            The Mage whirled; angered that he must be the one to pronounce the words. &ldquo;By your actions and your heresy, you and your race have condemned yourselves!&rdquo; The last, he said with more regret than he was formally allowed to show.
+                            It did not matter. The deed was done and the word had been spoken.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Seven mages chanted in the shadows while seven more drew in the dust at their feet. They traced sigils, patterns, each touched with a drop of their own blood.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Samone, First Mage of the High Council, held up the Willaward. Air screamed as fire danced and embraced the breath of earth in swirls around it.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Etue strained, crazed when he realized their purpose. He managed a scream, struggling with demonic ferocity, but it was too late. At that moment, with a command from Samone, the will and the word leapt hungrily upon the Willaward.
+                            There was a clap of thunder as the elements collided, one that made the world of Axtoph go deaf and freeze. Etue gasped, as if trying to plead with an angry god. &ldquo;Forgive&#46;&#46;&#46;&rdquo; and he dropped dead where he knelt.
+                            Samone let a quiet tear run down his face. &ldquo;There is no forgiveness for what we, the both of us, have done here my friend.&rdquo;
+                        </div>
+                        
+                        <div class="prologue-text">
+                            For but a brief moment the thunder and the sounds of war disappeared, along with the souls of every once living Elv. Their race was now decimated down to the last.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            For but a brief moment something in the heavens took notice of dreams like mist.
+                        </div>
+                    </div>  <!-- end keep-it-together div Section 2-->
+                    
+                    <!-- Section 3 -->
+                    
+                    <div class="keep-it-together"> <!-- start keep-it-together div Section 3 -->
+                        
+                        <div class="prologue-psi">
+                            &#936;
+                        </div>
+                        
+                        
+                    </div>  <!-- end keep-it-together div Section 3-->
+                                                                  
+                        
+                                              
+                        
+
 			
                 
 				</div>  <!-- end Prologues div -->
