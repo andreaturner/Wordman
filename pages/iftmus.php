@@ -609,10 +609,6 @@
                                 &ldquo;heart of my past still beating&rdquo;.
                             </dd>
                             
-                            
-                            
-                            
-                            
 				</div>  <!-- end Glossary of Language div -->
                 
 			<h3 style="font-weight: bold;">Glossary of Plant &amp; Animal Life</h3>
@@ -928,6 +924,12 @@
             <h3 style="font-weight: bold;">Maps</h3>
 				<div>  <!-- start Maps div -->
 				</div>  <!-- end Maps div -->
+            
+            <h3 style="font-weight: bold;">Prologue</h3>
+				<div>  <!-- start Maps div -->
+				</div>  <!-- end Maps div -->
+                
+                
             </div>    
         </div> <!-- end content div -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
