@@ -1044,7 +1044,7 @@
 				<div>  <!-- start Maps div -->
 				</div>  <!-- end Maps div -->
                 
-            <h3 style="font-weight: bold;">Prologues</h3>
+            <h3 style="font-weight: bold;">Prologue</h3>
 				<div>  <!-- start Prologues div -->
                 <div>  <!-- start Prologues div -->
                 
@@ -1112,22 +1112,67 @@
                         <div class="prologue-text">
                             The younger Li-horan was less winded but his breathing was quickened from youthful uncertainty. He was strong but unseasoned; the lack of years
                             served up brash bravado. <span class="italic">&ldquo;Surrender yourself p&#39;hac!&rdquo;</span>
-                         <div>
+                         </div>
                             
                         <div class="prologue-text">
                              The elder was more fatigued but betrayed it less as he sparred with confident moves. He eyed the younger cat measuring him to have more stamina
                              in the stretch, yet in the short term he would be predictably reckless.<span class="italic"> &ldquo;Not this sunwalk! I would sooner relinquish right to
                              rule to a Ch&#39;aun than submit to an arrogant cub!&rdquo;</span>
-                         <div>
+                         </div>
                             
                         <div class="prologue-text">
                             <span class="italic">&ldquo;Your mindspeak is empty. I am the stronger!&rdquo;</span> The younger could smell his advantage but still yearned for some
                             physical betrayal on the part of his adversary.
-                         <div>
-                         
-                         
+                         </div>
                             
+                        <div class="prologue-text">
+                            The elder knew better and allowed no such betrayal to show. <span class="italic">&ldquo;You are not strong, you are young and for it showing lack of wisdom right now!&rdquo; </span>
+                            The two of them circled warily, each feigning lunges to lure the other into a fatal mistake. Fetid breath hung over the scene; mock fog drifting downwind.
+                         </div>
+                            
+                        <div class="prologue-text">
+                            These types of confrontations and challenges were not uncommon at the turn of seasons. Two or more dominant cat would predictably challenge and fight for &ldquo;right to rule&rdquo;,
+                            until one would submissively roll to his back and relinquished claim. This was the custom as long as long as cat-lore had been recorded.
+                         </div>
+                            
+                        <div class="prologue-text">
+                            This sunwalk&#46;&#46;&#46; this particular conflict was about to become a prelude to a long anticipated curse. 
+                        </div>
+                            
+                        <div class="prologue-text">
+                            As the challenge continued to play out, several black Pan-duran cat appeared on the crest of a rock strewn hill. They were not as large as the Li-horan but more muscular with a longer stride.
+                        </div>
                         
+                        <div class="prologue-text">
+                            The dark cat looked on with disdain, as if all cat below were a matter of relative, insignificance. The sun behind them hid their presence allowing them to be little more than occasionally
+                            perceived shadows.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Their leader snarled softly, an order followed by a rabid drop of saliva coursing its way off his front tooth. All the Pan-durian&#39;s eyes flashed a yellow/brown, a crescendo of taint that
+                            bled from those eyes and fled down the hill; a wash of fire spreading out over all cat, including the two combatants. None below seemed to notice the phenomenon; the black cat snorted his
+                            approval and all the Panduran turned away, leaving the hilltop barren and mute.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Within a breath the two Li-horan cat gave a sudden roar of unbridled hatred and bloodlust. They leapt at each other, two massive bodies colliding with a savage tearing of flesh and
+                            heedless spilling of blood. The carnage might well have been narcotic. Both prides of the two challengers, twenty-nine male and female Li-horan cat also rushed each other, all with the
+                            sole intent of a kill!
+                        </div>
+                        
+                        <div class="prologue-text">
+                            It took only moments &#39;till thunderous roars turned to screams. The screams transcended to cries. The cries subsided to whimpers. Twenty Li-horan cat lay dead while seven more lay mortally wounded,
+                            crippled or maimed. The blood stained land bore silent testimony to the carnage, punctuated by dying breaths.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            Never in the histories of Ky-lor had cat so blatantly spilled the deathblood of cat. In less than a moment almost two prides were decimated! For but a brief moment, Iftmus, the land and its inhabitants
+                            stared in breathless shock.
+                        </div>
+                        
+                        <div class="prologue-text">
+                            For but a brief moment, something in the heavens took notice of dreams like mist.
+                        </div>
                         
                     </div>  <!-- end keep-it-together div -->
 			
