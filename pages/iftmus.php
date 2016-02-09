@@ -1319,7 +1319,7 @@
                         
                         <div class="prologue-text">
                             And though these were the names of only a few of the younger gods, the result was ultimately the same. Where there was black there was white, night and day, water and earth, good,
-                            evil, dark and light…and all the younger gods breathed balance between themselves and their sisters and brothers. These younger gods lived in the flow of that gentle river of life,
+                            evil, dark and light&#46;&#46;&#46; and all the younger gods breathed balance between themselves and their sisters and brothers. These younger gods lived in the flow of that gentle river of life,
                             sprung from the beginning of creation.
                         </div>
                         
@@ -1331,25 +1331,42 @@
                             Nau went off by himself to rest&#46;&#46;&#46; and while he slept he dreamt. In that dream Nau walked through a mist and met Baushra&#39;; the younger god of Chaos.
                         </div>
                         
+                        <div class="prologue-text">
+                            &ldquo;Why have thee left thy place and abandoned thy portion unattended, coming to meet me as such my son?&rdquo;
+                        </div>
                         
+                        <div class="prologue-text">
+                            Baushra&#39; looked at Nau with deep smoldering hatred, hatred born of pride and arrogance. &ldquo;I am not your son but rather your slave who wishes to wake from the dream you hath
+                            created and therefore I confront you in another!&rdquo;
+                        </div>
                         
+                        <div class="prologue-text">
+                            &ldquo;Curse you for it is your word and your will! What of mine? I shall be who I say I shall be! I will not remain shackled to what you would have me play out!  If I am your son than
+                            prove it as such. For my legacy should be all that we embrace, not merely a part.&rdquo;
+                        </div>
                         
+                        <div class="prologue-text">
+                            Nau tried to counter, &ldquo;The Word and The Will&rdquo; must continue from here to create a legacy of its own. Thee are a part of it and therefore precious!
+                        </div>
                         
+                        <div class="prologue-text">
+                            Baushra continued to argue but Nau was tired and as he slipped out of his dream, mumbled in his sleep. &ldquo;I cannot give thee what thee ask my son. The word has been spoken and
+                            the will freely given. All of my children must Understand&#46;&#46;&#46; what is done is done. No river flows backwards!&rdquo; The mist around the sleeping god
+                            coalesced and turned to tears. Just for a brief moment, between sleep and dream, Chaos was forced back to his place, for &ldquo;The Word and the Will&rdquo; were strong.
+                        </div>
                         
+                        <div class="prologue-text">
+                            But just for that brief moment Baushra&#39; stood outside &ldquo;The Word and the Will&rdquo; and hissed, &ldquo;I have seen what you have created and will not serve to be merely a part of it!
+                            I challenge your word and I shall undo your will! When I leave this dream and step from its mist! You and all that is yours will submit to me&#46;&#46;&#46; or suffer my will&#46;&#46;&#46; for this&#46;&#46;&#46;
+                            this is my word!&rdquo;
+                        </div>
                         
                     </div>  <!-- end keep-it-together Section 4 -->
-                                                                  
-                        
-                                              
-                        
-
-			
-                
+                    
 				</div>  <!-- end Prologues div -->
             </div>    
         </div> <!-- end content div -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-
 
 <!-- jquery library -->
 		<!--<script src="../scripts/jquery-1.11.3.js"></script> -->
@@ -1369,11 +1386,6 @@
 			
 		</script>        
         
-            
-            
-    
-                   
-
 <?php
     include ('../shared/footer.html');            
 ?>
