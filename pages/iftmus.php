@@ -85,9 +85,9 @@
                                 <li><a href="#S">S</a></li>
                                 <li><a href="#T">T</a></li>
                                 <li><a href="#U">U</a></li>
-                                <li><a href="#V">V</a></li>
-                                <li><a href="#W">W</a></li>
-                                <li><a href="#X">X</a></li>
+                                <li>V</li>
+                                <li>W</li>
+                                <li>X</li>
                                 <li><a href="#Y">Y</a></li>
                                 <li><a href="#Z">Z</a></li>
                             </ul>
@@ -529,7 +529,7 @@
                                 </div>
                                 
                             <a name="U"><h1>U</h1></a>
-                            <dt>Urista Se&$39; Tem Armester</dt>
+                            <dt>Urista Se&#39; Tem Armester</dt>
                             <dd>
                                 <span>(Your-ista Sa Tem R-mess-tur)</span> First Mage to the Wizards Council last living descendent of the Armester Family, the longest ruling
                                 family of the Three Towers on Axtoph. Their family&#39;s reign was only interrupted by Samone being raised to First Mage during a brief war where his power and
