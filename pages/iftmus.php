@@ -461,8 +461,8 @@
                                 <span>(Sheshonk the fourth)</span> Egyptian Pharaoh 760 BC
                             </dd>
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                                 
                             <a name="T"><h1>T</h1></a>
                         <dt>Ta-posh</dt>
@@ -488,8 +488,8 @@
                                 the dragons to the Dragon-Lords.
                             </dd>
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                                 
                             <a name="U"><h1>U</h1></a>
                             <dt>Urista Se&#39; Tem Armester</dt>
@@ -500,8 +500,8 @@
                                 the Straits Of Fe&#39;tuer.
                             </dd>
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                                 
                             <a name="Y"><h1>Y</h1></a>
                             <dt>Ya-siff Amaur</dt>
@@ -517,8 +517,8 @@
                                     <span>(Yo-shef Sauv-ver-austa)</span> Second to Goston leader of the underground against the Shinghaut in Babylon.
                                 </dd>
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                                 
                             <a name="Z"><h1>Z</h1></a>
                             <dt>Zacora Tem&#39; Malua</dt>
@@ -530,8 +530,9 @@
 					
 			<h3 style="font-weight: bold;">Glossary of Language</h3>
 				<div>  <!-- start Glossary of Language div -->
-                    <a name="top"></a>
-                    
+                <div>
+                        <a name="top"></a>
+                 
                     <div class="nav">
                         <nav>
                             <ul class="nav4">
@@ -571,9 +572,9 @@
                                 <span>(Ah-new-sk)</span> A Sanchean term of endearment loosely translated means &ldquo;much beloved&rdquo; or when traced to it&#39;s Elvon derivatives
                                 &ldquo;heart of my past still beating&rdquo;.
                             </dd>
-                        <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                            <div class="back-to-top">
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                     
                     <a name="C"><h1>C</h1></a>
                         <dt>Caush&#39;ca</dt>
@@ -581,8 +582,8 @@
                                 <span>(Kaw-shh-kaw)</span> Formal name used to address any Mage usually accompanied with a salute of the right hand held palm downward at heart level.
                             </dd>
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                                                     
                     <a name="D"><h1>D</h1></a>
                         <dt>Daca&#39;</dt>
@@ -595,8 +596,8 @@
                             </dd>
                         
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
                     <a name="F"><h1>F</h1></a>
                         <dt>Frasha</dt>
@@ -609,8 +610,8 @@
                             </dd>
                              
                              <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>                   
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                             </div>
                             
                     <a name="G"><h1>G</h1></a>
                         <dt>Goldweight</dt>
@@ -629,8 +630,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
                     <a name="I"><h1>I</h1></a>
                        <dt>Isasha</dt>
@@ -639,8 +640,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
                     <a name="P"><h1>P</h1></a>
                        <dt>Psh-stafa</dt>
@@ -649,8 +650,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
                     <a name="R"><h1>R</h1></a>
                        <dt>Raco&#39;</dt>
@@ -659,8 +660,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
                     <a name="S"><h1>S</h1></a>
                        <dt>Saken&#39;</dt>
@@ -677,8 +678,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
                             
                     <a name="W"><h1>W</h1></a>
                        <dt>Worsha</dt>
@@ -688,9 +689,9 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
-                            
+                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                            </div>
+                           
 				</div>  <!-- end Glossary of Language div -->
                 
 			<h3 style="font-weight: bold;">Glossary of Plant &amp; Animal Life</h3>
@@ -925,8 +926,8 @@
                                 Is hunted by the larger cats as the main source of food supply.
                             </dd>
                         <div class="back-to-top">
-                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                            <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                        </div>
                                 
                             <a name="S"><h1>S</h1></a> 
 						<dt>Sa-bata Cat</dt> 
