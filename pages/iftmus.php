@@ -11,43 +11,6 @@
         <div class="series-pic-center">
             <a href="iftmus-series.php"><img src="../images/iftmus-cover-934x700.jpg" width="934" height="700" alt="Iftmus image"></a>
         </div>
-        
-        <div class="keep-it-together">
-            <div class="series-text-book-iftmus">
-            <span class="large">P</span>rophecy is fulfilled as nine reluctant heroes come together, three from each of the threatened worlds, Iftmus, Axtoph and Terra. Baushra&#39;,
-            the anti-thesis of the creative force has found its&#39; host disciples in the Shinghaut priest of the late Babylon. They in turn have passed
-            their deadly gifts on to thier new pawns on each of the three worlds. Now Iftmus, the land cats are in their death throes as the newly perverted
-            magics of Sha-talon twist and pervert the balance of Flow.
-        </div>
-        <div class="series-text-book-iftmus">
-            <span class="large">T</span>he nine comrades are pursued from the moment the first six of them come together on Iftmus. As they flee, they meet with the last remaining three
-            and piece together some of the related prophesies. Since their own worlds are threatened as well, they are forced by events to set off in search
-            of Greenstone, the corridor between all three worlds.
-        </div>
-        <div class="series-text-book-iftmus">
-            <span class="large">W</span>ithin that quest they must not only discover the powers of Greenstone but also unravel the truth behind the long vanished race of Abyssinian cat
-            who possessed the magics before the Panduran cat claimed thier new twisted version. It is here that one of the heroes must bury the demon of his own madness
-            lest it betray his true motives. Another must do battle with race and age prejudices before they can even begin to confront the true enemy. A third must
-            die and lose all innocence, if others are ever to be granted a chance at any type of life.
-        </div>
-        <div class="series-text-book-iftmus">
-            <span class="large">G</span>reenstone is a religious artifact, rumored to be hidden in an area of Iftmus known as Fina&#39;sha Falls where the tri-rivers meet and tumble
-            into a bottomless abyss. Fina&#39;sha Falls, a holy place, inhabited by the Nashanti, a large religious cult of fanatical purebred cat who will kill or
-            be killed before letting these sacred grounds, the symbol of their heritage, be desicrated by outsiders or any noname Ch&#39;aun cat.
-        </div>
-            <div class="series-text-book-iftmus">
-            <span class="large">T</span>he group&#39;s continuing quest finally forces them to enter the heart of the evil. They must make thier way beneath the firestorms that
-            sweep the sky in Pa-tan, and enter the forbidden fortress of Amas&#39;ka. There is a traitor in thier ranks and there is death among their own.
-        </div>
-            <div class="series-text-book-iftmus">
-            <span class="large">W</span>hy would a god and its disciple priests, who have already affected their plans, without hinderance, and run over all oppositon
-            on three worlds, fear them? For if indeed they do, the answer is not forthcoming since everything the group discovers only alludes to the horrors of their
-            own impending doom and the bleak fates of the worlds they came from!
-        </div>
-            
-        </div> <!-- end top keep-it-together div -->
-        
-        <div class="keep-it-together">
                           
             <div class="header-excerpts">
                 Glossary
@@ -498,8 +461,8 @@
                                 <span>(Sheshonk the fourth)</span> Egyptian Pharaoh 760 BC
                             </dd>
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                                 
                             <a name="T"><h1>T</h1></a>
                         <dt>Ta-posh</dt>
@@ -525,8 +488,8 @@
                                 the dragons to the Dragon-Lords.
                             </dd>
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                                 
                             <a name="U"><h1>U</h1></a>
                             <dt>Urista Se&#39; Tem Armester</dt>
@@ -537,8 +500,8 @@
                                 the Straits Of Fe&#39;tuer.
                             </dd>
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                                 
                             <a name="Y"><h1>Y</h1></a>
                             <dt>Ya-siff Amaur</dt>
@@ -554,8 +517,8 @@
                                     <span>(Yo-shef Sauv-ver-austa)</span> Second to Goston leader of the underground against the Shinghaut in Babylon.
                                 </dd>
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                                 
                             <a name="Z"><h1>Z</h1></a>
                             <dt>Zacora Tem&#39; Malua</dt>
@@ -567,9 +530,8 @@
 					
 			<h3 style="font-weight: bold;">Glossary of Language</h3>
 				<div>  <!-- start Glossary of Language div -->
-                <div>
-                        <a name="top"></a>
-                 
+                    <a name="top"></a>
+                    
                     <div class="nav">
                         <nav>
                             <ul class="nav4">
@@ -609,9 +571,9 @@
                                 <span>(Ah-new-sk)</span> A Sanchean term of endearment loosely translated means &ldquo;much beloved&rdquo; or when traced to it&#39;s Elvon derivatives
                                 &ldquo;heart of my past still beating&rdquo;.
                             </dd>
-                            <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                        <div class="back-to-top">
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                     
                     <a name="C"><h1>C</h1></a>
                         <dt>Caush&#39;ca</dt>
@@ -619,8 +581,8 @@
                                 <span>(Kaw-shh-kaw)</span> Formal name used to address any Mage usually accompanied with a salute of the right hand held palm downward at heart level.
                             </dd>
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                                                     
                     <a name="D"><h1>D</h1></a>
                         <dt>Daca&#39;</dt>
@@ -633,8 +595,8 @@
                             </dd>
                         
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                             
                     <a name="F"><h1>F</h1></a>
                         <dt>Frasha</dt>
@@ -647,7 +609,7 @@
                             </dd>
                              
                              <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
                              </div>
                             
                     <a name="G"><h1>G</h1></a>
@@ -667,8 +629,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                             
                     <a name="I"><h1>I</h1></a>
                        <dt>Isasha</dt>
@@ -677,8 +639,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                             
                     <a name="P"><h1>P</h1></a>
                        <dt>Psh-stafa</dt>
@@ -687,8 +649,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                             
                     <a name="R"><h1>R</h1></a>
                        <dt>Raco&#39;</dt>
@@ -697,8 +659,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                             
                     <a name="S"><h1>S</h1></a>
                        <dt>Saken&#39;</dt>
@@ -715,8 +677,8 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
                             
                     <a name="W"><h1>W</h1></a>
                        <dt>Worsha</dt>
@@ -726,9 +688,9 @@
                             </dd>
                             
                             <div class="back-to-top">
-                                <a href="#top"><span>&#x21e7;</span>Back to Top</a>
-                            </div>
-                           
+                                    <a href="#top"><span>&#x21e7;</span>Back to Top</a>
+                                </div>
+                            
 				</div>  <!-- end Glossary of Language div -->
                 
 			<h3 style="font-weight: bold;">Glossary of Plant &amp; Animal Life</h3>
@@ -1043,6 +1005,9 @@
 				</div> <!-- end animals and plant life div -->        
             <h3 style="font-weight: bold;">Maps</h3>
 				<div>  <!-- start Maps div -->
+                <div class="series-pic-center">
+                    <a href="iftmus-series.php"><img src="../images/MAP-1080x800.jpg" width="1080" height="800" alt="Map"></a>
+                </div>
 				</div>  <!-- end Maps div -->
                 
             <h3 style="font-weight: bold;">Prologue</h3>
