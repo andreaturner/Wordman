@@ -1361,6 +1361,7 @@
                             this is my word!&rdquo;
                         </div>
                         
+                        <!-- end Section 4 -->
                     </div>  <!-- end keep-it-together Section 4 -->
                     
 				</div>  <!-- end Prologues div -->
