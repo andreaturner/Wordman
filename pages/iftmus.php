@@ -1014,7 +1014,7 @@
 				<div>  <!-- start Prologues div -->
                 
                 <!--  Section 1 -->
-                    <div class="keep-it-together">  <!-- start keep-it-together dive Section 1 -->
+                    <div class="keep-it-together">  <!-- start keep-it-together div Section 1 -->
                         <div class="prologue-center-title">
                             Of Dreams, Like Mist
                         </div> 

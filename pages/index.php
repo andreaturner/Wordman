@@ -10,9 +10,9 @@
             </div>
             
             <div class="contact-text">
-                <span class="italic"><span class="large">&ldquo;N</span>othing needs to be said, yet everything needs to be spoken of. There is
-                no need of lecture yet there is a passionate thirst for discussion. Knowledge is not just a book as much as that which any
-                any  mind can expound on the narrative. We all need to grow and change as desperately as any species that is so endangered.&rdquo;
+                <span class="italic"><span class="large">&ldquo;W</span>e sometimes grow more and more curious with time which is only natural as well as healthy.
+                When we stop engaging we are destined to wither and die. Consider us blessed to be part of an age where information that might lead to insight is at
+                our fingertips. Whether we use or abuse it is still a question in the wind. We all need to grow and change, as desperately as any species that is so endangered!&rdquo;
                 </span>
             </div>
             

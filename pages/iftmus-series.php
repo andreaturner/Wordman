@@ -5,13 +5,14 @@
     <div class="content">
         <div class="book-series-summary">
             <div class="header">
-                <a href="iftmus.php">Iftmus</a>
+                <a href="iftmus-chpt-1.php">Iftmus</a>
             </div>
+            <br>
             <div class="small-header">
-                <a href="iftmus-book1.php">Book I&nbsp;&nbsp; Iftmus: Of Dreams Like Mist</a>
+                <a href="iftmus-chpt1.php">Book I&nbsp;&nbsp; Iftmus: Of Dreams Like Mist</a>
             </div>
             <div class="series-pic-iftmus">
-                <a href="iftmus-book1.php"><img src="../images/iftmus-of-dreams-like-mist-177x250.jpg" width="177" height="250" alt="Of Dreams Like Mist Image" /></a>
+                <a href="iftmus-chpt-1.php"><img src="../images/iftmus-of-dreams-like-mist-177x250.jpg" width="177" height="250" alt="Of Dreams Like Mist Image" /></a>
             </div>
             <div class="series-text-axtoph">
                 <span>P</span>rophecy is fulfilled as nine reluctant heroes come together, three from each of the threatened worlds, Iftmus, Axtoph and Terra. Baushra&#39;,
@@ -26,10 +27,10 @@
                 </div>
         </div>
         <div class="read-more">
-            <a href="iftmus-book1.php">Read more!</a>
+            <a href="iftmus-chpt-1.php">Read more!</a>
         </div>
      
-     <div class="book-series-summary">
+        <div class="book-series-summary">
             <div class="small-header">
                 <a href="iftmus-book2.php">Book II&nbsp; Axtoph: To Embrace The Night</a>
             </div>
@@ -47,11 +48,9 @@
                 the ruling Mage Council reside.
                 </div>
     </div>
-            <div class="read-more">
-                <a href="iftmus-book2.php">Read more!</a>
-            </div>
+           <br><br><br> 
         
-    <div class="book-series-summary">
+        <div class="book-series-summary">
             <div class="small-header">
                 <a href="iftmus-book3.php">Book III Terra: To Chase A Shadow</a>
             </div>
@@ -71,12 +70,9 @@
                 Empire. In blood and suffering they will change history and condemn the world to a new dark age.
                 </div>
     </div>
-    
-        <div class="read-more">
-            <a href="iftmus-book3.php">Read more!</a>
-        </div>
-
-    <div class="book-series-summary">
+            <br><br><br>
+            
+        <div class="book-series-summary">
             <div class="small-header">
                 <a href="iftmus-book4.php">Book IV Return To Iftmus: That None Shall Remain</a>
             </div>
@@ -97,10 +93,7 @@
             </div>
             
     </div>
-            <div class="read-more">
-                <a href="iftmus-book4.php">Read more!</a>
-            </div>
-            
+                        
             <div class="return-bottom">
 				<a href="iftmus.php">Return to Iftmus Home Page</a>
 			</div>

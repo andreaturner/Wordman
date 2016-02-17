@@ -101,6 +101,18 @@ a:hover {
     margin-bottom: 10px; 
 }
 
+.header-chapter {
+   font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-top: 20px; 
+}
+
+.header-chapter span {
+    font-size: 130%;
+}
+
 .header-left span {
     font-size: 130%;
 }
@@ -1296,11 +1308,16 @@ a:hover {
     margin-right: 10px;
 }
 
-.prologue-center-title {
+.prologue-center-title-chapter {
     font-size: xx-large;
     font-weight: bold;
     text-align: center;
     font-family: "lucida calligraphy",arial,'sans serif';
+    padding-top: 1%;
+}
+.prologue-center-title-chapter span {
+    font-weight: 400;
+    font-size: 120%;
 }
 .prologue-center {
     text-align: center;
@@ -1321,11 +1338,11 @@ a:hover {
     font-size: small;
 }
 
-.prologue-psi {
+.prologue-psi-chapter {
     font-size: 3em;
     font-weight: bold;
     text-align: center;
-    padding-top: 2.5%;
+    padding-top: 1.5%;
 }
 
 .prologue-text {

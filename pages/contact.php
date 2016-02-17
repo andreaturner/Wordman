@@ -16,14 +16,15 @@
 			<img src="../images/gibran-392x500.jpg" width="392px" height="500px" alt="Gibran Drawing" />
 		</div>
 			<div class="contact-text">
-				<span class="italic"><span class="large">T</span>here is a responsibility in communication that goes a step futher than any rant or rage.
-				Contact or interaction demands a modicum of responsible thought and an equal portion of insight. There is a solemn contract of calm intellectual
-				discourse in any exchange of information.</span>
+				<span class="italic"><span class="large">&ldquo;I</span>n the act of communication there is a responsibility by all parties to stay away from &ldquo;rant or rage&rdquo;.
+				Interaction demands a modicum of responsible thought and mutual respect. Calm intellectual discourse is the only road to insight and possible change. The goal
+				must be to learn and grow otherwise it is all for naught. Difference of opinion does not warrant or condone emotional outbursts or the mindless rhetoric of childish arguments!&rdquo;</span>
 			</div>
-			<div class="contact-text">		
-				<span class="italic"><span class="large">T</span>here is a goal to learn and grow or give silent thought when that end cannot be met. Difference
-				of opinion does not warrant or condone emotional outbursts or the rhetoric of childish arguments.</span>
-			</div>
+			
+			<div class="credit">
+                    <span>E</span>ric <span>K</span>och
+        </div>
+			
 		</div>
     
 <?php
