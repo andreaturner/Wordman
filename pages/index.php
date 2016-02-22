@@ -20,7 +20,5 @@
                     <span>E</span>ric <span>K</span>och
             </div>
         </div>      
-<?php
-    include ('../shared/footer.html');            
- ?>     
+   
        

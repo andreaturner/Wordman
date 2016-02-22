@@ -27,9 +27,7 @@
 			
 		</div>
     
-<?php
-    include ('../shared/footer.html');            
-?>    
+    
 
 
 			

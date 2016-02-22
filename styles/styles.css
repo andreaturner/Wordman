@@ -15,8 +15,8 @@ html, body {
     background-color: #eee;
     /*background-repeat: repeat-y;*/
     margin:0;
-	padding:0;
-	height:100%;
+    padding:0;
+    height:100%;
 }
 
 .main {
@@ -1284,13 +1284,14 @@ a:hover {
     width: 75%;
     text-align: left;
     float: left;
-    padding-top: 10px;
-    padding-left: 190px;
+    padding-top: 1%;
+    padding-left: 10%;
+    text-indent: 2.5%;
 }
 
 .credit {
     font-family: "vivaldi";
-    font-size: larger;
+    font-size: large;
     text-align: right;
     padding-right: 430px;
 }

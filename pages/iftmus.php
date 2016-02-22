@@ -1006,7 +1006,7 @@
             <h3 style="font-weight: bold;">Maps</h3>
 				<div>  <!-- start Maps div -->
                 <div class="series-pic-center">
-                    <a href="iftmus-series.php"><img src="../images/MAP-1080x800.jpg" width="1080" height="800" alt="Map"></a>
+                    <a href="iftmus-series.php"><img src="../images/MAP-950x700.jpg" width="950" height="700" alt="Map"></a>
                 </div>
 				</div>  <!-- end Maps div -->
                 
