@@ -160,14 +160,33 @@
             </div>
             
             <div class="prologue-text">
-                The river, Tears of Rensis, swept in from the furthest boundaries of the three provinces and met in the middle of Iftmus at the bottomless falls of Fina’sha, the singular place where the tip of
-                each of the provinces touched. Something stirred in Fa-tera’s heart. She silently vowed to make a pilgrimage to those falls in the near future.
+                The river, Tears of Rensis, swept in from the furthest boundaries of the three provinces and met in the middle of Iftmus at the bottomless falls of Fina&#39;sha, the singular place where the tip of
+                each of the provinces touched. Something stirred in Fa-tera&#39;s heart. She silently vowed to make a pilgrimage to those falls in the near future.
             </div>
             
             <div class="prologue-text">
                 Nalas&#39;, the stone monoliths that surrounded the cats were a huddle of shadows from the past. The large stones were veined with greenstone and had been placed there by the Abyssinian cats
                 that once dwelt in La-mor. There was a peace to their presence, a tie with the past and the heritage of all cat. Only once an eight-season did they stir, as they had the so many sunwalks
                 before when Fa-tera had prepared for this testing.
+            </div>
+            
+            <div class="prologue-text">
+                Early sunwalk past, Fa-tera had entered Nalas&339; from the riverside. The tall rocks shifted and grated within like the clearing of a stone throat. A group voice, many but one, spoke out
+                to her before she even faced the monoliths. &ldquo;Who&#46;&#46;&#46;, wakes&#46;&#46;&#46;, us?&rdquo; The voice was low and gritty like the rumbling of earth when stone caresses stone.
+            </div>
+            
+            <div class="prologue-text">
+                The greenstone glowed, as did Fa-tera&339;s eyes. <span class="italic">#ldquo;I am the Teacher. Thee are awakened by the time of testing. At next sunfall thee shall stand witness as thee have
+                for ages now.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text">
+                <span class="italic">&ldquo;Thee are ageless Nalas&#39; and so it is that time passes for you. A generation is but a blink.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text">
+                 &ldquo;Yes&#46;&#46;&#46; yes&#46;&#46;&#46; you&#46;&#46;&#46; are&#46;&#46;&#46; Fa-tera. Now&#46;&#46;&#46; we&#46;&#46;&#46; remember&#46;&#46;&#46; and&#46;&#46;&#46; we&#46;&#46;&#46;
+                 have&#46;&#46;&#46; had&#46;&#46;&#46; this&#46;&#46;&#46; talk&#46;&#46;&#46; before?&rdquo; The voices, whisper-growled;  grinding sand-swirls in a careless wind.
             </div>
             
             
