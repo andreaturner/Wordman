@@ -1310,7 +1310,7 @@ a:hover {
 }
 
 .prologue-center-title-chapter {
-    font-size: xx-large;
+    font-size: large;
     font-weight: bold;
     text-align: center;
     font-family: "lucida calligraphy",arial,'sans serif';
@@ -1323,7 +1323,7 @@ a:hover {
 .prologue-center {
     text-align: center;
     padding-top: 1.5%;
-    font-size: larger;
+    font-size: large;
     font-style: italic;
 }
 
@@ -1348,7 +1348,7 @@ a:hover {
 
 .prologue-text {
     font-family: 'Lora', serif;
-    font-size: larger;
+    font-size: large;
     overflow: visible;
     padding-top: 0.6%;
     margin: 0 auto;
