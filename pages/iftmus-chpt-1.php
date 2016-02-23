@@ -190,8 +190,7 @@
             </div>
             
             <div class="prologue-text">
-                <span class="italic">&ldquo;Every time thee awakens   
- we have this talk. It is how thee rub the sleep from thy eyes. It is good to remember things old friends. That is what brings us and
+                <span class="italic">&ldquo;Every time thee awakens we have this talk. It is how thee rub the sleep from thy eyes. It is good to remember things old friends. That is what brings us and
                 thee to this sunfall once again.&rdquo</span>
             </div>
             
@@ -522,6 +521,19 @@
                 What followed was a ruthless account of right to rule, stolen or passed on through deceit. To Fa-tera, Kylor seemed, too &ldquo;matter of fact&rdquo; about all this. She mourned this
                 ever-growing apathy. Had they as a race failed the Spirit of Felis? Were these the last days, the end of the wait, the time of the Na-costam&#39;a, &ldquo;the outsiders?&rdquo; The mood of her
                 questions seemed appropriate as Kylor moved into the Prophecies of Pursong:
+            </div>
+             
+             <div class="prologue-center">
+                7ldquo;Though cat alone doth seem to stand<br>
+                &#39;Tis evil from beyond her land<br>
+                Didst steal from Iftmus heart and soul<br>
+                Now cub of man must make it whole<br>
+                And war shall rage and not be done<br>
+                Till cat and cat and cat are one!&rdquo;
+             </div>
+             
+             <div class="prologue-text"> 
+                Each cat&#39;s mind recited several verses before passing the telling to the next.
             </div>
              
              
