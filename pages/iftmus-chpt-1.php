@@ -523,17 +523,64 @@
                 questions seemed appropriate as Kylor moved into the Prophecies of Pursong:
             </div>
              
-             <div class="prologue-center">
-                7ldquo;Though cat alone doth seem to stand<br>
-                &#39;Tis evil from beyond her land<br>
-                Didst steal from Iftmus heart and soul<br>
-                Now cub of man must make it whole<br>
-                And war shall rage and not be done<br>
-                Till cat and cat and cat are one!&rdquo;
-             </div>
+            <div class="prologue-center">
+               &ldquo;Though cat alone doth seem to stand<br>
+               &#39;Tis evil from beyond her land<br>
+               Didst steal from Iftmus heart and soul<br>
+               Now cub of man must make it whole<br>
+               And war shall rage and not be done<br>
+               Till cat and cat and cat are one!&rdquo;
+            </div>
              
-             <div class="prologue-text"> 
+            <div class="prologue-text"> 
                 Each cat&#39;s mind recited several verses before passing the telling to the next.
+            </div>
+             
+            <div class="prologue-center">
+                &ldquo;The worst of enemy of all time<br>
+                Shall in this day become a sign<br>
+                &#39;Tis not just cats scent on the wind<br>
+                But three from three where all began<br>
+                The prints of many walk the sand<br>
+                Beware oh cat the scent of man!
+             </div>
+            
+            <div class="prologue-center">
+                When sky hath bled and wounded land<br>
+                Doth cry aloud from unseen hand<br>
+                &#39;Tis then Na-costam&#39;a called in pain<br>
+                Shall come to those who serve the rain!&rdquo;
+            </div>
+            
+            <div class="prologue-text"> 
+                The tone of the recital was becoming as somber as the ancient warnings. The fire crackled, snapping the joints of golden fingers, as the body of flame writhed its own slow dance.
+            </div>
+            
+            <div class="prologue-center">
+                &ldquo;Behold thy sisters Iftmus fair<br>
+                The lands beyond shall meet her there<br>
+                And death shall dine while evil gleans<br>
+                And fear shall plague what evil dreams!
+             </div>
+            
+            <div class="prologue-center">
+                Behold the warriors joined by hand<br>
+                With Sha-talon Na-costam&#39;a stand<br>
+                Let the healers bind them all>br?
+                Lest Iftmus and her loved ones fall!
+             </div>
+            
+            <div class="prologue-center">
+                Mind the cub that breaks the bonds,br>
+                And leaves us for our Mother’s arms<br>
+                One cat shall give all that it gained<br>
+                That innocence shall live again&rdquo
+             </div>
+            
+            <div class="prologue-text"> 
+                The last verses were quietly mindspoken by Chi-kaw, a Lingst cat from the low hills in the southern portion of La-mor. He was a quiet, solitary cat with a troubled spirit.
+                Though he had no enemies here, throughout his training, it could certainly be said that he allowed few friends other than Fa-tera and Sa-toug&#39; the Shi-kauti he would
+                travel across La-mor with. Still he made up in fervor and faith what he lacked in social grace.
             </div>
              
              
