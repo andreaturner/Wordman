@@ -335,6 +335,24 @@
                 struggle, the wash of colors in those hills, that remind us of the sacrifice cat should make for cat.&rdquo;
             </div>
             
+            <div class="prologue-text-center-italic">
+                &ldquo;And Re-nor ruled in a time of great change&#46;&#46;&#46;&rdquo;
+            </div>
+            
+            <div class="prologue-text"> 
+                In turn, the next cat recited the past generations of ruling Sa-bata cats, faithfully and accurately. As they continued, Fa-tera still could not keep her mind from drifting again.
+            </div>
+            
+            <div class="prologue-text"> 
+                Her thoughts swam slowly back over the past generations of cubs she had raised to become Shi-kauti. So many mewing, spitting, curious balls of fur arriving in all sizes; they were all
+                her children! For the first time in the Teacher&#39;s whole life she conceded she was old; she flinched. Admission did not make the fact any more palatable. The cat chuckled to herself
+                and quickly amended, &ldquo;Maybe not so much old as thee are just&#46;&#46;&#46; weary.&rdquo; She blinked. It was a tired that crept down into her bones and splashed back out in the
+                gray hairs that flecked her once shiny black coat. Again her head twitched and she laughed inwardly. &ldquo;What a portrait thee must portray.&rdquo; Truly, it was getting close to the
+                time for her to pass down the title of &ldquo;Teacher&rdquo;. Pass it down to Ja-natia, just as Fa-sinto had passed it down to her, when she was his San-Tou, so many sunfalls ago. The
+                thought of no longer being the Teacher, caused a shudder to chase down her spine. She was proud of her work and until now, never realized just how empty she would feel without it.
+                Still&#46;&#46;&#46; everything had its season.
+            </div>
+            
         </div> <!-- end keep-it-together div -->
             
             
