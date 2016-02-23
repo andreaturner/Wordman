@@ -440,6 +440,36 @@
                 over to The Li-horan cat, and none could argue, as he had no heir. The last of his pride were the last of the great and honored Sa-bata cats.&rdquo;
             </div>
             
+            <div class="prologue-text"> 
+                Fa-tera snorted, her thoughts once more running astray. It had been in those times, cat first drew the death blood of cat. Even now the Li-horan and the Ti-breen cat supposedly shed death
+                blood, over the right to rule. Why wasn&#39;t that spoken of in Kylor?
+            </div>
+            
+            <div class="prologue-text"> 
+                She felt nervous, her own questions bordered blasphemy. She offered up a quick apologetic prayer and again scolded herself. Was this the frailty of old age, despair brought on by too many
+                sunfalls, or was her faith being shaken in the bite of a more subtle truth? Despite the self-scolding, Fa-tera's thoughts had taken her too close to her own buried doubts. Thanks to the
+                spiritual stumble, she was recognizing those doubts and in so doing, giving them a life of their own. From here on, the cat had no choice but to be haunted by the whispers of all she had,
+                since before, refused to acknowledge.
+            </div>
+            
+            <div class="prologue-text"> 
+                Kylor did indeed sidestep certain&#46;&#46;&#46; more recent issues. Too many of the changes going on in Iftmus were not accounted for, especially in the region of Pa-tan. The old cat
+                shivered. Could this mean that past Shi-kauti had some part in placing insidious lies or half-truths into Kylor? She had to believe they couldn&#39;t. They were her adopted cubs, chosen,
+                raised, and tested, all so carefully. She was responsible for them, for Kylor, for all cats in Iftmus!
+            </div>
+            
+            <div class="prologue-text"> 
+                Shi-kauti of Kylor always went out in pairs, two pair to each province. No Shi-kauti was ever without another by their side, so the validity of any additions to Ky-lor could never be disputed.
+                This was as it always had been.    
+           
+            </div>
+            
+             <div class="prologue-text"> 
+                But still the gnawing doubt had sunk its teeth into the flesh of her soul. She might continue to run, but the demon had found the jugular. At this rate, doubt would continue to bleed her
+                until faith was dead. Catlore said, &ldquo;The shedding of souls blood are the seasons passing. The loss of honesty, faith or dreams, merely promises that one may never again awaken and
+                blink through the eyes of innocence.&rdquo;
+            </div>
+            
             
             
         </div> <!-- end keep-it-together div -->
