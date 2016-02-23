@@ -583,6 +583,35 @@
                 travel across La-mor with. Still he made up in fervor and faith what he lacked in social grace.
             </div>
              
+            <div class="prologue-center">
+                &ldquo;The cat whose blood shall touch the old<br>
+                The cub whose storm shall rip the soul<br>
+                The smaller one shall greater be<br>
+                &#39;Till cat and cat and cat are free!
+             </div>
+            
+            <div class="prologue-center">
+                The old one storms like thunders light<br>
+                The fair one drifts like winds at night<br>
+                The quiet warrior’s broken soul<br>
+                All work to make fair Iftmus whole.
+            </div>
+            
+            <div class="prologue-center">
+                One consumed by deathblood rage<br>
+                And one whose wisdom knows no age<br>
+                And one from evil&#39;s pride makes nine <br>
+                When joined together are the sign
+            </div>
+            
+            <div class="prologue-center">
+                The Spirit of Felis shall cry<br>
+                For many cubs those days shall die<br>
+                And many laws resigned to dust<br>
+                For in that time there is no trust<br>
+                No honor there, save but for some<br>
+                And woe to cat whose soul has none.
+            </div>
              
 
              
