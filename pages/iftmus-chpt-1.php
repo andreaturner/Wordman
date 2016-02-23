@@ -336,7 +336,7 @@
             </div>
             
             <div class="prologue-text-center-italic">
-                &ldquo;And Re-nor ruled in a time of great change&#46;&#46;&#46;&rdquo;
+                &ldquo;And Re-nor ruled in a time of great change&#46;&#46;&#46;&#46;&rdquo;
             </div>
             
             <div class="prologue-text"> 
@@ -354,7 +354,7 @@
             </div>
             
             <div class="prologue-text"> 
-                Fa-tera looked at Ja-natia Cha-tain and saw herself younger. If only for a moment the old cat’s eyes took on a subtle mist of sad. She gave her head a violent shake, along with a mental
+                Fa-tera looked at Ja-natia Cha-tain and saw herself younger. If only for a moment the old cat&#39;s eyes took on a subtle mist of sad. She gave her head a violent shake, along with a mental
                 reprimand for being so unpredictably weak.
             </div>
             
@@ -376,6 +376,39 @@
                 short distances. Up till now no other cat had ever mastered those aspects of the gifts. Eventually the Abyssinians moved up onto the Grasswater, separating themselves and any further
                 knowledge of Sha-talon from all other breed of cat. Still there had been that one fateful day&#46;&#46;&#46;&#46;
             </div>
+            
+            <div class="prologue-text"> 
+                Fa-tera was two seasons from being tested to be San-Tou, the next in line to be Teacher. Fa-sinto always laughed and would make loving jokes. <span class="italic">&ldquo0;You can not take
+                my place. You are too little! What would the new cubs do? They certainly couldn&#39;t look up to a little cat who barely comes up to their nose!&rdquo;</span>  Oft-times Fa-tera would take
+                the jokes to heart and Fa-sinto would be crushed that his teasing had been taken as anything but. Almost in tears he would say, <span class="italic">&ldquo;Fa-tera, Fa-tera do not do this
+                to me. I tease…do not ever believe that I think less of you!&rdquo;</span> He would nudge her at heart level. <span class="italic">&ldquo;In here my precious&#46;&#46;&#46; here you are
+                taller than the Sa-bata. What you think and what you feel&#46;&#46;&#46; this is the soul, the heart&#46;&#46;&#46; and you my precious&#46;&#46;&#46; you have the Spirit of Felis! You&#46;&#46;&#46;
+                are&#46;&#46;&#46;&rdquo;</span> 
+            </div>
+            
+            <div class="prologue-text"> 
+                Fa-sinto&#39;s mindspeak trailed off as a whole pride of Cha-tain cat walked into Sefttora. The white cats were solemn, stoic, almost religious in stature. They gracefully came in like a
+                wave and one continued the walk up to Fa-sinto. <span class="italic">&ldquo;Teacher,&rdquo;</span> he gave a formal nod.
+            </div>
+            
+            <div class="prologue-text"> 
+                The Cha-tains statement was as brief as the visit. <span class="italic">&ldquo;I am Ja-lacu Cha-tain. Our Abyssinian brothers are gone. Like the Sa-bata they are now&#46;&#46;&#46; no more!
+                Everything has changed and nothing has changed. The Grasswater shall still not be intruded on by any cat. You may send your four Shi-kauti&#46;&#46;&#46; as before, but no other cat will be
+                allowed. There are no questions for there are no answers. Fa-sinto&#46;&#46;&#46; you are Teacher. You decide where this lies in Ky-lor. Let it be a question for now. It was the Abyssinian&#39;s
+                final wish… until the time of answers… only then may Kylor be amended!”&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                The cat bowed his head again and they did not even wait for Fa-sinto to reply. The tall white Cha-tain simply turned as did his pride and melted out of the clearing, back in the direction of the
+                Grasswater.
+            </div>
+            
+            <div class="prologue-text"> 
+                Even on this last sunfall, the mystery surrounding the Abyssinian’s disappearance had not changed a word. Fa-tera, like every other cat, would continue to speculate as to their fate&#46;&#46;&#46;
+                and in fact did so again with a forlorn sigh.
+            </div>
+            
+            
             
         </div> <!-- end keep-it-together div -->
             
