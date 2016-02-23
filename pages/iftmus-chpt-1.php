@@ -378,7 +378,7 @@
             </div>
             
             <div class="prologue-text"> 
-                Fa-tera was two seasons from being tested to be San-Tou, the next in line to be Teacher. Fa-sinto always laughed and would make loving jokes. <span class="italic">&ldquo0;You can not take
+                Fa-tera was two seasons from being tested to be San-Tou, the next in line to be Teacher. Fa-sinto always laughed and would make loving jokes. <span class="italic">&ldquo;;You can not take
                 my place. You are too little! What would the new cubs do? They certainly couldn&#39;t look up to a little cat who barely comes up to their nose!&rdquo;</span>  Oft-times Fa-tera would take
                 the jokes to heart and Fa-sinto would be crushed that his teasing had been taken as anything but. Almost in tears he would say, <span class="italic">&ldquo;Fa-tera, Fa-tera do not do this
                 to me. I tease&#46;&#46;&#46; do not ever believe that I think less of you!&rdquo;</span> He would nudge her at heart level. <span class="italic">&ldquo;In here my precious&#46;&#46;&#46; here you are
@@ -427,12 +427,17 @@
             <div class="prologue-text"> 
                 A distant tremor caused the ground beneath her to tremble, adding its own voice to her worst suspicions.  As Nalas&#39; had said, Iftmus was in pain; the land and all that lived upon it were no
                 longer in harmony. There was no peace to be felt, only a vague sense of torment: a whisper-promise of impending doom. The worst part of all this was the gossamer fear-feeling she had long
-                cradled; a feeling that somewhere, something seemed to be enjoying all of this, taking sustenance like a kitten from its mother&#39;s teat. She could feel its’ consuming greed, its insatiable
+                cradled; a feeling that somewhere, something seemed to be enjoying all of this, taking sustenance like a kitten from its mother&#39;s teat. She could feel its consuming greed, its insatiable
                 hunger. It was a hunger that would not stop feeding till all life was sucked dry. 
             </div>
             
             <div class="prologue-text"> 
                 The old cat marveled, briefly shaken by the depths of her own dark thoughts.  &ldquo;Far better thee should keep thy mind on the testing, foolish cat!&rdquo;
+            </div>
+            
+            <div class="prologue-text-center-italic">
+                &ldquo;And when Sha-talon and the Abyssinians left Iftmus, a great emptiness filled the land. Ren-sis knew he was at the end, even though it was before his time. He turned the right to rule
+                over to The Li-horan cat, and none could argue, as he had no heir. The last of his pride were the last of the great and honored Sa-bata cats.&rdquo;
             </div>
             
             
