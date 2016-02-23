@@ -353,6 +353,30 @@
                 Still&#46;&#46;&#46; everything had its season.
             </div>
             
+            <div class="prologue-text"> 
+                Fa-tera looked at Ja-natia Cha-tain and saw herself younger. If only for a moment the old cat’s eyes took on a subtle mist of sad. She gave her head a violent shake, along with a mental
+                reprimand for being so unpredictably weak.
+            </div>
+            
+            <div class="prologue-text-center-italic">
+                &ldquo;&#46;&#46;&#46;and Rensis saw our Abyssinian brothers grow too proud with Sha-talon, the magic&#39;s drawn from Flow. And it was then the Abyssinians removed themselves from
+                our midst and claimed their own territory, forbidding other cat to trespass. It is said&#46;&#46;&#46; this was when the heart of Rensis broke and he lost the will to live.&rdquo;
+            </div>
+            
+            <div class="prologue-text-center-italic">
+                &ldquo;And the Tears of Rensis, the three rivers that flow through Iftmus, mark the shame and separation of cat and land. Yet still the rivers remind us that there is hope, for surly they
+                meet at the falls of Fina-sha, there to come together forever as one water.&rdquo;
+            </div>
+            
+            <div class="prologue-text"> 
+                Fa-tera knew this part of Kylor well. It told of the Abyssinian cats, ancestors of her blood that had originally dwelt in this province of La-mor. Their breed had learned to touch a
+                different part of Flow: the balance of all life and land in Iftmus. From it they drew Sha-talon, the magic&#39;s of Iftmus. Ma-chona, &ldquo;The whisper of Felis&rdquo; was mindspeak
+                and the Sa-bata cat had taught that. The Abyssinians touched a different part of Sha-talon; Ma-nasta, &ldquo;The weight of ages,&rdquo; which allowed them to move things by levitation.
+                Ma-hosta, &ldquo;The fire of dreams,7rdquo; allowed them to create fire as Fa-tera just had. Ma-chena, &ldquo;The steps of the wind,&rdquo allowed them to transport themselves or others
+                short distances. Up till now no other cat had ever mastered those aspects of the gifts. Eventually the Abyssinians moved up onto the Grasswater, separating themselves and any further
+                knowledge of Sha-talon from all other breed of cat. Still there had been that one fateful day&#46;&#46;&#46;&#46;
+            </div>
+            
         </div> <!-- end keep-it-together div -->
             
             
