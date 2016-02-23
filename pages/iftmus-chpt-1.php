@@ -381,7 +381,7 @@
                 Fa-tera was two seasons from being tested to be San-Tou, the next in line to be Teacher. Fa-sinto always laughed and would make loving jokes. <span class="italic">&ldquo0;You can not take
                 my place. You are too little! What would the new cubs do? They certainly couldn&#39;t look up to a little cat who barely comes up to their nose!&rdquo;</span>  Oft-times Fa-tera would take
                 the jokes to heart and Fa-sinto would be crushed that his teasing had been taken as anything but. Almost in tears he would say, <span class="italic">&ldquo;Fa-tera, Fa-tera do not do this
-                to me. I tease…do not ever believe that I think less of you!&rdquo;</span> He would nudge her at heart level. <span class="italic">&ldquo;In here my precious&#46;&#46;&#46; here you are
+                to me. I tease&#46;&#46;&#46; do not ever believe that I think less of you!&rdquo;</span> He would nudge her at heart level. <span class="italic">&ldquo;In here my precious&#46;&#46;&#46; here you are
                 taller than the Sa-bata. What you think and what you feel&#46;&#46;&#46; this is the soul, the heart&#46;&#46;&#46; and you my precious&#46;&#46;&#46; you have the Spirit of Felis! You&#46;&#46;&#46;
                 are&#46;&#46;&#46;&rdquo;</span> 
             </div>
@@ -395,7 +395,7 @@
                 The Cha-tains statement was as brief as the visit. <span class="italic">&ldquo;I am Ja-lacu Cha-tain. Our Abyssinian brothers are gone. Like the Sa-bata they are now&#46;&#46;&#46; no more!
                 Everything has changed and nothing has changed. The Grasswater shall still not be intruded on by any cat. You may send your four Shi-kauti&#46;&#46;&#46; as before, but no other cat will be
                 allowed. There are no questions for there are no answers. Fa-sinto&#46;&#46;&#46; you are Teacher. You decide where this lies in Ky-lor. Let it be a question for now. It was the Abyssinian&#39;s
-                final wish… until the time of answers… only then may Kylor be amended!”&rdquo;</span>
+                final wish&#46;&#46;&#46; until the time of answers&#46;&#46;&#46; only then may Kylor be amended!&rdquo;</span>
             </div>
             
             <div class="prologue-text"> 
@@ -404,8 +404,35 @@
             </div>
             
             <div class="prologue-text"> 
-                Even on this last sunfall, the mystery surrounding the Abyssinian’s disappearance had not changed a word. Fa-tera, like every other cat, would continue to speculate as to their fate&#46;&#46;&#46;
+                Even on this last sunfall, the mystery surrounding the Abyssinian&#39;s disappearance had not changed a word. Fa-tera, like every other cat, would continue to speculate as to their fate&#46;&#46;&#46;
                 and in fact did so again with a forlorn sigh.
+            </div>
+            
+            <div class="prologue-text"> 
+                Ja-natia, Fa-tera&#39;s San-tou, was a Cha-tain cat. Their breed had let no other cat enter the Grasswater, until the sunwalk they allowed the Abyssinians on. Now they kept the fate of
+                those cats just as private. Ja-natia herself had refused to be broached on the subject. What was the secret? What was more important than the truth of Kylor? How long were they to go on
+                wondering?
+            </div>
+            
+            <div class="prologue-text"> 
+                There was one sad truth that stood out from wistful speculation. Since the Abyssinian cats had disappeared, there was an uneasiness seeping into the land, a feeling of wrong that refused
+                to be cast off. It was much like a damp fog sitting just footfalls ahead, always out of touch no matter how hard one tried to chase it down.  It was oppressive and it was only getting worse.
+            </div>
+            
+            <div class="prologue-text"> 
+                Kylor told how, earlier in Iftmus, most cats broke off into feuding prides and started claiming territories. Even Ren-sis could not bring order or caring back. Something vile had overshadowed
+                the land and was suffocating the spirit of every living thing.
+            </div>
+            
+            <div class="prologue-text"> 
+                A distant tremor caused the ground beneath her to tremble, adding its own voice to her worst suspicions.  As Nalas&#39; had said, Iftmus was in pain; the land and all that lived upon it were no
+                longer in harmony. There was no peace to be felt, only a vague sense of torment: a whisper-promise of impending doom. The worst part of all this was the gossamer fear-feeling she had long
+                cradled; a feeling that somewhere, something seemed to be enjoying all of this, taking sustenance like a kitten from its mother&#39;s teat. She could feel its’ consuming greed, its insatiable
+                hunger. It was a hunger that would not stop feeding till all life was sucked dry. 
+            </div>
+            
+            <div class="prologue-text"> 
+                The old cat marveled, briefly shaken by the depths of her own dark thoughts.  &ldquo;Far better thee should keep thy mind on the testing, foolish cat!&rdquo;
             </div>
             
             
