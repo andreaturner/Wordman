@@ -324,6 +324,17 @@
                 remember him, Re-nell chased his last sunfall across the skies of Iftmus. It is his two eyes, the two moons watching over us, that we see every time the sun falls.&rdquo;</span>
             </div>
             
+            <div class="prologue-text"> 
+                The white smoke and the rising heat from the fire caused the Eye Moons of Re-nell to shimmer and weave in the dark sky, as if they were misting in the romance of ancient catlore.
+                The moons were bright tonight, hypnotic, and again Fa-tera had to cast off the trance to focus back in.
+            </div>
+            
+            <div class="prologue-text-center-italic">
+                &ldquo;&#46;&#46;&#46;and Ren-fa, knowing his seasons had been long and his time was at an end passed on the right to rule to Re-nor of the Saber-cats. And in defending his and many
+                other prides against the vast hordes of Woodwars that invaded in those last days, Ren-fa shed his deathblood upon the lo-hills of La-mor.  To this day it is the traces of his gallant
+                struggle, the wash of colors in those hills, that remind us of the sacrifice cat should make for cat.&rdquo;
+            </div>
+            
         </div> <!-- end keep-it-together div -->
             
             
