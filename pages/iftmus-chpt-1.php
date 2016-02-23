@@ -477,7 +477,7 @@
              
              <div class="prologue-text"> 
                 Again the nagging demon&#46;&#46;&#46; why hadn&#39;t any of her Shi-kauti ever brought these reports back to her?  What of the whispers of strange creatures seen in the deep swamps of
-                Cry-mar, down near the borders of La-mor and Pa-tan?  More questions with yet fewer answers. Why did the land itself feel so wrong? Why wasn’t Kylor keeping up with even the local gossip?
+                Cry-mar, down near the borders of La-mor and Pa-tan?  More questions with yet fewer answers. Why did the land itself feel so wrong? Why wasn&#39;t Kylor keeping up with even the local gossip?
                 Why had her two older pair of Shi-kauti not returned from Pa-tan last Di-Chant? Questions chasing their tails, plaguing like pestering carrion-eaters awaiting the death of a next meal.
             </div>
              
@@ -488,10 +488,44 @@
             </div>
              
              <div class="prologue-text"> 
-                How serious her fears were, would be proven by the next sunwalk. This coming Di-Chant was not just the sharing and additions to Kylor, but Da’moshk, the time of passing of title. All
+                How serious her fears were, would be proven by the next sunwalk. This coming Di-Chant was not just the sharing and additions to Kylor, but Da&#39;moshk, the time of passing of title. All
                 Shi-kauti had to return to relinquish their roles to their younger heirs. None of her children had ever missed this Di-Chant, no Shi-kauti for any reason at any time! Certainly none ever
                 would&#46;&#46;&#46;?  Her head hung low by the weight of her mood as she went back to listening.
             </div>
+             
+             <div class="prologue-text-center-italic">
+                &ldquo;And Ki-seri of the Li-horan cat did reign from that part of Iftmus declared by his to be called Panthera, in the territory of Pa-tan.&rdquo; And the Spirit of Felis did return the
+                lost magic&#39;s, Sha-talon to the Pan-duran cat, who removed themselves from Panthera&#46;&#46;&#46; to&#46;&#46;&#46;&rdquo;
+            </div>
+             
+             <div class="prologue-text"> 
+                Ja-lito the young Shi-kauti who had been reciting, stalled, struggling for the exact words of Kylor. The other cats held their breath while their faltering friend tried to remember the
+                next line. If he did not recover, it could be grounds for failing. Fa-tera closed her eyes and wished him on with a quick but fervent prayer. That prayer was answered along with a sigh
+                of relief on all their parts&#46;&#46;&#46;&#46;
+            </div>
+             
+             <div class="prologue-text-center-italic">
+                &ldquo;&#46;&#46;&#46;&#46;to dwell in Amas&#39;ka, in the mountains of Pri-hy, above the Saber-wa!&rdquo;
+            </div>
+             
+             <div class="prologue-text"> 
+                Fa-tera shot him a stern glance but smiled inwardly. She had no wish to fail any of her children and certainly not over such a minor transgression&#46;&#46;&#46;&#46; not when Kylor
+                itself seemed to omit so very much!
+            </div>
+             
+             <div class="prologue-text-center-italic">
+                &ldquo;And these are the generations that followed. Ki-tanti Li-horan, whose blood was drawn by Ki-seto and his pride. At the end of his time Ki-seto did pass down the right to rule
+                to&#46;&#46;&#46;&rdquo;
+            </div>
+             
+             <div class="prologue-text"> 
+                What followed was a ruthless account of right to rule, stolen or passed on through deceit. To Fa-tera, Kylor seemed, too &ldquo;matter of fact&rdquo; about all this. She mourned this
+                ever-growing apathy. Had they as a race failed the Spirit of Felis? Were these the last days, the end of the wait, the time of the Na-costam&#39;a, &ldquo;the outsiders?&rdquo; The mood of her
+                questions seemed appropriate as Kylor moved into the Prophecies of Pursong:
+            </div>
+             
+             
+
              
              
             
