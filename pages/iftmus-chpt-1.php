@@ -314,6 +314,16 @@
                 ideal time for the waddling beasts to come out of the lake and bask, as the cool night wrestled with the last vestiges of a hot, humid day.
             </div>
             
+            <div class="prologue-text"> 
+                A soft, early sunfall breeze rustled the leaves of the Windtalkers, which grew profusely here along the Takinta Glades. The weeping limbs nodded and rocked as the stiff spines on the
+                leaves rubbed together, producing a whining, much like the mewing of newborn cubs. The old Teacher forced herself to shut out the soothing sound and turn her attention back to the testing.
+            </div>
+            
+            <div class="prologue-text"> 
+                <span class="italic">&ldquo;&#46;&#46;&#46;and knowing he was dying and his time was at an end, Re-nell passed on the right to rule to Ren-fa, of the Sa-bata cats. And so all would
+                remember him, Re-nell chased his last sunfall across the skies of Iftmus. It is his two eyes, the two moons watching over us, that we see every time the sun falls.&rdquo;</span>
+            </div>
+            
         </div> <!-- end keep-it-together div -->
             
             
