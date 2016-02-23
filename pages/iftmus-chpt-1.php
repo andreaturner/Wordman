@@ -566,13 +566,13 @@
             <div class="prologue-center">
                 Behold the warriors joined by hand<br>
                 With Sha-talon Na-costam&#39;a stand<br>
-                Let the healers bind them all>br?
+                Let the healers bind them all<br>
                 Lest Iftmus and her loved ones fall!
              </div>
             
             <div class="prologue-center">
-                Mind the cub that breaks the bonds,br>
-                And leaves us for our Mother’s arms<br>
+                Mind the cub that breaks the bonds<br>
+                And leaves us for our Mother&#39;s arms<br>
                 One cat shall give all that it gained<br>
                 That innocence shall live again&rdquo
              </div>
@@ -593,7 +593,7 @@
             <div class="prologue-center">
                 The old one storms like thunders light<br>
                 The fair one drifts like winds at night<br>
-                The quiet warrior’s broken soul<br>
+                The quiet warrior&#39;s broken soul<br>
                 All work to make fair Iftmus whole.
             </div>
             
@@ -612,7 +612,40 @@
                 No honor there, save but for some<br>
                 And woe to cat whose soul has none.
             </div>
+            
+            <div class="prologue-center">
+                I would not speak to Kylor now<br>
+                If I could change it all somehow<br>
+                Oh cubs of Felis for Iftmus weep<br>
+                For cat and evil now both sleep<br>
+                As mated pair and when they rise<br>
+                All cat shall mourn for Iftmus dies!&rdquo;
+            </div>
              
+            <div class="prologue-text"> 
+                The closing was an indictment that was painful to any heart true to Iftmus.
+            </div>
+            
+            <div class="prologue-center">
+                &ldquo;Beware false pride, for that is one<br>
+                That blinds most cat<br>
+                As brightest sun<br>
+                Beware the signs but more than that<br>
+                To all our shame<br>
+                Beware the cat!&rdquo
+            </div>
+            
+            <div class="prologue-text"> 
+                Fa-tera closed her eyes, drifting in the currents and the dark mood of these and many of the prophecies of Pursong. Eddies of memories swept her back to when she was
+                first brought to Sefttora as a cub.
+            </div>
+            
+            <div class="prologue-text"> 
+                Young Fa-tera had a reckless sense of adventure. She refused to stay where the old Teacher, Fa-sinto had directed the new cubs to play. Instead she had cautiously followed
+                the old cat. It was then she had seen her first and last Abyssinian ancestor, by virtue of her own partial blood. The Abyssinian&#39;s name had been Bastet, no larger than some
+                of the smaller cats residing in La-mor, but there was a majesty that emanated from her, a very power in her presence. Bastet&#39;s silver black fur was sleek and there was
+                a grace in her walk that made her look ageless.
+            </div>
 
              
              
