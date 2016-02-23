@@ -461,7 +461,6 @@
             <div class="prologue-text"> 
                 Shi-kauti of Kylor always went out in pairs, two pair to each province. No Shi-kauti was ever without another by their side, so the validity of any additions to Ky-lor could never be disputed.
                 This was as it always had been.    
-           
             </div>
             
              <div class="prologue-text"> 
@@ -469,6 +468,32 @@
                 until faith was dead. Catlore said, &ldquo;The shedding of souls blood are the seasons passing. The loss of honesty, faith or dreams, merely promises that one may never again awaken and
                 blink through the eyes of innocence.&rdquo;
             </div>
+             
+             <div class="prologue-text"> 
+                The ground shook ever so softly, a deep and sorrowful rumble. These ground tremors had been occurring at an ever-increasing rate, as had the whispered tales of newly occurring firestorms
+                over the Pri-hy Mountains. It was rumored that at times, the heavens burned like the Grasswater during a storm-caused flash-fire. Though the stories might appear embellished or slightly
+                exaggerated, too many cat were recounting similar variations and that it made it impossible to simply discount them!
+            </div>
+             
+             <div class="prologue-text"> 
+                Again the nagging demon&#46;&#46;&#46; why hadn&#39;t any of her Shi-kauti ever brought these reports back to her?  What of the whispers of strange creatures seen in the deep swamps of
+                Cry-mar, down near the borders of La-mor and Pa-tan?  More questions with yet fewer answers. Why did the land itself feel so wrong? Why wasn’t Kylor keeping up with even the local gossip?
+                Why had her two older pair of Shi-kauti not returned from Pa-tan last Di-Chant? Questions chasing their tails, plaguing like pestering carrion-eaters awaiting the death of a next meal.
+            </div>
+             
+             <div class="prologue-text"> 
+                It was customary for all Shi-kauti to return to La-mor each Di-Chant, not only in tribute to their Teacher and the Spirit of Felis, but more important, to recount their experiences over
+                past sunfalls, to bring up to date any changes or additions to Kylor. Occasionally a few had, in the past, missed Di-Chant due to traveling conditions or circumstances in their respected
+                province, but they would always show later. Four Shi-kauti had not shown up last Di-Chant or been heard from since.
+            </div>
+             
+             <div class="prologue-text"> 
+                How serious her fears were, would be proven by the next sunwalk. This coming Di-Chant was not just the sharing and additions to Kylor, but Da’moshk, the time of passing of title. All
+                Shi-kauti had to return to relinquish their roles to their younger heirs. None of her children had ever missed this Di-Chant, no Shi-kauti for any reason at any time! Certainly none ever
+                would&#46;&#46;&#46;?  Her head hung low by the weight of her mood as she went back to listening.
+            </div>
+             
+             
             
             
             
