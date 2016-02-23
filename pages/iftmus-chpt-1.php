@@ -190,13 +190,14 @@
             </div>
             
             <div class="prologue-text">
-                <span class="italic">&ldquo;Every time thee awakens… we have this talk. It is how thee rub the sleep from thy eyes. It is good to remember things old friends. That is what brings us and
+                <span class="italic">&ldquo;Every time thee awakens   
+ we have this talk. It is how thee rub the sleep from thy eyes. It is good to remember things old friends. That is what brings us and
                 thee to this sunfall once again.&rdquo</span>
             </div>
             
             <div class="prologue-text">
                 <span class="italic">&ldquo;Yes. To&#46;&#46;&#46; remember&#46;&#46;&#46; much&#46;&#46;&#46; is&#46;&#46;&#46; happening&#46;&#46;&#46; Fa-tera&#46;&#46;&#46; while&#46;&#46;&#46;
-                we&#46;&#46;&#46; slept. Iftmus&#46;&#46;&#46; cries&#46;&#46;&#46; out&#46;&#46;&#46; in&#46;&#46;&#46; our&#46;&#46;&#46; dreams. Great&#46;&#46;&#46; pain&#46;&#46;&#46; pain…#46;&#46;&#46;
+                we&#46;&#46;&#46; slept. Iftmus&#46;&#46;&#46; cries&#46;&#46;&#46; out&#46;&#46;&#46; in&#46;&#46;&#46; our&#46;&#46;&#46; dreams. Great&#46;&#46;&#46; pain&#46;&#46;&#46; pain&#46;&#46;&#46;
                 such&#46;&#46;&#46; has&#46;&#46;&#46; never&#46;&#46;&#46; been&#46;&#46;&#46; felt&#46;&#46;&#46; before. We&#46;&#46;&#46; are&#46;&#46;&#46; born&#46;&#46;&#46; from&#46;&#46;&#46; her.
                 What&#46;&#46;&#46; Iftmus&#46;&#46;&#46; feels&#46;&#46;&#46; we&#46;&#46;&#46; feel!&rdquo;</span>
             </div>
@@ -208,14 +209,110 @@
             <div class="prologue-text"> 
                 The air around the monoliths suddenly felt oppressive, giving the feeling as if all were under the weight of mountains from which the stones came. <span class="italic">&ldquo;We&#46;&#46;&#46;
                 may&#46;&#46;&#46; not&#46;&#46;&#46;&#46; It&#46;&#46;&#46; is&#46;&#46;&#46; not&#46;&#46;&#46; the&#46;&#46;&#46; time&#46;&#46;&#46; for&#46;&#46;&#46; telling. We&#46;&#46;&#46; may&#46;&#46;&#46;
-                only&#46;&#46;&#46; witness. Shi-kauti&#46;&#46;&#46; must&#46;&#46;&#46; do&#46;&#46;&#46; the&#46;&#46;&#46; telling. Fa-tera&#46;&#46;&#46; will&#46;&#46;&#46; do&#46;&#46;&#46; the… telling!”</span>
+                only&#46;&#46;&#46; witness. Shi-kauti&#46;&#46;&#46; must&#46;&#46;&#46; do&#46;&#46;&#46; the&#46;&#46;&#46; telling. Fa-tera&#46;&#46;&#46; will&#46;&#46;&#46; do&#46;&#46;&#46; the   
+                telling!&rdquo;</span>
                 The stones drifted quiet fell back asleep. They would only awaken again for the time of testing.
             </div>
             
+            <div class="prologue-text"> 
+                &ldquo;Fa-tera will do the telling?&rdquo; She cursed and shook her head as if trying to rid herself the question; to no avail. What did Nalas&#39; mean by that? She was not a Shi-kauti.
+                Greatly troubled she walked off to follow the river-water&#39;s chatter and waited for the sunwalk to pass.
+            </div>
             
+            <div class="prologue-text"> 
+                Now at this sunfall, Fa-tera still wondered, but let that wonder be swept to the side by her own anxiousness for her students. Restless on its own accord, the fire crackled with excitement
+                and threw out tiny, falling-star sparks that burned themselves out in multitudes of wishes before ever reaching the damp moss on the ground. Fa-tera added her own wish in among them. She
+                sighed as she looked proudly into the eyes of her children. She had raised them all, and she would now have to let them go. Why was it always, such a bite to the heart?
+            </div>
             
+            <div class="prologue-text"> 
+                Among the varied cat before her, some were nearly three times Fa-tera&#39;s size, yet they all gazed lovingly back at her, as any small cub might its own natural mother. She shook off the warm,
+                as well as the subtle cold of what she was feeling. Finally with some reluctance she put on the veil of strict formality; the occasion demanded that she, as Teacher, do no less.
+            </div>
             
-        
+            <div class="prologue-center italic">
+                &ldquo;Kylor is bound within the word,<br>
+                Our future, past, all must be heard.<br>
+                That which is law...That which is lore..&#46;&#46;&#46;<br>
+                Thee must protect&#46;&#46;&#46; forever more&#46;&#46;&#46;<br>
+                Thy life belongs to Iftmus!&rdquo;
+            </div>
+            
+            <div class="prologue-text"> 
+                The solemn warning of those ritual words heralded the beginning of the testing. Nalas&#39; rumbled like distant thunder, the only sign it would give at this point that it was listening.
+            </div>
+            
+            <div class="prologue-text"> 
+                Fa-tera stepped back and gave Ja-natia, her San-Tou, lead to continue. The white cats&#39; long fur swept back, ruffled again by the soft fingers of slight breeze. She in turn nodded to each cat.
+            </div>
+            
+            <div class="prologue-center italic">
+                &ldquo;The word shall be carried in the heart<br>
+                The word shall be spoken, mind-to-mind.<br>
+                Let this, the first time, be your test<br>
+                As Ky-lor judges Iftmus,<br>
+                So shall it now judge you.&rdquo;
+            </div>
+            
+            <div class="prologue-text"> 
+                Ja-natia&#39;s eyes fell upon Sa-hetra, the first cat chosen to recite a portion of Kylor. The small, cat squeezed her eyes shut in silent thanks for the privilege of being first chosen,
+                and with those eyes still closed, she mind-spoke out:
+            </div>
+
+            <div class="prologue-text"> 
+                <span class="italic">&ldquo;When it began, all existed in Flow. There was no separation until the Spirit of Felis reached out from Flow and showed favor on the cat.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                The next cat continued on and thereafter each of them in proper turn.
+            </div>
+            
+            <div class="prologue-text"> 
+                <span class="italic">&ldquo;And this was the sign. To Re-nell, the first ruling Sa-bata cat, the gift of Kylor was given and his mind taught all others, for the Spirit of Felis
+                flowed strong in Flow. But Re-nell had been blessed first, that none should question his right to rule.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                <span class="italic">&ldquo;And in the passing of those suns, all cat became one. The cat in those days, were the cub of Iftmus, who is the mother of us all. And the law of Felis
+                was written across each heart.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                <span class="italic">&ldquo;That no cat draw the death blood of another cat, for that shall be the worst of abominations. That no cat draw the death blood of any other animal,
+                unless the shedding of that blood is so done that life may be nourished and continue.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                <span class="italic">&ldquo;That no cat set them-self above any other cat for any reason, save head of pride or family.  The right to rule any pride shall be passed down
+                through ritual duel, but only till first blood, never till death blood.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                <span class="italic">&ldquo;That no pride or family set itself above any other pride or family. For within the many spirits of cat, the cub of Iftmus shall always be one.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                <span class="italic">&ldquo;That no cat shall intrude&#46;&#46;&#46;&#46;&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                The testing of Kylor continued as Fa-tera turned her attention to the dwindling fire. It dodged and hid behind dying embers crackling with mischievous laughter. The Teacher&#39;s
+                green eyes betrayed her part Abyssinian blood and turned a phosphorous glow. She nodded towards a large dry thornthistle branch, and with a flash that emanated first from her eyes,
+                the branch burst into flame. She had used that part of Sha-talon called Ma-hosta, &ldquo;fire of dreams&rdquo;. A crescendo of fire washed the clearing with renewed, warm light.
+            </div>
+            
+            <div class="prologue-text"> 
+                The Gindoo had been busy the sunfall past, placing many branch-laden fire sites around Nalas&#39;. The two-legged hairy animals were good-natured and easily taught simple tasks.
+                They relished encouragement and praise and like the Chaun, they seemed to have a limited understanding of Ma&#39;chona, &ldquo;Mindspeak.&rdquo; The Gindoo could hear but not mindspeak
+                back. They resembled the Pur-rocia that dwelt in the forests of Pa-tan, but unlike their ferocious cousins, the Gindoo were a smaller, more intelligent breed. The two extra limbs not
+                used for walking were ideal for carrying and moving things. Fa-tera had no qualms with their treatment here in Sefttora and other parts of La-mor, but she was uncomfortably aware of the
+                more slave-like conditions of they and their cousins in the province of Pa-tan.
+            </div>
+            
+            <div class="prologue-text"> 
+                The distant grunts of mud-waumps drifted in off the waters of Green-wa. The fat furry creatures were enjoying the warmth of the shallow waters this sunfall. Evenings like these were an
+                ideal time for the waddling beasts to come out of the lake and bask, as the cool night wrestled with the last vestiges of a hot, humid day.
+            </div>
             
         </div> <!-- end keep-it-together div -->
             
