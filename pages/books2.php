@@ -5,20 +5,20 @@
 
     <div class="books-page">
         <div class="keep-it-together">
-            <div class="text-left-books"> 
-                <div class="header-left">
+            <div class="text-left-novels"> 
+                <div class="header-left-novels">
                     <a href="novels-series.php"><span>N</span>ovels</a>
                 </div>
-                <div class="series-pic-books2">
-                    <a href="novels-series.php"><img src="../images/novels-654x500.jpg" width="654" height="500" alt="Novels Image" /></a>
+                <div class="series-pic-books-novels">
+                    <a href="book2.php"><img src="../images/novels-654x500.jpg" width="654" height="500" alt="Novels Image" /></a>
                 </div>
             </div>  <!-- end text-left-books div -->
                 
             <div class="text-right-books">
-                <div class="header-right">
+                <div class="header-right-short">
                     <a href="under-construction.php"><span>S</span>hort <span>S</span>tories
                 </div>
-                <div class="series-pic-books2-rt">
+                <div class="series-pic-books-short">
                     <a href="novels-series.php"><img src="../images/short-stories-728x500.jpg" width="728" height="500" alt="Short Stories Image" /></a>
                 </div>
             </div> <!-- end text-right-books -->
