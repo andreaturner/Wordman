@@ -58,6 +58,8 @@
                 <span>There's more to life than us!</span>
             </div>
             
+           
+            
             <div class="header-chapter">
                <span>C</span>hapter <span>1</span>
             </div>
@@ -164,7 +166,7 @@
                 The river, Tears of Rensis, swept in from the furthest boundaries of the three provinces and met in the middle of Iftmus at the bottomless falls of Fina&#39;sha, the singular place where the tip of
                 each of the provinces touched. Something stirred in Fa-tera&#39;s heart. She silently vowed to make a pilgrimage to those falls in the near future.
             </div>
-            
+           
             <div class="prologue-text">
                 Nalas&#39;, the stone monoliths that surrounded the cats were a huddle of shadows from the past. The large stones were veined with greenstone and had been placed there by the Abyssinian cats
                 that once dwelt in La-mor. There was a peace to their presence, a tie with the past and the heritage of all cat. Only once an eight-season did they stir, as they had the so many sunwalks
@@ -653,17 +655,20 @@
       
       <hr />
   <div class="pagination">
+     <div id="page_number" class="page_number">1</div>
         <ul>
             <li><a href="#" id="prev" class="prevnext">« Previous</a></li>
             <li><a href="#" id="next" class="prevnext">Next »</a></li>
         </ul>
         <br />
-        <div id="page_number" class="page_number">1</div>
+        
   </div>
   
+
     <!-- jQuery UI library -->
 	 <script src="../scripts/jquery-ui/jquery-ui.min.js"></script>        
-    <script src="../scripts/pagination.js"></script>     
+    <!--<script src="../scripts/pagination.js"></script> -->
 <?php
     include ('../shared/footer.html');            
-?>             
+?>
+         

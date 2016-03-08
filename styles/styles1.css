@@ -82,7 +82,7 @@
 }
 
 .pagination a:hover, .pagination a:active{
-    border: 1px solid #2b66a5;
+    border: 1px solid #000;
     color: #000;
     background-color: #FFFF80;
 }

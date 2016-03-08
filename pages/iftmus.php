@@ -1012,7 +1012,7 @@
                 
             <h3 style="font-weight: bold;">Prologue</h3>
 				<div>  <!-- start Prologues div -->
-                
+                <div id="content">
                 <!--  Section 1 -->
                     <div class="keep-it-together">  <!-- start keep-it-together div Section 1 -->
                         <div class="prologue-center-title">
@@ -1332,7 +1332,9 @@
                     
 				</div>  <!-- end Prologues div -->
             </div>    
-        </div> <!-- end content div -->
+        </div> <!-- end content class div -->
+		  </div> <!-- end content id div -->
+
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 <!-- jquery library -->
