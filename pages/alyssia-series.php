@@ -43,8 +43,8 @@
                 </div>
             </div>    
                 
-                <div class="read-more">
-                    <a href="alyssia-to-hunt-the-past-book1.php">Read more!</a>
+                <div class="text">
+                    Copyright &copy; 2013 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
                 </div>
      
             <div class="book-series-alyssia">    
@@ -52,9 +52,9 @@
                     <a href="alyssia-to-face-the-future-book2.php">Book II&nbsp;To Face The Future</a>
                 </div>
                 <div class="series-pic">
-                    <a href="alyssia-to-face-the-future-book2.php"><img src="../images/alyssia-to-face-the-future-553x300.png" width="553" height="300" alt="To Face The Future Image" /></a>
+                    <a href="alyssia-to-face-the-future-book2.php"><img src="../images/alyssia-to-accept-the-present-380x300.jpg" width="380" height="300" alt="To Face The Future Image" /></a>
                 </div>
-                <div class="poem-future">
+                <div class="poem-present">
                     <span class="large">&ldquo;T</span>here is no account or any record in the church<br>
                     of anything good being accomplished by,<br>
                     or attributable to, witchcraft.<br>
@@ -66,8 +66,8 @@
                     alongside the accused, and sentenced to the same.&rdquo;
                 </div>
             
-                <div class="read-more">
-                    <a href="alyssia-to-face-the-future-book2.php">Read more!</a>
+                <div class="text">
+                    Copyright &copy; 2013 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
                 </div>
             </div>
            
@@ -76,7 +76,7 @@
                     <a href="alyssia-to-accept-the-present-book3.php">Book III &nbsp;To Accept The Present</a>
                 </div>
                 <div class="series-pic">
-                    <a href="alyssia-to-accept-the-present-book3.php"><img src="../images/alyssia-to-accept-the-present-380x300.jpg" width="380" height="300" alt="To Accept the Present Image" /></a>
+                    <a href="alyssia-to-accept-the-present-book3.php"><img src="../images/alyssia-to-face-the-future-553x300.png" width="553" height="300" alt="To Accept the Present Image" /></a>
                 </div>
                 <div class="poem-present">
                     <span class="large">&ldquo;T</span>here is intolerance in people,<br>
@@ -102,9 +102,9 @@
                 
                     <br>
                     <br>
-                    <div class="read-more">
-                        <a href="alyssia-to-accept-the-present-book3.php">Read more!</a>
-                    </div>
+                <div class="text">
+                    Copyright &copy; 2013 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
+                </div>
             </div>
         </div>
   

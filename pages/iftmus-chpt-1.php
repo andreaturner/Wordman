@@ -2,7 +2,7 @@
     $page_title = 'Iftmus';
     include ('../shared/header.html');
 ?> 
-    <div id="content">
+    <!--<div id="pagination"> -->
         <div class="content">
 
         <div class="header">
@@ -58,7 +58,10 @@
                 <span>There's more to life than us!</span>
             </div>
             
-           
+            
+            
+        
+            </div>
             
             <div class="header-chapter">
                <span>C</span>hapter <span>1</span>
@@ -174,12 +177,12 @@
             </div>
             
             <div class="prologue-text">
-                Early sunwalk past, Fa-tera had entered Nalas&339; from the riverside. The tall rocks shifted and grated within like the clearing of a stone throat. A group voice, many but one, spoke out
+                Early sunwalk past, Fa-tera had entered Nalas&#39; from the riverside. The tall rocks shifted and grated within like the clearing of a stone throat. A group voice, many but one, spoke out
                 to her before she even faced the monoliths. &ldquo;Who&#46;&#46;&#46;, wakes&#46;&#46;&#46;, us?&rdquo; The voice was low and gritty like the rumbling of earth when stone caresses stone.
             </div>
             
             <div class="prologue-text">
-                The greenstone glowed, as did Fa-tera&339;s eyes. <span class="italic">#ldquo;I am the Teacher. Thee are awakened by the time of testing. At next sunfall thee shall stand witness as thee have
+                The greenstone glowed, as did Fa-tera&#39;s eyes. <span class="italic">&ldquo;I am the Teacher. Thee are awakened by the time of testing. At next sunfall thee shall stand witness as thee have
                 for ages now.&rdquo;</span>
             </div>
             
@@ -651,10 +654,13 @@
             </div>
             
         </div> <!-- end keep-it-together div -->
-      </div> <!-- end div id="content" div -->
-      
-      <hr />
-  <div class="pagination">
+      </div> <!-- end div id="pagination" div -->
+
+<?php
+    include ('../shared/footer.html');            
+?>      
+     
+  <!-- <div class="pagination">
      <div id="page_number" class="page_number">1</div>
         <ul>
             <li><a href="#" id="prev" class="prevnext">« Previous</a></li>
@@ -662,13 +668,11 @@
         </ul>
         <br />
         
-  </div>
+  </div> -->
   
 
     <!-- jQuery UI library -->
 	 <script src="../scripts/jquery-ui/jquery-ui.min.js"></script>        
     <!--<script src="../scripts/pagination.js"></script> -->
-<?php
-    include ('../shared/footer.html');            
-?>
+
          

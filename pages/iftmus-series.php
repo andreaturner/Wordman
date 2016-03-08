@@ -26,8 +26,8 @@
                 of Greenstone, the corridor between all three worlds.
                 </div>
         </div>
-        <div class="read-more">
-            <a href="iftmus-chpt-1.php">Read more!</a>
+        <div class="text">
+            Copyright &copy; 1990 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
         </div>
      
         <div class="book-series-summary">
@@ -48,7 +48,9 @@
                 the ruling Mage Council reside.
                 </div>
     </div>
-           <br><br><br> 
+           <div class="text">
+            Copyright &copy; 1999 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
+        </div>
         
         <div class="book-series-summary">
             <div class="small-header">
@@ -69,8 +71,13 @@
                 force. This will in turn twart the invading Persians, plunging the world into war and inadvertently change the time line future of the coming Alexandrian
                 Empire. In blood and suffering they will change history and condemn the world to a new dark age.
                 </div>
+				
+				
+				
     </div>
-            <br><br><br>
+		  <div class="text">
+            Copyright &copy; 1999 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
+        </div>
             
         <div class="book-series-summary">
             <div class="small-header">
@@ -91,8 +98,13 @@
                 themselves and others and have won as much, as they have suffered and lost. They have been the best of comrades. They have been their own worst
                 enemy. There has been death and loss on both sides and there are wounds that will never heal.
             </div>
+				
+				
             
     </div>
+		  <div class="text">
+            Copyright &copy; 1999 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
+        </div>
                         
             <div class="return-bottom">
 				<a href="iftmus.php">Return to Iftmus Home Page</a>
