@@ -2,7 +2,8 @@
     $page_title = 'Iftmus';
     include ('../shared/header.html');
 ?> 
-    <div class="content">
+    <div id="content">
+        <div class="content">
 
         <div class="header">
             <a href="iftmus.php"><span>I</span>ftmus</a>
@@ -653,8 +654,20 @@
             
             
         </div> <!-- end keep-it-together div -->
-            
-            
+      </div> <!-- end div id="content" div -->
+      
+      <hr />
+  <div class="pagination">
+        <ul>
+            <li><a href="#" id="prev" class="prevnext">« Previous</a></li>
+            <li><a href="#" id="next" class="prevnext">Next »</a></li>
+        </ul>
+        <br />
+        <div id="page_number" class="page_number">1</div>
+  </div>
+  
+    <!-- jQuery UI library -->
+		<script src="../scripts/jquery-ui/jquery-ui.min.js"></script>        
             
 <?php
     include ('../shared/footer.html');            
