@@ -647,11 +647,6 @@
                 of the smaller cats residing in La-mor, but there was a majesty that emanated from her, a very power in her presence. Bastet&#39;s silver black fur was sleek and there was
                 a grace in her walk that made her look ageless.
             </div>
-
-             
-             
-            
-            
             
         </div> <!-- end keep-it-together div -->
       </div> <!-- end div id="content" div -->
@@ -667,8 +662,8 @@
   </div>
   
     <!-- jQuery UI library -->
-		<script src="../scripts/jquery-ui/jquery-ui.min.js"></script>        
-            
+	 <script src="../scripts/jquery-ui/jquery-ui.min.js"></script>        
+    <script src="../scripts/pagination.js"></script>     
 <?php
     include ('../shared/footer.html');            
 ?>             

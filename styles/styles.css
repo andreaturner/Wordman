@@ -1392,6 +1392,15 @@ a:hover {
     font-family: "lucida calligraphy",arial,'sans serif';
     padding-top: 1%;
 }
+
+.prologue-center-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-top: 1%;
+}
+
 .prologue-center-title-chapter span {
     font-weight: 400;
     font-size: 120%;
@@ -1403,10 +1412,10 @@ a:hover {
     font-style: italic;
 }
 
-.prologue-center span {
+/*.prologue-center span {
     font-weight: bold;
     font-size: 120%;
-}
+}*/
 
 .tagline-right-prologue {
     text-align: right;

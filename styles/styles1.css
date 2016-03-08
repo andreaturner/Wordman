@@ -46,7 +46,7 @@
 #top a:hover {
     color: #000080;
 }
-
+/* beginning of pagination css */
 #content {
     position:relative;
     height:400px;
@@ -98,6 +98,8 @@
     text-align: center;
     width: 20px;
 }
+
+/* end of pagination css */
 
 .entry-footer {
     font-weight: bold;

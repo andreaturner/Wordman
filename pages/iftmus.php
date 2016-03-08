@@ -1064,7 +1064,7 @@
                             From the Sky-lashe Verse Prophecies
                         </div>
                         
-                        <div class="prologue-psi">
+                        <div class="prologue-psi-chapter">
                             &#936;
                         </div>
                         
@@ -1146,7 +1146,7 @@
                     
                     <div class="keep-it-together"> <!-- start keep-it-together div Section 2 -->
                         
-                        <div class="prologue-psi">
+                        <div class="prologue-psi-chapter">
                             &#936;
                         </div>
                         
@@ -1220,7 +1220,7 @@
                     
                     <div class="keep-it-together"> <!-- start keep-it-together div Section 3 -->
                         
-                        <div class="prologue-psi">
+                        <div class="prologue-psi-chapter">
                             &#936;
                         </div>
                         
@@ -1270,7 +1270,7 @@
                     
                     <div class="keep-it-together"> <!-- start keep-it-together div Section 4 -->
                         
-                        <div class="prologue-psi">
+                        <div class="prologue-psi-chapter">
                             &#936;
                         </div>
                         
