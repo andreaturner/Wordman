@@ -653,6 +653,73 @@
                 a grace in her walk that made her look ageless.
             </div>
             
+            <div class="prologue-text"> 
+                Of the many things Fa-tera would remember, it was the Abyssinian&#39;s eyes that haunted her memories. Those eyes had been much greener than her own and they danced with a
+                fire that burned constantly and not just when the cat was using Sha-talon. It was a flood of green, alive, fighting with itself to keep from spilling out.
+            </div>
+            
+            <div class="prologue-text"> 
+                Once Fa-sinto had left the clearing, Bastet strode over to Fa-tera&#39;s hiding place. There was a calm assurance in her manner and when she turned
+                her gaze upon the young cat, there was only a warm wash of love that made the kitten want to return the same. Unbidden, Fa-tera stepped out from
+                behind the bush where she hid and walked slowly forward, sniffing, seeking mood, until the two cats were almost nose to nose. 
+            </div>
+            
+            <div class="prologue-text"> 
+                Bastet&#39;s mind spoke out to her with the authority of soft thunder, her tone a caress of a soft rain following. <span class="italic">&ldquo;I would venture
+                little sister, thee and I will be seeing each other again.”&rdquo;<span> The Abyssinian cat scrutinized Fa-tera even closer, a touch of magic reaching out
+                from her burning eyes. It snaked in and around Fa-tera’s head and then returned from whence it came. <span class="italic">&ldquo;Yes&#46;&#46;&#46; yes my
+                young one, one sunwalk soon, but not soon enough, thee will walk the footfalls thee would not wish to call thy own. I give these words that thee may be ready.&rdquo;</span>
+                Her gaze penetrated Fa-tera&#39;s soul, her mindspeak urgent.<span class="italic">&ldquo;Teach the many little one, but be ready for the few, among which
+                thee are numbered.&rdquo;</span> There was a buzz&#46;&#46;&#46; a numbing of the mind that caused the rest of the words to slur. When Fa-tera shook her head
+                the old cat was smiling, almost sadly. She addressed her for the first time by name. <span class="italic">&ldquo;Fa-tera, thy blood is the blood of all cats,
+                even ours. Judge not harshly, for there are stories beneath stories, words behind words. Surely even the foolish wise cannot know them all!
+                When it is time, thee will remember what has been said here. Protect thy heart that it may stay ever young. Bless thee and forgive us.&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                There was melancholy to Bastet&#39;s strange benediction but as she turned and walked away, Fa-tera had no time to ponder it. Fa-sinto, her teacher had just
+                returned. Thinking she had been innocently pestering their guest he cuffed her lightly on the ear with a gentle swipe of his paw. <span class="italic"></span>
+                &ldquo;Go on nosy one. This is no business of yours. Go&#46;&#46;&#46; go join the others!&rdquo;</span> She scampered away not bothering to justify herself,
+                but&#46;&#46;&#46;
+            </div>
+        
+            <div class="prologue-text"> 
+                &#46;&#46;&#46;still she wondered even now, if that benediction had been a blessing or a curse? As a Ch&#39;aun, &ldquo;mixed blood&rdquo;, Fa-tera had always
+                been an enigma. She alone, among all Ch&#39;aun, could Ma-chona “mindspeak”. This was a gift all cat of pure blood shared. Though mixed bloods could hear the
+                Ma-chona of other cats, they could not mindspeak back. They could not draw Ma-nasta, <span class="italic">&ldquo;The weight of the spirit&rdquo;</span>or Ma-hosta,
+                <span class="italic">&ldquo;The fire of dreams&rdquo;</span> or Ma-chena, <span class="itlaic">&ldquo;The trails of the wind&rdquo;</span> and thus came the abuse
+                nurtured by the ignorance and arrogance of most cat of pure blood. Ch’aun were treated as lesser cat.
+            </div>
+            
+            <div class="prologue-text"> 
+                Anger welled up in Fa-tera and it tasted bitter. She had only been given her position by virtue of the arts she wielded and her unexpected ability to mindspeak.
+                If not for that, she would have been, like all other Ch&#39;aun, an outcast from the main body of cat. They were all shunned, often mistreated, until they died
+                or fled to the Grasswater seeking some fabled sanctuary.
+            </div>
+            
+            <div class="prologue-text"> 
+                No one really knew what happened to the Ch&#39;aun that ventured to the Grasswater. The Cha-tain cats that dwelt in that vast area would neither speak of it nor
+                allow anyone to enter on to their plain. Even the Shi-kauti that ministered there were allowed only restricted entry and allowed none to broach this subject.
+            </div>
+            
+            <div class="prologue-text"> 
+                Here again Ja-natia Cha-tain was no different and certainly no less secretive. Rumors abounded; there were stories of a refuge where all cats were treated equal,
+                talk of death marches and mass gravesites and the whispered &ldquo;lost in the mists with the Abyssinians&rdquo;. None but the refugee Ch&#39;aun, or the Cha-tain
+                could say for sure, and since none of the Ch&#39;aun ever came back, and none of the Cha-tain chose to share&#46;&#46;&#46; varying views and guesses would no doubt
+                continue!
+            </div>
+            
+            <div class="prologue-text"> 
+                Ja-natia was watching Fa-tera and when the two cats&#39; eyes met the tall white cat merely nodded respectfully. Was she merely affirming, &ldquo;It is not the
+                time for the telling?&rdquo;
+            </div>
+            
+            
+            
+            
+            
+            
+            
         </div> <!-- end keep-it-together div -->
       </div> <!-- end div id="pagination" div -->
 
@@ -660,15 +727,15 @@
     include ('../shared/footer.html');            
 ?>      
      
-  <!-- <div class="pagination">
-     <div id="page_number" class="page_number">1</div>
-        <ul>
-            <li><a href="#" id="prev" class="prevnext">« Previous</a></li>
-            <li><a href="#" id="next" class="prevnext">Next »</a></li>
-        </ul>
-        <br />
-        
-  </div> -->
+  <script>
+    $('#pagination').twbsPagination({
+        totalPages: 35,
+        visiblePages: 7,
+        onPageClick: function (event, page) {
+            $('#page-content').text('Page ' + page);
+        }
+    });
+  </script>
   
 
     <!-- jQuery UI library -->
