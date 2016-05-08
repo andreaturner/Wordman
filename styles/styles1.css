@@ -38,6 +38,16 @@
     margin: 0 auto;
 }
 
+#language {
+    font-family:'Lora', serif;
+    font-size: large;
+    border: #000 double;
+    width: 80%;
+    height: auto;
+    text-align: left;
+    margin: 0 auto;
+}
+
 #top a {
     color: #4863A0;
     padding-left: 5%;

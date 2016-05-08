@@ -14,7 +14,64 @@
         </div>
             
         <div class="keep-it-together"> <!-- start keep-it-together div -->
-            
+            <h1>Paige's Paging Demo</h1>
+            <style>
+                .pages { }
+                
+                .page {
+                    display: none;
+                }
+                
+                .pager a {
+                    display: inline-block;
+                    padding: 10px;
+                    margin: 5px;
+                    border: solid 1px #ccc;
+                    cursor: pointer;
+                }
+               
+                
+                .selected-page {
+                    background: red;
+                }
+            </style>
+            <div class="pages">
+                <div class="pager">
+                    <a data-page="1">1</a>
+                    <a data-page="2">2</a>
+                    <a data-page="3">3</a>
+                    <a data-page="4">4</a>
+                    <a data-page="5">5</a>
+                </div>
+
+                <div id="page1" class="page" style="display: block;">
+                    Page 1:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+                </div>
+    
+                <div id="page2" class="page">
+                    Page 2:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+                </div>
+    
+                <div id="page3" class="page">
+                    Page 3:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+                </div>
+    
+                <div id="page4" class="page">
+                    Page 4:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+                </div>
+    
+                <div id="page5" class="page">
+                    Page 5:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+                </div>
+                
+                <div class="pager">
+                    <a data-page="1">1</a>
+                    <a data-page="2">2</a>
+                    <a data-page="3">3</a>
+                    <a data-page="4">4</a>
+                    <a data-page="5">5</a>
+                </div>
+            </div>
                         
             <div class="prologue-center">
                 There is a fight within all fights,<br>
@@ -57,10 +114,7 @@
                 The journey&#39;s first step, say it now&#46;&#46;&#46;<br>
                 <span>There's more to life than us!</span>
             </div>
-            
-            
-            
-        
+          
             </div>
             
             <div class="header-chapter">
@@ -666,8 +720,8 @@
             
             <div class="prologue-text"> 
                 Bastet&#39;s mind spoke out to her with the authority of soft thunder, her tone a caress of a soft rain following. <span class="italic">&ldquo;I would venture
-                little sister, thee and I will be seeing each other again.”&rdquo;<span> The Abyssinian cat scrutinized Fa-tera even closer, a touch of magic reaching out
-                from her burning eyes. It snaked in and around Fa-tera’s head and then returned from whence it came. <span class="italic">&ldquo;Yes&#46;&#46;&#46; yes my
+                little sister, thee and I will be seeing each other again.&rdquo;<span> The Abyssinian cat scrutinized Fa-tera even closer, a touch of magic reaching out
+                from her burning eyes. It snaked in and around Fa-tera&#39;s head and then returned from whence it came. <span class="italic">&ldquo;Yes&#46;&#46;&#46; yes my
                 young one, one sunwalk soon, but not soon enough, thee will walk the footfalls thee would not wish to call thy own. I give these words that thee may be ready.&rdquo;</span>
                 Her gaze penetrated Fa-tera&#39;s soul, her mindspeak urgent.<span class="italic">&ldquo;Teach the many little one, but be ready for the few, among which
                 thee are numbered.&rdquo;</span> There was a buzz&#46;&#46;&#46; a numbing of the mind that caused the rest of the words to slur. When Fa-tera shook her head
@@ -685,10 +739,10 @@
         
             <div class="prologue-text"> 
                 &#46;&#46;&#46;still she wondered even now, if that benediction had been a blessing or a curse? As a Ch&#39;aun, &ldquo;mixed blood&rdquo;, Fa-tera had always
-                been an enigma. She alone, among all Ch&#39;aun, could Ma-chona “mindspeak”. This was a gift all cat of pure blood shared. Though mixed bloods could hear the
+                been an enigma. She alone, among all Ch&#39;aun, could Ma-chona &ldquo;mindspeak&rdquo;. This was a gift all cat of pure blood shared. Though mixed bloods could hear the
                 Ma-chona of other cats, they could not mindspeak back. They could not draw Ma-nasta, <span class="italic">&ldquo;The weight of the spirit&rdquo;</span>or Ma-hosta,
-                <span class="italic">&ldquo;The fire of dreams&rdquo;</span> or Ma-chena, <span class="itlaic">&ldquo;The trails of the wind&rdquo;</span> and thus came the abuse
-                nurtured by the ignorance and arrogance of most cat of pure blood. Ch’aun were treated as lesser cat.
+                <span class="italic">&ldquo;The fire of dreams&rdquo;</span> or Ma-chena, <span class="italic">&ldquo;The trails of the wind&rdquo;</span> and thus came the abuse
+                nurtured by the ignorance and arrogance of most cat of pure blood. Ch&#39;aun were treated as lesser cat.
             </div>
             
             <div class="prologue-text"> 
@@ -714,32 +768,106 @@
                 time for the telling?&rdquo;
             </div>
             
+            <div class="prologue-text"> 
+                Fa-tera twitched and tried to swallow back some of the anger she felt rising within. There should be no secrets, not when it came to Kylor.
+                A piece of catlore came to her, helping to smother some of that anger. <span class="italic">&ldquo;Slow careful steps on a sure course, bring thee closer to
+                home than a heated run in the wrong direction!&rdquo;</span> The muscles down her spine quivered as she twitched, and chased for the calm.  &#39;Yes,
+                yes&#46;&#46;&#46; thee should slow down old cat. Thee are getting careless with thy emotions and after all&#46;&#46;&#46; good change will come, as surely
+                as bad.&#39; She didn’t feel any better, regardless the platitudes she recited.
+            </div>
             
+            <div class="prologue-text"> 
+                The Shi-kauti had finished the Prophecies of Pursong. Ja-natia had moved them into the Ska-lation Verse, meant to be mindsung with a mix of &ldquo;pain-cry&rdquo;
+                and &ldquo;warn-cry&rdquo;. The author was long held to have been Rensis, the last ruling Sa-bata cat, though most would rather cast it off as foolish cat-lore.
+                Fa-tera accompanied that last thought with a nervous jerk of her head and proceeded quietly to listen to the prophecies, rather than dwell on her own dark broodings.
+            </div>
+            
+            <div class="prologue-center">
+                <span class="italic">&ldquo;Hear now oh cat of Iftmus<br>
+                There shall be no more warning<br>
+                For what shall be, already is!<br>
+                And what shall come is already written!</span>
+            </div>
+            <br>
+            
+            <div class="prologue-center">
+                <span class="italic">And in these days breed shall turn against breed<br>
+                And pride against its own.<br>
+                Honor shall be lost,<br>
+                For fear and hatred shall course the blood of Iftmus.<br>
+                Jealousy and greed shall weaken the bone<br>
+                And evil shall be at the very heart!7rdquo;</span>
+            </div>
+            <br>
+            
+            <div class="prologue-center">
+                <span class="italic">The Na-costam&#39;a, the outsiders<br>
+                Shall be friend and foe.<br>
+                They shall save or destroy,<br>
+                As teeth rend or merely hold.<br>
+                Theirs shall savagely tear at the heart of Iftmus.<br>
+                Your hearts will bleed for the tearing,<br>
+                But the evil shall not stop with you.<br>
+                For its hunger knows no end.<br>
+                It has been brought to your throats<br>
+                By your own, while you slept.</span>
+            </div>
+            <br>
+            
+            <div class="prologue-center">
+                <span class="italic">Beware the wild dreams of the man cub!<br>
+                I weep for you fair Iftmus.<br>
+                I pray for you&#46;&#46;&#46; all cat.&rdquo;<br>
+                </span>
+            </div>
             
             
             
             
             
         </div> <!-- end keep-it-together div -->
-      </div> <!-- end div id="pagination" div -->
+      <!--</div> <!-- end div id="pagination" div -->
+      
+    <script type="text/javascript" src="../scripts/jquery.js"></script>
+    <script type="text/javascript" src="../scripts/jquery.simplePagination.js"></script>
+    
+    <script>
+    $(function() {
+        var currentPage = "1";
+        
+        $(".pager a").click(function(e) {
+
+            // Hide the current page
+            $("#page" + currentPage).hide();
+            
+            // Get the page that is clicked
+            var newPageNumber = $(this).data("page");
+            
+            $("#page" + newPageNumber).show();
+            
+            currentPage = newPageNumber;
+         
+            $(".pager a").removeClass("selected-page");
+         
+            $(this).addClass("selected-page");
+            
+            e.preventdefault();
+            
+        });
+        
+        $("#page").pagination({
+            items: 100,
+            itemsOnPage: 10,
+            cssStyle: 'light-theme'
+        });
+    });
+ </script>     
+      
 
 <?php
     include ('../shared/footer.html');            
 ?>      
      
-  <script>
-    $('#pagination').twbsPagination({
-        totalPages: 35,
-        visiblePages: 7,
-        onPageClick: function (event, page) {
-            $('#page-content').text('Page ' + page);
-        }
-    });
-  </script>
-  
-
-    <!-- jQuery UI library -->
-	 <script src="../scripts/jquery-ui/jquery-ui.min.js"></script>        
-    <!--<script src="../scripts/pagination.js"></script> -->
+    
 
          

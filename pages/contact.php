@@ -13,7 +13,7 @@
 		</div>
 	  
 		<div class="image-border">
-			<img src="../images/gibran-392x500.jpg" width="392px" height="500px" alt="Gibran Drawing" />
+			<img src="../images/gibran-392x500-5.jpg" width="392px" height="500px" alt="Gibran Drawing" />
 		</div>
 			<div class="contact-text">
 				<span class="italic"><span class="large">&ldquo;I</span>n the act of communication there is a responsibility by all parties to stay away from &ldquo;rant or rage&rdquo;.

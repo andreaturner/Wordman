@@ -9,7 +9,7 @@
             </div>
             <br>
             <div class="small-header">
-                <a href="iftmus-chpt1.php">Book I&nbsp;&nbsp; Iftmus: Of Dreams Like Mist</a>
+                <a href="iftmus-chpt-1.php">Book I&nbsp;&nbsp; Iftmus: Of Dreams Like Mist</a>
             </div>
             <div class="series-pic-iftmus">
                 <a href="iftmus-chpt-1.php"><img src="../images/iftmus-of-dreams-like-mist-177x250.jpg" width="177" height="250" alt="Of Dreams Like Mist Image" /></a>
