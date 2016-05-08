@@ -459,15 +459,314 @@
                     
                 </div>
 
-
                 <div id="page8" class="page">
+                    <div class="prologue-text"> 
+                        The old cat marveled, briefly shaken by the depths of her own dark thoughts.  &ldquo;Far better thee should keep thy mind on the testing, foolish cat!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text-center-italic">
+                        &ldquo;And when Sha-talon and the Abyssinians left Iftmus, a great emptiness filled the land. Ren-sis knew he was at the end, even though it was before his time. He turned the right to rule
+                        over to The Li-horan cat, and none could argue, as he had no heir. The last of his pride were the last of the great and honored Sa-bata cats.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Fa-tera snorted, her thoughts once more running astray. It had been in those times, cat first drew the death blood of cat. Even now the Li-horan and the Ti-breen cat supposedly shed death
+                        blood, over the right to rule. Why wasn&#39;t that spoken of in Kylor?
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        She felt nervous, her own questions bordered blasphemy. She offered up a quick apologetic prayer and again scolded herself. Was this the frailty of old age, despair brought on by too many
+                        sunfalls, or was her faith being shaken in the bite of a more subtle truth? Despite the self-scolding, Fa-tera's thoughts had taken her too close to her own buried doubts. Thanks to the
+                        spiritual stumble, she was recognizing those doubts and in so doing, giving them a life of their own. From here on, the cat had no choice but to be haunted by the whispers of all she had,
+                        since before, refused to acknowledge.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Kylor did indeed sidestep certain&#46;&#46;&#46; more recent issues. Too many of the changes going on in Iftmus were not accounted for, especially in the region of Pa-tan. The old cat
+                        shivered. Could this mean that past Shi-kauti had some part in placing insidious lies or half-truths into Kylor? She had to believe they couldn&#39;t. They were her adopted cubs, chosen,
+                        raised, and tested, all so carefully. She was responsible for them, for Kylor, for all cats in Iftmus!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Shi-kauti of Kylor always went out in pairs, two pair to each province. No Shi-kauti was ever without another by their side, so the validity of any additions to Ky-lor could never be disputed.
+                        This was as it always had been.    
+                    </div>
+                    
+                     <div class="prologue-text"> 
+                        But still the gnawing doubt had sunk its teeth into the flesh of her soul. She might continue to run, but the demon had found the jugular. At this rate, doubt would continue to bleed her
+                        until faith was dead. Catlore said, &ldquo;The shedding of souls blood are the seasons passing. The loss of honesty, faith or dreams, merely promises that one may never again awaken and
+                        blink through the eyes of innocence.&rdquo;
+                    </div>
+                     
+                     <div class="prologue-text"> 
+                        The ground shook ever so softly, a deep and sorrowful rumble. These ground tremors had been occurring at an ever-increasing rate, as had the whispered tales of newly occurring firestorms
+                        over the Pri-hy Mountains. It was rumored that at times, the heavens burned like the Grasswater during a storm-caused flash-fire. Though the stories might appear embellished or slightly
+                        exaggerated, too many cat were recounting similar variations and that it made it impossible to simply discount them!
+                    </div>
+                     
+                     <div class="prologue-text"> 
+                        Again the nagging demon&#46;&#46;&#46; why hadn&#39;t any of her Shi-kauti ever brought these reports back to her?  What of the whispers of strange creatures seen in the deep swamps of
+                        Cry-mar, down near the borders of La-mor and Pa-tan?  More questions with yet fewer answers. Why did the land itself feel so wrong? Why wasn&#39;t Kylor keeping up with even the local gossip?
+                        Why had her two older pair of Shi-kauti not returned from Pa-tan last Di-Chant? Questions chasing their tails, plaguing like pestering carrion-eaters awaiting the death of a next meal.
+                    </div>
+                     
+                     <div class="prologue-text"> 
+                        It was customary for all Shi-kauti to return to La-mor each Di-Chant, not only in tribute to their Teacher and the Spirit of Felis, but more important, to recount their experiences over
+                        past sunfalls, to bring up to date any changes or additions to Kylor. Occasionally a few had, in the past, missed Di-Chant due to traveling conditions or circumstances in their respected
+                        province, but they would always show later. Four Shi-kauti had not shown up last Di-Chant or been heard from since.
+                    </div>
+                     
+                     <div class="prologue-text"> 
+                        How serious her fears were, would be proven by the next sunwalk. This coming Di-Chant was not just the sharing and additions to Kylor, but Da&#39;moshk, the time of passing of title. All
+                        Shi-kauti had to return to relinquish their roles to their younger heirs. None of her children had ever missed this Di-Chant, no Shi-kauti for any reason at any time! Certainly none ever
+                        would&#46;&#46;&#46;?  Her head hung low by the weight of her mood as she went back to listening.
+                    </div>
+                     
+                     <div class="prologue-text-center-italic">
+                        &ldquo;And Ki-seri of the Li-horan cat did reign from that part of Iftmus declared by his to be called Panthera, in the territory of Pa-tan.&rdquo; And the Spirit of Felis did return the
+                        lost magic&#39;s, Sha-talon to the Pan-duran cat, who removed themselves from Panthera&#46;&#46;&#46; to&#46;&#46;&#46;&rdquo;
+                    </div>
                     
                 </div>
-                
                 
                 <div id="page9" class="page">
+                    <div class="prologue-text"> 
+                        Ja-lito the young Shi-kauti who had been reciting, stalled, struggling for the exact words of Kylor. The other cats held their breath while their faltering friend tried to remember the
+                        next line. If he did not recover, it could be grounds for failing. Fa-tera closed her eyes and wished him on with a quick but fervent prayer. That prayer was answered along with a sigh
+                        of relief on all their parts&#46;&#46;&#46;&#46;
+                    </div>
+                     
+                     <div class="prologue-text-center-italic">
+                        &ldquo;&#46;&#46;&#46;&#46;to dwell in Amas&#39;ka, in the mountains of Pri-hy, above the Saber-wa!&rdquo;
+                    </div>
+                     
+                     <div class="prologue-text"> 
+                        Fa-tera shot him a stern glance but smiled inwardly. She had no wish to fail any of her children and certainly not over such a minor transgression&#46;&#46;&#46;&#46; not when Kylor
+                        itself seemed to omit so very much!
+                    </div>
+                     
+                     <div class="prologue-text-center-italic">
+                        &ldquo;And these are the generations that followed. Ki-tanti Li-horan, whose blood was drawn by Ki-seto and his pride. At the end of his time Ki-seto did pass down the right to rule
+                        to&#46;&#46;&#46;&rdquo;
+                    </div>
+                     
+                     <div class="prologue-text"> 
+                        What followed was a ruthless account of right to rule, stolen or passed on through deceit. To Fa-tera, Kylor seemed, too &ldquo;matter of fact&rdquo; about all this. She mourned this
+                        ever-growing apathy. Had they as a race failed the Spirit of Felis? Were these the last days, the end of the wait, the time of the Na-costam&#39;a, &ldquo;the outsiders?&rdquo; The mood of her
+                        questions seemed appropriate as Kylor moved into the Prophecies of Pursong:
+                    </div>
+                     
+                    <div class="prologue-center">
+                       &ldquo;Though cat alone doth seem to stand<br>
+                       &#39;Tis evil from beyond her land<br>
+                       Didst steal from Iftmus heart and soul<br>
+                       Now cub of man must make it whole<br>
+                       And war shall rage and not be done<br>
+                       Till cat and cat and cat are one!&rdquo;
+                    </div>
+                     
+                    <div class="prologue-text"> 
+                        Each cat&#39;s mind recited several verses before passing the telling to the next.
+                    </div>
+                     
+                    <div class="prologue-center">
+                        &ldquo;The worst of enemy of all time<br>
+                        Shall in this day become a sign<br>
+                        &#39;Tis not just cats scent on the wind<br>
+                        But three from three where all began<br>
+                        The prints of many walk the sand<br>
+                        Beware oh cat the scent of man!
+                     </div>
+                    
+                    <div class="prologue-center">
+                        When sky hath bled and wounded land<br>
+                        Doth cry aloud from unseen hand<br>
+                        &#39;Tis then Na-costam&#39;a called in pain<br>
+                        Shall come to those who serve the rain!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The tone of the recital was becoming as somber as the ancient warnings. The fire crackled, snapping the joints of golden fingers, as the body of flame writhed its own slow dance.
+                    </div>
+                    
+                    <div class="prologue-center">
+                        &ldquo;Behold thy sisters Iftmus fair<br>
+                        The lands beyond shall meet her there<br>
+                        And death shall dine while evil gleans<br>
+                        And fear shall plague what evil dreams!
+                     </div>
                     
                 </div>
+                
+                <div id="page10" class="page">
+                    <div class="prologue-center">
+                        Behold the warriors joined by hand<br>
+                        With Sha-talon Na-costam&#39;a stand<br>
+                        Let the healers bind them all<br>
+                        Lest Iftmus and her loved ones fall!
+                     </div>
+                    
+                    <div class="prologue-center">
+                        Mind the cub that breaks the bonds<br>
+                        And leaves us for our Mother&#39;s arms<br>
+                        One cat shall give all that it gained<br>
+                        That innocence shall live again&rdquo
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The last verses were quietly mindspoken by Chi-kaw, a Lingst cat from the low hills in the southern portion of La-mor. He was a quiet, solitary cat with a troubled spirit.
+                        Though he had no enemies here, throughout his training, it could certainly be said that he allowed few friends other than Fa-tera and Sa-toug&#39; the Shi-kauti he would
+                        travel across La-mor with. Still he made up in fervor and faith what he lacked in social grace.
+                    </div>
+                    
+                    <div class="prologue-center">
+                        &ldquo;The cat whose blood shall touch the old<br>
+                        The cub whose storm shall rip the soul<br>
+                        The smaller one shall greater be<br>
+                        &#39;Till cat and cat and cat are free!
+                     </div>
+                    
+                    <div class="prologue-center">
+                        The old one storms like thunders light<br>
+                        The fair one drifts like winds at night<br>
+                        The quiet warrior&#39;s broken soul<br>
+                        All work to make fair Iftmus whole.
+                    </div>
+                    
+                    <div class="prologue-center">
+                        One consumed by deathblood rage<br>
+                        And one whose wisdom knows no age<br>
+                        And one from evil&#39;s pride makes nine <br>
+                        When joined together are the sign
+                    </div>
+                    
+                    <div class="prologue-center">
+                        The Spirit of Felis shall cry<br>
+                        For many cubs those days shall die<br>
+                        And many laws resigned to dust<br>
+                        For in that time there is no trust<br>
+                        No honor there, save but for some<br>
+                        And woe to cat whose soul has none.
+                    </div>
+                    
+                    
+                    
+                </div>
+                
+                <div id="page11" class="page">
+                    <div class="prologue-center">
+                        I would not speak to Kylor now<br>
+                        If I could change it all somehow<br>
+                        Oh cubs of Felis for Iftmus weep<br>
+                        For cat and evil now both sleep<br>
+                        As mated pair and when they rise<br>
+                        All cat shall mourn for Iftmus dies!&rdquo;
+                    </div>
+                     
+                    <div class="prologue-text"> 
+                        The closing was an indictment that was painful to any heart true to Iftmus.
+                    </div>
+                    
+                    <div class="prologue-center">
+                        &ldquo;Beware false pride, for that is one<br>
+                        That blinds most cat<br>
+                        As brightest sun<br>
+                        Beware the signs but more than that<br>
+                        To all our shame<br>
+                        Beware the cat!&rdquo
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Fa-tera closed her eyes, drifting in the currents and the dark mood of these and many of the prophecies of Pursong. Eddies of memories swept her back to when she was
+                        first brought to Sefttora as a cub.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Young Fa-tera had a reckless sense of adventure. She refused to stay where the old Teacher, Fa-sinto had directed the new cubs to play. Instead she had cautiously followed
+                        the old cat. It was then she had seen her first and last Abyssinian ancestor, by virtue of her own partial blood. The Abyssinian&#39;s name had been Bastet, no larger than some
+                        of the smaller cats residing in La-mor, but there was a majesty that emanated from her, a very power in her presence. Bastet&#39;s silver black fur was sleek and there was
+                        a grace in her walk that made her look ageless.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Of the many things Fa-tera would remember, it was the Abyssinian&#39;s eyes that haunted her memories. Those eyes had been much greener than her own and they danced with a
+                        fire that burned constantly and not just when the cat was using Sha-talon. It was a flood of green, alive, fighting with itself to keep from spilling out.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Once Fa-sinto had left the clearing, Bastet strode over to Fa-tera&#39;s hiding place. There was a calm assurance in her manner and when she turned
+                        her gaze upon the young cat, there was only a warm wash of love that made the kitten want to return the same. Unbidden, Fa-tera stepped out from
+                        behind the bush where she hid and walked slowly forward, sniffing, seeking mood, until the two cats were almost nose to nose. 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Bastet&#39;s mind spoke out to her with the authority of soft thunder, her tone a caress of a soft rain following. <span class="italic">&ldquo;I would venture
+                        little sister, thee and I will be seeing each other again.&rdquo;<span> The Abyssinian cat scrutinized Fa-tera even closer, a touch of magic reaching out
+                        from her burning eyes. It snaked in and around Fa-tera&#39;s head and then returned from whence it came. <span class="italic">&ldquo;Yes&#46;&#46;&#46; yes my
+                        young one, one sunwalk soon, but not soon enough, thee will walk the footfalls thee would not wish to call thy own. I give these words that thee may be ready.&rdquo;</span>
+                        Her gaze penetrated Fa-tera&#39;s soul, her mindspeak urgent.<span class="italic">&ldquo;Teach the many little one, but be ready for the few, among which
+                        thee are numbered.&rdquo;</span> There was a buzz&#46;&#46;&#46; a numbing of the mind that caused the rest of the words to slur. When Fa-tera shook her head
+                        the old cat was smiling, almost sadly. She addressed her for the first time by name. <span class="italic">&ldquo;Fa-tera, thy blood is the blood of all cats,
+                        even ours. Judge not harshly, for there are stories beneath stories, words behind words. Surely even the foolish wise cannot know them all!
+                        When it is time, thee will remember what has been said here. Protect thy heart that it may stay ever young. Bless thee and forgive us.&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        There was melancholy to Bastet&#39;s strange benediction but as she turned and walked away, Fa-tera had no time to ponder it. Fa-sinto, her teacher had just
+                        returned. Thinking she had been innocently pestering their guest he cuffed her lightly on the ear with a gentle swipe of his paw. <span class="italic"></span>
+                        &ldquo;Go on nosy one. This is no business of yours. Go&#46;&#46;&#46; go join the others!&rdquo;</span> She scampered away not bothering to justify herself,
+                        but&#46;&#46;&#46;
+                    </div>
+                
+                    <div class="prologue-text"> 
+                        &#46;&#46;&#46;still she wondered even now, if that benediction had been a blessing or a curse? As a Ch&#39;aun, &ldquo;mixed blood&rdquo;, Fa-tera had always
+                        been an enigma. She alone, among all Ch&#39;aun, could Ma-chona &ldquo;mindspeak&rdquo;. This was a gift all cat of pure blood shared. Though mixed bloods could hear the
+                        Ma-chona of other cats, they could not mindspeak back. They could not draw Ma-nasta, <span class="italic">&ldquo;The weight of the spirit&rdquo;</span>or Ma-hosta,
+                        <span class="italic">&ldquo;The fire of dreams&rdquo;</span> or Ma-chena, <span class="itlaic">&ldquo;The trails of the wind&rdquo;</span> and thus came the abuse
+                        nurtured by the ignorance and arrogance of most cat of pure blood. Ch&#39;aun were treated as lesser cat.
+                    </div>
+                    
+                </div>
+                
+                <div id="page12" class="page">
+                    
+                    <div class="prologue-text"> 
+                        Anger welled up in Fa-tera and it tasted bitter. She had only been given her position by virtue of the arts she wielded and her unexpected ability to mindspeak.
+                        If not for that, she would have been, like all other Ch&#39;aun, an outcast from the main body of cat. They were all shunned, often mistreated, until they died
+                        or fled to the Grasswater seeking some fabled sanctuary.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        No one really knew what happened to the Ch&#39;aun that ventured to the Grasswater. The Cha-tain cats that dwelt in that vast area would neither speak of it nor
+                        allow anyone to enter on to their plain. Even the Shi-kauti that ministered there were allowed only restricted entry and allowed none to broach this subject.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Here again Ja-natia Cha-tain was no different and certainly no less secretive. Rumors abounded; there were stories of a refuge where all cats were treated equal,
+                        talk of death marches and mass gravesites and the whispered &ldquo;lost in the mists with the Abyssinians&rdquo;. None but the refugee Ch&#39;aun, or the Cha-tain
+                        could say for sure, and since none of the Ch&#39;aun ever came back, and none of the Cha-tain chose to share&#46;&#46;&#46; varying views and guesses would no doubt
+                        continue!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Ja-natia was watching Fa-tera and when the two cats&#39; eyes met the tall white cat merely nodded respectfully. Was she merely affirming, &ldquo;It is not the
+                        time for the telling?&rdquo;
+                    </div>
+         </div>
+                    
+                </div>
+                
+                <!--<div id="page13" class="page">
+                    
+                </div>
+                
+                <div id="page14" class="page"> 
+                    
+                </div>
+                
+                <div id="page15" class="page">
+                    
+                </div> -->
                 
                 <div class="pager"></div>
             </div>
@@ -478,289 +777,14 @@
         <div style="display: none;">
             
             
-            
-            
-            
-            
-            
-            <div class="prologue-text"> 
-                The old cat marveled, briefly shaken by the depths of her own dark thoughts.  &ldquo;Far better thee should keep thy mind on the testing, foolish cat!&rdquo;
-            </div>
-            
-            <div class="prologue-text-center-italic">
-                &ldquo;And when Sha-talon and the Abyssinians left Iftmus, a great emptiness filled the land. Ren-sis knew he was at the end, even though it was before his time. He turned the right to rule
-                over to The Li-horan cat, and none could argue, as he had no heir. The last of his pride were the last of the great and honored Sa-bata cats.&rdquo;
-            </div>
-            
-            <div class="prologue-text"> 
-                Fa-tera snorted, her thoughts once more running astray. It had been in those times, cat first drew the death blood of cat. Even now the Li-horan and the Ti-breen cat supposedly shed death
-                blood, over the right to rule. Why wasn&#39;t that spoken of in Kylor?
-            </div>
-            
-            <div class="prologue-text"> 
-                She felt nervous, her own questions bordered blasphemy. She offered up a quick apologetic prayer and again scolded herself. Was this the frailty of old age, despair brought on by too many
-                sunfalls, or was her faith being shaken in the bite of a more subtle truth? Despite the self-scolding, Fa-tera's thoughts had taken her too close to her own buried doubts. Thanks to the
-                spiritual stumble, she was recognizing those doubts and in so doing, giving them a life of their own. From here on, the cat had no choice but to be haunted by the whispers of all she had,
-                since before, refused to acknowledge.
-            </div>
-            
-            <div class="prologue-text"> 
-                Kylor did indeed sidestep certain&#46;&#46;&#46; more recent issues. Too many of the changes going on in Iftmus were not accounted for, especially in the region of Pa-tan. The old cat
-                shivered. Could this mean that past Shi-kauti had some part in placing insidious lies or half-truths into Kylor? She had to believe they couldn&#39;t. They were her adopted cubs, chosen,
-                raised, and tested, all so carefully. She was responsible for them, for Kylor, for all cats in Iftmus!
-            </div>
-            
-            <div class="prologue-text"> 
-                Shi-kauti of Kylor always went out in pairs, two pair to each province. No Shi-kauti was ever without another by their side, so the validity of any additions to Ky-lor could never be disputed.
-                This was as it always had been.    
-            </div>
-            
-             <div class="prologue-text"> 
-                But still the gnawing doubt had sunk its teeth into the flesh of her soul. She might continue to run, but the demon had found the jugular. At this rate, doubt would continue to bleed her
-                until faith was dead. Catlore said, &ldquo;The shedding of souls blood are the seasons passing. The loss of honesty, faith or dreams, merely promises that one may never again awaken and
-                blink through the eyes of innocence.&rdquo;
-            </div>
              
-             <div class="prologue-text"> 
-                The ground shook ever so softly, a deep and sorrowful rumble. These ground tremors had been occurring at an ever-increasing rate, as had the whispered tales of newly occurring firestorms
-                over the Pri-hy Mountains. It was rumored that at times, the heavens burned like the Grasswater during a storm-caused flash-fire. Though the stories might appear embellished or slightly
-                exaggerated, too many cat were recounting similar variations and that it made it impossible to simply discount them!
-            </div>
              
-             <div class="prologue-text"> 
-                Again the nagging demon&#46;&#46;&#46; why hadn&#39;t any of her Shi-kauti ever brought these reports back to her?  What of the whispers of strange creatures seen in the deep swamps of
-                Cry-mar, down near the borders of La-mor and Pa-tan?  More questions with yet fewer answers. Why did the land itself feel so wrong? Why wasn&#39;t Kylor keeping up with even the local gossip?
-                Why had her two older pair of Shi-kauti not returned from Pa-tan last Di-Chant? Questions chasing their tails, plaguing like pestering carrion-eaters awaiting the death of a next meal.
-            </div>
              
-             <div class="prologue-text"> 
-                It was customary for all Shi-kauti to return to La-mor each Di-Chant, not only in tribute to their Teacher and the Spirit of Felis, but more important, to recount their experiences over
-                past sunfalls, to bring up to date any changes or additions to Kylor. Occasionally a few had, in the past, missed Di-Chant due to traveling conditions or circumstances in their respected
-                province, but they would always show later. Four Shi-kauti had not shown up last Di-Chant or been heard from since.
-            </div>
-             
-             <div class="prologue-text"> 
-                How serious her fears were, would be proven by the next sunwalk. This coming Di-Chant was not just the sharing and additions to Kylor, but Da&#39;moshk, the time of passing of title. All
-                Shi-kauti had to return to relinquish their roles to their younger heirs. None of her children had ever missed this Di-Chant, no Shi-kauti for any reason at any time! Certainly none ever
-                would&#46;&#46;&#46;?  Her head hung low by the weight of her mood as she went back to listening.
-            </div>
-             
-             <div class="prologue-text-center-italic">
-                &ldquo;And Ki-seri of the Li-horan cat did reign from that part of Iftmus declared by his to be called Panthera, in the territory of Pa-tan.&rdquo; And the Spirit of Felis did return the
-                lost magic&#39;s, Sha-talon to the Pan-duran cat, who removed themselves from Panthera&#46;&#46;&#46; to&#46;&#46;&#46;&rdquo;
-            </div>
-             
-             <div class="prologue-text"> 
-                Ja-lito the young Shi-kauti who had been reciting, stalled, struggling for the exact words of Kylor. The other cats held their breath while their faltering friend tried to remember the
-                next line. If he did not recover, it could be grounds for failing. Fa-tera closed her eyes and wished him on with a quick but fervent prayer. That prayer was answered along with a sigh
-                of relief on all their parts&#46;&#46;&#46;&#46;
-            </div>
-             
-             <div class="prologue-text-center-italic">
-                &ldquo;&#46;&#46;&#46;&#46;to dwell in Amas&#39;ka, in the mountains of Pri-hy, above the Saber-wa!&rdquo;
-            </div>
-             
-             <div class="prologue-text"> 
-                Fa-tera shot him a stern glance but smiled inwardly. She had no wish to fail any of her children and certainly not over such a minor transgression&#46;&#46;&#46;&#46; not when Kylor
-                itself seemed to omit so very much!
-            </div>
-             
-             <div class="prologue-text-center-italic">
-                &ldquo;And these are the generations that followed. Ki-tanti Li-horan, whose blood was drawn by Ki-seto and his pride. At the end of his time Ki-seto did pass down the right to rule
-                to&#46;&#46;&#46;&rdquo;
-            </div>
-             
-             <div class="prologue-text"> 
-                What followed was a ruthless account of right to rule, stolen or passed on through deceit. To Fa-tera, Kylor seemed, too &ldquo;matter of fact&rdquo; about all this. She mourned this
-                ever-growing apathy. Had they as a race failed the Spirit of Felis? Were these the last days, the end of the wait, the time of the Na-costam&#39;a, &ldquo;the outsiders?&rdquo; The mood of her
-                questions seemed appropriate as Kylor moved into the Prophecies of Pursong:
-            </div>
-             
-            <div class="prologue-center">
-               &ldquo;Though cat alone doth seem to stand<br>
-               &#39;Tis evil from beyond her land<br>
-               Didst steal from Iftmus heart and soul<br>
-               Now cub of man must make it whole<br>
-               And war shall rage and not be done<br>
-               Till cat and cat and cat are one!&rdquo;
-            </div>
-             
-            <div class="prologue-text"> 
-                Each cat&#39;s mind recited several verses before passing the telling to the next.
-            </div>
-             
-            <div class="prologue-center">
-                &ldquo;The worst of enemy of all time<br>
-                Shall in this day become a sign<br>
-                &#39;Tis not just cats scent on the wind<br>
-                But three from three where all began<br>
-                The prints of many walk the sand<br>
-                Beware oh cat the scent of man!
-             </div>
             
-            <div class="prologue-center">
-                When sky hath bled and wounded land<br>
-                Doth cry aloud from unseen hand<br>
-                &#39;Tis then Na-costam&#39;a called in pain<br>
-                Shall come to those who serve the rain!&rdquo;
-            </div>
             
-            <div class="prologue-text"> 
-                The tone of the recital was becoming as somber as the ancient warnings. The fire crackled, snapping the joints of golden fingers, as the body of flame writhed its own slow dance.
-            </div>
             
-            <div class="prologue-center">
-                &ldquo;Behold thy sisters Iftmus fair<br>
-                The lands beyond shall meet her there<br>
-                And death shall dine while evil gleans<br>
-                And fear shall plague what evil dreams!
-             </div>
             
-            <div class="prologue-center">
-                Behold the warriors joined by hand<br>
-                With Sha-talon Na-costam&#39;a stand<br>
-                Let the healers bind them all<br>
-                Lest Iftmus and her loved ones fall!
-             </div>
             
-            <div class="prologue-center">
-                Mind the cub that breaks the bonds<br>
-                And leaves us for our Mother&#39;s arms<br>
-                One cat shall give all that it gained<br>
-                That innocence shall live again&rdquo
-             </div>
-            
-            <div class="prologue-text"> 
-                The last verses were quietly mindspoken by Chi-kaw, a Lingst cat from the low hills in the southern portion of La-mor. He was a quiet, solitary cat with a troubled spirit.
-                Though he had no enemies here, throughout his training, it could certainly be said that he allowed few friends other than Fa-tera and Sa-toug&#39; the Shi-kauti he would
-                travel across La-mor with. Still he made up in fervor and faith what he lacked in social grace.
-            </div>
-             
-            <div class="prologue-center">
-                &ldquo;The cat whose blood shall touch the old<br>
-                The cub whose storm shall rip the soul<br>
-                The smaller one shall greater be<br>
-                &#39;Till cat and cat and cat are free!
-             </div>
-            
-            <div class="prologue-center">
-                The old one storms like thunders light<br>
-                The fair one drifts like winds at night<br>
-                The quiet warrior&#39;s broken soul<br>
-                All work to make fair Iftmus whole.
-            </div>
-            
-            <div class="prologue-center">
-                One consumed by deathblood rage<br>
-                And one whose wisdom knows no age<br>
-                And one from evil&#39;s pride makes nine <br>
-                When joined together are the sign
-            </div>
-            
-            <div class="prologue-center">
-                The Spirit of Felis shall cry<br>
-                For many cubs those days shall die<br>
-                And many laws resigned to dust<br>
-                For in that time there is no trust<br>
-                No honor there, save but for some<br>
-                And woe to cat whose soul has none.
-            </div>
-            
-            <div class="prologue-center">
-                I would not speak to Kylor now<br>
-                If I could change it all somehow<br>
-                Oh cubs of Felis for Iftmus weep<br>
-                For cat and evil now both sleep<br>
-                As mated pair and when they rise<br>
-                All cat shall mourn for Iftmus dies!&rdquo;
-            </div>
-             
-            <div class="prologue-text"> 
-                The closing was an indictment that was painful to any heart true to Iftmus.
-            </div>
-            
-            <div class="prologue-center">
-                &ldquo;Beware false pride, for that is one<br>
-                That blinds most cat<br>
-                As brightest sun<br>
-                Beware the signs but more than that<br>
-                To all our shame<br>
-                Beware the cat!&rdquo
-            </div>
-            
-            <div class="prologue-text"> 
-                Fa-tera closed her eyes, drifting in the currents and the dark mood of these and many of the prophecies of Pursong. Eddies of memories swept her back to when she was
-                first brought to Sefttora as a cub.
-            </div>
-            
-            <div class="prologue-text"> 
-                Young Fa-tera had a reckless sense of adventure. She refused to stay where the old Teacher, Fa-sinto had directed the new cubs to play. Instead she had cautiously followed
-                the old cat. It was then she had seen her first and last Abyssinian ancestor, by virtue of her own partial blood. The Abyssinian&#39;s name had been Bastet, no larger than some
-                of the smaller cats residing in La-mor, but there was a majesty that emanated from her, a very power in her presence. Bastet&#39;s silver black fur was sleek and there was
-                a grace in her walk that made her look ageless.
-            </div>
-            
-            <div class="prologue-text"> 
-                Of the many things Fa-tera would remember, it was the Abyssinian&#39;s eyes that haunted her memories. Those eyes had been much greener than her own and they danced with a
-                fire that burned constantly and not just when the cat was using Sha-talon. It was a flood of green, alive, fighting with itself to keep from spilling out.
-            </div>
-            
-            <div class="prologue-text"> 
-                Once Fa-sinto had left the clearing, Bastet strode over to Fa-tera&#39;s hiding place. There was a calm assurance in her manner and when she turned
-                her gaze upon the young cat, there was only a warm wash of love that made the kitten want to return the same. Unbidden, Fa-tera stepped out from
-                behind the bush where she hid and walked slowly forward, sniffing, seeking mood, until the two cats were almost nose to nose. 
-            </div>
-            
-            <div class="prologue-text"> 
-                Bastet&#39;s mind spoke out to her with the authority of soft thunder, her tone a caress of a soft rain following. <span class="italic">&ldquo;I would venture
-                little sister, thee and I will be seeing each other again.&rdquo;<span> The Abyssinian cat scrutinized Fa-tera even closer, a touch of magic reaching out
-                from her burning eyes. It snaked in and around Fa-tera&#39;s head and then returned from whence it came. <span class="italic">&ldquo;Yes&#46;&#46;&#46; yes my
-                young one, one sunwalk soon, but not soon enough, thee will walk the footfalls thee would not wish to call thy own. I give these words that thee may be ready.&rdquo;</span>
-                Her gaze penetrated Fa-tera&#39;s soul, her mindspeak urgent.<span class="italic">&ldquo;Teach the many little one, but be ready for the few, among which
-                thee are numbered.&rdquo;</span> There was a buzz&#46;&#46;&#46; a numbing of the mind that caused the rest of the words to slur. When Fa-tera shook her head
-                the old cat was smiling, almost sadly. She addressed her for the first time by name. <span class="italic">&ldquo;Fa-tera, thy blood is the blood of all cats,
-                even ours. Judge not harshly, for there are stories beneath stories, words behind words. Surely even the foolish wise cannot know them all!
-                When it is time, thee will remember what has been said here. Protect thy heart that it may stay ever young. Bless thee and forgive us.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                There was melancholy to Bastet&#39;s strange benediction but as she turned and walked away, Fa-tera had no time to ponder it. Fa-sinto, her teacher had just
-                returned. Thinking she had been innocently pestering their guest he cuffed her lightly on the ear with a gentle swipe of his paw. <span class="italic"></span>
-                &ldquo;Go on nosy one. This is no business of yours. Go&#46;&#46;&#46; go join the others!&rdquo;</span> She scampered away not bothering to justify herself,
-                but&#46;&#46;&#46;
-            </div>
-        
-            <div class="prologue-text"> 
-                &#46;&#46;&#46;still she wondered even now, if that benediction had been a blessing or a curse? As a Ch&#39;aun, &ldquo;mixed blood&rdquo;, Fa-tera had always
-                been an enigma. She alone, among all Ch&#39;aun, could Ma-chona &ldquo;mindspeak&rdquo;. This was a gift all cat of pure blood shared. Though mixed bloods could hear the
-                Ma-chona of other cats, they could not mindspeak back. They could not draw Ma-nasta, <span class="italic">&ldquo;The weight of the spirit&rdquo;</span>or Ma-hosta,
-                <span class="italic">&ldquo;The fire of dreams&rdquo;</span> or Ma-chena, <span class="itlaic">&ldquo;The trails of the wind&rdquo;</span> and thus came the abuse
-                nurtured by the ignorance and arrogance of most cat of pure blood. Ch&#39;aun were treated as lesser cat.
-            </div>
-            
-            <div class="prologue-text"> 
-                Anger welled up in Fa-tera and it tasted bitter. She had only been given her position by virtue of the arts she wielded and her unexpected ability to mindspeak.
-                If not for that, she would have been, like all other Ch&#39;aun, an outcast from the main body of cat. They were all shunned, often mistreated, until they died
-                or fled to the Grasswater seeking some fabled sanctuary.
-            </div>
-            
-            <div class="prologue-text"> 
-                No one really knew what happened to the Ch&#39;aun that ventured to the Grasswater. The Cha-tain cats that dwelt in that vast area would neither speak of it nor
-                allow anyone to enter on to their plain. Even the Shi-kauti that ministered there were allowed only restricted entry and allowed none to broach this subject.
-            </div>
-            
-            <div class="prologue-text"> 
-                Here again Ja-natia Cha-tain was no different and certainly no less secretive. Rumors abounded; there were stories of a refuge where all cats were treated equal,
-                talk of death marches and mass gravesites and the whispered &ldquo;lost in the mists with the Abyssinians&rdquo;. None but the refugee Ch&#39;aun, or the Cha-tain
-                could say for sure, and since none of the Ch&#39;aun ever came back, and none of the Cha-tain chose to share&#46;&#46;&#46; varying views and guesses would no doubt
-                continue!
-            </div>
-            
-            <div class="prologue-text"> 
-                Ja-natia was watching Fa-tera and when the two cats&#39; eyes met the tall white cat merely nodded respectfully. Was she merely affirming, &ldquo;It is not the
-                time for the telling?&rdquo;
-            </div>
-         </div>
          
          
             
