@@ -8,258 +8,232 @@
         <div class="header">
             <a href="iftmus.php"><span>I</span>ftmus</a>
         </div>
-
-        <div class="series-pic-center">
-            <a href="iftmus-series.php"><img src="../images/iftmus-600x879.jpg" width="600" height="879" alt="Iftmus image"></a>
-        </div>
             
         <div class="keep-it-together"> <!-- start keep-it-together div -->
-            <h1>Paige's Paging Demo</h1>
             <style>
                 .pages { }
                 
                 .page {
                     display: none;
-                }
-                
-                .pager a {
-                    display: inline-block;
-                    padding: 10px;
-                    margin: 5px;
-                    border: solid 1px #ccc;
-                    cursor: pointer;
-                }
-               
-                
-                .selected-page {
-                    background: red;
+                    height: 1000px;
+                    overflow-y: auto;
                 }
             </style>
-            <div class="pages">
-                <div class="pager">
-                    <a data-page="1">1</a>
-                    <a data-page="2">2</a>
-                    <a data-page="3">3</a>
-                    <a data-page="4">4</a>
-                    <a data-page="5">5</a>
-                </div>
 
-                <div id="page1" class="page" style="display: block;">
-                    Page 1:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+            <div class="pager"></div>
+
+            <div id="page1" class="page" style="display: block;">
+                <div class="series-pic-center">
+                    <a href="iftmus-series.php"><img src="../images/iftmus-600x879.jpg" width="600" height="879" alt="Iftmus image"></a>
                 </div>
-    
-                <div id="page2" class="page">
-                    Page 2:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-                </div>
-    
-                <div id="page3" class="page">
-                    Page 3:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-                </div>
-    
-                <div id="page4" class="page">
-                    Page 4:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-                </div>
-    
-                <div id="page5" class="page">
-                    Page 5:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+            </div>
+
+            <div id="page2" class="page">
+                <div class="prologue-center">
+                    There is a fight within all fights,<br>
+                    a struggle of the soul,<br>
+                    Where truth comes up against our pride<br>
+                    Where truth comes up against our pride<br>
+                    And who can win this lifelong war,<br>
+                    &#39;tis not so ponderous.<br>
+                    Just the heart that doth concede&#46;&#46;&#46;<br>
+                    <span>There's more to life than us!</span>
                 </div>
                 
-                <div class="pager">
-                    <a data-page="1">1</a>
-                    <a data-page="2">2</a>
-                    <a data-page="3">3</a>
-                    <a data-page="4">4</a>
-                    <a data-page="5">5</a>
+                <div class="prologue-center">
+                    So many would deny this fact<br>
+                    and others who might run.<br>
+                    Like those who worship what they touch,<br>
+                    If not, they worship none.<br>
+                    There&#39;s solemn sadness to this plight,<br>
+                    beyond just curious.<br>
+                    Some souls want more but still won't say&#46;&#46;&#46;<br>
+                    <span>There's more to life than us!</span>
+                </div>
+                
+                <div class="prologue-center">
+                    Yet even so, I shan't belabor anymore this point.<br>
+                    We all chose many gods through life,<br>
+                    self-saviors we anoint.<br>
+                    &#39;For blind, we&#39;re dangerous!<br>
+                    The vision clears when first we say&#46;&#46;&#46;<br>
+                    <span>There's more to life than us!</span>
+                </div>
+                
+                <div class="prologue-center">
+                    And so my son, you may not know<br>
+                    that even as you sleep,<br>
+                    The different roads all have a tale<br>
+                    and secrets that they keep.<br>
+                    The story starts, but not yours yet,<br>
+                    There are others too, I trust.<br>
+                    The journey&#39;s first step, say it now&#46;&#46;&#46;<br>
+                    <span>There's more to life than us!</span>
                 </div>
             </div>
-                        
-            <div class="prologue-center">
-                There is a fight within all fights,<br>
-                a struggle of the soul,<br>
-                Where truth comes up against our pride<br>
-                Where truth comes up against our pride<br>
-                And who can win this lifelong war,<br>
-                &#39;tis not so ponderous.<br>
-                Just the heart that doth concede&#46;&#46;&#46;<br>
-                <span>There's more to life than us!</span>
-            </div>
+
+            <div id="page3" class="page">
+                <div class="header-chapter">
+                   <span>C</span>hapter <span>1</span>
+                </div>
+                
+                <div class="prologue-center-title-chapter">
+                    There's More To Life Than Us
+                </div>
+                
+                <div class="prologue-psi-chapter">
+                                &#936;
+                            </div>
             
-            <div class="prologue-center">
-                So many would deny this fact<br>
-                and others who might run.<br>
-                Like those who worship what they touch,<br>
-                If not, they worship none.<br>
-                There&#39;s solemn sadness to this plight,<br>
-                beyond just curious.<br>
-                Some souls want more but still won't say&#46;&#46;&#46;<br>
-                <span>There's more to life than us!</span>
+                <div class="prologue-text">
+                    <span class="pt-oet">T</span>he breeze in passing, threw a tantrum gust that slapped maliciously at the shimmering fire. Glittering tears
+                    shed upward into the air as the flames reeled back from the unprovoked blow, giving the fire the animated appearance of bowing before two cats,
+                    now entering the clearing. The flickering light danced with the dark, adding deeper shadows to the cloak of formality. A dark, smaller,
+                    shorthaired cat strode ahead while a larger, white, longhaired cat took pace a respectful distance behind her. The trembling fire-light only
+                    accentuated, with shadow echoes, the twelve varied breed of cat sitting in a half circle, awaiting the arrival of the two.   
+                </div>
+                
+                <div class="prologue-text">
+                    Backdrop to all the cats, the stage for this formal place of testing, was Nalas&#39;; twelve, tall, stone monoliths standing quiet. The granite
+                    giants were brooding, spaced in a gentle arc, like the curve of a mother cat on her side, nursing her precious young.
+                </div>
+                
+                <div class="prologue-text">
+                    Between the darkening sky and the damp mossy ground, the leaves of the white barked Ac-ca trees shivered under a more casual caress of
+                    breeze, the subtle sound seeming to applaud the whole scene as its purpose was to witness.
+                </div>
+                
+                <div class="prologue-text">
+                    Fa-tera, the Teacher, strode quietly into the waiting circle of cats. Ja-natia Cha-tain, her San-Tou, or novice teacher stood submissively back
+                    while Fa-tera made her pronouncement. <span class="italic">&ldquo;It is thy time, my children.&rdquo;</span> the small dark cat&#39;s head twitched
+                    with a quick side motion, a nervous tick carried from the sunwalk of her birth, <span class="italic">&ldquo;It is thy time to share what thee have learned.  It is the time
+                    for this one to listen, and as our ancestors did, judge thy worth.&rdquo;</span>  &nbsp;She gazed quietly upon the faces of her anxious students. <span class="italic">&ldquo;Thee will, in thy turn, recite Kylor. If thee pass the testing this
+                    night, thee shall go out and witness Kylor to all cat, carrying on the sacred trust of those that have done so before.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text">
+                    Fa-tera and Ja-natia nodded, slowly in turn to each of the twelve cats. This semi-submissive bow was part of the ritual of a Teachers acceptance of the younger
+                    cats worth, at this stage in their testing. <span class="italic">&ldquo;Each of thee is a reminder of what we have been, what we are and what we can be.  If thee pass this testing, let
+                    all cat acknowledge with respect what thee have earned&#46;&#46;&#46;  and all that thee represent!&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text">
+                    The eye-moons of Re-nell peered through a tattered cloud that was swimming hesitantly across the darkened sky. The white light from the twin moons merely added more of a
+                    gold wash to the flickering fire in the clearing. The reflections of both fire and moons shimmered in the eyes of each young cat. 
+                </div>
+                
+                <div class="prologue-text">
+                    Fa-tera smiled inwardly. The old teacher knew, should the fire be dead and the moons in hiding, there would still be a youthful touch of spark in all their eyes. They were
+                    all so anxiously alive; idealistic hearts burning with dream fire!
+                </div>
+                
+                <div class="prologue-text">
+                    These twelve cats were on the threshold of becoming the newest generation of Shi-kauti, the keepers of Ky-lore in Iftmus. This night was the last sunfall before Di-chant
+                    and the time of their testing.
+                </div>
+                
+                <div class="prologue-text">
+                    Far in the distance a chilling howl, from a roving pack of Woodwars, sliced through the still night air. Fa-tera turned her gaze in the direction of the insidious cry.
+                    She allowed herself a moment to wonder why a pack was down this far from the lo-hills?
+                </div>
+                
+                <div class="prologue-text">
+                    Woodwars, though ferocious, were basically cowards unless they outnumbered their victims. In packs they could bring down a large, healthy Ti-breen cat. Alone or in pairs
+                    they would only take on a cat, if it were weakened, wounded, or an unfortunate cub separated from its pride. More often they stalked small defenseless animals, such as
+                    ra-katoos or stray mud-waumps. True to the viciousness of their breed they were also known to turn on the weaker of their own, when hunger prevailed for fail of the hunt.
+                </div>
+                
+                <div class="prologue-text">
+                    As if hearing her thoughts, Ja-natia Cha-tain faced the breeze with a tilt of her head and then mindspoke. <span class="italic">&ldquo;I sense their hunger but do not
+                    taste any other purpose in their movements. They are midst hunt and no threat to us.&rdquo;</span> Wisps of her long white fur lashed in the wind like graceful white smoke tendrils.
+                </div>
+                
+                <div class="prologue-text">
+                    Another howl went up; this time it was the cry of success. Fa-tera shuddered and gave up a short prayer for the victim that loosed its spirit in the shedding of deathblood.
+                    She nodded affirmation to her San-Tou and turned her attention back to the circle of cats, sighing, <span class="italic">&ldquo;This is life, the giving and taking of which belongs to the Spirit of Felis.&rdquo;</span>
+                    With little else to add Fa-tera straightened her stance, <span class="italic">&ldquo;But thee are the conscience of our life. The heart and soul of Iftmus is Kylor&#46;&#46;&#46; the words!&rdquo;</span>
+                    The old cat blinked and then allowed herself a moment away from formality with an uncharacteristic touch of sentiment. <span class="italic">&ldquo;Thee, my hearts, are my beloved children and in all of thee,
+                    I am so very proud.&rdquo;</span> 
+                </div>
+                
+                <div class="prologue-text">
+                    Ja-natia Cha-tain gave pause, with a mental nod, measuring and noting depth of heart of this cat. The eyes of all twelve cats squeezed closed, caught short by the unprecedented flattery from
+                    their usually strict and formal teacher.
+                </div>
+                
+                <div class="prologue-text">
+                    Chosen at birth from various families of cat in the three provinces of Iftmus, these young cats had all been brought to Pursong as kittens. The sanctuary school known as Seftora in the
+                    Province of La-mor was an isolated glade, a sacred place that lay nestled between Gift-wa, the lake of silent waters and the river, Tears of Rensis. Here in Pursong, Seftora was the place
+                    of learning, a sanctuary respected by all cat since the early days of the first ruling Sa-bata cats. Here in a vast area of beautiful trees and lush grass, dotted with yellow-green lich
+                    moss, generations of cat were raised and taught by the Teacher to become Shi-kauti, keepers of Kylor. Here they learned the daily routines of living and survival, as well as being ingrained
+                    with the histories, the laws, the lore and traditions of all cats of Iftmus. This was what bound all cat to one family. The sum of all cat experience was Kylor!
+                </div>
+                
+                <div class="prologue-text">
+                    The place of testing, sat right on the Tears Of Rensis, river&#39;s edge. The poetic side of Fa-tera always reveled in the soothing song of the fast flowing water. The water whispered and laughed
+                    over rocks. It cooed and swallowed itself in deep eddies. It was the teasing of tomorrow to the land that lay before it today. It was an echo of yesterday from the mountains and the heavens
+                    from which it flowed.
+                </div>
             </div>
+
+            <div id="page4" class="page">
+                <div class="prologue-text">
+                    The river, Tears of Rensis, swept in from the furthest boundaries of the three provinces and met in the middle of Iftmus at the bottomless falls of Fina&#39;sha, the singular place where the tip of
+                    each of the provinces touched. Something stirred in Fa-tera&#39;s heart. She silently vowed to make a pilgrimage to those falls in the near future.
+                </div>
+               
+                <div class="prologue-text">
+                    Nalas&#39;, the stone monoliths that surrounded the cats were a huddle of shadows from the past. The large stones were veined with greenstone and had been placed there by the Abyssinian cats
+                    that once dwelt in La-mor. There was a peace to their presence, a tie with the past and the heritage of all cat. Only once an eight-season did they stir, as they had the so many sunwalks
+                    before when Fa-tera had prepared for this testing.
+                </div>
+                
+                <div class="prologue-text">
+                    Early sunwalk past, Fa-tera had entered Nalas&#39; from the riverside. The tall rocks shifted and grated within like the clearing of a stone throat. A group voice, many but one, spoke out
+                    to her before she even faced the monoliths. &ldquo;Who&#46;&#46;&#46;, wakes&#46;&#46;&#46;, us?&rdquo; The voice was low and gritty like the rumbling of earth when stone caresses stone.
+                </div>
+                
+                <div class="prologue-text">
+                    The greenstone glowed, as did Fa-tera&#39;s eyes. <span class="italic">&ldquo;I am the Teacher. Thee are awakened by the time of testing. At next sunfall thee shall stand witness as thee have
+                    for ages now.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text">
+                    <span class="italic">&ldquo;Thee are ageless Nalas&#39; and so it is that time passes for you. A generation is but a blink.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text">
+                     &ldquo;Yes&#46;&#46;&#46; yes&#46;&#46;&#46; you&#46;&#46;&#46; are&#46;&#46;&#46; Fa-tera. Now&#46;&#46;&#46; we&#46;&#46;&#46; remember&#46;&#46;&#46; and&#46;&#46;&#46; we&#46;&#46;&#46;
+                     have&#46;&#46;&#46; had&#46;&#46;&#46; this&#46;&#46;&#46; talk&#46;&#46;&#46; before?&rdquo; The voices, whisper-growled;  grinding sand-swirls in a careless wind.
+                </div>
+                
+                <div class="prologue-text">
+                    <span class="italic">&ldquo;Every time thee awakens we have this talk. It is how thee rub the sleep from thy eyes. It is good to remember things old friends. That is what brings us and
+                    thee to this sunfall once again.&rdquo</span>
+                </div>
+                
+                <div class="prologue-text">
+                    <span class="italic">&ldquo;Yes. To&#46;&#46;&#46; remember&#46;&#46;&#46; much&#46;&#46;&#46; is&#46;&#46;&#46; happening&#46;&#46;&#46; Fa-tera&#46;&#46;&#46; while&#46;&#46;&#46;
+                    we&#46;&#46;&#46; slept. Iftmus&#46;&#46;&#46; cries&#46;&#46;&#46; out&#46;&#46;&#46; in&#46;&#46;&#46; our&#46;&#46;&#46; dreams. Great&#46;&#46;&#46; pain&#46;&#46;&#46; pain&#46;&#46;&#46;
+                    such&#46;&#46;&#46; has&#46;&#46;&#46; never&#46;&#46;&#46; been&#46;&#46;&#46; felt&#46;&#46;&#46; before. We&#46;&#46;&#46; are&#46;&#46;&#46; born&#46;&#46;&#46; from&#46;&#46;&#46; her.
+                    What&#46;&#46;&#46; Iftmus&#46;&#46;&#46; feels&#46;&#46;&#46; we&#46;&#46;&#46; feel!&rdquo;</span>
+                </div>
+            </div>
+
+            <div id="page5" class="page">
+                Page 5:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+                </div>
+                
             
-            <div class="prologue-center">
-                Yet even so, I shan't belabor anymore this point.<br>
-                We all chose many gods through life,<br>
-                self-saviors we anoint.<br>
-                &#39;For blind, we&#39;re dangerous!<br>
-                The vision clears when first we say&#46;&#46;&#46;<br>
-                <span>There's more to life than us!</span>
-            </div>
+            <!-- Add further pages here... -->
             
-            <div class="prologue-center">
-                And so my son, you may not know<br>
-                that even as you sleep,<br>
-                The different roads all have a tale<br>
-                and secrets that they keep.<br>
-                The story starts, but not yours yet,<br>
-                There are others too, I trust.<br>
-                The journey&#39;s first step, say it now&#46;&#46;&#46;<br>
-                <span>There's more to life than us!</span>
-            </div>
-          
-            </div>
             
-            <div class="header-chapter">
-               <span>C</span>hapter <span>1</span>
-            </div>
             
-            <div class="prologue-center-title-chapter">
-                There's More To Life Than Us
-            </div>
+            <div class="pager"></div>
             
-            <div class="prologue-psi-chapter">
-                            &#936;
-                        </div>
-        
-            <div class="prologue-text">
-                <span class="pt-oet">T</span>he breeze in passing, threw a tantrum gust that slapped maliciously at the shimmering fire. Glittering tears
-                shed upward into the air as the flames reeled back from the unprovoked blow, giving the fire the animated appearance of bowing before two cats,
-                now entering the clearing. The flickering light danced with the dark, adding deeper shadows to the cloak of formality. A dark, smaller,
-                shorthaired cat strode ahead while a larger, white, longhaired cat took pace a respectful distance behind her. The trembling fire-light only
-                accentuated, with shadow echoes, the twelve varied breed of cat sitting in a half circle, awaiting the arrival of the two.   
-            </div>
             
-            <div class="prologue-text">
-                Backdrop to all the cats, the stage for this formal place of testing, was Nalas&#39;; twelve, tall, stone monoliths standing quiet. The granite
-                giants were brooding, spaced in a gentle arc, like the curve of a mother cat on her side, nursing her precious young.
-            </div>
-            
-            <div class="prologue-text">
-                Between the darkening sky and the damp mossy ground, the leaves of the white barked Ac-ca trees shivered under a more casual caress of
-                breeze, the subtle sound seeming to applaud the whole scene as its purpose was to witness.
-            </div>
-            
-            <div class="prologue-text">
-                Fa-tera, the Teacher, strode quietly into the waiting circle of cats. Ja-natia Cha-tain, her San-Tou, or novice teacher stood submissively back
-                while Fa-tera made her pronouncement. <span class="italic">&ldquo;It is thy time, my children.&rdquo;</span> the small dark cat&#39;s head twitched
-                with a quick side motion, a nervous tick carried from the sunwalk of her birth, <span class="italic">&ldquo;It is thy time to share what thee have learned.  It is the time
-                for this one to listen, and as our ancestors did, judge thy worth.&rdquo;</span>  &nbsp;She gazed quietly upon the faces of her anxious students. <span class="italic">&ldquo;Thee will, in thy turn, recite Kylor. If thee pass the testing this
-                night, thee shall go out and witness Kylor to all cat, carrying on the sacred trust of those that have done so before.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text">
-                Fa-tera and Ja-natia nodded, slowly in turn to each of the twelve cats. This semi-submissive bow was part of the ritual of a Teachers acceptance of the younger
-                cats worth, at this stage in their testing. <span class="italic">&ldquo;Each of thee is a reminder of what we have been, what we are and what we can be.  If thee pass this testing, let
-                all cat acknowledge with respect what thee have earned&#46;&#46;&#46;  and all that thee represent!&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text">
-                The eye-moons of Re-nell peered through a tattered cloud that was swimming hesitantly across the darkened sky. The white light from the twin moons merely added more of a
-                gold wash to the flickering fire in the clearing. The reflections of both fire and moons shimmered in the eyes of each young cat. 
-            </div>
-            
-            <div class="prologue-text">
-                Fa-tera smiled inwardly. The old teacher knew, should the fire be dead and the moons in hiding, there would still be a youthful touch of spark in all their eyes. They were
-                all so anxiously alive; idealistic hearts burning with dream fire!
-            </div>
-            
-            <div class="prologue-text">
-                These twelve cats were on the threshold of becoming the newest generation of Shi-kauti, the keepers of Ky-lore in Iftmus. This night was the last sunfall before Di-chant
-                and the time of their testing.
-            </div>
-            
-            <div class="prologue-text">
-                Far in the distance a chilling howl, from a roving pack of Woodwars, sliced through the still night air. Fa-tera turned her gaze in the direction of the insidious cry.
-                She allowed herself a moment to wonder why a pack was down this far from the lo-hills?
-            </div>
-            
-            <div class="prologue-text">
-                Woodwars, though ferocious, were basically cowards unless they outnumbered their victims. In packs they could bring down a large, healthy Ti-breen cat. Alone or in pairs
-                they would only take on a cat, if it were weakened, wounded, or an unfortunate cub separated from its pride. More often they stalked small defenseless animals, such as
-                ra-katoos or stray mud-waumps. True to the viciousness of their breed they were also known to turn on the weaker of their own, when hunger prevailed for fail of the hunt.
-            </div>
-            
-            <div class="prologue-text">
-                As if hearing her thoughts, Ja-natia Cha-tain faced the breeze with a tilt of her head and then mindspoke. <span class="italic">&ldquo;I sense their hunger but do not
-                taste any other purpose in their movements. They are midst hunt and no threat to us.&rdquo;</span> Wisps of her long white fur lashed in the wind like graceful white smoke tendrils.
-            </div>
-            
-            <div class="prologue-text">
-                Another howl went up; this time it was the cry of success. Fa-tera shuddered and gave up a short prayer for the victim that loosed its spirit in the shedding of deathblood.
-                She nodded affirmation to her San-Tou and turned her attention back to the circle of cats, sighing, <span class="italic">&ldquo;This is life, the giving and taking of which belongs to the Spirit of Felis.&rdquo;</span>
-                With little else to add Fa-tera straightened her stance, <span class="italic">&ldquo;But thee are the conscience of our life. The heart and soul of Iftmus is Kylor&#46;&#46;&#46; the words!&rdquo;</span>
-                The old cat blinked and then allowed herself a moment away from formality with an uncharacteristic touch of sentiment. <span class="italic">&ldquo;Thee, my hearts, are my beloved children and in all of thee,
-                I am so very proud.&rdquo;</span> 
-            </div>
-            
-            <div class="prologue-text">
-                Ja-natia Cha-tain gave pause, with a mental nod, measuring and noting depth of heart of this cat. The eyes of all twelve cats squeezed closed, caught short by the unprecedented flattery from
-                their usually strict and formal teacher.
-            </div>
-            
-            <div class="prologue-text">
-                Chosen at birth from various families of cat in the three provinces of Iftmus, these young cats had all been brought to Pursong as kittens. The sanctuary school known as Seftora in the
-                Province of La-mor was an isolated glade, a sacred place that lay nestled between Gift-wa, the lake of silent waters and the river, Tears of Rensis. Here in Pursong, Seftora was the place
-                of learning, a sanctuary respected by all cat since the early days of the first ruling Sa-bata cats. Here in a vast area of beautiful trees and lush grass, dotted with yellow-green lich
-                moss, generations of cat were raised and taught by the Teacher to become Shi-kauti, keepers of Kylor. Here they learned the daily routines of living and survival, as well as being ingrained
-                with the histories, the laws, the lore and traditions of all cats of Iftmus. This was what bound all cat to one family. The sum of all cat experience was Kylor!
-            </div>
-            
-            <div class="prologue-text">
-                The place of testing, sat right on the Tears Of Rensis, river&#39;s edge. The poetic side of Fa-tera always reveled in the soothing song of the fast flowing water. The water whispered and laughed
-                over rocks. It cooed and swallowed itself in deep eddies. It was the teasing of tomorrow to the land that lay before it today. It was an echo of yesterday from the mountains and the heavens
-                from which it flowed.
-            </div>
-            
-            <div class="prologue-text">
-                The river, Tears of Rensis, swept in from the furthest boundaries of the three provinces and met in the middle of Iftmus at the bottomless falls of Fina&#39;sha, the singular place where the tip of
-                each of the provinces touched. Something stirred in Fa-tera&#39;s heart. She silently vowed to make a pilgrimage to those falls in the near future.
-            </div>
-           
-            <div class="prologue-text">
-                Nalas&#39;, the stone monoliths that surrounded the cats were a huddle of shadows from the past. The large stones were veined with greenstone and had been placed there by the Abyssinian cats
-                that once dwelt in La-mor. There was a peace to their presence, a tie with the past and the heritage of all cat. Only once an eight-season did they stir, as they had the so many sunwalks
-                before when Fa-tera had prepared for this testing.
-            </div>
-            
-            <div class="prologue-text">
-                Early sunwalk past, Fa-tera had entered Nalas&#39; from the riverside. The tall rocks shifted and grated within like the clearing of a stone throat. A group voice, many but one, spoke out
-                to her before she even faced the monoliths. &ldquo;Who&#46;&#46;&#46;, wakes&#46;&#46;&#46;, us?&rdquo; The voice was low and gritty like the rumbling of earth when stone caresses stone.
-            </div>
-            
-            <div class="prologue-text">
-                The greenstone glowed, as did Fa-tera&#39;s eyes. <span class="italic">&ldquo;I am the Teacher. Thee are awakened by the time of testing. At next sunfall thee shall stand witness as thee have
-                for ages now.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text">
-                <span class="italic">&ldquo;Thee are ageless Nalas&#39; and so it is that time passes for you. A generation is but a blink.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text">
-                 &ldquo;Yes&#46;&#46;&#46; yes&#46;&#46;&#46; you&#46;&#46;&#46; are&#46;&#46;&#46; Fa-tera. Now&#46;&#46;&#46; we&#46;&#46;&#46; remember&#46;&#46;&#46; and&#46;&#46;&#46; we&#46;&#46;&#46;
-                 have&#46;&#46;&#46; had&#46;&#46;&#46; this&#46;&#46;&#46; talk&#46;&#46;&#46; before?&rdquo; The voices, whisper-growled;  grinding sand-swirls in a careless wind.
-            </div>
-            
-            <div class="prologue-text">
-                <span class="italic">&ldquo;Every time thee awakens we have this talk. It is how thee rub the sleep from thy eyes. It is good to remember things old friends. That is what brings us and
-                thee to this sunfall once again.&rdquo</span>
-            </div>
-            
-            <div class="prologue-text">
-                <span class="italic">&ldquo;Yes. To&#46;&#46;&#46; remember&#46;&#46;&#46; much&#46;&#46;&#46; is&#46;&#46;&#46; happening&#46;&#46;&#46; Fa-tera&#46;&#46;&#46; while&#46;&#46;&#46;
-                we&#46;&#46;&#46; slept. Iftmus&#46;&#46;&#46; cries&#46;&#46;&#46; out&#46;&#46;&#46; in&#46;&#46;&#46; our&#46;&#46;&#46; dreams. Great&#46;&#46;&#46; pain&#46;&#46;&#46; pain&#46;&#46;&#46;
-                such&#46;&#46;&#46; has&#46;&#46;&#46; never&#46;&#46;&#46; been&#46;&#46;&#46; felt&#46;&#46;&#46; before. We&#46;&#46;&#46; are&#46;&#46;&#46; born&#46;&#46;&#46; from&#46;&#46;&#46; her.
-                What&#46;&#46;&#46; Iftmus&#46;&#46;&#46; feels&#46;&#46;&#46; we&#46;&#46;&#46; feel!&rdquo;</span>
-            </div>
+            <!-- Future Pages Holding Area -->
+            <div style="display: none;">
             
             <div class="prologue-text"> 
                 Fa-tera&#39;s heart lurched, <span class="italic">&ldquo;Then thee must tell me!&rdquo;</span>
@@ -773,7 +747,7 @@
                 A piece of catlore came to her, helping to smother some of that anger. <span class="italic">&ldquo;Slow careful steps on a sure course, bring thee closer to
                 home than a heated run in the wrong direction!&rdquo;</span> The muscles down her spine quivered as she twitched, and chased for the calm.  &#39;Yes,
                 yes&#46;&#46;&#46; thee should slow down old cat. Thee are getting careless with thy emotions and after all&#46;&#46;&#46; good change will come, as surely
-                as bad.&#39; She didn’t feel any better, regardless the platitudes she recited.
+                as bad.&#39; She didn&#39;t feel any better, regardless the platitudes she recited.
             </div>
             
             <div class="prologue-text"> 
@@ -788,18 +762,16 @@
                 For what shall be, already is!<br>
                 And what shall come is already written!</span>
             </div>
-            <br>
-            
+                        
             <div class="prologue-center">
                 <span class="italic">And in these days breed shall turn against breed<br>
                 And pride against its own.<br>
                 Honor shall be lost,<br>
                 For fear and hatred shall course the blood of Iftmus.<br>
                 Jealousy and greed shall weaken the bone<br>
-                And evil shall be at the very heart!7rdquo;</span>
+                And evil shall be at the very heart!&rdquo;</span>
             </div>
-            <br>
-            
+                        
             <div class="prologue-center">
                 <span class="italic">The Na-costam&#39;a, the outsiders<br>
                 Shall be friend and foe.<br>
@@ -812,14 +784,100 @@
                 It has been brought to your throats<br>
                 By your own, while you slept.</span>
             </div>
-            <br>
-            
+                        
             <div class="prologue-center">
                 <span class="italic">Beware the wild dreams of the man cub!<br>
                 I weep for you fair Iftmus.<br>
-                I pray for you&#46;&#46;&#46; all cat.&rdquo;<br>
-                </span>
+                I pray for you&#46;&#46;&#46; all cat.&rdquo;</span>
             </div>
+                        
+            <div class="prologue-text"> 
+                The recital continued until the melodic cry of a Harkensong, swimming the dark sky in seek of its mate, augmented the end of the testing.
+                Fa-tera yawned, her pink tongue curling up for the last part of a quiet stretch. She dug her claws into the Lich&#39; moss beneath her and
+                shifted her weight side to side. Ja-natia Cha-tain was giving ritual warning to each of the twelve cats as part of their final instruction.
+            </div>
+            
+            <div class="prologue-text"> 
+                The sky slowly gave birth to slivers of gray and gold. A new sunwalk was beginning. The dawn itself would mark the beginning of Du&#39;Moshk,
+                Di-Chant; a full sunwalk and sunfall of meditation and prayer still honored by most cats in Iftmus.
+            </div>
+             
+             <div class="prologue-text"> 
+                To some cats Di-Chant was merely an emotional release, a form of intellectual hysteria. To others it was a tired tradition, a well-rehearsed
+                ritual. Still to many, it was an honest communication, uniting the spirit of all cat to their past and their future. It was a time for the voice
+                of all cat to be lifted as one, to achieve together, what they could only hope for singularly. Di-Chant was the last common shared ceremony,
+                still practiced and allowed in Iftmus by the ruling Li-horan cat, Ka-raos.
+            </div>
+             
+             <div class="prologue-text"> 
+                Ka-raos&#46;&#46;&#46; thee are a puppet to the vile Pan-duran cat that have perverted Sha-talon, hissed Fa-tera to herself. She had recently heard hushed
+                travelers gossip about a strange new fortress, a cave set above ground in the Pri-hy Mountains above Saber-wa. The Pan-duran were calling it
+                Amaska, with dire threats directed at any who trespassed near their domain.
+            </div>
+             
+            <div class="prologue-text"> 
+                A familiar chill sent a shiver down Fa-tera&#39;s long slender back. Why had the Shi-kauti assigned in Pa-tan not sent word back to her about this
+                or things like the firestorms going on in that province? Where were her children? Fa-tera worried even more over these new Shi-kauti, whose lot
+                it would be to carry Ky-lor to the province of Pa-tan, after this Di-Chant. The cats in that area had a growing disrespect and lack of regard for
+                such things. The Li-horan cat were too vain, the Ti-breen too stupid and the Pan-duran too evil. A light growl escaped her throat chased by an angry
+                hiss. She ran her tongue over the back of her paw, struggling inwardly to regain control.
+            </div>
+            
+            <div class="prologue-text"> 
+                Ja-natia signaled Fa-tera that it was her time again in the ceremony. The Teacher looked calmly across the innocent faces of her cubs. All twelve cats
+                shivered, waited for some sign of her approval. She sighed and nodded in turn to each of them. <span class="italic">&#ldquo;In every struggle there will be
+                the side of good, as surely as there will be the side of evil. Wage war, first within thyself to determine on which side thee stand&#46;&#46;&#46; and
+                then on those who would seek to sway thee from thy spirits&#39; choice!&rdquo;</span> This would be her last lesson to these twelve cats.
+            </div>
+            
+            <div class="prologue-text"> 
+                Fa-tera changed her tone and addressed them as equals in formal and final ceremony.
+            </div>
+            
+            <div class="prologue-center">
+                <span class="italic">&ldquo;“Thee are the Shi-kauti of Ky-lor<br>
+                Fight to keep thy words true<br>
+                For they are the Spirit of all we are,<br>
+                Just as thee are the Spirit of all we can be.<br>
+                Let Lasha reveal and confirm thy role in Iftmus.<br>
+                Thee&#46;&#46;&#46; are the Shi-kauti of Ky-lor!&rdquo;</span>
+            </div>
+            
+            <div class="prologue-text"> 
+                Thunder rolled and Fa-tera&#39;s eyes flashed. A snake of green fire stretched out from her eyes and spread a fiery web over each of the twelve Monoliths
+                of Nalas&#39;. The stones sighed, &ldquo;We&#46;&#46;&#46; have&#46;&#46;&#46; witnessed&#46;&#46;&#46; we&#46;&#46;&#46; do&#46;&#46;&#46; confirm.&rdquo;
+                The air crackled and twelve gentle sparks of green, one spark from each stone left the monoliths and floated down to come to rest on the head of each cat.
+                When the sparks went out they left a small white brand upon each cat&#39;s forehead. This was Lasha, a benediction and conformation of their status as
+                Shi-kauti.  The stone monoliths rumbled and in a single group voice verified, &ldquo;Thee&#46;&#46;&#46; are&#46;&#46;&#46; Shi-kauti!&rdquo;
+            </div>
+            
+            <div class="prologue-text"> 
+               It was done! The young cats all relaxed with that pronouncement, radiating pride and youthful self-satisfaction.
+            </div>
+            
+            <div class="prologue-text"> 
+               In the past, an Abyssinian cat always attended Nalas&#39; to perform the rite of Lasha. Now the Abyssinians were gone. She was the last of their blood.
+               What would happen when she was gone?  Who would invoke the monoliths? So many things were changing and none of it seemed for the good.
+            </div>
+            
+            <div class="prologue-text"> 
+               The old Teacher stood up, stretched her back in a graceful arc and sighed, while looking in the direction of the Harkensong, heard earlier.  At her age, her
+               back was hard pressed to come out of the stretch with any dignity. <span class="italics">7ldquo;Oh my unfettered friend. What is thy vision of life from the silver
+               clouds that caress thy wings? How I sorely wish to my heart that I were as free as thee, or the wind thee sails upon. I would want for nothing if I, and all
+               my worries for this brave and noble land, might simply lift to the heavens; there to be soothed among the Spirits of our ancestors!&rdquo;</span>She smiled
+               at herself for the poetry of the moment and pressed her gaze skyward for a glimpse of the bird.
+            </div>
+            
+            <div class="prologue-text"> 
+               The Harkensong was a long tailed bush bird, nocturnal by nature and the presence of this one, so close to the first light of Sunwalk seemed almost an omen.
+               Omens, signs, hidden meanings; so many prophecies in Ky-lor kept their cryptic messages a vague hint at best, like the strange words from the Abyssinian,
+               Bastet. Fa-tera&#39;s head swam to think on it, but her heart was troubled if she tried not to. To her, it was all a terrible mystery that would choose its
+               own time to be realized. It had to be relegated to a test of faith. &ldquo;Wait with patience and faith and thy heart will first see what thy eyes all along
+               refused!&rdquo; How often had she quoted that piece of Catlore in her teachings? Patience she could still muster, but faith, faith was stumbling as it tired
+               in the chase of a predestined hunt?
+            </div>
+         </div>   
+            
             
             
             
@@ -831,35 +889,27 @@
     <script type="text/javascript" src="../scripts/jquery.js"></script>
     <script type="text/javascript" src="../scripts/jquery.simplePagination.js"></script>
     
+    
+    
+    
+    
     <script>
+        
     $(function() {
-        var currentPage = "1";
+        var currentPage = 1;
         
-        $(".pager a").click(function(e) {
-
-            // Hide the current page
+        $(".pager").pagination({
+            items: 5,
+            itemsOnPage: 1,
+            cssStyle: 'light-theme',
+            onPageClick: onPageClick
+        });
+        
+        function onPageClick(pageNumber, event) {
             $("#page" + currentPage).hide();
-            
-            // Get the page that is clicked
-            var newPageNumber = $(this).data("page");
-            
-            $("#page" + newPageNumber).show();
-            
-            currentPage = newPageNumber;
-         
-            $(".pager a").removeClass("selected-page");
-         
-            $(this).addClass("selected-page");
-            
-            e.preventdefault();
-            
-        });
-        
-        $("#page").pagination({
-            items: 100,
-            itemsOnPage: 10,
-            cssStyle: 'light-theme'
-        });
+            $("#page" + pageNumber).show();
+            currentPage = pageNumber;
+        }
     });
  </script>     
       
