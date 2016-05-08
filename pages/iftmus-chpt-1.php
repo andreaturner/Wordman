@@ -134,15 +134,16 @@
                         She allowed herself a moment to wonder why a pack was down this far from the lo-hills?
                     </div>
                     
-                    
-                </div>
-    
-                <div id="page4" class="page">
                     <div class="prologue-text">
                         Woodwars, though ferocious, were basically cowards unless they outnumbered their victims. In packs they could bring down a large, healthy Ti-breen cat. Alone or in pairs
                         they would only take on a cat, if it were weakened, wounded, or an unfortunate cub separated from its pride. More often they stalked small defenseless animals, such as
                         ra-katoos or stray mud-waumps. True to the viciousness of their breed they were also known to turn on the weaker of their own, when hunger prevailed for fail of the hunt.
                     </div>
+                    
+                    
+                </div>
+    
+                <div id="page4" class="page">
                     
                     <div class="prologue-text">
                         As if hearing her thoughts, Ja-natia Cha-tain faced the breeze with a tilt of her head and then mindspoke. <span class="italic">&ldquo;I sense their hunger but do not
@@ -222,11 +223,6 @@
                         Fa-tera&#39;s heart lurched, <span class="italic">&ldquo;Then thee must tell me!&rdquo;</span>
                     </div>
                     
-                    
-                    
-                </div>
-    
-                <div id="page5" class="page">
                     <div class="prologue-text"> 
                         The air around the monoliths suddenly felt oppressive, giving the feeling as if all were under the weight of mountains from which the stones came. <span class="italic">&ldquo;We&#46;&#46;&#46;
                         may&#46;&#46;&#46; not&#46;&#46;&#46;&#46; It&#46;&#46;&#46; is&#46;&#46;&#46; not&#46;&#46;&#46; the&#46;&#46;&#46; time&#46;&#46;&#46; for&#46;&#46;&#46; telling. We&#46;&#46;&#46; may&#46;&#46;&#46;
@@ -235,8 +231,242 @@
                         The stones drifted quiet fell back asleep. They would only awaken again for the time of testing.
                     </div>
                 </div>
+    
+                <div id="page5" class="page">
+                    <div class="prologue-text"> 
+                        &ldquo;Fa-tera will do the telling?&rdquo; She cursed and shook her head as if trying to rid herself the question; to no avail. What did Nalas&#39; mean by that? She was not a Shi-kauti.
+                        Greatly troubled she walked off to follow the river-water&#39;s chatter and waited for the sunwalk to pass.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Now at this sunfall, Fa-tera still wondered, but let that wonder be swept to the side by her own anxiousness for her students. Restless on its own accord, the fire crackled with excitement
+                        and threw out tiny, falling-star sparks that burned themselves out in multitudes of wishes before ever reaching the damp moss on the ground. Fa-tera added her own wish in among them. She
+                        sighed as she looked proudly into the eyes of her children. She had raised them all, and she would now have to let them go. Why was it always, such a bite to the heart?
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Among the varied cat before her, some were nearly three times Fa-tera&#39;s size, yet they all gazed lovingly back at her, as any small cub might its own natural mother. She shook off the warm,
+                        as well as the subtle cold of what she was feeling. Finally with some reluctance she put on the veil of strict formality; the occasion demanded that she, as Teacher, do no less.
+                    </div>
+                    
+                    <div class="prologue-center italic">
+                        &ldquo;Kylor is bound within the word,<br>
+                        Our future, past, all must be heard.<br>
+                        That which is law...That which is lore..&#46;&#46;&#46;<br>
+                        Thee must protect&#46;&#46;&#46; forever more&#46;&#46;&#46;<br>
+                        Thy life belongs to Iftmus!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The solemn warning of those ritual words heralded the beginning of the testing. Nalas&#39; rumbled like distant thunder, the only sign it would give at this point that it was listening.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Fa-tera stepped back and gave Ja-natia, her San-Tou, lead to continue. The white cats&#39; long fur swept back, ruffled again by the soft fingers of slight breeze. She in turn nodded to each cat.
+                    </div>
+                    
+                    <div class="prologue-center italic">
+                        &ldquo;The word shall be carried in the heart<br>
+                        The word shall be spoken, mind-to-mind.<br>
+                        Let this, the first time, be your test<br>
+                        As Ky-lor judges Iftmus,<br>
+                        So shall it now judge you.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Ja-natia&#39;s eyes fell upon Sa-hetra, the first cat chosen to recite a portion of Kylor. The small, cat squeezed her eyes shut in silent thanks for the privilege of being first chosen,
+                        and with those eyes still closed, she mind-spoke out:
+                    </div>
+        
+                    <div class="prologue-text"> 
+                        <span class="italic">&ldquo;When it began, all existed in Flow. There was no separation until the Spirit of Felis reached out from Flow and showed favor on the cat.&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The next cat continued on and thereafter each of them in proper turn.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        <span class="italic">&ldquo;And this was the sign. To Re-nell, the first ruling Sa-bata cat, the gift of Kylor was given and his mind taught all others, for the Spirit of Felis
+                        flowed strong in Flow. But Re-nell had been blessed first, that none should question his right to rule.&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        <span class="italic">&ldquo;And in the passing of those suns, all cat became one. The cat in those days, were the cub of Iftmus, who is the mother of us all. And the law of Felis
+                        was written across each heart.&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        <span class="italic">&ldquo;That no cat draw the death blood of another cat, for that shall be the worst of abominations. That no cat draw the death blood of any other animal,
+                        unless the shedding of that blood is so done that life may be nourished and continue.&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        <span class="italic">&ldquo;That no cat set them-self above any other cat for any reason, save head of pride or family.  The right to rule any pride shall be passed down
+                        through ritual duel, but only till first blood, never till death blood.&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        <span class="italic">&ldquo;That no pride or family set itself above any other pride or family. For within the many spirits of cat, the cub of Iftmus shall always be one.&rdquo;</span>
+                    </div>
+                    
+                </div>
 
                 <div id="page6" class="page">
+                    <div class="prologue-text"> 
+                <span class="italic">&ldquo;That no cat shall intrude&#46;&#46;&#46;&#46;&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The testing of Kylor continued as Fa-tera turned her attention to the dwindling fire. It dodged and hid behind dying embers crackling with mischievous laughter. The Teacher&#39;s
+                        green eyes betrayed her part Abyssinian blood and turned a phosphorous glow. She nodded towards a large dry thornthistle branch, and with a flash that emanated first from her eyes,
+                        the branch burst into flame. She had used that part of Sha-talon called Ma-hosta, &ldquo;fire of dreams&rdquo;. A crescendo of fire washed the clearing with renewed, warm light.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The Gindoo had been busy the sunfall past, placing many branch-laden fire sites around Nalas&#39;. The two-legged hairy animals were good-natured and easily taught simple tasks.
+                        They relished encouragement and praise and like the Chaun, they seemed to have a limited understanding of Ma&#39;chona, &ldquo;Mindspeak.&rdquo; The Gindoo could hear but not mindspeak
+                        back. They resembled the Pur-rocia that dwelt in the forests of Pa-tan, but unlike their ferocious cousins, the Gindoo were a smaller, more intelligent breed. The two extra limbs not
+                        used for walking were ideal for carrying and moving things. Fa-tera had no qualms with their treatment here in Sefttora and other parts of La-mor, but she was uncomfortably aware of the
+                        more slave-like conditions of they and their cousins in the province of Pa-tan.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The distant grunts of mud-waumps drifted in off the waters of Green-wa. The fat furry creatures were enjoying the warmth of the shallow waters this sunfall. Evenings like these were an
+                        ideal time for the waddling beasts to come out of the lake and bask, as the cool night wrestled with the last vestiges of a hot, humid day.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        A soft, early sunfall breeze rustled the leaves of the Windtalkers, which grew profusely here along the Takinta Glades. The weeping limbs nodded and rocked as the stiff spines on the
+                        leaves rubbed together, producing a whining, much like the mewing of newborn cubs. The old Teacher forced herself to shut out the soothing sound and turn her attention back to the testing.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        <span class="italic">&ldquo;&#46;&#46;&#46;and knowing he was dying and his time was at an end, Re-nell passed on the right to rule to Ren-fa, of the Sa-bata cats. And so all would
+                        remember him, Re-nell chased his last sunfall across the skies of Iftmus. It is his two eyes, the two moons watching over us, that we see every time the sun falls.&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The white smoke and the rising heat from the fire caused the Eye Moons of Re-nell to shimmer and weave in the dark sky, as if they were misting in the romance of ancient catlore.
+                        The moons were bright tonight, hypnotic, and again Fa-tera had to cast off the trance to focus back in.
+                    </div>
+                    
+                    <div class="prologue-text-center-italic">
+                        &ldquo;&#46;&#46;&#46;and Ren-fa, knowing his seasons had been long and his time was at an end passed on the right to rule to Re-nor of the Saber-cats. And in defending his and many
+                        other prides against the vast hordes of Woodwars that invaded in those last days, Ren-fa shed his deathblood upon the lo-hills of La-mor.  To this day it is the traces of his gallant
+                        struggle, the wash of colors in those hills, that remind us of the sacrifice cat should make for cat.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text-center-italic">
+                        &ldquo;And Re-nor ruled in a time of great change&#46;&#46;&#46;&#46;&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        In turn, the next cat recited the past generations of ruling Sa-bata cats, faithfully and accurately. As they continued, Fa-tera still could not keep her mind from drifting again.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Her thoughts swam slowly back over the past generations of cubs she had raised to become Shi-kauti. So many mewing, spitting, curious balls of fur arriving in all sizes; they were all
+                        her children! For the first time in the Teacher&#39;s whole life she conceded she was old; she flinched. Admission did not make the fact any more palatable. The cat chuckled to herself
+                        and quickly amended, &ldquo;Maybe not so much old as thee are just&#46;&#46;&#46; weary.&rdquo; She blinked. It was a tired that crept down into her bones and splashed back out in the
+                        gray hairs that flecked her once shiny black coat. Again her head twitched and she laughed inwardly. &ldquo;What a portrait thee must portray.&rdquo; Truly, it was getting close to the
+                        time for her to pass down the title of &ldquo;Teacher&rdquo;. Pass it down to Ja-natia, just as Fa-sinto had passed it down to her, when she was his San-Tou, so many sunfalls ago. The
+                        thought of no longer being the Teacher, caused a shudder to chase down her spine. She was proud of her work and until now, never realized just how empty she would feel without it.
+                        Still&#46;&#46;&#46; everything had its season.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Fa-tera looked at Ja-natia Cha-tain and saw herself younger. If only for a moment the old cat&#39;s eyes took on a subtle mist of sad. She gave her head a violent shake, along with a mental
+                        reprimand for being so unpredictably weak.
+                    </div>
+                    
+                </div>
+                
+                
+                <div id="page7" class="page">
+                    <div class="prologue-text-center-italic">
+                        &ldquo;&#46;&#46;&#46;and Rensis saw our Abyssinian brothers grow too proud with Sha-talon, the magic&#39;s drawn from Flow. And it was then the Abyssinians removed themselves from
+                        our midst and claimed their own territory, forbidding other cat to trespass. It is said&#46;&#46;&#46; this was when the heart of Rensis broke and he lost the will to live.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text-center-italic">
+                        &ldquo;And the Tears of Rensis, the three rivers that flow through Iftmus, mark the shame and separation of cat and land. Yet still the rivers remind us that there is hope, for surly they
+                        meet at the falls of Fina-sha, there to come together forever as one water.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Fa-tera knew this part of Kylor well. It told of the Abyssinian cats, ancestors of her blood that had originally dwelt in this province of La-mor. Their breed had learned to touch a
+                        different part of Flow: the balance of all life and land in Iftmus. From it they drew Sha-talon, the magic&#39;s of Iftmus. Ma-chona, &ldquo;The whisper of Felis&rdquo; was mindspeak
+                        and the Sa-bata cat had taught that. The Abyssinians touched a different part of Sha-talon; Ma-nasta, &ldquo;The weight of ages,&rdquo; which allowed them to move things by levitation.
+                        Ma-hosta, &ldquo;The fire of dreams,7rdquo; allowed them to create fire as Fa-tera just had. Ma-chena, &ldquo;The steps of the wind,&rdquo allowed them to transport themselves or others
+                        short distances. Up till now no other cat had ever mastered those aspects of the gifts. Eventually the Abyssinians moved up onto the Grasswater, separating themselves and any further
+                        knowledge of Sha-talon from all other breed of cat. Still there had been that one fateful day&#46;&#46;&#46;&#46;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Fa-tera was two seasons from being tested to be San-Tou, the next in line to be Teacher. Fa-sinto always laughed and would make loving jokes. <span class="italic">&ldquo;;You can not take
+                        my place. You are too little! What would the new cubs do? They certainly couldn&#39;t look up to a little cat who barely comes up to their nose!&rdquo;</span>  Oft-times Fa-tera would take
+                        the jokes to heart and Fa-sinto would be crushed that his teasing had been taken as anything but. Almost in tears he would say, <span class="italic">&ldquo;Fa-tera, Fa-tera do not do this
+                        to me. I tease&#46;&#46;&#46; do not ever believe that I think less of you!&rdquo;</span> He would nudge her at heart level. <span class="italic">&ldquo;In here my precious&#46;&#46;&#46; here you are
+                        taller than the Sa-bata. What you think and what you feel&#46;&#46;&#46; this is the soul, the heart&#46;&#46;&#46; and you my precious&#46;&#46;&#46; you have the Spirit of Felis! You&#46;&#46;&#46;
+                        are&#46;&#46;&#46;&rdquo;</span> 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Fa-sinto&#39;s mindspeak trailed off as a whole pride of Cha-tain cat walked into Sefttora. The white cats were solemn, stoic, almost religious in stature. They gracefully came in like a
+                        wave and one continued the walk up to Fa-sinto. <span class="italic">&ldquo;Teacher,&rdquo;</span> he gave a formal nod.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The Cha-tains statement was as brief as the visit. <span class="italic">&ldquo;I am Ja-lacu Cha-tain. Our Abyssinian brothers are gone. Like the Sa-bata they are now&#46;&#46;&#46; no more!
+                        Everything has changed and nothing has changed. The Grasswater shall still not be intruded on by any cat. You may send your four Shi-kauti&#46;&#46;&#46; as before, but no other cat will be
+                        allowed. There are no questions for there are no answers. Fa-sinto&#46;&#46;&#46; you are Teacher. You decide where this lies in Ky-lor. Let it be a question for now. It was the Abyssinian&#39;s
+                        final wish&#46;&#46;&#46; until the time of answers&#46;&#46;&#46; only then may Kylor be amended!&rdquo;</span>
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The cat bowed his head again and they did not even wait for Fa-sinto to reply. The tall white Cha-tain simply turned as did his pride and melted out of the clearing, back in the direction of the
+                        Grasswater.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Even on this last sunfall, the mystery surrounding the Abyssinian&#39;s disappearance had not changed a word. Fa-tera, like every other cat, would continue to speculate as to their fate&#46;&#46;&#46;
+                        and in fact did so again with a forlorn sigh.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Ja-natia, Fa-tera&#39;s San-tou, was a Cha-tain cat. Their breed had let no other cat enter the Grasswater, until the sunwalk they allowed the Abyssinians on. Now they kept the fate of
+                        those cats just as private. Ja-natia herself had refused to be broached on the subject. What was the secret? What was more important than the truth of Kylor? How long were they to go on
+                        wondering?
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        There was one sad truth that stood out from wistful speculation. Since the Abyssinian cats had disappeared, there was an uneasiness seeping into the land, a feeling of wrong that refused
+                        to be cast off. It was much like a damp fog sitting just footfalls ahead, always out of touch no matter how hard one tried to chase it down.  It was oppressive and it was only getting worse.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Kylor told how, earlier in Iftmus, most cats broke off into feuding prides and started claiming territories. Even Ren-sis could not bring order or caring back. Something vile had overshadowed
+                        the land and was suffocating the spirit of every living thing.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        A distant tremor caused the ground beneath her to tremble, adding its own voice to her worst suspicions.  As Nalas&#39; had said, Iftmus was in pain; the land and all that lived upon it were no
+                        longer in harmony. There was no peace to be felt, only a vague sense of torment: a whisper-promise of impending doom. The worst part of all this was the gossamer fear-feeling she had long
+                        cradled; a feeling that somewhere, something seemed to be enjoying all of this, taking sustenance like a kitten from its mother&#39;s teat. She could feel its consuming greed, its insatiable
+                        hunger. It was a hunger that would not stop feeding till all life was sucked dry. 
+                    </div>
+                    
+                </div>
+
+
+                <div id="page8" class="page">
+                    
+                </div>
+                
+                
+                <div id="page9" class="page">
+                    
                 </div>
                 
                 <div class="pager"></div>
@@ -246,225 +476,12 @@
         
         <!-- Page Text Holding Area -->            
         <div style="display: none;">
-           
             
             
-            <div class="prologue-text"> 
-                &ldquo;Fa-tera will do the telling?&rdquo; She cursed and shook her head as if trying to rid herself the question; to no avail. What did Nalas&#39; mean by that? She was not a Shi-kauti.
-                Greatly troubled she walked off to follow the river-water&#39;s chatter and waited for the sunwalk to pass.
-            </div>
             
-            <div class="prologue-text"> 
-                Now at this sunfall, Fa-tera still wondered, but let that wonder be swept to the side by her own anxiousness for her students. Restless on its own accord, the fire crackled with excitement
-                and threw out tiny, falling-star sparks that burned themselves out in multitudes of wishes before ever reaching the damp moss on the ground. Fa-tera added her own wish in among them. She
-                sighed as she looked proudly into the eyes of her children. She had raised them all, and she would now have to let them go. Why was it always, such a bite to the heart?
-            </div>
             
-            <div class="prologue-text"> 
-                Among the varied cat before her, some were nearly three times Fa-tera&#39;s size, yet they all gazed lovingly back at her, as any small cub might its own natural mother. She shook off the warm,
-                as well as the subtle cold of what she was feeling. Finally with some reluctance she put on the veil of strict formality; the occasion demanded that she, as Teacher, do no less.
-            </div>
             
-            <div class="prologue-center italic">
-                &ldquo;Kylor is bound within the word,<br>
-                Our future, past, all must be heard.<br>
-                That which is law...That which is lore..&#46;&#46;&#46;<br>
-                Thee must protect&#46;&#46;&#46; forever more&#46;&#46;&#46;<br>
-                Thy life belongs to Iftmus!&rdquo;
-            </div>
             
-            <div class="prologue-text"> 
-                The solemn warning of those ritual words heralded the beginning of the testing. Nalas&#39; rumbled like distant thunder, the only sign it would give at this point that it was listening.
-            </div>
-            
-            <div class="prologue-text"> 
-                Fa-tera stepped back and gave Ja-natia, her San-Tou, lead to continue. The white cats&#39; long fur swept back, ruffled again by the soft fingers of slight breeze. She in turn nodded to each cat.
-            </div>
-            
-            <div class="prologue-center italic">
-                &ldquo;The word shall be carried in the heart<br>
-                The word shall be spoken, mind-to-mind.<br>
-                Let this, the first time, be your test<br>
-                As Ky-lor judges Iftmus,<br>
-                So shall it now judge you.&rdquo;
-            </div>
-            
-            <div class="prologue-text"> 
-                Ja-natia&#39;s eyes fell upon Sa-hetra, the first cat chosen to recite a portion of Kylor. The small, cat squeezed her eyes shut in silent thanks for the privilege of being first chosen,
-                and with those eyes still closed, she mind-spoke out:
-            </div>
-
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;When it began, all existed in Flow. There was no separation until the Spirit of Felis reached out from Flow and showed favor on the cat.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                The next cat continued on and thereafter each of them in proper turn.
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;And this was the sign. To Re-nell, the first ruling Sa-bata cat, the gift of Kylor was given and his mind taught all others, for the Spirit of Felis
-                flowed strong in Flow. But Re-nell had been blessed first, that none should question his right to rule.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;And in the passing of those suns, all cat became one. The cat in those days, were the cub of Iftmus, who is the mother of us all. And the law of Felis
-                was written across each heart.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;That no cat draw the death blood of another cat, for that shall be the worst of abominations. That no cat draw the death blood of any other animal,
-                unless the shedding of that blood is so done that life may be nourished and continue.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;That no cat set them-self above any other cat for any reason, save head of pride or family.  The right to rule any pride shall be passed down
-                through ritual duel, but only till first blood, never till death blood.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;That no pride or family set itself above any other pride or family. For within the many spirits of cat, the cub of Iftmus shall always be one.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;That no cat shall intrude&#46;&#46;&#46;&#46;&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                The testing of Kylor continued as Fa-tera turned her attention to the dwindling fire. It dodged and hid behind dying embers crackling with mischievous laughter. The Teacher&#39;s
-                green eyes betrayed her part Abyssinian blood and turned a phosphorous glow. She nodded towards a large dry thornthistle branch, and with a flash that emanated first from her eyes,
-                the branch burst into flame. She had used that part of Sha-talon called Ma-hosta, &ldquo;fire of dreams&rdquo;. A crescendo of fire washed the clearing with renewed, warm light.
-            </div>
-            
-            <div class="prologue-text"> 
-                The Gindoo had been busy the sunfall past, placing many branch-laden fire sites around Nalas&#39;. The two-legged hairy animals were good-natured and easily taught simple tasks.
-                They relished encouragement and praise and like the Chaun, they seemed to have a limited understanding of Ma&#39;chona, &ldquo;Mindspeak.&rdquo; The Gindoo could hear but not mindspeak
-                back. They resembled the Pur-rocia that dwelt in the forests of Pa-tan, but unlike their ferocious cousins, the Gindoo were a smaller, more intelligent breed. The two extra limbs not
-                used for walking were ideal for carrying and moving things. Fa-tera had no qualms with their treatment here in Sefttora and other parts of La-mor, but she was uncomfortably aware of the
-                more slave-like conditions of they and their cousins in the province of Pa-tan.
-            </div>
-            
-            <div class="prologue-text"> 
-                The distant grunts of mud-waumps drifted in off the waters of Green-wa. The fat furry creatures were enjoying the warmth of the shallow waters this sunfall. Evenings like these were an
-                ideal time for the waddling beasts to come out of the lake and bask, as the cool night wrestled with the last vestiges of a hot, humid day.
-            </div>
-            
-            <div class="prologue-text"> 
-                A soft, early sunfall breeze rustled the leaves of the Windtalkers, which grew profusely here along the Takinta Glades. The weeping limbs nodded and rocked as the stiff spines on the
-                leaves rubbed together, producing a whining, much like the mewing of newborn cubs. The old Teacher forced herself to shut out the soothing sound and turn her attention back to the testing.
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;&#46;&#46;&#46;and knowing he was dying and his time was at an end, Re-nell passed on the right to rule to Ren-fa, of the Sa-bata cats. And so all would
-                remember him, Re-nell chased his last sunfall across the skies of Iftmus. It is his two eyes, the two moons watching over us, that we see every time the sun falls.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                The white smoke and the rising heat from the fire caused the Eye Moons of Re-nell to shimmer and weave in the dark sky, as if they were misting in the romance of ancient catlore.
-                The moons were bright tonight, hypnotic, and again Fa-tera had to cast off the trance to focus back in.
-            </div>
-            
-            <div class="prologue-text-center-italic">
-                &ldquo;&#46;&#46;&#46;and Ren-fa, knowing his seasons had been long and his time was at an end passed on the right to rule to Re-nor of the Saber-cats. And in defending his and many
-                other prides against the vast hordes of Woodwars that invaded in those last days, Ren-fa shed his deathblood upon the lo-hills of La-mor.  To this day it is the traces of his gallant
-                struggle, the wash of colors in those hills, that remind us of the sacrifice cat should make for cat.&rdquo;
-            </div>
-            
-            <div class="prologue-text-center-italic">
-                &ldquo;And Re-nor ruled in a time of great change&#46;&#46;&#46;&#46;&rdquo;
-            </div>
-            
-            <div class="prologue-text"> 
-                In turn, the next cat recited the past generations of ruling Sa-bata cats, faithfully and accurately. As they continued, Fa-tera still could not keep her mind from drifting again.
-            </div>
-            
-            <div class="prologue-text"> 
-                Her thoughts swam slowly back over the past generations of cubs she had raised to become Shi-kauti. So many mewing, spitting, curious balls of fur arriving in all sizes; they were all
-                her children! For the first time in the Teacher&#39;s whole life she conceded she was old; she flinched. Admission did not make the fact any more palatable. The cat chuckled to herself
-                and quickly amended, &ldquo;Maybe not so much old as thee are just&#46;&#46;&#46; weary.&rdquo; She blinked. It was a tired that crept down into her bones and splashed back out in the
-                gray hairs that flecked her once shiny black coat. Again her head twitched and she laughed inwardly. &ldquo;What a portrait thee must portray.&rdquo; Truly, it was getting close to the
-                time for her to pass down the title of &ldquo;Teacher&rdquo;. Pass it down to Ja-natia, just as Fa-sinto had passed it down to her, when she was his San-Tou, so many sunfalls ago. The
-                thought of no longer being the Teacher, caused a shudder to chase down her spine. She was proud of her work and until now, never realized just how empty she would feel without it.
-                Still&#46;&#46;&#46; everything had its season.
-            </div>
-            
-            <div class="prologue-text"> 
-                Fa-tera looked at Ja-natia Cha-tain and saw herself younger. If only for a moment the old cat&#39;s eyes took on a subtle mist of sad. She gave her head a violent shake, along with a mental
-                reprimand for being so unpredictably weak.
-            </div>
-            
-            <div class="prologue-text-center-italic">
-                &ldquo;&#46;&#46;&#46;and Rensis saw our Abyssinian brothers grow too proud with Sha-talon, the magic&#39;s drawn from Flow. And it was then the Abyssinians removed themselves from
-                our midst and claimed their own territory, forbidding other cat to trespass. It is said&#46;&#46;&#46; this was when the heart of Rensis broke and he lost the will to live.&rdquo;
-            </div>
-            
-            <div class="prologue-text-center-italic">
-                &ldquo;And the Tears of Rensis, the three rivers that flow through Iftmus, mark the shame and separation of cat and land. Yet still the rivers remind us that there is hope, for surly they
-                meet at the falls of Fina-sha, there to come together forever as one water.&rdquo;
-            </div>
-            
-            <div class="prologue-text"> 
-                Fa-tera knew this part of Kylor well. It told of the Abyssinian cats, ancestors of her blood that had originally dwelt in this province of La-mor. Their breed had learned to touch a
-                different part of Flow: the balance of all life and land in Iftmus. From it they drew Sha-talon, the magic&#39;s of Iftmus. Ma-chona, &ldquo;The whisper of Felis&rdquo; was mindspeak
-                and the Sa-bata cat had taught that. The Abyssinians touched a different part of Sha-talon; Ma-nasta, &ldquo;The weight of ages,&rdquo; which allowed them to move things by levitation.
-                Ma-hosta, &ldquo;The fire of dreams,7rdquo; allowed them to create fire as Fa-tera just had. Ma-chena, &ldquo;The steps of the wind,&rdquo allowed them to transport themselves or others
-                short distances. Up till now no other cat had ever mastered those aspects of the gifts. Eventually the Abyssinians moved up onto the Grasswater, separating themselves and any further
-                knowledge of Sha-talon from all other breed of cat. Still there had been that one fateful day&#46;&#46;&#46;&#46;
-            </div>
-            
-            <div class="prologue-text"> 
-                Fa-tera was two seasons from being tested to be San-Tou, the next in line to be Teacher. Fa-sinto always laughed and would make loving jokes. <span class="italic">&ldquo;;You can not take
-                my place. You are too little! What would the new cubs do? They certainly couldn&#39;t look up to a little cat who barely comes up to their nose!&rdquo;</span>  Oft-times Fa-tera would take
-                the jokes to heart and Fa-sinto would be crushed that his teasing had been taken as anything but. Almost in tears he would say, <span class="italic">&ldquo;Fa-tera, Fa-tera do not do this
-                to me. I tease&#46;&#46;&#46; do not ever believe that I think less of you!&rdquo;</span> He would nudge her at heart level. <span class="italic">&ldquo;In here my precious&#46;&#46;&#46; here you are
-                taller than the Sa-bata. What you think and what you feel&#46;&#46;&#46; this is the soul, the heart&#46;&#46;&#46; and you my precious&#46;&#46;&#46; you have the Spirit of Felis! You&#46;&#46;&#46;
-                are&#46;&#46;&#46;&rdquo;</span> 
-            </div>
-            
-            <div class="prologue-text"> 
-                Fa-sinto&#39;s mindspeak trailed off as a whole pride of Cha-tain cat walked into Sefttora. The white cats were solemn, stoic, almost religious in stature. They gracefully came in like a
-                wave and one continued the walk up to Fa-sinto. <span class="italic">&ldquo;Teacher,&rdquo;</span> he gave a formal nod.
-            </div>
-            
-            <div class="prologue-text"> 
-                The Cha-tains statement was as brief as the visit. <span class="italic">&ldquo;I am Ja-lacu Cha-tain. Our Abyssinian brothers are gone. Like the Sa-bata they are now&#46;&#46;&#46; no more!
-                Everything has changed and nothing has changed. The Grasswater shall still not be intruded on by any cat. You may send your four Shi-kauti&#46;&#46;&#46; as before, but no other cat will be
-                allowed. There are no questions for there are no answers. Fa-sinto&#46;&#46;&#46; you are Teacher. You decide where this lies in Ky-lor. Let it be a question for now. It was the Abyssinian&#39;s
-                final wish&#46;&#46;&#46; until the time of answers&#46;&#46;&#46; only then may Kylor be amended!&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                The cat bowed his head again and they did not even wait for Fa-sinto to reply. The tall white Cha-tain simply turned as did his pride and melted out of the clearing, back in the direction of the
-                Grasswater.
-            </div>
-            
-            <div class="prologue-text"> 
-                Even on this last sunfall, the mystery surrounding the Abyssinian&#39;s disappearance had not changed a word. Fa-tera, like every other cat, would continue to speculate as to their fate&#46;&#46;&#46;
-                and in fact did so again with a forlorn sigh.
-            </div>
-            
-            <div class="prologue-text"> 
-                Ja-natia, Fa-tera&#39;s San-tou, was a Cha-tain cat. Their breed had let no other cat enter the Grasswater, until the sunwalk they allowed the Abyssinians on. Now they kept the fate of
-                those cats just as private. Ja-natia herself had refused to be broached on the subject. What was the secret? What was more important than the truth of Kylor? How long were they to go on
-                wondering?
-            </div>
-            
-            <div class="prologue-text"> 
-                There was one sad truth that stood out from wistful speculation. Since the Abyssinian cats had disappeared, there was an uneasiness seeping into the land, a feeling of wrong that refused
-                to be cast off. It was much like a damp fog sitting just footfalls ahead, always out of touch no matter how hard one tried to chase it down.  It was oppressive and it was only getting worse.
-            </div>
-            
-            <div class="prologue-text"> 
-                Kylor told how, earlier in Iftmus, most cats broke off into feuding prides and started claiming territories. Even Ren-sis could not bring order or caring back. Something vile had overshadowed
-                the land and was suffocating the spirit of every living thing.
-            </div>
-            
-            <div class="prologue-text"> 
-                A distant tremor caused the ground beneath her to tremble, adding its own voice to her worst suspicions.  As Nalas&#39; had said, Iftmus was in pain; the land and all that lived upon it were no
-                longer in harmony. There was no peace to be felt, only a vague sense of torment: a whisper-promise of impending doom. The worst part of all this was the gossamer fear-feeling she had long
-                cradled; a feeling that somewhere, something seemed to be enjoying all of this, taking sustenance like a kitten from its mother&#39;s teat. She could feel its consuming greed, its insatiable
-                hunger. It was a hunger that would not stop feeding till all life was sucked dry. 
-            </div>
             
             <div class="prologue-text"> 
                 The old cat marveled, briefly shaken by the depths of her own dark thoughts.  &ldquo;Far better thee should keep thy mind on the testing, foolish cat!&rdquo;
