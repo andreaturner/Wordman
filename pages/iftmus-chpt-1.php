@@ -15,10 +15,10 @@
                 
                 .page {
                     display: none;
-                    height: 1000px;
+                    height: 900px;
                     overflow-y: auto;
                 }
-            </style>
+            </style> 
 
             <div class="pager"></div>
 
@@ -143,18 +143,14 @@
                     ra-katoos or stray mud-waumps. True to the viciousness of their breed they were also known to turn on the weaker of their own, when hunger prevailed for fail of the hunt.
                 </div>
                 
-                <div class="prologue-text">
-                    As if hearing her thoughts, Ja-natia Cha-tain faced the breeze with a tilt of her head and then mindspoke. <span class="italic">&ldquo;I sense their hunger but do not
-                    taste any other purpose in their movements. They are midst hunt and no threat to us.&rdquo;</span> Wisps of her long white fur lashed in the wind like graceful white smoke tendrils.
-                </div>
                 
-                <div class="prologue-text">
-                    Another howl went up; this time it was the cry of success. Fa-tera shuddered and gave up a short prayer for the victim that loosed its spirit in the shedding of deathblood.
-                    She nodded affirmation to her San-Tou and turned her attention back to the circle of cats, sighing, <span class="italic">&ldquo;This is life, the giving and taking of which belongs to the Spirit of Felis.&rdquo;</span>
-                    With little else to add Fa-tera straightened her stance, <span class="italic">&ldquo;But thee are the conscience of our life. The heart and soul of Iftmus is Kylor&#46;&#46;&#46; the words!&rdquo;</span>
-                    The old cat blinked and then allowed herself a moment away from formality with an uncharacteristic touch of sentiment. <span class="italic">&ldquo;Thee, my hearts, are my beloved children and in all of thee,
-                    I am so very proud.&rdquo;</span> 
-                </div>
+                
+                
+                
+                
+            </div>
+
+            <div id="page4" class="page">
                 
                 <div class="prologue-text">
                     Ja-natia Cha-tain gave pause, with a mental nod, measuring and noting depth of heart of this cat. The eyes of all twelve cats squeezed closed, caught short by the unprecedented flattery from
@@ -170,13 +166,24 @@
                 </div>
                 
                 <div class="prologue-text">
+                    As if hearing her thoughts, Ja-natia Cha-tain faced the breeze with a tilt of her head and then mindspoke. <span class="italic">&ldquo;I sense their hunger but do not
+                    taste any other purpose in their movements. They are midst hunt and no threat to us.&rdquo;</span> Wisps of her long white fur lashed in the wind like graceful white smoke tendrils.
+                </div>
+                
+                <div class="prologue-text">
+                    Another howl went up; this time it was the cry of success. Fa-tera shuddered and gave up a short prayer for the victim that loosed its spirit in the shedding of deathblood.
+                    She nodded affirmation to her San-Tou and turned her attention back to the circle of cats, sighing, <span class="italic">&ldquo;This is life, the giving and taking of which belongs to the Spirit of Felis.&rdquo;</span>
+                    With little else to add Fa-tera straightened her stance, <span class="italic">&ldquo;But thee are the conscience of our life. The heart and soul of Iftmus is Kylor&#46;&#46;&#46; the words!&rdquo;</span>
+                    The old cat blinked and then allowed herself a moment away from formality with an uncharacteristic touch of sentiment. <span class="italic">&ldquo;Thee, my hearts, are my beloved children and in all of thee,
+                    I am so very proud.&rdquo;</span> 
+                </div>
+                
+                <div class="prologue-text">
                     The place of testing, sat right on the Tears Of Rensis, river&#39;s edge. The poetic side of Fa-tera always reveled in the soothing song of the fast flowing water. The water whispered and laughed
                     over rocks. It cooed and swallowed itself in deep eddies. It was the teasing of tomorrow to the land that lay before it today. It was an echo of yesterday from the mountains and the heavens
                     from which it flowed.
                 </div>
-            </div>
-
-            <div id="page4" class="page">
+                
                 <div class="prologue-text">
                     The river, Tears of Rensis, swept in from the furthest boundaries of the three provinces and met in the middle of Iftmus at the bottomless falls of Fina&#39;sha, the singular place where the tip of
                     each of the provinces touched. Something stirred in Fa-tera&#39;s heart. She silently vowed to make a pilgrimage to those falls in the near future.
@@ -218,12 +225,109 @@
                     such&#46;&#46;&#46; has&#46;&#46;&#46; never&#46;&#46;&#46; been&#46;&#46;&#46; felt&#46;&#46;&#46; before. We&#46;&#46;&#46; are&#46;&#46;&#46; born&#46;&#46;&#46; from&#46;&#46;&#46; her.
                     What&#46;&#46;&#46; Iftmus&#46;&#46;&#46; feels&#46;&#46;&#46; we&#46;&#46;&#46; feel!&rdquo;</span>
                 </div>
-            </div>
-
-            <div id="page5" class="page">
-                Page 5:lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis dolor ullamcorper, faucibus nulla vel, hendrerit ante. Nunc quis pretium leo. Quisque ullamcorper eu neque vel fermentum. Aliquam ac nisl dictum, sollicitudin justo ac, iaculis sem. Vivamus iaculis nunc dolor, sed volutpat ipsum accumsan imperdiet. Maecenas vitae fermentum ipsum. Aenean faucibus est eu nunc tempus, eget vulputate justo euismod. Maecenas eu tortor sit amet dolor feugiat placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+                
+                <div class="prologue-text"> 
+                Fa-tera&#39;s heart lurched, <span class="italic">&ldquo;Then thee must tell me!&rdquo;</span>
                 </div>
                 
+                <div class="prologue-text"> 
+                    The air around the monoliths suddenly felt oppressive, giving the feeling as if all were under the weight of mountains from which the stones came. <span class="italic">&ldquo;We&#46;&#46;&#46;
+                    may&#46;&#46;&#46; not&#46;&#46;&#46;&#46; It&#46;&#46;&#46; is&#46;&#46;&#46; not&#46;&#46;&#46; the&#46;&#46;&#46; time&#46;&#46;&#46; for&#46;&#46;&#46; telling. We&#46;&#46;&#46; may&#46;&#46;&#46;
+                    only&#46;&#46;&#46; witness. Shi-kauti&#46;&#46;&#46; must&#46;&#46;&#46; do&#46;&#46;&#46; the&#46;&#46;&#46; telling. Fa-tera&#46;&#46;&#46; will&#46;&#46;&#46; do&#46;&#46;&#46; the   
+                    telling!&rdquo;</span>
+                    The stones drifted quiet fell back asleep. They would only awaken again for the time of testing.
+                </div>
+                
+                <div class="prologue-text"> 
+                    &ldquo;Fa-tera will do the telling?&rdquo; She cursed and shook her head as if trying to rid herself the question; to no avail. What did Nalas&#39; mean by that? She was not a Shi-kauti.
+                    Greatly troubled she walked off to follow the river-water&#39;s chatter and waited for the sunwalk to pass.
+                </div>
+                
+                <div class="prologue-text"> 
+                    Now at this sunfall, Fa-tera still wondered, but let that wonder be swept to the side by her own anxiousness for her students. Restless on its own accord, the fire crackled with excitement
+                    and threw out tiny, falling-star sparks that burned themselves out in multitudes of wishes before ever reaching the damp moss on the ground. Fa-tera added her own wish in among them. She
+                    sighed as she looked proudly into the eyes of her children. She had raised them all, and she would now have to let them go. Why was it always, such a bite to the heart?
+                </div>
+                
+                <div class="prologue-text"> 
+                    Among the varied cat before her, some were nearly three times Fa-tera&#39;s size, yet they all gazed lovingly back at her, as any small cub might its own natural mother. She shook off the warm,
+                    as well as the subtle cold of what she was feeling. Finally with some reluctance she put on the veil of strict formality; the occasion demanded that she, as Teacher, do no less.
+                </div>
+                </div>
+
+            <div id="page5" class="page">
+                <div class="prologue-center italic">
+                    &ldquo;Kylor is bound within the word,<br>
+                    Our future, past, all must be heard.<br>
+                    That which is law...That which is lore..&#46;&#46;&#46;<br>
+                    Thee must protect&#46;&#46;&#46; forever more&#46;&#46;&#46;<br>
+                    Thy life belongs to Iftmus!&rdquo;
+                </div>
+                
+                <div class="prologue-text"> 
+                    The solemn warning of those ritual words heralded the beginning of the testing. Nalas&#39; rumbled like distant thunder, the only sign it would give at this point that it was listening.
+                </div>
+                
+                <div class="prologue-text"> 
+                    Fa-tera stepped back and gave Ja-natia, her San-Tou, lead to continue. The white cats&#39; long fur swept back, ruffled again by the soft fingers of slight breeze. She in turn nodded to each cat.
+                </div>
+                
+                <div class="prologue-center italic">
+                    &ldquo;The word shall be carried in the heart<br>
+                    The word shall be spoken, mind-to-mind.<br>
+                    Let this, the first time, be your test<br>
+                    As Ky-lor judges Iftmus,<br>
+                    So shall it now judge you.&rdquo;
+                </div>
+                
+                <div class="prologue-text"> 
+                    Ja-natia&#39;s eyes fell upon Sa-hetra, the first cat chosen to recite a portion of Kylor. The small, cat squeezed her eyes shut in silent thanks for the privilege of being first chosen,
+                    and with those eyes still closed, she mind-spoke out:
+                </div>
+    
+                <div class="prologue-text"> 
+                    <span class="italic">&ldquo;When it began, all existed in Flow. There was no separation until the Spirit of Felis reached out from Flow and showed favor on the cat.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text"> 
+                    The next cat continued on and thereafter each of them in proper turn.
+                </div>
+                
+                <div class="prologue-text"> 
+                    <span class="italic">&ldquo;And this was the sign. To Re-nell, the first ruling Sa-bata cat, the gift of Kylor was given and his mind taught all others, for the Spirit of Felis
+                    flowed strong in Flow. But Re-nell had been blessed first, that none should question his right to rule.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text"> 
+                    <span class="italic">&ldquo;And in the passing of those suns, all cat became one. The cat in those days, were the cub of Iftmus, who is the mother of us all. And the law of Felis
+                    was written across each heart.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text"> 
+                    <span class="italic">&ldquo;That no cat draw the death blood of another cat, for that shall be the worst of abominations. That no cat draw the death blood of any other animal,
+                    unless the shedding of that blood is so done that life may be nourished and continue.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text"> 
+                    <span class="italic">&ldquo;That no cat set them-self above any other cat for any reason, save head of pride or family.  The right to rule any pride shall be passed down
+                    through ritual duel, but only till first blood, never till death blood.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text"> 
+                    <span class="italic">&ldquo;That no pride or family set itself above any other pride or family. For within the many spirits of cat, the cub of Iftmus shall always be one.&rdquo;</span>
+                </div>
+                
+                <div class="prologue-text"> 
+                    <span class="italic">&ldquo;That no cat shall intrude&#46;&#46;&#46;&#46;&rdquo;</span>
+                </div>
+            </div>
+                
+            <div id="page6" class="page">        
+            
+            
+            
+            
+            
             
             <!-- Add further pages here... -->
             
@@ -235,98 +339,9 @@
             <!-- Future Pages Holding Area -->
             <div style="display: none;">
             
-            <div class="prologue-text"> 
-                Fa-tera&#39;s heart lurched, <span class="italic">&ldquo;Then thee must tell me!&rdquo;</span>
-            </div>
             
-            <div class="prologue-text"> 
-                The air around the monoliths suddenly felt oppressive, giving the feeling as if all were under the weight of mountains from which the stones came. <span class="italic">&ldquo;We&#46;&#46;&#46;
-                may&#46;&#46;&#46; not&#46;&#46;&#46;&#46; It&#46;&#46;&#46; is&#46;&#46;&#46; not&#46;&#46;&#46; the&#46;&#46;&#46; time&#46;&#46;&#46; for&#46;&#46;&#46; telling. We&#46;&#46;&#46; may&#46;&#46;&#46;
-                only&#46;&#46;&#46; witness. Shi-kauti&#46;&#46;&#46; must&#46;&#46;&#46; do&#46;&#46;&#46; the&#46;&#46;&#46; telling. Fa-tera&#46;&#46;&#46; will&#46;&#46;&#46; do&#46;&#46;&#46; the   
-                telling!&rdquo;</span>
-                The stones drifted quiet fell back asleep. They would only awaken again for the time of testing.
-            </div>
             
-            <div class="prologue-text"> 
-                &ldquo;Fa-tera will do the telling?&rdquo; She cursed and shook her head as if trying to rid herself the question; to no avail. What did Nalas&#39; mean by that? She was not a Shi-kauti.
-                Greatly troubled she walked off to follow the river-water&#39;s chatter and waited for the sunwalk to pass.
-            </div>
             
-            <div class="prologue-text"> 
-                Now at this sunfall, Fa-tera still wondered, but let that wonder be swept to the side by her own anxiousness for her students. Restless on its own accord, the fire crackled with excitement
-                and threw out tiny, falling-star sparks that burned themselves out in multitudes of wishes before ever reaching the damp moss on the ground. Fa-tera added her own wish in among them. She
-                sighed as she looked proudly into the eyes of her children. She had raised them all, and she would now have to let them go. Why was it always, such a bite to the heart?
-            </div>
-            
-            <div class="prologue-text"> 
-                Among the varied cat before her, some were nearly three times Fa-tera&#39;s size, yet they all gazed lovingly back at her, as any small cub might its own natural mother. She shook off the warm,
-                as well as the subtle cold of what she was feeling. Finally with some reluctance she put on the veil of strict formality; the occasion demanded that she, as Teacher, do no less.
-            </div>
-            
-            <div class="prologue-center italic">
-                &ldquo;Kylor is bound within the word,<br>
-                Our future, past, all must be heard.<br>
-                That which is law...That which is lore..&#46;&#46;&#46;<br>
-                Thee must protect&#46;&#46;&#46; forever more&#46;&#46;&#46;<br>
-                Thy life belongs to Iftmus!&rdquo;
-            </div>
-            
-            <div class="prologue-text"> 
-                The solemn warning of those ritual words heralded the beginning of the testing. Nalas&#39; rumbled like distant thunder, the only sign it would give at this point that it was listening.
-            </div>
-            
-            <div class="prologue-text"> 
-                Fa-tera stepped back and gave Ja-natia, her San-Tou, lead to continue. The white cats&#39; long fur swept back, ruffled again by the soft fingers of slight breeze. She in turn nodded to each cat.
-            </div>
-            
-            <div class="prologue-center italic">
-                &ldquo;The word shall be carried in the heart<br>
-                The word shall be spoken, mind-to-mind.<br>
-                Let this, the first time, be your test<br>
-                As Ky-lor judges Iftmus,<br>
-                So shall it now judge you.&rdquo;
-            </div>
-            
-            <div class="prologue-text"> 
-                Ja-natia&#39;s eyes fell upon Sa-hetra, the first cat chosen to recite a portion of Kylor. The small, cat squeezed her eyes shut in silent thanks for the privilege of being first chosen,
-                and with those eyes still closed, she mind-spoke out:
-            </div>
-
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;When it began, all existed in Flow. There was no separation until the Spirit of Felis reached out from Flow and showed favor on the cat.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                The next cat continued on and thereafter each of them in proper turn.
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;And this was the sign. To Re-nell, the first ruling Sa-bata cat, the gift of Kylor was given and his mind taught all others, for the Spirit of Felis
-                flowed strong in Flow. But Re-nell had been blessed first, that none should question his right to rule.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;And in the passing of those suns, all cat became one. The cat in those days, were the cub of Iftmus, who is the mother of us all. And the law of Felis
-                was written across each heart.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;That no cat draw the death blood of another cat, for that shall be the worst of abominations. That no cat draw the death blood of any other animal,
-                unless the shedding of that blood is so done that life may be nourished and continue.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;That no cat set them-self above any other cat for any reason, save head of pride or family.  The right to rule any pride shall be passed down
-                through ritual duel, but only till first blood, never till death blood.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;That no pride or family set itself above any other pride or family. For within the many spirits of cat, the cub of Iftmus shall always be one.&rdquo;</span>
-            </div>
-            
-            <div class="prologue-text"> 
-                <span class="italic">&ldquo;That no cat shall intrude&#46;&#46;&#46;&#46;&rdquo;</span>
-            </div>
             
             <div class="prologue-text"> 
                 The testing of Kylor continued as Fa-tera turned her attention to the dwindling fire. It dodged and hid behind dying embers crackling with mischievous laughter. The Teacher&#39;s
@@ -899,7 +914,7 @@
         var currentPage = 1;
         
         $(".pager").pagination({
-            items: 5,
+            items: 12,
             itemsOnPage: 1,
             cssStyle: 'light-theme',
             onPageClick: onPageClick
