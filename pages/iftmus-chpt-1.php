@@ -927,14 +927,14 @@
                     
                     <div class="prologue-text"> 
                         Mauldren turned back on the grumpy dwarif. &ldquo;I tell you Samone, &#39;tis no fanciful tale I bring to you this day. The Mingstaugh hordes have been ruthless in their
-                        attacks.&rdquuo; He rubbed his forehead searching for the words. 7ldquo;These are no longer simply annoying raids that pinch a fat merchant&339;s purse. They have been
+                        attacks.&rdquuo; He rubbed his forehead searching for the words. &ldquo;These are no longer simply annoying raids that pinch a fat merchant&339;s purse. They have been
                         killing and torturing, right down to the last woman and child; destroying even field animals and burning crops in their path. They have put whole villages to the torch&#46;&#46;&#46;
                         and &#39;tis said they butcher and eat as many a poor soul as they leave broken behind!&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                        Mauldren grabbed the Dwarifs wrist and spat in disgust. 7ldquo;For this abomination I would war with them for free until the gods themselves lay claim to my soul!&rdquo;
-                        He let go the wrist and sat back, with a quick amendment, 7ldquo;But we shall not tell the council that, lest they try to hold me to such a ridiculous price, quoted in a
+                        Mauldren grabbed the Dwarifs wrist and spat in disgust. &ldquo;For this abomination I would war with them for free until the gods themselves lay claim to my soul!&rdquo;
+                        He let go the wrist and sat back, with a quick amendment, &ldquo;But we shall not tell the council that, lest they try to hold me to such a ridiculous price, quoted in a
                         moment of moral indignation. Did you know the Mingstaughs have left their homelands in the mountains and are marching in force&#46;&#46;&#46;?&rdquo;
                     </div>
                     
@@ -1199,18 +1199,368 @@
                         bad&#46;&#46;&#46;&rdquo; the boy clouded over, &ldquo;&#46;&#46;&#46; and some just plain mean!&rdquo;
                     </div>
                     
-                    <div class="prologue-text"> 
-                        
-                    </div>
-                    
-                    
                 </div>
                 
                 <div id="page19" class="page">
                     
+                    <div class="prologue-text"> 
+                        Mauldren bit his lip as he noticed bruises on the Sagof&#39;s arm and put a hand on the skinny boys shoulder. &ldquo;Bring your bag lad. I need one of the &ldquo;good&rdquo;
+                        from this crew and I wager, you are among those numbered!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The Northlander paid the boy a sum in secret, to care for the horses, sleeping next to them on the hay bales, so they might be calmed throughout the voyage, as well as seeing
+                        to their feeding and watering. The arrangement was far better quarters with the warmth of the animals and the fresh soft hay, and three times more pay than the boy had ever
+                        experienced.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Soon Sagof had opened up and laughed freely whenever he was around Mauldren. The cabin boy&#39;s joy was contagious, as is usually the way of children. The mercenary found
+                        himself smiling more as well. Mauldren had cautioned the boy never to mention to anyone the payment he had received. The lad was apparently seasoned, based on his reply.
+                        &ldquo;No sir&#46;&#46;&#46; I should have to be a fool&#39;s fool to do that, among them that sail this ship&#46;&#46;&#46; present company excluded your lordship.7rdquo;
+                        Another smile caught the Northlander unaware.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The tides were retreating and the captain cursed, shouting how they had to lift anchor soon. Mauldren caught sight of Samone standing dockside, staggering, shaking his
+                        head and fist while swearing. He had just compared the Ve-enesa to a buggard, run down, fishing boat and was about to square off with two of her sailors. Mauldren stepped
+                        in between them and the sight of his sword cooled their blood.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Once on board, Samone took to the cabin and slept beside an open bottle of the captain&#39;s best brandy. Mauldren stood across the room, breathing deliberate and slow,
+                        whisper thinking, &ldquo;What has happened to you my friend? I have seen you take on armies. I have watched you conquer the elements that control us all. Suddenly you are
+                        lost and haunted. You flounder and drown&#46;&#46;&#46;&rdquo his hand tightened on the hilt of his sword, his fingers turning white. &ldquo;&#46;&#46;&#46;and it galls me
+                        for I can do nothing but watch!&rdquo His eyes misted and he cursed softly.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        He turned and left his friend behind him with a corroded creak of hinge and the closing click of the hatch door. Mauldren only saw Samone awake, the last three daca of the
+                        ten daca voyage.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren and Sagof became good friends and would sit around nights talking of each other&#39;s lives and adventures. The boy always begged for more and would listen with wide-eyed
+                        hero worship.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        It was seven daca into the voyage. Mauldren and Sagof were below deck, brushing Lancon&#39;, when a disturbance, a crash and a curse, off in the dark hold, caused them both
+                        to stop suddenly. A dirty, unshaven sailor, reeking of stelorno staggered through the hold, cursing the cabin boy for not paying attention to his daily duties. Given the
+                        state he was in, and just having stumbled out of the dark into torchlight, he didn&#39;t see Mauldren standing to one side of his horse. The boy cringed; denying the
+                        accusations and the sailor hauled off and backhanded him.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren felt his blood rage. Like a cat he leapt and tackled the drunk. Both of them tumbled over stacks of stores breaking the ties and boxes as well. If the sailor had
+                        been sober, if he had been anything but a bully, if he&#39;d been a man and not a coward, he might have put up a fight. Meeting no resistance, Mauldren still beat him
+                        unmercifully and would not have stopped if he had not heard Sagof whimpering in the distance.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Once anger subsided, sanity drew back in and Mauldren dragged the pathetic man across the hold and slamming him into the ramp, leading above-board. Rage washed in spit,
+                        accompanied his words into the man&#39;s face. &ldquo;You had best pray, vermin, that this ship is big enough to keep you a stranger from myself and the boy for the rest
+                        of this saken&#39; voyage!&rdquo; He threw the gasping head against the planks; letting fresh blood spill over old and punctuate the threat!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        He walked slowly back, and slumped down beside Sagof, pulling the sobbing boy close to him. &ldquo;It&#39;s alright&#46;&#46;&#46; it&#39;s over now&#46;&#46;&#46;
+                        I swear by the gods lad, he shall never hit you again.&rdquo; In time the boy quieted and they both just sat there in the dim lit hold, numb for their own private reasons.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Over the next daca&39; Mauldren learned that the sailor, second mate, Lasdo Mawkem had, long been abusive to the boy. Recently he had dragged Sagof below deck and
+                        abused him in a whole different way.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        A child, the boy only blamed himself, and his guilt-ridden confession ripped at Mauldren&#39;s heart. Sagof cried unabashedly, while the mercenary stared straight ahead,
+                        tears plowing fields of rage down his face.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        That same night, in the midst of a storm, Lasdo disappeared off the ship. Some said he must have fallen overboard during the rough seas. Still, a few thought they heard
+                        the ring of steel and Lasdo crying out, before the sea swallowed up that cry.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        One old man, a yardsman and sailwalker, wandered over to Mauldren and after a long silence, he spit. &ldquo;I was out on the third mast during the storm. &#39;Mazing
+                        what a body can see from up there!&#39;&rdquo; Mauldren tried to speak but the old man lifted his hand to stay him. &ldquo;I saw lightning, like steel, pierce Lasdo before he
+                        fell overboard. Some say there are heroes in the clouds who hunt demons for the gods.&rdquo; He spit again and with a nod to Mauldren said, &ldquo;When the hunt is
+                        successful, the world is the better for it!  My wife and I will take the boy in and watch over him as ours.&rdquo; 
+                    </div>
+                
                 </div>
                 
+                <div id="page20" class="page">
+                    
+                    <div class="prologue-text"> 
+                        Mauldren studied the man and judged him true. &ldquo;You have found a good son. Moreover in that task, if you have done well by him, the world indeed is the better for
+                        it!&rdquo; The clasped hands and both turned to lean on the rail, staring out over the calm sea.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The Ve-enesa docked in Orlaun and Mauldren saw to the unloading of their horses and the payment of fare. Their goodbyes had been said before docking and Mauldren avoided
+                       another confrontation if only to avoid the added pain to his own heart.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone was noticeably more rested, yet all the more ill tempered over the captain&#39;s insufficient store of ship&#39;s brandy. To remind the grumpy dwarif that they had
+                       held the captains quarters and had eaten the best fare on ship, would have done little good. 
+                    </div>
+                         
+                    <div class="prologue-text"> 
+                       A stop at a local inn stemmed the dwarif&#39;s complaining. As they sat at a table nursing a few ales Samone finally sat forward eyeing Mauldren intently. &ldquo;You know,
+                       you should have taken your time with that saken bastard. After what he had done I would have introduced him to Opasa before sending him there!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Mauldren looked over his mug in surprise. &ldquo;How did you know&#46;&#46;&#46; I did not think you were&#46;&#46;&#46;?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       &ldquo;Aye&#46;&#46;&#46; for the most part I wasn&#39;t, but I haven&#39;t lived this long by being completely oblivious. Who do you think summoned the storm to cover
+                       your intent? Or maybe you believe yourself to be blessed with the blind luck of old sailors?&rdquo; Samone chuckled&#46;&#46;&#46; I&#39;m sorry I missed so much my
+                       friend. Sagof seems to be a fine lad. We should look him up again some day.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The mercenary swirled his brew in the mug, replying softly, &ldquo;Aye&#46;&#46;&#46; I have promised as much and I&#46;&#46;&#46; I for one would most surely like that.&rdquo;
+                    </div>
+                         
+                    <div class="prologue-text"> 
+                       Only at Mauldren&#39;s insistence did they commence riding, two da-coup later. Fifteen daca of grueling pace, worst storm, and too few towns finally rewarded them with
+                       a distant view of Elbron; a mist covered city, cast in a bleak sunrise that meekly sparred with the night.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The two bedraggled travelers, drenched beyond reason and as tired as their exhausted mounts, finally passed through the double span bridge; the West Steni&#39;, the
+                       first of six gates into the outer city.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone squeezed the last drop from the empty wineskin he had bought back in Orlaun. At the time, he had warned Mauldren to purchase his own, letting it be well known he was
+                       not of a mind to share.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Both riders passed unchallenged, by virtue of Samone&#39;s Copra. They continued at a slow walk through the market area, towards the far distant sixth wall Natigra III that
+                       stood silent sentry around the Three Towers of the Elbron. It would take them several da-coup to traverse the twisting streets and reach that wall.
+                    </div>
+                         
+                    <div class="prologue-text"> 
+                       Occasionally they could glimpse the towers when the streets straightened out without obstruction. The bastion of the Mage Council shone with a fire, born of spell. It shimmered
+                       in blue, yellow and orange, mists of flame that seemed to caress the stone towers. The magic of this feat was from the lost art of Elvon crafts, in conjunction with the
+                       acquired arts of the first ruling Mage of that time. Never again in architecture, would such beauty be harnessed and so long held. Samone&#39;s head hung under the weight of
+                       that knowledge.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The Da-ton&#39; Empire was a vast coalition, of varied races, tribes and small kingdoms all bearing allegiance to Elbron and the Mage Council. The Empire stretched from
+                       the Mingstaugh Mountain Range all the way out to the Fe&#39;tuer Straits on the Sea of Orris and back over to the Linsk Mountains bordering the frontier Northlands.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Orris, the goddess of water was one of the last old gods still worshipped in most of the small peaceful fishing villages dotting the eastern coast. Shrines along the
+                       shorelines and on the larger islands were said to affect everything from the luck of fishing fleets and taming of unpredictable weather, to the safe birth of infants.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The northern borderlands were more harsh and consequently given to varied gods like Cy&#39;tur who would lead warriors, fallen in battle to Belstair, to dwell with
+                       all heroes of old. Opasa and its fires were reserved to any lacking of heart to any brave warrior.
+                    </div>
+                         
+                    <div class="prologue-text"> 
+                       The flatlands inward seemed to favor Hintu-Syrrus the duel god of planting and harvest. Most of the population dwelt here, for the rich land was abundant and anyone with
+                       the will and a strong back could make a fair living and call himself a free landholder. Hintu-Syrrus was an undemanding goddess, who required seasonal celebrations of
+                       wine and dance to give thanks for the blessings of the seed in the rich soil and the harvests to come.
+                    </div>
+                    
+                </div>
                 
+                <div id="page21" class="page">
+                    
+                    <div class="prologue-text"> 
+                       The Aleation Forests had their own gods, Este&#39;Rasi, the Old Ones still held paid homage by the Sanchean Fayras. Though trade prevailed between the Sancheans and the
+                       Empire, those secrets were guarded jealously and not shared with the other races. Speculation in tavern song and folklore alluded to Ish&39;tin, goddess before the gods,
+                       older than Axtoph. One such song told of how <span class="italics">&ldquo;&#46;&#46;&#46;she drew the stars to her breast and nurtured from them, the world upon which we
+                       stand.&rdquo:</span> 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The queen city, Elbron was a collection of the regions and cultures that were spread out across the Da-ton Empire. Many churches and religions were practiced, but the
+                       state religion and by far the most powerful was Icoa. This was a religion of intellectual and spiritual balance, the favored philosophy among the Mages. Consequently the
+                       more affluent among the populace flocked to Icoa, only adding to make it the most visual and spectacular of religions. With abundant monies at its disposal the State
+                       Churches not only owned vast lands but also financed the arts and claimed ownership of most of any great works. A standing joke among young artists was, &ldquo;If you
+                       want to be an artist&#46;&#46;&#46; forget art&#46;&#46;&#46; just kiss the ring!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Throughout Elbron, Denrus Trolya were on patrol, or carousing in small groups in the thief&#39;s quarter of the Elbron Harbor District. Samone had almost forgotten how large
+                       the Trolya really were. He could not help but notice the vague trepidation, visible on some people&#39;s faces. Further uptown, some of the shops were even boarded up
+                       and the streets of the Scetton Market Place strangely quiet save for a few of the greedier merchants and an assortment of enterprising women plying their wares close to
+                       the taverns and inns.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       It was hard to judge if the city was more worried about an impending war, or the damage the large trolya could inflict on person and property in the name of &ldquo;letting
+                       off a little steam.&rdquo; Down in the lower city by the river docks, no one would even blink twice over the influx of Trolya. But here, where the more wealthy genteel
+                       lived; the rich merchants and pampered politicians, these giant warriors were a bit more threatening to the sensibilities.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Most of the Trolya acknowledged Mauldren as an equal, with a respectful nod of the head. Samone, they addressed as Caush&#39;ca, saluting him with an open hand, palm down
+                       to the ground at heart level. This was a more formal and proper acknowledgment, since his coat identified him as a member of the Mage Council under which they served.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Fatigue, deprivation, but according to Samone, more a lack of wine or ale, made the last hours of the trek the very longest. Upon passing through the final gate,
+                       Na-Tigra III, and reaching the inner garden court in front of The Three Towers, they both, all but tumbled off their saddles.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Their spent, lathered horses were taken in rein by a guard who passed them off to a nervous young stable boy.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The boy could not take his eyes off Mauldren&#39;s sword. &ldquo;Tend Lancon&#39; well lad&#46;&#46;&#46; I would not count my own brother more precious to me than this
+                       fine animal.&rdquo; The boy nodded. &ldquo;You know to walk him and rub him down?&rdquo; Again the boy nodded. &ldquo;Fine then&#46;&#46;&#46; give him an extra portion
+                       of oats as well. He&39;s earned it many times over.&rdquo; Mauldren patted the sweated neck of his mount and gave the nose a rub. Lancon, pushed back affectionately
+                       against his hand. &ldquo;See to him well lad and I will do the same for you!7rdquo; The boy tried to stammer an answer but settled for more nodding.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The stable boy, more comfortable with animals than people, led both horses out of the courtyard, chatting with them as if they were long lost friends. He led them
+                       towards the stables and the walking paddock and Mauldren was reassured, for he could tell that Lancon was responding to the boys banter.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       A well-groomed page rushed down the stairs to usher the weary travelers into the main entry that led down to the Hall of Commons, which encircled the Three Tower Council
+                       Chambers. As they entered, it was hard to ignore the history. The halls of the entry were a rich tapestry of paintings depicting battles and wars of the glorious and
+                       vainglorious past. Marble statues stood cold mute sentry, more a testament, in Samone&#39;s opinion, to vanity, than any deed worthy of histories note.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone&#39;s own exploits during the Helgstrum Siege were depicted on fine woven tapestry in the alcove directly across from them. Those he closed his eyes to and walked
+                       quickly past!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The large bronze doors leading into Ta&#39;que Center Hall were shut and guarded, indicating that a major Council session was in progress. The dwarif shook his head and
+                       sighed as the alcove and tapestry depictions washed unwelcome memories back over him.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Some of the court and even a few of the lesser mages milling around, came up to greet Samone, but most greetings felt more of ceremony, as opposed to anything that resembled
+                       heartfelt feelings over a long lost friend.  To those, the old Dwarif merely nodded politely and made small talk of the hard ride they endured and how a warmed wine would
+                       certainly offset the wet and cold that still clung to them.
+                    </div>
+                    
+                </div>
+                
+                <div id="page22" class="page">
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                </div>
+                
+                <div id="page23" class="page">
+                    
+                </div>
+                
+                <div id="page24" class="page">
+                    
+                </div>
+                
+                <div id="page25" class="page">
+                    
+                </div>
+                
+                <div id="page26" class="page">
+                    
+                </div>
                 
                 
                 
@@ -1236,7 +1586,7 @@
         $(function() {
             var currentPage = 1;
             $(".pager").pagination({
-                items: 20,
+                items: 26,
                 itemsOnPage: 1,
                 cssStyle: 'light-theme',
                 onPageClick: onPageClick
