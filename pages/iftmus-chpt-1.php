@@ -878,23 +878,77 @@
                 <div id="page15" class="page">
                     
                     <div class="prologue-text"> 
-                        
+                        Mauldren glanced around at the dark inn, his lip curling in distaste.  &ldquo;Now I find you in this misbegotten hole, wallowing in self-pity and drinking yourself into
+                        oblivion, no better than some wine-sopped street beggar.&rdquo; He leaned forward, his voice quieter and for it, all the more intense. &ldquo;You think to shut yourself
+                        off from the world for whatever dark reasons torment your soul, yet in doing so my friend you merely grow more bitter and cynical.  Look at you&#46;&#46;&#46; and look at
+                        this place.&rdquo; He gestured towards the dwarif and then the room surrounding them. &ldquo;Both you and it are a fair and even pair to the eyes, as well as the nose
+                        I venture.&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                        
+                        Mauldren shook his head and slapped at a gold-stripped kroqet beetle scuttling across the table. He wiped the hand on his pant leg without missing a word. &ldquo;Never
+                        had I thought to see the day the great dwarif mage, Samone of the Fourth Guild would give up living. By the gods man, you&#39;re dying from the inside out&#46;&#46;&#46;
+                        and frankly you smell as if you haven't seen water since Elbron!&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                        
+                        If anything, the old wizard was over-obvious in his show of not listening. He started whistling while rubbing his forehead with a massive callused hand. Mauldren doggedly
+                        continued on. &ldquo;I never did understand why you left the Three Towers and turned your back on all the other Mages, not to mention your friends. Aye your friends Samone,
+                        or had you forgotten the spans shared that would allow us to be counted as such? Mayhap you've convinced yourself that there were no friends left behind for you to tally?&rdquo;
+                        His tone softened. &ldquo;You were a respected Mage and one of the calmer voices on the council. Many have missed you as such, while naught but worry did you leave in your place.&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                        
+                        Samone sighed &ldquo;For the worry I am sorry my friend. The last span has weighed heavy on me for reasons I hold to be my own. If you truly claim friendship with the likes
+                        of me, you will ask no more.&rdquo' He picked up the fallen mug and tapped it on the table.  Mauldren stared at him as if fighting with a decision and then called out for
+                        a round.
                     </div>
                     
                     <div class="prologue-text"> 
-                        
+                        The maid that ran over was a small built child with large round eyes and a look that hinted at some Sanchean Fayra in her blood. Mauldren had never met a full-blooded Sanchean
+                        but he&#39;d heard many stories around campfires and inns such as this one.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The Sanchean in the Aleation Forests were a legendary race, the female warrior&#39;s renowned dead shots with a bow. The males took a less dominate role in their society but
+                        were famous for their arts and architecture that complemented and existed in peace with the living world.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        If intrigued with an intruder to the deep forests some of the females were known to be quite generous with their passions. Still, other stories were just as adamant that such
+                        luckless lovers were quickly dispatched when tired of; consequently many viewed this as a tryst not to be sought!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren smiled at the girl and gave her a T&#39;pal for another round.  &ldquo;If you should get our drinks back here before my thirsty friend starts complaining again,
+                        you shall keep the rest for yourself little one.&rdquo;  Up until then, the timid server had been shy, almost sullen, but responding to the gentle flattery and the mention
+                        of an impending generous tip, she broke into a smile and scampered away, weaving in and out of a few stumbling customers.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren turned back on the grumpy dwarif. &ldquo;I tell you Samone, &#39;tis no fanciful tale I bring to you this day. The Mingstaugh hordes have been ruthless in their
+                        attacks.&rdquuo; He rubbed his forehead searching for the words. 7ldquo;These are no longer simply annoying raids that pinch a fat merchant&339;s purse. They have been
+                        killing and torturing, right down to the last woman and child; destroying even field animals and burning crops in their path. They have put whole villages to the torch&#46;&#46;&#46;
+                        and &#39;tis said they butcher and eat as many a poor soul as they leave broken behind!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren grabbed the Dwarifs wrist and spat in disgust. 7ldquo;For this abomination I would war with them for free until the gods themselves lay claim to my soul!&rdquo;
+                        He let go the wrist and sat back, with a quick amendment, 7ldquo;But we shall not tell the council that, lest they try to hold me to such a ridiculous price, quoted in a
+                        moment of moral indignation. Did you know the Mingstaughs have left their homelands in the mountains and are marching in force&#46;&#46;&#46;?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        &ldquo;Preposterous!&rdquo; Samone interrupted while craning his neck to see if the serving girl was on her way back yet. &ldquo;The Mingstaugh Goblia are far too quarrelsome
+                        and disorganized to ever fall in behind one leader. As far back as is recorded, they have accomplished nothing but to remain petty warring tribes. Except for the few times
+                        that someone was foolish enough to intrude upon their mountain lands, their fighting has always remained amongst themselves. March in force?&rdquo; He snorted,
+                        &ldquo;That&#39;s sheer madness or an outright lie!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        &ldquo;Aye I know&#46;&#46;&#46; I know!&rdquo; Mauldren was quick to seize upon the concern that his friend was having trouble hiding. 7ldquo;And that is how it has always
+                        been&#46;&#46;&#46; until now,&rdquo; he paused for effect. &ldquo;I suppose, you knew not that the Elbron Council declared a state of war and&#46;&#46;&#46;,&rdquo; he
+                        paused again, &ldquo;&#46;&#46;&#46;has revived the Council Legion?&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
