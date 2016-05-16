@@ -1041,6 +1041,91 @@
                 </div>
                 
                 <div id="page17" class="page">
+
+                    <div class="prologue-text"> 
+                        Later, in the cloak of falling night and blinding ice rain, they dropped to a walk and led their horses on foot. It would serve no purpose to ride their weary mounts into
+                        the ground, besides which, Mauldren always treated his horse with more regard than he offered even himself. Steamed breath and sweat were the only source of heat for all
+                        four as they walked miserably against the brutal wind rains. Both were too tired for idle conversation. Occasional thunder and heavy breathing were the only sounds that
+                        interrupted the monotony of tired steps.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        That night they made first camp and huddled around the fire, too tired to do anything but chew hard tack, stare into the flames and sip hot herb tea. Samone was disgusted
+                        and pulled no punches when he called Mauldren barbaric, on the level of sea amoeba for not having brought provisions of ale or wine.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        His friend merely chuckled and recited an old Northland child&#39;s rhyme:
+                    </div>
+                    
+                    <div class="prologue-center">
+                        The tree begged water from the clouds<br>
+                        which gave it none that day,<br>
+                        For dry they were, an empty white<br>
+                        going sadly on their way.<br>
+                        But when the mountains they did reach<br>
+                        All black on stormy breeze,<br>
+                        They gave their water to the streams<br>
+                        which took it to the trees.<br>
+                        So if your wishes and desires<br>
+                        Seem too hard to find,<br>
+                        Remember prayers<br>
+                        are most oft&#39; answered,<br>
+                        If given faith and time!<br>
+                    </div>
+                    <br>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren warmed his hands over the fire. &ldauo;Balance my friend, is that not that what you taught me?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Samone swore an ancient oath and pulled a blanket over himself. &ldquo;Next time I need or want a good bedtime rhyme, I&#39;ll be sure to call you!&rdquo; The grumpy
+                        dwarif turned his back on his bemused companion.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                         Mauldren was a tall, dark complexioned man, his long black hair tied back in the traditional Northlands style. His black leather armor proudly bore the scars of past
+                         confrontations and battles. The elaborate sword that hung from his left side identified him as a Northlands Mercenary, someone most would avoid a confrontation with!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Spawned from a tribe, known as much for their superb horsemanship as their supernatural abilities with the sword, it was boasted, &ldquo;A Northlands Mercenary can ride at
+                        full gallop, without reins, shave a standing man with their sword and only draw blood if they chose to.&rdquo; 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        It was more truth than boast!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The Araupaso was renowned as the finest breed of horseflesh across the Dayton Empire. An Araupaso&#39;s speed and endurance was unmatchable and they possessed an uncanny
+                        ability to almost know what their rider needed, as soon as the rider knew it. The Northland Mercenaries were the only men that the horse had ever allowed itself to be
+                        ridden by. The Northlanders passionately protected this breed and allowed none to buy, sell or capture any of them. The few fools who occasionally tried to steal or herd
+                        them were the same few fools who were ultimately sent home in pieces, as a warning to others.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren had a noticeable scar running down the left side of his forehead. That scar, much to his chagrin, was not a reminder of battle, as much a drunken bar fight.
+                        Though he had been young at the time, it was an incident the mercenary did not enjoy reliving; therefore Samone took every opportunity presented, to bring it up.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+
                     
                 </div>
                 
