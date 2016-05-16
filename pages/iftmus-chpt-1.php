@@ -1461,7 +1461,9 @@
                 <div id="page22" class="page">
                     
                     <div class="prologue-text"> 
-                       
+                       Mauldren noticed how many of the other mage didn't even approach them but merely glanced from a distance and talked behind their hands while shaking their heads. He
+                       leaned towards Samone and whispered, &ldquo;It seems we&#46;&#46;&#46; nay, more likely you, are a matter of intrigue my friend. Or maybe they just can't bring
+                       themselves to stand too close to your new found aroma?&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
