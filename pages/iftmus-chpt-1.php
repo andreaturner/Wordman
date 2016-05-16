@@ -80,7 +80,7 @@
                     
                     <div class="prologue-psi-chapter">
                                     &#936;
-                                </div>
+                    </div>
                 
                     <div class="prologue-text">
                         <span class="pt-oet">T</span>he breeze in passing, threw a tantrum gust that slapped maliciously at the shimmering fire. Glittering tears
@@ -782,8 +782,8 @@
                     </div>
                     
                     <div class="prologue-text"> 
-                        Another sunwalk in Iftmus; Da’moshk was upon them. Fa-tera had seen many Di-Chants come and go, more than she wished to count. By high sun most cat would be joined
-                        in common prayer. All of the Shi-kauti had passed their time of testing, so most of Fa-tera’s prayers were already answered. Yes...she would join the other cat in
+                        Another sunwalk in Iftmus; Da&#39;moshk was upon them. Fa-tera had seen many Di-Chants come and go, more than she wished to count. By high sun most cat would be joined
+                        in common prayer. All of the Shi-kauti had passed their time of testing, so most of Fa-tera&#39;s prayers were already answered. Yes...she would join the other cat in
                         prayer for the coming of promise and prophecy. It was more needed than most cat believed, this hopeful beginning of the end.
                     </div>
                     
@@ -794,13 +794,20 @@
                     </div>
                     
                     <div class="prologue-text"> 
-                        Where were her Shi-kauti for the Du’Moshk? Fa-tera squeezed her eyes shut, quickly enough to stop a single tear from falling. For the first time in her long life,
+                        Where were her Shi-kauti for the Du&#39;Moshk? Fa-tera squeezed her eyes shut, quickly enough to stop a single tear from falling. For the first time in her long life,
                         and for however short the rest of it might be, she truly wondered if any of their prayers would ever be heard? 
                     </div>
                     
                 </div>
                 
-                <div id="page14" class="page"> 
+                <div id="page14" class="page">
+                    <div class="prologue-center">
+                        <span class="italic larger">Part II</span>
+                    </div>
+                    
+                    <div class="prologue-psi-chapter">
+                                    &#936;
+                    </div>
                     
                 </div>
                 
@@ -836,7 +843,7 @@
         $(function() {
             var currentPage = 1;
             $(".pager").pagination({
-                items: 12,
+                items: 15,
                 itemsOnPage: 1,
                 cssStyle: 'light-theme',
                 onPageClick: onPageClick
