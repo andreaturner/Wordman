@@ -382,7 +382,6 @@
                     
                 </div>
                 
-                
                 <div id="page7" class="page">
                     <div class="prologue-text-center-italic">
                         &ldquo;&#46;&#46;&#46;and Rensis saw our Abyssinian brothers grow too proud with Sha-talon, the magic&#39;s drawn from Flow. And it was then the Abyssinians removed themselves from
@@ -649,8 +648,6 @@
                         And woe to cat whose soul has none.
                     </div>
                     
-                    
-                    
                 </div>
                 
                 <div id="page11" class="page">
@@ -756,7 +753,50 @@
                     
                 </div>
                 
-                <!--<div id="page13" class="page">
+                <div id="page13" class="page">
+                    <div class="prologue-text"> 
+                        Much that was occurring seemed to be sapping away the spirit of cat and land. Her heart felt the drain, with little or no mercy. It felt the abuse of the Ch&#39;aun
+                        and the gindoo. It felt the perverting of Sha-talon and the abomination of cat drawing death blood of cat. It wept, as Ky-lor itself was found lacking and incomplete.
+                        It swore at the desecration of the living land and life therein. There was no truth anymore; there was no sanity. There was no family of cat, for hatred and mistrust
+                        were younger, stronger gods that had driven the old ones from their hunting grounds.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Hadn&#39;t the skies of late taken on a shade of gloom, and didn't the sun seem only to burn in sullen anger?  All such a waste she thought, so much time and so many
+                        lives spent for naught. Fa-tera stared at the young Shi-kauti who were still trembling with excitement over their finished testing and the coming of Di-Chant. They were
+                        fresh and excited, full of the kind of hope she could no longer muster. Their Teacher gazed lovingly at them and basked in their fervor. A waste&#46;&#46;&#46; spent
+                        for naught? Maybe not, cynical old cat! Leave the living to the young. When thee cannot move quickly in body, that is one thing, but when thee can not move quickly in
+                        mind and spirit, life will crush thee&#46;&#46;&#46; for thee are surely in its way.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        She nodded to her Shi-kauti and twitched at herself. Outwardly her mind spoke to them saying, <span class="italic">&ldquo;May the Spirit of Felis walk with thee, Shi-kauti
+                        of Ky-lor, thy heart is for Iftmus!&rdquo;</span> Inwardly she said, Each sunfall will bring its own new problems. Those problems will be met and dealt with, without
+                        thy expert help old cat! She laughed and sighed at the same time; both were forced and hollow.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The smoke trails from the dying embers of several fires were weaving into the fragrant morning air. The sun poked an accusing finger over the Saber-sha Mountains.
+                        All of the lake waters of Gift-wa shimmered, laughing crystals, stolen little portions of the sun. The Lich&#39; moss, still wet with morning dew, glistened, sparkling
+                        with a life of its own.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Another sunwalk in Iftmus; Da’moshk was upon them. Fa-tera had seen many Di-Chants come and go, more than she wished to count. By high sun most cat would be joined
+                        in common prayer. All of the Shi-kauti had passed their time of testing, so most of Fa-tera’s prayers were already answered. Yes...she would join the other cat in
+                        prayer for the coming of promise and prophecy. It was more needed than most cat believed, this hopeful beginning of the end.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The old cat sighed and turned from the few students that still remained. Most of them had drifted off to join with a larger congregation of cats down in La-mor. The
+                        bark of the Acca trees would be chewed as the meditations began. Fa-tera walked over to a log and sat there alone. A shaft of cold morning sunwalk bathed her from
+                        head to tail. Ma-chona, the mindchant of prayers were lifting up like sacred incense.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Where were her Shi-kauti for the Du’Moshk? Fa-tera squeezed her eyes shut, quickly enough to stop a single tear from falling. For the first time in her long life,
+                        and for however short the rest of it might be, she truly wondered if any of their prayers would ever be heard? 
+                    </div>
                     
                 </div>
                 
@@ -766,12 +806,10 @@
                 
                 <div id="page15" class="page">
                     
-                </div> -->
+                </div> 
                 
                 <div class="pager"></div>
             </div>
-        
-        
         
         <!-- Page Text Holding Area -->            
         <div style="display: none;">
@@ -791,7 +829,7 @@
         </div> <!-- end keep-it-together div -->
       <!--</div> <!-- end div id="pagination" div -->
       
-    <script type="text/javascript" src="../scripts/jquery.js"></script>
+    <script type="text/javascript" src="../scripts/jquery-1.11.3.js"></script>
     <script type="text/javascript" src="../scripts/jquery.simplePagination.js"></script>
     
     <script>
