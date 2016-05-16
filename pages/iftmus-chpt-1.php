@@ -950,18 +950,93 @@
                         been&#46;&#46;&#46; until now,&rdquo; he paused for effect. &ldquo;I suppose, you knew not that the Elbron Council declared a state of war and&#46;&#46;&#46;,&rdquo; he
                         paused again, &ldquo;&#46;&#46;&#46;has revived the Council Legion?&rdquo;
                     </div>
-                    
-                    <div class="prologue-text"> 
                         
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                        
-                    </div>
-                    
                 </div>
                 
                 <div id="page16" class="page">
+                    
+                    <div class="prologue-text"> 
+                        Samone chewed on his lip. &ldquo;The Council Legion, &#46;&#46;&#46;they&#39;ve brought the Denrus Trolya back into a fighting legion?  We've been at peace and not used
+                        them for over three spans!&rdquo; The dwarif looked off towards the inns door. &ldquo;What in the name of Opasa is going on?  Has the whole world gone mad since I left?
+                        How many have been brought up from reserve?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        &ldquo;They've conscripted five thousand, almost twice the number used during the Helgstrum Siege. The Council probably would have settled for less but you know the Trolya.
+                        It has been a while, and when they smell a good fight on the wind&#46;&#46;&#46; I for one would not want to be the one to try to tell them which of their numbers could
+                        not join their comrades!7rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        &ldquo;Five thousand Denrus Trolya&#46;&#46;&#46; by all that&#39;s sacred Mauldren, one tenth that number should be able to quell the Mingstaughs without even raising
+                        a sweat.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren shifted the long sword that hung by his side and scratched his chest as far as his fingers would reach in beneath the black armor vest. &ldquo;True that may
+                        be&#46;&#46;&#46; but no one is thinking calm; &#39;tis just as I&#39;ve been trying to tell you all along my stubborn friend. Now you see how serious this has become.
+                        Why just to fetch you, the Council paid a generous&#46;&#46;&#46; but7rdquo; he adjusted himself, &ldquo;a fair amount of coin. They are concerned enough to have already
+                        dispatched a portion of that Legion, with orders to position itself between the Mingstaugh hordes and the Aleation Forests.7rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Samone&#39;s eyes flashed up, a deeper concern washing away any pretense of casual. His hand shook as he squeezed the empty mug, which finally collapsed in his closed
+                        fist. His face, for all its weight, was hallowed, the dark rings under his eyes betraying a lack of sleep and an over- indulgence of ale. Worry shadowed those features with
+                        darker shades of despair. &ldquo;The Aleation Forests; gods&#46;&#46;&#46; you mean they&#39;re actually invading the lower forestland and marching on the Sanchean
+                        Fayras?&rdquo; His voice broke as he asked and answered his own question.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren merely nodded, as much concerned over the degenerated mental state of his friend, as all the events he&#39;d been describing. He let Samone brood on his own words as they
+                        both picked up some newly served ale and quietly drank the warm murky brew. The old dwarif finished his portion before his friend had even taken three short sips. He pushed
+                        back long gray hair from his eyes, wiping the foam from his mouth with the back of his hand and frowned at Mauldren. &ldquo;You knew didn&#39;t you&#46;&#46;&#46; you black souled
+                        scoundrel, you knew even before we talked that you would get me back to Elbron, one way or another?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren feigned shock, and then finally chuckled as he finished his last swallow with a satisfied gasp, one that came less from the drink than the deed. &ldquo;&#39;Tis what
+                        I was paid for and surely you of all, should know how seriously I hold &ldquo;task for coin.&rdquo; Samone scowled but Mauldren continued, &ldquo;Though as much I fear you
+                        need rest my friend, I&#39;ve two horses ready, saddled and waiting.&rdquo; He smiled benignly, &ldquo;It has been long since we rode together&#46;&#46;&#46; hey?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Samone looked longingly at his empty cup while licking his lips. &ldquo;Yes I suppose&#46;&#46;&#46; rest I can do later.  But it is a long ride, isn&#39;t it, with not a
+                        village or inn between here and the Bordic coast, where no doubt you have a cursed ship waiting as well!  Maybe we should&#46;&#46;&#46;?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Mauldren laughed aloud as he pushed himself up out of the chair.  &ldquo;Yes it is a long ride, thief in mage clothing, and one you&#39;d best be able to stay in the saddle
+                       for. Come my friend&#46;&#46;&#46; thirsty you always are, and though tired you may be, time is too short!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Samone muttered quietly as he stood and threw on his copra, &ldquo;There&#39;s never been a drink that has brought me down off a saddle you pompous ass&#46;&#46;&#46;
+                        unless of course it was a drink waiting for me on the table!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The north road to Sedgehak, a port city on the Bordic Coast, was ominously deserted. With the exception of an occasional vagabond or peddler, the ride was an endless
+                        tedium of barren plain that swallowed the strong cantering beat of two straining horses.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone didn&#39;t want to be here. He had left all this behind, bearing his own demons and now, suddenly he was forced to go back. Every step retraced his own sins and
+                       he wasn&#39;t sure which was worse, the secret he was running from or the disaster he was running to. The bite of cold air was tinged with the faint scent of fear; he
+                       wondered if anyone else could smell it?
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The first signs of life were large wheat fields, shivering quietly, despite the lack of wind. From distant huts, across half-harvested fields, farmers and their families
+                       watched suspiciously, while occasional stray dogs chased after the two travelers. The looks and defiant barks were predestined to fall off their shoulders and trail away
+                       behind them.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Over the full course of the daca&#39; the weary riders stopped only to feed and rest the horses and then push on at Mauldren&#39;s insistence. The brief naps did nothing to
+                       take the edge off Samone&#39;s disposition. Several times the Dwarif cursed and muttered how real friends wouldn&#39;t inflict such hardship while taking such obvious pleasure
+                       in the deed! Then with a renewed curse he would spur his mount to catch up with his laughing friend. Samone had traveled this road many times. It was strange how a path so
+                       often traveled now felt so alien, so uncomfortable.
+                    </div>
                     
                 </div>
                 
