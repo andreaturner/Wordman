@@ -1110,26 +1110,99 @@
                         Though he had been young at the time, it was an incident the mercenary did not enjoy reliving; therefore Samone took every opportunity presented, to bring it up.
                     </div>
                     
-                    <div class="prologue-text"> 
-                        
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                        
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                        
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                        
-                    </div>
-
-                    
                 </div>
                 
                 <div id="page18" class="page">
+                    
+                    <div class="prologue-text"> 
+                        Samone was a mage, a Senku Dwarif and though less ominous in stature, he commanded every bit the same attention and respect. Standing only five forearms tall he weighed
+                        an easy two hundred and fifty goldweight and could usually hold his own, even without magic, since much of that weight was muscle.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        As if a part of his rebellious nature he forswore the ornate headband of his trade, preferring to let his long gray hair hang free, over the traditional copra, a long coat
+                        emblazoned with the Wizards&#39; Crest. This crest bore the insignia of all four Guilds, the elements each mage had mastered. Samone&#39;s coat displayed the four symbols,
+                        earth, air, fire and water. Very few Mage ever lived long enough to earn all four, but Samone was a two hundred span old dwarif who had long since mastered the highest
+                        rank of the Elbron Mage Council.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The two had been friends for nearly twenty spans. This night they slept like twin brothers from sheer exhaustion.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        For six daca the two companions rode relentlessly. Now at last, the port city of Sedgehak lay before them. From the direction they were now heading, this coastal port was
+                        civilization&#39;s last stop before the Northland Plains. The seaport was small, corrupted, dirty and bawdy; Samone felt right at home. As far as he was concerned, the
+                        inns on the harbor were a sight for sore eyes and more than made up for the decaying docks, the muddy streets and the rough patronage going in and out of the doors.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren wanted to go further up town, &ldquo;&#46;&#46;&#46;at least,&rdquo; he said, &ldquo;until the mud turns to cobble and the majority of people still have their
+                        teeth!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Samone chose an inn, on the basis that it was the first and the closest. With the thought of a hot meal and enough ale to make a sailor slur, Samone almost managed a smile.
+                        The mercenary was half sure that when he left the Dwarif lifting a second ale, there was a tear of joy in his eye.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren inquired around and bought passage on an old tired trade ship, the Ve-enesa. It was bound for Orlaun, the closest any ship in harbor was going to get to Elbron,
+                        unless they wanted to wait for New Season thaw.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The old weathered captain; an ex-pirate had only recently escaped the gallows by marrying the sister of the local Constable. When pushed for passage the captain had purposely
+                        quoted extremely high, hoping it would discourage the two travelers. He was more than surprised when the mercenary met his price. His ship was fully laden and there was
+                        no spare room available. The captain&#39;s own greed and Mauldren&#39;s sword held him to the deal; in the end it forced him out of his own cabin.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Swearing a trail of oaths he took over the first mate&#39;s bunk, who in turn took over the bosons, until, down the chain, the lowliest cabin boy stood out upon the deck
+                        holding bedding.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Some cattle had been removed and their horses loaded and stalled with fresh hay. Mauldren saw the boy huddled on a bed of coiled rope and called him over.  &ldquo;What&#39;s
+                        your name lad?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        &ldquo;Sagof sir &#46;&#46;&#46;Sagof Uosto.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        &ldquo;Well young Sagof&#46;&#46;&#46; would you care to earn some T&#39;Pal?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The boy eyed him suspiciously, almost scared. &ldquo;And what would I have to be doin&#39;?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       &ldquo;You saw the horses we brought on board?&rdquo; 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The cabin boy brightened up immediately. &ldquo;Oh yes sir and fine animals they were. Your horse sir is so beautiful if I may say. I&#39;ve never seen a white horse before,
+                        not never.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        &ldquo;Ah that horse, lad, is Lancon&#39; and he is more friend&#46;&#46;&#46; nay, more family than horse. I would pay a goodly, but fair price if I knew that someone
+                        was watching over him&#46;&#46;&#46; a second set of eyes when I am not around.&rdquo; Mauldren winked at the boy with a smile. &ldquo;Someone who might let me know if
+                        there were a problem&#46;&#46;&#46; if you know what I mean?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Sagof beamed and clumsily winked back at Mauldren. &ldquo;I could&#46;&#46;&#46; I mean I know just what you mean sir. I know this crew&#46;&#46;&#46; some good, some
+                        bad&#46;&#46;&#46;&rdquo; the boy clouded over, &ldquo;&#46;&#46;&#46; and some just plain mean!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
                     
                 </div>
                 
@@ -1153,18 +1226,6 @@
         <!-- Page Text Holding Area -->            
         <div style="display: none;">
             
-            
-             
-             
-             
-            
-            
-            
-            
-            
-         
-         
-            
         </div> <!-- end keep-it-together div -->
       <!--</div> <!-- end div id="pagination" div -->
       
@@ -1175,7 +1236,7 @@
         $(function() {
             var currentPage = 1;
             $(".pager").pagination({
-                items: 19,
+                items: 20,
                 itemsOnPage: 1,
                 cssStyle: 'light-theme',
                 onPageClick: onPageClick
