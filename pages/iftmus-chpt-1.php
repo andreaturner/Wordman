@@ -809,11 +809,129 @@
                                     &#936;
                     </div>
                     
+                    <div class="prologue-text"> 
+                      <span class="pt-oet">T</span>he small outland settlement of Natcha, at the foot of Oactover Pass, was as harsh and uninviting as the rugged land that surrounded it.
+                      Here, where the brutal Linsk Mountains collided with the desolation of the Northland Plain the Red Boar Inn offered brief respite from the incessant mountain winds
+                      and the mantel of harsh weather. For all its lack, the Inn was a welcome break to most weary travelers trekking both to and from the Northland Plain.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The Red Boar sat nestled in the rock of Hubita Mountain; over half the establishment was a natural cave, deep within the rock. The facade was stone and mortar that clung
+                        desperately to the face of that mountain.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Inside, heavy candles burned and spans of black smoke painted the ancient stone walls. The mountains own fissures were an efficient venting system. The smell of cheap
+                        paraffin mingled with the scent of stale ale, sweet mead, and soured wine. These added to the vague aromas of smoke, sweat, urine and vomit, mixed lightly with pine
+                        and the musky plains sand that was routinely spread across the plank floor.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        A low fire burned continually in the large fireplace keeping stews warm and the inn blessedly comfortable. Murmurs and swearing mingled with the roll of dice and clank
+                        of tankards. All were as much the ambiance of the tavern as the rowdy arguments and slurred boastings. Most of the varied patrons milling around the soured d&#233;cor,
+                        settled toward the back of the cave, letting the mountain's breast cradle them from the sounds of the angry winds outside.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The Red Boar Inn catered to a ragged clientele, people whose bodies, and what was left of their spirits, were tempered hard by life, much as the mountain was worn by
+                        the harsh weather pounding down upon it.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Oactover Pass was not a trade route. The only thing that existed on the other side of the range was the massive Sheskuon Military Post, built during the third dynasty
+                        to protect this portion of the border against invasion from nomadic tribes without.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Travelers this way tended to be either military or lost souls looking to stay lost. Both were always grateful for the chance to numb themselves from the brutal elements.
+                        If one carried the right amount of T&#39;pal currency or trade goods, they might take brief comfort in the varied &ldquo;extra&rdquo; services provided by this
+                        establishment. Few might initially grumble or turn up their nose as they walked through the door, but they would eventually join the mood of the regulars and quietly
+                        accept both watered ale and overpriced fare, while sullenly conversing and arguing the price of an additional room, bed or company for the night.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Two particular patrons in the back of the Red Boar would have remained inconspicuous had not one of them just slammed a meaty fist down on the table while barking an oath
+                        that intimated to the dubious parentage of the other. A short old dwarif with long gray hair cleared his throat and spat on the floor with disgust. &ldquo;Curse your head
+                        on a pike Mauldren if you think you can come here and fire me up with foreboding cries of doom for the Da-ton&#39; Empire.&rdquo; He poked his pudgy finger at the other&#39;s
+                        broad chest. &ldquo;I&#39;ll not dance from the council&#39;s strings; not now&#46;&#46;&#46; not ever again!&rdquo; The finger thumping subsided and he finally sighed and
+                        sat back, seeming to relax. &ldquo;I'm through with that&#46;&#46;&#46; done! You and they can all fight your own battles and kindly leave me alone!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        A few people willing to court trouble, looked over briefly, but ascertaining that they themselves weren&#39;t threatened, quickly returned to their own affairs.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        The old dwarif reach into his pocket and came up with less than the price of ale. &ldquo;Or better yet buy me a drink&#46;&#46;&#46; then leave me alone.&rdquo;
+                        He tossed his cup over on its side with a sullen scowl and stared off at a sputtering candle.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        Mauldren took a last bite of venison and wiped a greasy hand down the side of his leggings. His sword clattered against the side of his chair as he looked critically at
+                        his old friend and leaned back with a sigh. &ldquo;You and I Samone have shared many a quest. We have stood arm to arm in battle. We have gone on countless journey, facing
+                        formidable foe, spending more nights than can be counted sharing thoughts and ale.  This may well be the first and only time I have regretted seeking you out, let alone
+                        finding you my friend.&rdquo; He shook his head slowly, &ldquo;What has happened to you old one? You left Elbron without so much as a&#46;&#46;&#46; by your leave.&rdquo;
+                    </div>
+                    
                 </div>
                 
                 <div id="page15" class="page">
                     
-                </div> 
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                        
+                    </div>
+                    
+                </div>
+                
+                <div id="page16" class="page">
+                    
+                </div>
+                
+                <div id="page17" class="page">
+                    
+                </div>
+                
+                <div id="page18" class="page">
+                    
+                </div>
+                
+                <div id="page19" class="page">
+                    
+                </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
                 
                 <div class="pager"></div>
             </div>
@@ -843,7 +961,7 @@
         $(function() {
             var currentPage = 1;
             $(".pager").pagination({
-                items: 15,
+                items: 19,
                 itemsOnPage: 1,
                 cssStyle: 'light-theme',
                 onPageClick: onPageClick
