@@ -1630,10 +1630,119 @@
                 </div>
                 
                 <div id="page24" class="page">
+                    <div class="prologue-text"> 
+                       Samone&#39;s glare could have turned fire to ice. Mauldren strategically excused himself under the guise of fetching more wine. As he walked out of the room they heard
+                       him burst out laughing, until the door finally slapped a wooden hand over his mouth behind him.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Before things could digress any further, Lere&#39;yll blurted out in a soft, almost musical voice. &ldquo;Simi you must do something. They are burning our trees. We are
+                       dying before we even see battle!7rdquo;  The request was heartfelt and with heart-wrenching urgency it brought everyone back to the issue at hand.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Urista straightened her shoulders, as well as her dignity and took control of the conversation. &ldquo;According to our latest reports, Mingstaugh hordes, estimated at
+                       well over fifty-thousand strong, are moving in three main groups, the larger in forward thrusts and two smaller flanking.&rdquo; She almost fell back into scowling at
+                       Samone but stayed the better for the impulse. &ldquo;Their control seems to be divided amongst certain tribal leaders, a breed we&#39;ve never encountered before.
+                       Messages are being constantly sent back to the mountains. Unfortunately we have little or no information about that end of their operation. This has all happened very
+                       fast and with such ferocity that we are still scrambling to keep up.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       &ldquo;Fifty-thousand strong? T&#39;would have to account for more than half of the adult population of that whole cursed race!&rdquo; Mauldren had returned and brought another
+                       goblet as well for Samone. The old dwarif took it quickly, but the look he gave his friend indicated that the earlier issue was neither over nor forgiven. Mauldren stepped
+                       back with a look of mock innocence than turned to Lere&#39;yll. &ldquo;I could not help but overhear you speak of the burning of the trees.  &#39;Tis a foul deed, most
+                       deadly to the Sanchean race is it not?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Lere&#39;yll&#39;s eyes misted and she turned away from the group.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone walked over to the Fayra and put a large hand on her tiny shoulder, his voice soft, almost breaking. &ldquo;Yes it is, depending on which trees are burned. The
+                       Sanchean Fayra bond with certain trees and in essence, live only as long as those trees do. It is a symbiotic relationship where neither could survive without the other.
+                       Some of the trees and Fayra in that forest are over eight hundred spans old.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Mauldren took in that figure along with a drink of wine, wiping his mouth with the back of his hand. &ldquo;I have heard talk, rumors and stories mind you, that somewhere within
+                       the Aleation Forest, a favored grove of trees, Este&#39;rasi, are hidden and warded by magic; trees that are, in themselves, gods to the forest and Fayra race. Forgive
+                       me if I overstep my bounds but are the Este&#39;Rasi endangered as well?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Lere&#39;yll lost some color but did not look up.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone merely sighed and shook his head with a finger to his lips to hush his friend. Urista cut in, 7ldquo;The atrocity of burning any trees in the Aleation Forests
+                       constitutes murder and will not be tolerated! We have already dispatched one thousand Denrus warriors as the Council Legion to protect both tree and Sanchean Fayra from
+                       any such brutal genocide&#46;&#46;&#46;&#46;&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Lere&#39;yll looked over shocked at Urista. The First Mage suddenly realized what her words had intimated and was quick to recover. &ldquo;It will never come to that
+                       Lere&#39;yll! Do not worry. Besides the Northland Mercenaries&#46;&#46;&#46;&rdquo; at which she nodded to Mauldren, and he with a bow back to her, &ldquo;&#46;&#46;&#46;
+                       there is no force more determined or stronger than the Council Legion. None have ever prevailed against them, not even the brutal Elvon tribes combined. Already the
+                       Northlanders have full promised and pledged us their support.7rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       No mention was made of the price that the mercenaries had negotiated. Mauldren nodded dispassionately. All of them accepted that a soldier for hire was as legitimate
+                       as any farmer asking fair market value for his crops or a tradesman, coin for his wares.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Urista took a deep breath and turned back to the Fayra. &ldquo;Your trees and your heritage will be preserved on promise and on the honor of the Elbron Council. Lere&#39;yll
+                       smiled, walked over to the First Mage and reached up and embraced her. Urista was flustered at first and whispered, &ldquo;It&#39;s all right child.&rdquo; As if the
+                       word &ldquo;child&rdquo; reminded her, she looked up at Samone and hissed softly, &ldquo;You ought to be ashamed old fool!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Mauldren choked on a sip of wine and Samone raised his eyes to the ceiling as if beseeching the gods. &rdquo;She&#39;s older than I am! Doesn&#39;t anybody here know how to
+                       count?7rdquo; He shook his head in disgust, &ldquo;women!&rdquo;  Grabbing up his goblet he hastily downed the drought.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       A commotion from the outer court interrupted his plea as someone forced entrance to the meeting chamber. All, but Mauldren startled as a bloodied trolya slammed back the
+                       double brass doors and pushed his way past several court servants. Two Three Tower guards were demanding that the giant warrior wait to be announced, trying vainly to
+                       bar his way.
+                    </div>
                     
                 </div>
                 
                 <div id="page25" class="page">
+                    
+                    <div class="prologue-text"> 
+                       Mauldren&#39;s sword sang out of its scabbard but Samone quickly put a hand on his friend&#39;s arm. Urista called out, &ldquo;It&#39;s all right! He bears our crest;&rdquo;
+                       dropping her voice, &ldquo;no doubt bringing news from the front. Allow him to enter!&rdquo; The order was redundant since the few guards on either side of the wounded
+                       trolya, could do little to stop him. Most full grown Denrus Trolya stood seven forearms plus, with three hundred goldweight of muscle, making even Samone look, much like
+                       a newborn.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Trolya were almost boarish in appearance, heavy facial hair lending to that comparison. Their strong boned features were most fearsome, along with a pronounced lower jaw
+                       that was rumored, to house teeth that could rend a horse mid-stride. The latter was more a tale told by some parents, to keep errant children in line. A common saying in
+                       the outland villages was, <span class="italics">&ldauo;Mind your Da and Mam, lest a Trolya get you in your sleep and swallow you in two bites.&rdquo;</span> Truth be-known,
+                       Denrus Trolya were articulate and kept mostly to themselves unless aggravated. Of course when aggravated, it was simply a storm that had to take its own course!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       
+                    </div>
                     
                 </div>
                 
