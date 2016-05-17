@@ -1383,7 +1383,7 @@
                     <div class="prologue-text"> 
                        The Aleation Forests had their own gods, Este&#39;Rasi, the Old Ones still held paid homage by the Sanchean Fayras. Though trade prevailed between the Sancheans and the
                        Empire, those secrets were guarded jealously and not shared with the other races. Speculation in tavern song and folklore alluded to Ish&39;tin, goddess before the gods,
-                       older than Axtoph. One such song told of how <span class="italics">&ldquo;&#46;&#46;&#46;she drew the stars to her breast and nurtured from them, the world upon which we
+                       older than Axtoph. One such song told of how <span class="italic">&ldquo;&#46;&#46;&#46;she drew the stars to her breast and nurtured from them, the world upon which we
                        stand.&rdquo:</span> 
                     </div>
                     
@@ -1491,7 +1491,7 @@
                     </div>
                     
                     <div class="prologue-text"> 
-                       Behind her back, a joke circulated. <span class="italics">&ldquo;Urista has been around as long as the ocean has been wet &#46;&#46;&#46;and between the two she is by
+                       Behind her back, a joke circulated. <span class="italic">&ldquo;Urista has been around as long as the ocean has been wet &#46;&#46;&#46;and between the two she is by
                        far the coldest and most deadly!&rdquo;</span> Even behind her back, it was a dangerous joke for anyone foolish enough to carry on his or her lips.
                     </div>
                     
@@ -1724,26 +1724,73 @@
                     <div class="prologue-text"> 
                        Trolya were almost boarish in appearance, heavy facial hair lending to that comparison. Their strong boned features were most fearsome, along with a pronounced lower jaw
                        that was rumored, to house teeth that could rend a horse mid-stride. The latter was more a tale told by some parents, to keep errant children in line. A common saying in
-                       the outland villages was, <span class="italics">&ldauo;Mind your Da and Mam, lest a Trolya get you in your sleep and swallow you in two bites.&rdquo;</span> Truth be-known,
+                       the outland villages was, <span class="italic">&ldquo;Mind your Da and Mam, lest a Trolya get you in your sleep and swallow you in two bites.&rdquo;</span> Truth be-known,
                        Denrus Trolya were articulate and kept mostly to themselves unless aggravated. Of course when aggravated, it was simply a storm that had to take its own course!
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Urista had to give her tower guards credit, if not for loyalty than just plain stupidity. A joke among the Elbron elite was, <span class="italic">&ldquo;I&#39;d rather
+                       catch and hold a storm swollen river than try to do the same to one angry Trolya. At least with the river you stand a chance.&rdquo;</span>
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       The dying warrior walked slowly, his feet shuffling, dragging bloodstains. He staggered until he reached the group and went to one knee in front of them.
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Samone was shocked by the extent of the legionnaire&#39;s wounds. Urista had brought her hand up against her mouth and immediately summoned a healer. Mauldren stared,
+                       forgetting for a moment to sheath his sword. How this Trolya was still alive and still breathing was beyond any reasoning. Gaping wounds to the bone flowed freely, and
+                       even considering the short time in the room, he was already kneeling on more blood than floor. One massive hand looked to be holding in his intestines where he had
+                       taken a swiping wound across the belly. Most of the wounds had worsened by virtue of the journey he had endured.
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       The warrior was silent, head bowed, until Urista finally remembered herself and commanded him to speak. His words were slow and slurred. &ldquo;We are fighting down
+                       to&#46;&#46;&#46; last of us&#46;&#46;&#46; still they come. &#46;&#46;&#46;number&#46;&#46;&#46; more than stars. They care not&#46;&#46;&#46; live or die&#46;&#46;&#46;
+                       still they come! Shamed&#46;&#46;&#46; ordered to leave&#46;&#46;&#46; report. Ambushed&#46;&#46;&#46; again outside Elbron&#46;&#46;&#46;&rdquo; he coughed more blood and
+                       looked back up with only a hint of pain showing behind the proud, fierce eyes; a plea to be forgiven?  &ldquo;&#46;&#46;&#46;better&#46;&#46;&#46;to die&#46;&#46;&#46;!&rdquo;
+                       As the healer came into the room, the Trolya crumpled into a heap and stopped breathing.
                     </div>
                     
+                    <div class="prologue-text"> 
+                       The healer, Enti&#39; By-Char, an old woman, more bone than flesh, knelt down over the Trolya. Placing a hand over his eyes she quietly shook her head, &ldauo;He is dead,
+                       long before entering Three Towers.&rdquo; The old woman made a sign over her heart and whispered, &ldquo;Ye devotion carried ye beyond death to duty. Ye have lived and
+                       died with honor brave one. May Cy&#39;tur the Chosen guide ye to Belstair, there to dwell with all the brave and noble!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Urista had turned white and fallen back into a chair, more at the news of the ongoing defeat, than the witnessing of death.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone was over to her side. She shook off his hand and though dazed, finally spoke. &ldquo;Summon the Council of Mages. By the gods if they win they will have decimated
+                       over a fifth our army! Samone, you must use your gifts and go there immediately to determine if this can be turned around. I will have Mauldren leave first light with
+                       more legions.&rdquo; 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Whether she suddenly remembered that Samone was no longer in the Council, or she read the look on his face, was of no issue. It was obvious he was not of a mind to get
+                       involved. She flashed and buried surprise, puzzlement and finally the hurt, all in that order, and then blurted out, &ldquo;Samone&#46;&#46;&#46; you must do
+                       this&#46;&#46;&#46; I beg of you, do it for me!7rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       It wasn&#39;t like Urista to ever bring anything down to such a personal level. In a different time it would have moved the old dwarif. His heavy sigh, weighted with
+                       guilt, sounded like a soul breaking. His eyes shimmered with pain. &ldquo;Urista&#46;&#46;&#46;&#46; I&#46;&#46;&#46; I cannot! You don't know what you're asking of
+                       me.&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The dwarif clouded over, pushing back any hurt that was threatening to expose him. &ldquo;I am not of the Council anymore and not subject to its bidding. I
+                       cannot&#46;&#46;&#46;&#46; no&#46;&#46;&#46; I will not&#46;&#46;&#46; be a part of this!&rdquo;
+                    </div>
+                     <div class="prologue-text">
+                        Urista stood up, making no show of masking her own hurt; having begged and been rejected. The First Mage&#39;s voice was quiet-cold. &ldquo;Samone! You are the most
+                        powerful of all the Mages, the only one living right now who has mastered all four elements. Whatever caused you to turn your back on us, though I have an idea, I
+                        will not corroborate my guesses without confirmation from you! Elbron and all her people, our whole way of life, this&#46;&#46;&#46; our world&#46;&#46;&#46; is in
+                        eminent danger. Now you tell me you will not lift a finger to help?&rdquo;  Her face smoldered with anger, born of an open wound to the heart. &ldquo;Old man&#46;&#46;&#46;
+                        you have always acted as if you are above the law. You were indulged, maybe that was my fault, but&#46;&#46;&#46; this&#46;&#46;&#46; this is treason!&rdquo;
+                     </div>
                 </div>
                 
                 <div id="page26" class="page">
