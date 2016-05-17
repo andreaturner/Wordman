@@ -1467,7 +1467,8 @@
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       &ldquo;You would think they had better things to do! I never have trusted gossips&#46;&#46;&#46;&rdquo; the old dwarif grumbled, &ldquo;&#46;&#46;&#46;and have you
+                       smelled yourself lately?&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
