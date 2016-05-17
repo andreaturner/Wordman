@@ -1472,85 +1472,112 @@
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                        Mauldren pointed back at himself with raised eyebrows, as if innocently questioning the possibility of his own offense. He then turned more serious. &ldquo;You&#39;ve
+                        been absent a fair time, and if I&#39;m not mistaken, you left without much notice nor explanation before several important votes.&rdquo; He turned and surveyed the room
+                        around them and sighed, &ldquo;Aye, but I too distrust people who can not look you in the eye and speak their minds.&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Samone didn&#39;t have time to reply as a voice called out, echoing down the corridor. &ldquo;Do my own eyes deceive me?&rdquo; A tall woman, dressed in a black regal gown,
+                       clinging desperately to her shapely body, spilled off below her knee to drape the floor as she walked towards them. Her dress was adorned with white jewels that were so
+                       placed to depict three symbols of the Mage Crest, the three elements she had mastered thus far. Samone was almost sure she had only been wearing two when he had left three
+                       spans ago. Her face and features were chiseled hard, but her statuesque beauty set her off from most women, relegating any comparisons well to her favor.
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Urista Se&#39; Tem, of the Armester Family, older and harder for the spans, was First Mage of the Three Towers of Elbron and head of the council for the last seven spans.
+                       She was a long time friendly opponent of Samone, back when he himself had held the position for the briefest of time. Then and now, she was a force to be reckoned with
+                       and certainly not one to be crossed.
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Behind her back, a joke circulated. <span class="italics">&ldquo;Urista has been around as long as the ocean has been wet &#46;&#46;&#46;and between the two she is by
+                       far the coldest and most deadly!&rdquo;</span> Even behind her back, it was a dangerous joke for anyone foolish enough to carry on his or her lips.
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Her voice echoed across the marble halls like the singing of a fine metal sword being drawn from its scabbard. &ldquo;So&#46;&#46;&#46; have the guard of Na-Tigra III
+                       fallen asleep or have we just taken to letting old men and rogues in here to reminisce on their past and forgotten glories?&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Samone turned to meet her, a gleam in his eye. &ldquo;Ahh&#46;&#46;&#46; how nice to be greeted by one of the reasons I left.&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       &ldquo;You flatter me old one. When have I ever had that kind of influence over such a stubborn&#46;&#46;&#46;7rdquo; she cocked her head, “&#46;&#46;&#46;but most lovable
+                       thorn in my side?&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Samone raised his eyebrows. &ldquo;Why&#46;&#46;&#46; one would think you almost missed me Urista? Are you getting emotional in your&#46;&#46;&#46;&rdquo; thinking better
+                       of it, &ldquo;&#46;&#46;&#46;with the passing of time?&rdquo; The First Mage scowled but nodded at his amended words. Samone continued, 7ldquo;I would think you would be
+                       in Council, since there appears to be a session in progress?&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       &ldquo;And neglect such an auspicious homecoming?&rdquo; She shrugged, &ldquo;Besides, I&#39;m missing nothing! You know how much those old fools love to listen to themselves
+                       tal&#46;&#46;&#46; you&#39;re one yourself.&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Samone chuckled. &ldquo;You haven&#39;t lost your edge Urista. I&#39;m gratified to know I&#39;m still worthy of your wit.&rdquo; Underneath the jibes was a quiet current
+                       of admiration that, if anyone had the nerve to, might be interpreted as slightly romantic in nature.
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Urista turned her back on the dwarif. &ldquo;I am quite angry with you Samone. You could have left us a message or somehow kept in touch.7rdquo; There was an awkward
+                       silence for a moment, finally the tall regal woman smiled, turning back with a spark of warmth deep in her eyes. &ldquo;How are you my old friend, and without asking why
+                       you left, why have you stayed away for so long?&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Samone's face soured. &ldquo;Why does everyone keep referring to me as their &ldquo;old&rdquo; friend? Two hundred and six spans&#46;&#46;&#46; barely puts me in my
+                       prime when measured in dwarif whelms.&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
+                       Urista turned to Mauldren. &ldquo;I see the spans away from us have not sweetened his disposition any?&rdquo;
                     </div>
                     
                     <div class="prologue-text"> 
-                       
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                       
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                       
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                       
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                       
-                    </div>
-                    
-                    <div class="prologue-text"> 
-                       
+                       Mauldren chuckled under his breath, nodding agreement. Samone&#39;s vexed look kept his friend from enjoying the situation any further. The dwarif rubbed his growling
+                       stomach with an over-exaggerated look of pain, &ldquo;Do guests at the Three Towers have to expire from thirst and hunger, or do you think the council coffers might
+                       be able to afford the offering of some wine or ale and a bite to eat?&rdquo;
                     </div>
                     
                 </div>
                 
                 <div id="page23" class="page">
+                    <div class="prologue-text"> 
+                       Urista nodded with a benevolent bow of her head. &ldquo;I was told the moment you rode through the outer gates of the West Steni&#39; and foresaw at least the first
+                       half of your request.&rdquo; Still smiling, she led them to a sitting room off the far end of the Hall of Commons. Trays of breads and fruits, decanters of mulled wines
+                       and a shank of warm venison were just being brought out as Urista closed the single door behind them, shutting out the last of the gawking court. &ldquo;Well that should
+                       give the busybodies something to keep their tongues waggling over for the next quarter span.&rdquo;
+                    </div>
                     
+                    <div class="prologue-text"> 
+                       Samone grabbed two goblets of warmed wine right off a tray as the servant passed by him. The pleased look on the old dwarif’s face was much that of a child successfully
+                       filching his first fresh-baked pie at a street fair.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Mauldren noticed Urista stealing glances at his friend while Samone was distracted gathering food and beverage. Her eyes betrayed a cross of both admiration and hurt.
+                       The mercenary looked away quickly as she turned her gaze on him. When he looked up again she was smiling benignly and her eyes had gone expressionless. She motioned
+                       them both over to an alcove dressed with soft high-backed chairs and a smaller marble table between them.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone brought over a tray of wine goblets and proceeded to refill his wineskin. When he suddenly realized they were watching he had the grace to blush and shrug, &ldquo;It
+                       was empty.&rdquo; 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       After the three had eaten, reminisced some, and Samone, more than slackened his notorious thirst, Urista turned the conversation to more serious issues. &ldquo;I would
+                       offer you&#46;&#46;&#46; rest and&#46;&#46;&#46; definitely time&#46;&#46;&#46; to refresh.&rdquo; her nose wrinkled, to which the dwarif merely rolled his eyes and sighed.
+                       The First Mage slid back her chair, &ldquo;But first I must bid you both come with me.&rdquo; Urista rose in a fluid motion and they followed her through an ornate
+                       bronze shielded door, rich with etchings of recounted battles from the Two Span War.
+                    </div>
                 </div>
                 
                 <div id="page24" class="page">
