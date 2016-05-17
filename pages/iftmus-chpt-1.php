@@ -397,13 +397,13 @@
                         Fa-tera knew this part of Kylor well. It told of the Abyssinian cats, ancestors of her blood that had originally dwelt in this province of La-mor. Their breed had learned to touch a
                         different part of Flow: the balance of all life and land in Iftmus. From it they drew Sha-talon, the magic&#39;s of Iftmus. Ma-chona, &ldquo;The whisper of Felis&rdquo; was mindspeak
                         and the Sa-bata cat had taught that. The Abyssinians touched a different part of Sha-talon; Ma-nasta, &ldquo;The weight of ages,&rdquo; which allowed them to move things by levitation.
-                        Ma-hosta, &ldquo;The fire of dreams,7rdquo; allowed them to create fire as Fa-tera just had. Ma-chena, &ldquo;The steps of the wind,&rdquo allowed them to transport themselves or others
+                        Ma-hosta, &ldquo;The fire of dreams,&rdquo; allowed them to create fire as Fa-tera just had. Ma-chena, &ldquo;The steps of the wind,&rdquo allowed them to transport themselves or others
                         short distances. Up till now no other cat had ever mastered those aspects of the gifts. Eventually the Abyssinians moved up onto the Grasswater, separating themselves and any further
                         knowledge of Sha-talon from all other breed of cat. Still there had been that one fateful day&#46;&#46;&#46;&#46;
                     </div>
                     
                     <div class="prologue-text"> 
-                        Fa-tera was two seasons from being tested to be San-Tou, the next in line to be Teacher. Fa-sinto always laughed and would make loving jokes. <span class="italic">&ldquo;;You can not take
+                        Fa-tera was two seasons from being tested to be San-Tou, the next in line to be Teacher. Fa-sinto always laughed and would make loving jokes. <span class="italic">&ldquo;You can not take
                         my place. You are too little! What would the new cubs do? They certainly couldn&#39;t look up to a little cat who barely comes up to their nose!&rdquo;</span>  Oft-times Fa-tera would take
                         the jokes to heart and Fa-sinto would be crushed that his teasing had been taken as anything but. Almost in tears he would say, <span class="italic">&ldquo;Fa-tera, Fa-tera do not do this
                         to me. I tease&#46;&#46;&#46; do not ever believe that I think less of you!&rdquo;</span> He would nudge her at heart level. <span class="italic">&ldquo;In here my precious&#46;&#46;&#46; here you are
@@ -749,11 +749,7 @@
                         Ja-natia was watching Fa-tera and when the two cats&#39; eyes met the tall white cat merely nodded respectfully. Was she merely affirming, &ldquo;It is not the
                         time for the telling?&rdquo;
                     </div>
-         </div>
                     
-                </div>
-                
-                <div id="page13" class="page">
                     <div class="prologue-text"> 
                         Much that was occurring seemed to be sapping away the spirit of cat and land. Her heart felt the drain, with little or no mercy. It felt the abuse of the Ch&#39;aun
                         and the gindoo. It felt the perverting of Sha-talon and the abomination of cat drawing death blood of cat. It wept, as Ky-lor itself was found lacking and incomplete.
@@ -797,10 +793,9 @@
                         Where were her Shi-kauti for the Du&#39;Moshk? Fa-tera squeezed her eyes shut, quickly enough to stop a single tear from falling. For the first time in her long life,
                         and for however short the rest of it might be, she truly wondered if any of their prayers would ever be heard? 
                     </div>
-                    
                 </div>
                 
-                <div id="page14" class="page">
+                <div id="page13" class="page">
                     <div class="prologue-center">
                         <span class="italic larger">Part II</span>
                     </div>
@@ -875,7 +870,7 @@
                     
                 </div>
                 
-                <div id="page15" class="page">
+                <div id="page14" class="page">
                     
                     <div class="prologue-text"> 
                         Mauldren glanced around at the dark inn, his lip curling in distaste.  &ldquo;Now I find you in this misbegotten hole, wallowing in self-pity and drinking yourself into
@@ -953,7 +948,7 @@
                         
                 </div>
                 
-                <div id="page16" class="page">
+                <div id="page15" class="page">
                     
                     <div class="prologue-text"> 
                         Samone chewed on his lip. &ldquo;The Council Legion, &#46;&#46;&#46;they&#39;ve brought the Denrus Trolya back into a fighting legion?  We've been at peace and not used
@@ -1040,7 +1035,7 @@
                     
                 </div>
                 
-                <div id="page17" class="page">
+                <div id="page16" class="page">
 
                     <div class="prologue-text"> 
                         Later, in the cloak of falling night and blinding ice rain, they dropped to a walk and led their horses on foot. It would serve no purpose to ride their weary mounts into
@@ -1112,7 +1107,7 @@
                     
                 </div>
                 
-                <div id="page18" class="page">
+                <div id="page17" class="page">
                     
                     <div class="prologue-text"> 
                         Samone was a mage, a Senku Dwarif and though less ominous in stature, he commanded every bit the same attention and respect. Standing only five forearms tall he weighed
@@ -1201,7 +1196,7 @@
                     
                 </div>
                 
-                <div id="page19" class="page">
+                <div id="page18" class="page">
                     
                     <div class="prologue-text"> 
                         Mauldren bit his lip as he noticed bruises on the Sagof&#39;s arm and put a hand on the skinny boys shoulder. &ldquo;Bring your bag lad. I need one of the &ldquo;good&rdquo;
@@ -1292,7 +1287,7 @@
                 
                 </div>
                 
-                <div id="page20" class="page">
+                <div id="page19" class="page">
                     
                     <div class="prologue-text"> 
                         Mauldren studied the man and judged him true. &ldquo;You have found a good son. Moreover in that task, if you have done well by him, the world indeed is the better for
@@ -1378,7 +1373,7 @@
                     
                 </div>
                 
-                <div id="page21" class="page">
+                <div id="page20" class="page">
                     
                     <div class="prologue-text"> 
                        The Aleation Forests had their own gods, Este&#39;Rasi, the Old Ones still held paid homage by the Sanchean Fayras. Though trade prevailed between the Sancheans and the
@@ -1458,7 +1453,7 @@
                     
                 </div>
                 
-                <div id="page22" class="page">
+                <div id="page21" class="page">
                     
                     <div class="prologue-text"> 
                        Mauldren noticed how many of the other mage didn't even approach them but merely glanced from a distance and talked behind their hands while shaking their heads. He
@@ -1548,7 +1543,7 @@
                     
                 </div>
                 
-                <div id="page23" class="page">
+                <div id="page22" class="page">
                     <div class="prologue-text"> 
                        Urista nodded with a benevolent bow of her head. &ldquo;I was told the moment you rode through the outer gates of the West Steni&#39; and foresaw at least the first
                        half of your request.&rdquo; Still smiling, she led them to a sitting room off the far end of the Hall of Commons. Trays of breads and fruits, decanters of mulled wines
@@ -1629,7 +1624,7 @@
                     
                 </div>
                 
-                <div id="page24" class="page">
+                <div id="page23" class="page">
                     <div class="prologue-text"> 
                        Samone&#39;s glare could have turned fire to ice. Mauldren strategically excused himself under the guise of fetching more wine. As he walked out of the room they heard
                        him burst out laughing, until the door finally slapped a wooden hand over his mouth behind him.
@@ -1712,7 +1707,7 @@
                     
                 </div>
                 
-                <div id="page25" class="page">
+                <div id="page24" class="page">
                     
                     <div class="prologue-text"> 
                        Mauldren&#39;s sword sang out of its scabbard but Samone quickly put a hand on his friend&#39;s arm. Urista called out, &ldquo;It&#39;s all right! He bears our crest;&rdquo;
@@ -1794,7 +1789,7 @@
                      </div>
                 </div>
                 
-                <div id="page26" class="page">
+                <div id="page25" class="page">
                     
                     <div class="prologue-text"> 
                        By now the Urista was swept beyond reason, spitting out the rest through clenched teeth. &ldquo;You will help us you arrogant&#46;&#46;&#46;&#46;&rdquo; she bit off
@@ -1854,7 +1849,7 @@
                                         
                 </div>
                 
-                <div id="page27" class="page">
+                <div id="page26" class="page">
                     
                     <div class="prologue-center">
                         <span class="italic larger">Part III</span>
@@ -1865,12 +1860,7 @@
                     </div>
                     
                     <div class="prologue-text">
-                        <span class="pt-oet">A</span>
-                       
-                    </div>
-                                    
-                    <div class="prologue-text">
-                        <span class="pt-oet">umerabi Istaur cackled madly, waving his skeletal arm like a scepter, topped by a withered fist. Licking thin lips with a nervous tongue, his glazed
+                        <span class="pt-oet">A</span>umerabi Istaur cackled madly, waving his skeletal arm like a scepter, topped by a withered fist. Licking thin lips with a nervous tongue, his glazed
                         eyes were fountainheads for the sweat of excitement that ran down his face.
                     </div>
                     
@@ -1887,74 +1877,103 @@
                     </div>
                     
                     <div class="prologue-text">
-                        
+                        The new church rose with little grievance. The fact that the A&#39;brean Temple was the Kings Church made little difference any more. Merodach Balasu Ikbu was highly unpopular!
+                        He knew the Shinghaut Temples had become too strong, too fast. The rich had no desire to be placed on the altars and therefore gave mightily in tithes and offerings.
+                        With those, Aumerabi had built more temples and raised the Risha, his own temple army. They were brutal, well trained, well paid and arrogantly above any chance on the
+                        altar. For it, the Risha soon rivaled Merodach&#39;s army and out of the king&#39;s own fear, were allowed their work for the church by the weak monarch.
                     </div>
                     
                     <div class="prologue-text">
-                        
+                        Now Aumerabi smelled the panic and fear of those trying to run from his Risha. He would have gladly participated in the slaying of the infidels, from child to the feeble,
+                        but as savior-leader of the Shinghaut religion, he was much too important to be taking on such risks. The lesser priests of his church were only too glad to shoulder
+                        the task as long as it kept their own hides off the bloody alters.
                     </div>
                     
                     <div class="prologue-text">
-                        
+                        The head priest turned with a shudder of ecstasy and strode down the dark corridors, passing his hand through the torch fires as he walked. His head was grotesquely
+                        scarred, absent of all hair and eyebrows. The folds of his white robe hissed as his tiny frame scurried down the halls, chased by the echoes of his own thin footsteps.
+                        Twenty acolytes followed a safe distance behind him afraid to incur his attention.
                     </div>
                     
                     <div class="prologue-text">
-                        
+                        As he rounded the temple dais, several guards snapped from a lazy stance to attention. The nearer of these guards swung open the large bronze doors that lead into the
+                        altar room, remaining on one knee, head bowed.
                     </div>
                     
                     <div class="prologue-text">
-                        
+                        Aumerabi sidled away from him and through the doors. He didn&#39;t like to be touched. The phobia had spawned a tenant of the new faith. <span class="italic">&ldquo;Until
+                        purged by the holy flames of Baushra&#39; none may touch perfection!&rdquo;</span>  The threat of flames would persuade converts, &ldauo;chosen&rdquo; to partake in the priest&#39;s
+                        darker lusts. Then later those same flames would save their souls and insure their silence.
                     </div>
                     
                     <div class="prologue-text">
-                        
+                        All must be purged, as Aumerabi had been, when palace troops had burned his village outside of Babylon to stop a plague from spreading to the city. As a child he and
+                        his family had been pushed at spear point, back into a burning hut. The flames consumed his parents and sister and leapt hungrily at him.
                     </div>
                     
                     <div class="prologue-text">
-                        
+                        The priest sneered contemptuously at perpetrators long dead. Even now the flames avenged the past. By divine intervention he had been spared by the very roof that
+                        fell on him, but only after the flames had purged him and made him a fit vessel for Baushra&#39;.
                     </div>
-                    
-                    <div class="prologue-text">
-                        
-                    </div>
-                    
-                    <div class="prologue-text">
-                        
-                    </div>
-                    
-                    <div class="prologue-text">
-                        
-                    </div>
-                    
-                    <div class="prologue-text">
-                        
-                    </div>
-                    
-                    <div class="prologue-text">
-                        
-                    </div>
-                    
-                    <div class="prologue-text">
-                        
-                    </div>
-                    
-                    
-                    
                     
                 </div>
                 
-                <div id="page28" class="page">
+                <div id="page27" class="page">
+                    <div class="prologue-text">
+                        Days later, priests had found the child burned beyond hope in the rubble. They didn&#39;t expect him to live but had taken him. with the expectation of imminent death.
+                        For weeks he had to be gagged just to silence his painful screaming. Lost in the agony of his burns the child went quite mad. For even longer, on the borders of
+                        madness and semi-consciousness he had experienced his visions and divine insights. In those days he had met his god and received instruction to bring down the
+                        A&#39;brean Temple of the infidel king of Babylon, wresting from it the sacred Gildna Staff, the very staff that accompanied the accursed bitch priestess visiting
+                        every harvest from the vile Temple of Bast in Egypt.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        It had not been too hard to find a convert among the priestess&#39;s entourage. One such, Etoshia, had proven a valuable pawn and after many long years of recruiting
+                        and planning, the Gildna Staff had indeed been wrested and now belonged to the Shinghaut Temple and the new god Baushra&#39;. Through the staff, Baushra&#39; spoke to
+                        his servant Aumerabi Istaur.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        Babylon and Egypt were failing empires. Without true faith they had grown weak and old. Already the new Persian Empire was bringing pressure to bear and it would not
+                        be long before it swallowed them both up and spit out their dust. Aumerabi must combine the two ancient empires through this new religion, getting rid of the old weak
+                        gods, bringing in a new strong order that was washed in blood and fire! The spindly, hairless man crossed in front of the altar table, running the tips of his bony
+                        fingers through splashes of glistening red, from last hours sacrifice. Behind the altar, the Gildna staff glowed a sickly yellow/brown. It pulsed with the beat of the
+                        priest&#39;s own heart.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        Through the staff, Aumerabi could communicate, as well, with his disciples, Gamill Jamasta and Arutapha Emtu on Iftmus.  Bakala Achaemed and Mithra Ardashir on Axtoph.
+                        These were the worlds that Baushra&#39; had led them to, as they continued the holy mission of their god&#39;s will.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        The priest laughed. What were two empires, when he was already crushing two worlds? With the power of Baushra&#39; it would come to pass. The cats still worshipped by
+                        the foolish Egyptians in their Temple of Bast, had been stripped of most of their powers since the loss of the Gildna staff. The thought of those cats using his god&#39;s
+                        staff to channel their own miserable powers made him shake visibly with rage. His god was only to be shared through him! Unless proper homage were paid to
+                        both&#46;&#46;&#46; his god would be a god of wrath unlike ever experienced! Like a sexual shiver he could feel the death and destruction, taking place on each world as
+                        he stroked the cold Gildna Staff.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        The temple bell struck and Aumerabi forced himself out of his own thoughts. It was time to make ready for the next sacrifice. Each victim was dragged up the long hall.
+                        They fought, they struggled and screamed, never knowing that their fear only made their blood more perfect for the giving. This was the chaos of death before its time!
+                        This was what Baushra&#39; craved. Soon it would be the time for the birth of their new god. All living would bend to the will of Baushra&#39; or die in the fires of his
+                        righteous anger!
+                    </div>
+                    
+                    <div class="prologue-text">
+                        Aumerabi walked slowly behind the vestibule where he would put on the sacred robes. The lesser priests were already filling the temple. The torches throbbed and flared
+                        to the sound of their chants. The flames were struggling to break from their urns and run to meet the distant screams of the one being dragged down the hall. The Gildna
+                        staff surged in yellow and gained strength as it absorbed the fear, fight and despair. Half carried they would plead and cry in vain while the trained use of the knife
+                        increased the futile struggle to a crescendo and finally, fire purged and committed them to the arms of Baushra&#39;.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        Fresh oil was poured on the stone alter. It would burn long after the screams of those who lay in it. Aumerabi looked towards the doors and heard the cries for mercy ever
+                        closer. The hunched little man stopped chanting, long enough to smile.
+                    </div>
+                    
                 </div>
-                
-                <div id="page29" class="page">
-                </div>
-                
-                
-                
-                
-                
-                
-                
                 
                 <div class="pager"></div>
             </div>
@@ -1972,7 +1991,7 @@
         $(function() {
             var currentPage = 1;
             $(".pager").pagination({
-                items: 29,
+                items: 27,
                 itemsOnPage: 1,
                 cssStyle: 'light-theme',
                 onPageClick: onPageClick
