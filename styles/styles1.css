@@ -59,11 +59,11 @@
 /* beginning of pagination css */
 #content {
     position:relative;
-    height:400px;
+    height: 25px;
 }
 
 #pagination {
-    position:absolute;
+    position: absolute;
     top:0px;
 }
 

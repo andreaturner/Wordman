@@ -12,10 +12,11 @@
             
         <div class="keep-it-together"> <!-- start keep-it-together div -->
             <style>
+                
                 .page {
                     display: none;
-                    height: 950px;
-                    overflow-y: auto;
+                    height: 90%;
+                    overflow: hidden;
                 }
             </style>
             <div class="pages">
@@ -525,11 +526,8 @@
                         &ldquo;And Ki-seri of the Li-horan cat did reign from that part of Iftmus declared by his to be called Panthera, in the territory of Pa-tan.&rdquo; And the Spirit of Felis did return the
                         lost magic&#39;s, Sha-talon to the Pan-duran cat, who removed themselves from Panthera&#46;&#46;&#46; to&#46;&#46;&#46;&rdquo;
                     </div>
-                    
-                </div>
-                
-                <div id="page9" class="page">
-                    <div class="prologue-text"> 
+                     
+                     <div class="prologue-text"> 
                         Ja-lito the young Shi-kauti who had been reciting, stalled, struggling for the exact words of Kylor. The other cats held their breath while their faltering friend tried to remember the
                         next line. If he did not recover, it could be grounds for failing. Fa-tera closed her eyes and wished him on with a quick but fervent prayer. That prayer was answered along with a sigh
                         of relief on all their parts&#46;&#46;&#46;&#46;
@@ -538,6 +536,10 @@
                      <div class="prologue-text-center-italic">
                         &ldquo;&#46;&#46;&#46;&#46;to dwell in Amas&#39;ka, in the mountains of Pri-hy, above the Saber-wa!&rdquo;
                     </div>
+                    
+                </div>
+                
+                <div id="page9" class="page">
                      
                      <div class="prologue-text"> 
                         Fa-tera shot him a stern glance but smiled inwardly. She had no wish to fail any of her children and certainly not over such a minor transgression&#46;&#46;&#46;&#46; not when Kylor
@@ -945,16 +947,16 @@
                         been&#46;&#46;&#46; until now,&rdquo; he paused for effect. &ldquo;I suppose, you knew not that the Elbron Council declared a state of war and&#46;&#46;&#46;,&rdquo; he
                         paused again, &ldquo;&#46;&#46;&#46;has revived the Council Legion?&rdquo;
                     </div>
-                        
-                </div>
-                
-                <div id="page15" class="page">
                     
                     <div class="prologue-text"> 
                         Samone chewed on his lip. &ldquo;The Council Legion, &#46;&#46;&#46;they&#39;ve brought the Denrus Trolya back into a fighting legion?  We've been at peace and not used
                         them for over three spans!&rdquo; The dwarif looked off towards the inns door. &ldquo;What in the name of Opasa is going on?  Has the whole world gone mad since I left?
                         How many have been brought up from reserve?&rdquo;
                     </div>
+                        
+                </div>
+                
+                <div id="page15" class="page">
                     
                     <div class="prologue-text"> 
                         &ldquo;They've conscripted five thousand, almost twice the number used during the Helgstrum Siege. The Council probably would have settled for less but you know the Trolya.
@@ -1033,16 +1035,16 @@
                        often traveled now felt so alien, so uncomfortable.
                     </div>
                     
-                </div>
-                
-                <div id="page16" class="page">
-
                     <div class="prologue-text"> 
                         Later, in the cloak of falling night and blinding ice rain, they dropped to a walk and led their horses on foot. It would serve no purpose to ride their weary mounts into
                         the ground, besides which, Mauldren always treated his horse with more regard than he offered even himself. Steamed breath and sweat were the only source of heat for all
                         four as they walked miserably against the brutal wind rains. Both were too tired for idle conversation. Occasional thunder and heavy breathing were the only sounds that
                         interrupted the monotony of tired steps.
                     </div>
+                    
+                </div>
+                
+                <div id="page16" class="page">
                     
                     <div class="prologue-text"> 
                         That night they made first camp and huddled around the fire, too tired to do anything but chew hard tack, stare into the flames and sip hot herb tea. Samone was disgusted
@@ -1105,14 +1107,14 @@
                         Though he had been young at the time, it was an incident the mercenary did not enjoy reliving; therefore Samone took every opportunity presented, to bring it up.
                     </div>
                     
-                </div>
-                
-                <div id="page17" class="page">
-                    
                     <div class="prologue-text"> 
                         Samone was a mage, a Senku Dwarif and though less ominous in stature, he commanded every bit the same attention and respect. Standing only five forearms tall he weighed
                         an easy two hundred and fifty goldweight and could usually hold his own, even without magic, since much of that weight was muscle.
                     </div>
+                    
+                </div>
+                
+                <div id="page17" class="page">
                     
                     <div class="prologue-text"> 
                         As if a part of his rebellious nature he forswore the ornate headband of his trade, preferring to let his long gray hair hang free, over the traditional copra, a long coat
@@ -1194,10 +1196,6 @@
                         bad&#46;&#46;&#46;&rdquo; the boy clouded over, &ldquo;&#46;&#46;&#46; and some just plain mean!&rdquo;
                     </div>
                     
-                </div>
-                
-                <div id="page18" class="page">
-                    
                     <div class="prologue-text"> 
                         Mauldren bit his lip as he noticed bruises on the Sagof&#39;s arm and put a hand on the skinny boys shoulder. &ldquo;Bring your bag lad. I need one of the &ldquo;good&rdquo;
                         from this crew and I wager, you are among those numbered!&rdquo;
@@ -1208,6 +1206,10 @@
                         to their feeding and watering. The arrangement was far better quarters with the warmth of the animals and the fresh soft hay, and three times more pay than the boy had ever
                         experienced.
                     </div>
+                    
+                </div>
+                
+                <div id="page18" class="page">
                     
                     <div class="prologue-text"> 
                         Soon Sagof had opened up and laughed freely whenever he was around Mauldren. The cabin boy&#39;s joy was contagious, as is usually the way of children. The mercenary found
@@ -1284,10 +1286,6 @@
                         fell overboard. Some say there are heroes in the clouds who hunt demons for the gods.&rdquo; He spit again and with a nod to Mauldren said, &ldquo;When the hunt is
                         successful, the world is the better for it!  My wife and I will take the boy in and watch over him as ours.&rdquo; 
                     </div>
-                
-                </div>
-                
-                <div id="page19" class="page">
                     
                     <div class="prologue-text"> 
                         Mauldren studied the man and judged him true. &ldquo;You have found a good son. Moreover in that task, if you have done well by him, the world indeed is the better for
@@ -1298,6 +1296,10 @@
                        The Ve-enesa docked in Orlaun and Mauldren saw to the unloading of their horses and the payment of fare. Their goodbyes had been said before docking and Mauldren avoided
                        another confrontation if only to avoid the added pain to his own heart.
                     </div>
+                
+                </div>
+                
+                <div id="page19" class="page">
                     
                     <div class="prologue-text"> 
                        Samone was noticeably more rested, yet all the more ill tempered over the captain&#39;s insufficient store of ship&#39;s brandy. To remind the grumpy dwarif that they had
@@ -1371,16 +1373,16 @@
                        wine and dance to give thanks for the blessings of the seed in the rich soil and the harvests to come.
                     </div>
                     
-                </div>
-                
-                <div id="page20" class="page">
-                    
                     <div class="prologue-text"> 
                        The Aleation Forests had their own gods, Este&#39;Rasi, the Old Ones still held paid homage by the Sanchean Fayras. Though trade prevailed between the Sancheans and the
                        Empire, those secrets were guarded jealously and not shared with the other races. Speculation in tavern song and folklore alluded to Ish&39;tin, goddess before the gods,
                        older than Axtoph. One such song told of how <span class="italic">&ldquo;&#46;&#46;&#46;she drew the stars to her breast and nurtured from them, the world upon which we
                        stand.&rdquo:</span> 
                     </div>
+                    
+                </div>
+                
+                <div id="page20" class="page">
                     
                     <div class="prologue-text"> 
                        The queen city, Elbron was a collection of the regions and cultures that were spread out across the Da-ton Empire. Many churches and religions were practiced, but the
@@ -1451,10 +1453,6 @@
                        certainly offset the wet and cold that still clung to them.
                     </div>
                     
-                </div>
-                
-                <div id="page21" class="page">
-                    
                     <div class="prologue-text"> 
                        Mauldren noticed how many of the other mage didn't even approach them but merely glanced from a distance and talked behind their hands while shaking their heads. He
                        leaned towards Samone and whispered, &ldquo;It seems we&#46;&#46;&#46; nay, more likely you, are a matter of intrigue my friend. Or maybe they just can't bring
@@ -1465,6 +1463,10 @@
                        &ldquo;You would think they had better things to do! I never have trusted gossips&#46;&#46;&#46;&rdquo; the old dwarif grumbled, &ldquo;&#46;&#46;&#46;and have you
                        smelled yourself lately?&rdquo;
                     </div>
+                    
+                </div>
+                
+                <div id="page21" class="page">
                     
                     <div class="prologue-text"> 
                         Mauldren pointed back at himself with raised eyebrows, as if innocently questioning the possibility of his own offense. He then turned more serious. &ldquo;You&#39;ve
@@ -1541,9 +1543,6 @@
                        be able to afford the offering of some wine or ale and a bite to eat?&rdquo;
                     </div>
                     
-                </div>
-                
-                <div id="page22" class="page">
                     <div class="prologue-text"> 
                        Urista nodded with a benevolent bow of her head. &ldquo;I was told the moment you rode through the outer gates of the West Steni&#39; and foresaw at least the first
                        half of your request.&rdquo; Still smiling, she led them to a sitting room off the far end of the Hall of Commons. Trays of breads and fruits, decanters of mulled wines
@@ -1555,6 +1554,10 @@
                        Samone grabbed two goblets of warmed wine right off a tray as the servant passed by him. The pleased look on the old dwarif&#39;s face was much that of a child successfully
                        filching his first fresh-baked pie at a street fair.
                     </div>
+                    
+                </div>
+                
+                <div id="page22" class="page">
                     
                     <div class="prologue-text"> 
                        Mauldren noticed Urista stealing glances at his friend while Samone was distracted gathering food and beverage. Her eyes betrayed a cross of both admiration and hurt.
@@ -1622,9 +1625,6 @@
                        am sorry Urista, &#39;tis not often I see our ageless friend here at a loss for words!&rdquo;
                     </div>
                     
-                </div>
-                
-                <div id="page23" class="page">
                     <div class="prologue-text"> 
                        Samone&#39;s glare could have turned fire to ice. Mauldren strategically excused himself under the guise of fetching more wine. As he walked out of the room they heard
                        him burst out laughing, until the door finally slapped a wooden hand over his mouth behind him.
@@ -1642,6 +1642,10 @@
                        Messages are being constantly sent back to the mountains. Unfortunately we have little or no information about that end of their operation. This has all happened very
                        fast and with such ferocity that we are still scrambling to keep up.&rdquo;
                     </div>
+                    
+                </div>
+                
+                <div id="page23" class="page">
                     
                     <div class="prologue-text"> 
                        &ldquo;Fifty-thousand strong? T&#39;would have to account for more than half of the adult population of that whole cursed race!&rdquo; Mauldren had returned and brought another
@@ -1705,10 +1709,6 @@
                        bar his way.
                     </div>
                     
-                </div>
-                
-                <div id="page24" class="page">
-                    
                     <div class="prologue-text"> 
                        Mauldren&#39;s sword sang out of its scabbard but Samone quickly put a hand on his friend&#39;s arm. Urista called out, &ldquo;It&#39;s all right! He bears our crest;&rdquo;
                        dropping her voice, &ldquo;no doubt bringing news from the front. Allow him to enter!&rdquo; The order was redundant since the few guards on either side of the wounded
@@ -1727,6 +1727,10 @@
                        Urista had to give her tower guards credit, if not for loyalty than just plain stupidity. A joke among the Elbron elite was, <span class="italic">&ldquo;I&#39;d rather
                        catch and hold a storm swollen river than try to do the same to one angry Trolya. At least with the river you stand a chance.&rdquo;</span>
                     </div>
+                    
+                </div>
+                
+                <div id="page24" class="page">
                     
                     <div class="prologue-text"> 
                        The dying warrior walked slowly, his feet shuffling, dragging bloodstains. He staggered until he reached the group and went to one knee in front of them.
@@ -1787,9 +1791,6 @@
                         eminent danger. Now you tell me you will not lift a finger to help?&rdquo;  Her face smoldered with anger, born of an open wound to the heart. &ldquo;Old man&#46;&#46;&#46;
                         you have always acted as if you are above the law. You were indulged, maybe that was my fault, but&#46;&#46;&#46; this&#46;&#46;&#46; this is treason!&rdquo;
                      </div>
-                </div>
-                
-                <div id="page25" class="page">
                     
                     <div class="prologue-text"> 
                        By now the Urista was swept beyond reason, spitting out the rest through clenched teeth. &ldquo;You will help us you arrogant&#46;&#46;&#46;&#46;&rdquo; she bit off
@@ -1813,6 +1814,9 @@
                        were at stake. Quietly, if not sadly, the words slipped out. &ldquo;I will do what must be done to protect Elbron.&rdquo; Her eyes flashed steel, as sharp as any sword
                        blade but something deep behind those eyes pleaded for forgiveness.
                     </div>
+                </div>
+                
+                <div id="page25" class="page">
                     
                      <div class="prologue-text"> 
                        Suddenly the stalemate was shattered! Lere&#39;yll screamed and fell to the floor, her fragile body thrashing against the marble stone as she mumbled unintelligible phrases.
@@ -1916,9 +1920,6 @@
                         fell on him, but only after the flames had purged him and made him a fit vessel for Baushra&#39;.
                     </div>
                     
-                </div>
-                
-                <div id="page27" class="page">
                     <div class="prologue-text">
                         Days later, priests had found the child burned beyond hope in the rubble. They didn&#39;t expect him to live but had taken him. with the expectation of imminent death.
                         For weeks he had to be gagged just to silence his painful screaming. Lost in the agony of his burns the child went quite mad. For even longer, on the borders of
@@ -1926,6 +1927,11 @@
                         A&#39;brean Temple of the infidel king of Babylon, wresting from it the sacred Gildna Staff, the very staff that accompanied the accursed bitch priestess visiting
                         every harvest from the vile Temple of Bast in Egypt.
                     </div>
+                    
+                </div>
+                
+                <div id="page27" class="page">
+                    
                     
                     <div class="prologue-text">
                         It had not been too hard to find a convert among the priestess&#39;s entourage. One such, Etoshia, had proven a valuable pawn and after many long years of recruiting
