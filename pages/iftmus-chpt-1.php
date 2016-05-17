@@ -1784,7 +1784,8 @@
                        The dwarif clouded over, pushing back any hurt that was threatening to expose him. &ldquo;I am not of the Council anymore and not subject to its bidding. I
                        cannot&#46;&#46;&#46;&#46; no&#46;&#46;&#46; I will not&#46;&#46;&#46; be a part of this!&rdquo;
                     </div>
-                     <div class="prologue-text">
+                    
+                    <div class="prologue-text">
                         Urista stood up, making no show of masking her own hurt; having begged and been rejected. The First Mage&#39;s voice was quiet-cold. &ldquo;Samone! You are the most
                         powerful of all the Mages, the only one living right now who has mastered all four elements. Whatever caused you to turn your back on us, though I have an idea, I
                         will not corroborate my guesses without confirmation from you! Elbron and all her people, our whole way of life, this&#46;&#46;&#46; our world&#46;&#46;&#46; is in
@@ -1795,8 +1796,158 @@
                 
                 <div id="page26" class="page">
                     
+                    <div class="prologue-text"> 
+                       By now the Urista was swept beyond reason, spitting out the rest through clenched teeth. &ldquo;You will help us you arrogant&#46;&#46;&#46;&#46;&rdquo; she bit off
+                       the sentence with a frustrated wave of her hand, but her anger was a fire consuming, too much, too fast. &ldquo;You will help us or you will, by the gods, be executed
+                       right here on this spot!&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Urista hurled a goblet and it struck a gong against the wall. Before the tone had even died out her two personal Denrus guards rushed into the room, swords drawn. Mauldren
+                       drew his sword and placed himself between Samone and the Council guards. They all eyed each other warily, none really wanting to test the skills against other. The three
+                       swordsmen looked back and forth between the two Mages and again at each other, waiting for some type of order; something to either stop or carry the madness through.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone shook his head sadly, &ldquo;How many would you have die over this Urista? My friend here would kill many before being overwhelmed and then&#46;&#46;&#46; then
+                       what? I would be forced to avenge his death and bring these towers down on our heads. Is it worth it?&rdquo;  His eyes were pleading with her.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Urista wanted to desperately say anything else, but she had been backed against a wall beyond hurt pride. Her authority had been challenged and now, more than her feelings
+                       were at stake. Quietly, if not sadly, the words slipped out. &ldquo;I will do what must be done to protect Elbron.&rdquo; Her eyes flashed steel, as sharp as any sword
+                       blade but something deep behind those eyes pleaded for forgiveness.
+                    </div>
+                    
+                     <div class="prologue-text"> 
+                       Suddenly the stalemate was shattered! Lere&#39;yll screamed and fell to the floor, her fragile body thrashing against the marble stone as she mumbled unintelligible phrases.
+                       Parts of the language, Samone recognized as the ancient tongue he&#39;d learned during his stay in the Aleation Forests. The dwarif was over to her faster than his size
+                       would have alluded to. He cradled her small body in his thick arms. &ldquo;By the gods&#46;&#46;&#46; they&#39;re killing her trees now!&rdquo; A single tear coursed
+                       unashamedly down his weathered cheek into his beard.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Urista bit her lip, trying to keep her composure as she walked over and stood above the two. Her voice was still hard but now strangely empty. &ldquo;Now there is no
+                       choice. You must get her back to her trees and stop whatever is happening, if only to save her life. How much did she mean to you Samone?  You tell me now&#46;&#46;&#46;
+                       is it worth it?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The dwarif&#39;s face burned at having his threat thrown back at him. He stood up, cradling the Fayra&#39;s small body his eyes misting. &ldquo;Saken you to burn in
+                       Opasa Urista. You are a hard woman&#46;&#46;&#46; I'd almost forgotten how hard!&rdquo; 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone wove a transportation spell around himself and Lere&#39;yll and they started to disappear as Mauldren yelled out, &ldquo;We shall join you in ten daca&#39; march
+                       my friend. It has been a long time since we&#39;ve done battle together hey?&rdquo;
+                    </div>
+                    
+                     <div class="prologue-text"> 
+                       The two were already gone and Urista sadly touched the air that still shimmered in front of her. In less than a whisper she said, &ldquo;Yes I am hard my Samone&#46;&#46;&#46;
+                       and I have already been sakened to Opasa, the day I lost you. Be strong my love and stay alive.&rdqop;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Without another word she whirled and left Mauldren and the two Denrus guards still facing each other off in an empty room. They stood blinking at each other; they finally
+                       shrugged, and slowly put their swords to rest.
+                    </div>
+                                        
                 </div>
                 
+                <div id="page27" class="page">
+                    
+                    <div class="prologue-center">
+                        <span class="italic larger">Part III</span>
+                    </div>
+                    
+                    <div class="prologue-psi-chapter">
+                                    &#936;
+                    </div>
+                    
+                    <div class="prologue-text">
+                        <span class="pt-oet">A</span>
+                       
+                    </div>
+                                    
+                    <div class="prologue-text">
+                        <span class="pt-oet">umerabi Istaur cackled madly, waving his skeletal arm like a scepter, topped by a withered fist. Licking thin lips with a nervous tongue, his glazed
+                        eyes were fountainheads for the sweat of excitement that ran down his face.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        It was high moon, yet up the hill past the market place, just before the palace gardens of Babylon, he could hear the distant screams of the dying and see the dull
+                        reflection of flames that were the source of that beautiful noise. The air literally sang with blood sacrifice and though he had originally only planned for the destruction
+                        of the A&#39;brean temple, he humbly offered these added deaths as tribute to his god Baushra&#39; and the new Shinghaut temple.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        His church had taken root mostly in fear. At first he had offered suspected plague victims, which were all too willingly given and accepted. As the accusations spread
+                        it became dissenters to the king. Political and religious radicals, intellectual dissidents, business rivals and soon he the Shinghaut Temple were receiving payments
+                        attached to names all the way down to mere grudges.
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    <div class="prologue-text">
+                        
+                    </div>
+                    
+                    
+                    
+                    
+                </div>
+                
+                <div id="page28" class="page">
+                </div>
+                
+                <div id="page29" class="page">
+                </div>
                 
                 
                 
@@ -1821,7 +1972,7 @@
         $(function() {
             var currentPage = 1;
             $(".pager").pagination({
-                items: 26,
+                items: 29,
                 itemsOnPage: 1,
                 cssStyle: 'light-theme',
                 onPageClick: onPageClick
