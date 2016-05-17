@@ -1505,7 +1505,7 @@
                     </div>
                     
                     <div class="prologue-text"> 
-                       &ldquo;You flatter me old one. When have I ever had that kind of influence over such a stubborn&#46;&#46;&#46;7rdquo; she cocked her head, “&#46;&#46;&#46;but most lovable
+                       &ldquo;You flatter me old one. When have I ever had that kind of influence over such a stubborn&#46;&#46;&#46;&rdquo; she cocked her head, “&#46;&#46;&#46;but most lovable
                        thorn in my side?&rdquo;
                     </div>
                     
@@ -1532,7 +1532,7 @@
                     </div>
                     
                     <div class="prologue-text"> 
-                       Samone's face soured. &ldquo;Why does everyone keep referring to me as their &ldquo;old&rdquo; friend? Two hundred and six spans&#46;&#46;&#46; barely puts me in my
+                       Samone&#39;s face soured. &ldquo;Why does everyone keep referring to me as their &ldquo;old&rdquo; friend? Two hundred and six spans&#46;&#46;&#46; barely puts me in my
                        prime when measured in dwarif whelms.&rdquo;
                     </div>
                     
@@ -1557,7 +1557,7 @@
                     </div>
                     
                     <div class="prologue-text"> 
-                       Samone grabbed two goblets of warmed wine right off a tray as the servant passed by him. The pleased look on the old dwarif’s face was much that of a child successfully
+                       Samone grabbed two goblets of warmed wine right off a tray as the servant passed by him. The pleased look on the old dwarif&#39;s face was much that of a child successfully
                        filching his first fresh-baked pie at a street fair.
                     </div>
                     
@@ -1578,6 +1578,55 @@
                        The First Mage slid back her chair, &ldquo;But first I must bid you both come with me.&rdquo; Urista rose in a fluid motion and they followed her through an ornate
                        bronze shielded door, rich with etchings of recounted battles from the Two Span War.
                     </div>
+                    
+                    <div class="prologue-text"> 
+                       This took them into one of the adjoining meeting chambers, which Samone recognized was, in the past, a room set aside for visiting foreign dignitaries. &ldquo;There is
+                       someone here I want you to meet&#46;&#46;&#46; someone who asked for you in particular Samone, when first she arrived this morn. Although I didn't anticipate it, it is
+                       indeed fortuitous that you rode into the city only shortly thereafter.7rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       They entered a room that held a large round conference table. It was handcrafted of the shimmering tan Wachiwood, found in the lowland forests of Tasqua. The wood
+                       itself seemed to breathe and move to the eye. The grains  seemed to shift and paint a different pattern each time they were scrutinized.  The tall backed chairs were made
+                       of the same, but the paddings were intricate embroideries dating back to Elvon arts. Those tapestries incorporated the wood frame upon which they were affixed until you
+                       could not tell if the wood was not an anticipated part of the picture portrayed.
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       A large, walk-in fireplace framed in river burnished stone, burned a lazy fire that dressed the chamber in an exotic dance of shadows. The flames reflected off the four handcrafted
+                       silver plaque symbols of elements on each wall. 
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       A rug barely peeked out from under the table and at the far end of that table and rug, lost in a large chair, sat a very small girl. In contrast and size she looked terribly
+                       young, but her pointed ears and the ageless sparkle in her eyes immediately identified her as a full grown Sanchean Fayra from the Aleation Forests. She stood up as Urista
+                       walked around the table, pointing back at Samone. &ldquo;Lere&#39;yll, this is Samone. Samone, Lere&#39;yll of the Sanchean&#46;&#46;&#46;&#46;&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       The introductions never finished as Lere&#39;yll let out a delighted shriek and raced over to the dwarif, jumping into his arms. Her laughter echoed in the room like
+                       soft bells. Over and over she called him &lequo;Simi&rdquo; lavishing kisses on him that spoke of being more than mere friends. Despite the false impression, of an
+                       incredible age difference, it was hard to ignore what their relationship appeared to be. Urista raised an eyebrow, while walking over. &ldquo;I assume you two have already
+                       met?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Samone pushed the exuberant Fayra away from him, straightening his coat while blushing and clearing his throat. &ldquo;Yes we have.&rdquo; He winced, noticing the iced look
+                       Urista shot him. &ldquo;I can explain you know!  Don't let her appearance fool you. Actually Urista, Lere&#39;yll here was&#46;&#46;&#46; several hundred spans old
+                       before you were even born. We met about a hundred and twenty spans ago and&#46;&#46;&#46; we&#46;&#46;&#46; we were close for a span or so&#46;&#46;&#46;&#46;&rdquo;
+                       he smiled at Lere&#39;yll and then quickly turned a serious face back at Urista. &ldquo;You must have read the old reports of when I was liaison&#46;&#46;&#46; by orders
+                       of the council&#46;&#46;&#46; developing relations with the Sancheans&#46;&#46;&#46;?&rdquo;
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       He stumbled on his own words and let out an explosive breath of air. Things were not going well at all!
+                    </div>
+                    
+                    <div class="prologue-text"> 
+                       Mauldren choked back a laugh and surprisingly, Urista turned on the Northland mercenary and scowled at him as well.  He held his hands up as if to fend her off.  &ldquo;I
+                       am sorry Urista, &#39;tis not often I see our ageless friend here at a loss for words!&rdquo;
+                    </div>
+                    
                 </div>
                 
                 <div id="page24" class="page">
