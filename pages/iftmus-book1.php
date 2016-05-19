@@ -34,18 +34,18 @@
             into a bottomless abyss. Fina&#39;sha Falls, a holy place, inhabited by the Nashanti, a large religious cult of fanatical purebred cat who will kill or
             be killed before letting these sacred grounds, the symbol of their heritage, be desicrated by outsiders or any noname Ch&#39;aun cat.
         </div>
-            <div class="series-text-book-iftmus">
+        <div class="series-text-book-iftmus">
             <span class="large">T</span>he group&#39;s continuing quest finally forces them to enter the heart of the evil. They must make thier way beneath the firestorms that
             sweep the sky in Pa-tan, and enter the forbidden fortress of Amas&#39;ka. There is a traitor in thier ranks and there is death among their own.
         </div>
-            <div class="series-text-book-iftmus">
+        <div class="series-text-book-iftmus">
             <span class="large">W</span>hy would a god and its disciple priests, who have already affected their plans, without hinderance, and run over all oppositon
             on three worlds, fear them? For if indeed they do, the answer is not forthcoming since everything the group discovers only alludes to the horrors of their
             own impending doom and the bleak fates of the worlds they came from!
         </div>
     </div>
             <div class="return-bottom">
-                <a href="iftmus-series.php">Return to Iftmus Series page.</a>
+                <a href="iftmus-chpt-1.php">Read Chapter One!</a>
             </div>
     
 

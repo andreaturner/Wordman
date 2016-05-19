@@ -1035,7 +1035,8 @@ a:hover {
     font-size: large;
     overflow: visible;
     padding-top: 0.5%;
-    margin: 0 auto;
+    padding-left: 0.8%;
+    margin: 0;
     text-indent: 2.5%;
     width: 75%;
 }
