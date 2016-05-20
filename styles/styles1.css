@@ -65,7 +65,9 @@
 #pagination {
     position: absolute;
     top:0px;
+    bottom: 0px;
 }
+
 
 .pagination {
     padding: 2px;

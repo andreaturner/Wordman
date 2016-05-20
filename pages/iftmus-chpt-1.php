@@ -11,12 +11,22 @@
 
             
         <div class="keep-it-together"> <!-- start keep-it-together div -->
+        
+        
             <style>
-                
+                body {
+                    height: 100%;
+                }
+                .pager {
+                    position: absolute;
+                    bottom:30px;
+                    left: 20px;
+                }
                 .page {
                     display: none;
                     height: 90%;
                     overflow: hidden;
+                    margin-bottom: 10px;
                 }
             </style>
             <div class="pages">
@@ -140,8 +150,6 @@
                         they would only take on a cat, if it were weakened, wounded, or an unfortunate cub separated from its pride. More often they stalked small defenseless animals, such as
                         ra-katoos or stray mud-waumps. True to the viciousness of their breed they were also known to turn on the weaker of their own, when hunger prevailed for fail of the hunt.
                     </div>
-                    
-                    
                 </div>
     
                 <div id="page4" class="page">
@@ -310,7 +318,6 @@
                     <div class="prologue-text"> 
                         <span class="italic">&ldquo;That no pride or family set itself above any other pride or family. For within the many spirits of cat, the cub of Iftmus shall always be one.&rdquo;</span>
                     </div>
-                    
                 </div>
 
                 <div id="page6" class="page">
@@ -380,7 +387,6 @@
                         Fa-tera looked at Ja-natia Cha-tain and saw herself younger. If only for a moment the old cat&#39;s eyes took on a subtle mist of sad. She gave her head a violent shake, along with a mental
                         reprimand for being so unpredictably weak.
                     </div>
-                    
                 </div>
                 
                 <div id="page7" class="page">
@@ -456,7 +462,6 @@
                         cradled; a feeling that somewhere, something seemed to be enjoying all of this, taking sustenance like a kitten from its mother&#39;s teat. She could feel its consuming greed, its insatiable
                         hunger. It was a hunger that would not stop feeding till all life was sucked dry. 
                     </div>
-                    
                 </div>
 
                 <div id="page8" class="page">
@@ -536,7 +541,6 @@
                      <div class="prologue-text-center-italic">
                         &ldquo;&#46;&#46;&#46;&#46;to dwell in Amas&#39;ka, in the mountains of Pri-hy, above the Saber-wa!&rdquo;
                     </div>
-                    
                 </div>
                 
                 <div id="page9" class="page">
@@ -649,7 +653,6 @@
                         No honor there, save but for some<br>
                         And woe to cat whose soul has none.
                     </div>
-                    
                 </div>
                 
                 <div id="page11" class="page">
@@ -724,7 +727,6 @@
                         <span class="italic">&ldquo;The fire of dreams&rdquo;</span> or Ma-chena, <span class="itlaic">&ldquo;The trails of the wind&rdquo;</span> and thus came the abuse
                         nurtured by the ignorance and arrogance of most cat of pure blood. Ch&#39;aun were treated as lesser cat.
                     </div>
-                    
                 </div>
                 
                 <div id="page12" class="page">
@@ -869,7 +871,6 @@
                         formidable foe, spending more nights than can be counted sharing thoughts and ale.  This may well be the first and only time I have regretted seeking you out, let alone
                         finding you my friend.&rdquo; He shook his head slowly, &ldquo;What has happened to you old one? You left Elbron without so much as a&#46;&#46;&#46; by your leave.&rdquo;
                     </div>
-                    
                 </div>
                 
                 <div id="page14" class="page">
@@ -953,7 +954,6 @@
                         them for over three spans!&rdquo; The dwarif looked off towards the inns door. &ldquo;What in the name of Opasa is going on?  Has the whole world gone mad since I left?
                         How many have been brought up from reserve?&rdquo;
                     </div>
-                        
                 </div>
                 
                 <div id="page15" class="page">
@@ -1111,7 +1111,6 @@
                         Samone was a mage, a Senku Dwarif and though less ominous in stature, he commanded every bit the same attention and respect. Standing only five forearms tall he weighed
                         an easy two hundred and fifty goldweight and could usually hold his own, even without magic, since much of that weight was muscle.
                     </div>
-                    
                 </div>
                 
                 <div id="page17" class="page">
@@ -1206,7 +1205,6 @@
                         to their feeding and watering. The arrangement was far better quarters with the warmth of the animals and the fresh soft hay, and three times more pay than the boy had ever
                         experienced.
                     </div>
-                    
                 </div>
                 
                 <div id="page18" class="page">
@@ -1296,7 +1294,6 @@
                        The Ve-enesa docked in Orlaun and Mauldren saw to the unloading of their horses and the payment of fare. Their goodbyes had been said before docking and Mauldren avoided
                        another confrontation if only to avoid the added pain to his own heart.
                     </div>
-                
                 </div>
                 
                 <div id="page19" class="page">
@@ -1379,7 +1376,6 @@
                        older than Axtoph. One such song told of how <span class="italic">&ldquo;&#46;&#46;&#46;she drew the stars to her breast and nurtured from them, the world upon which we
                        stand.&rdquo:</span> 
                     </div>
-                    
                 </div>
                 
                 <div id="page20" class="page">
@@ -1463,7 +1459,6 @@
                        &ldquo;You would think they had better things to do! I never have trusted gossips&#46;&#46;&#46;&rdquo; the old dwarif grumbled, &ldquo;&#46;&#46;&#46;and have you
                        smelled yourself lately?&rdquo;
                     </div>
-                    
                 </div>
                 
                 <div id="page21" class="page">
@@ -1554,7 +1549,6 @@
                        Samone grabbed two goblets of warmed wine right off a tray as the servant passed by him. The pleased look on the old dwarif&#39;s face was much that of a child successfully
                        filching his first fresh-baked pie at a street fair.
                     </div>
-                    
                 </div>
                 
                 <div id="page22" class="page">
@@ -1642,7 +1636,6 @@
                        Messages are being constantly sent back to the mountains. Unfortunately we have little or no information about that end of their operation. This has all happened very
                        fast and with such ferocity that we are still scrambling to keep up.&rdquo;
                     </div>
-                    
                 </div>
                 
                 <div id="page23" class="page">
@@ -1727,7 +1720,6 @@
                        Urista had to give her tower guards credit, if not for loyalty than just plain stupidity. A joke among the Elbron elite was, <span class="italic">&ldquo;I&#39;d rather
                        catch and hold a storm swollen river than try to do the same to one angry Trolya. At least with the river you stand a chance.&rdquo;</span>
                     </div>
-                    
                 </div>
                 
                 <div id="page24" class="page">
@@ -1850,7 +1842,6 @@
                        Without another word she whirled and left Mauldren and the two Denrus guards still facing each other off in an empty room. They stood blinking at each other; they finally
                        shrugged, and slowly put their swords to rest.
                     </div>
-                                        
                 </div>
                 
                 <div id="page26" class="page">
@@ -1932,7 +1923,6 @@
                 
                 <div id="page27" class="page">
                     
-                    
                     <div class="prologue-text">
                         It had not been too hard to find a convert among the priestess&#39;s entourage. One such, Etoshia, had proven a valuable pawn and after many long years of recruiting
                         and planning, the Gildna Staff had indeed been wrested and now belonged to the Shinghaut Temple and the new god Baushra&#39;. Through the staff, Baushra&#39; spoke to
@@ -1981,14 +1971,12 @@
                     
                 </div>
                 
-                <div class="pager"></div>
+                
             </div>
-        
-        <!-- Page Text Holding Area -->            
-        <div style="display: none;">
-            
-        </div> <!-- end keep-it-together div -->
-      <!--</div> <!-- end div id="pagination" div -->
+      
+          
+      </div><!-- end keep-it-together div -->
+      <!--</div> end div id="pagination" div -->
       
     <script type="text/javascript" src="../scripts/jquery-1.11.3.js"></script>
     <script type="text/javascript" src="../scripts/jquery.simplePagination.js"></script>
@@ -2011,7 +1999,7 @@
         });
     </script>     
       
-
+<div class="pager"></div>
 <?php
     include ('../shared/footer.html');            
 ?>      
