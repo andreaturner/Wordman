@@ -1955,8 +1955,8 @@
                 </div> <!-- [end page 27] -->
             </div>
           
-      </div><!-- end keep-it-together div -->
-      <!--</div> end div id="pagination" div -->
+      </div><!-- [end keep-it-together div] -->
+      <!-- [end div id="pagination" div] -->
       
     <script type="text/javascript" src="../scripts/jquery-1.11.3.js"></script>
     <script type="text/javascript" src="../scripts/jquery.simplePagination.js"></script>

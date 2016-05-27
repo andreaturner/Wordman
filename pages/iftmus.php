@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'Iftmus';
+    $page_title = 'Iftmus Prologue';
     include ('../shared/header.html');
 ?> 
     <div class="content">

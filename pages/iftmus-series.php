@@ -23,7 +23,6 @@
 						  <li><a href="iftmus.php"><span>P</span>rologue</a></li>
 					 </ul>
 				</div>
-            
 		  </div> <!-- [end books-series-summary div] -->
 			
 			<div class="book-series-summary">	
