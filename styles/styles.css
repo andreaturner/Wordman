@@ -1103,6 +1103,11 @@ a:hover {
     text-indent: 2.5%;
 }
 
+.series-text-axtoph span {
+    font-size: 130%;
+}
+
+
 .series-text-alyssia {
     font-family:'Lora', serif;
     font-size: large;
@@ -1508,4 +1513,12 @@ a:hover {
 
 #pagination {
     
+}
+
+.ul {
+   list-style-type: none; 
+}
+
+.ul span {
+    font-size: 130%;
 }

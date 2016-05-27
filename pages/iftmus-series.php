@@ -11,11 +11,20 @@
 				<div class="small-header">
                 <a href="iftmus.php">The Three World Saga</a>
             </div>
-				
-            <div class="series-pic-iftmus">
+				<div class="series-pic-iftmus">
                 <a href="iftmus.php"><img src="../images/iftmus-cover-333x250.jpg" width="333" height="250" alt="Prologue Image" /></a>
             </div>
-		  </div>
+				<div class="series-text-axtoph">
+					 <ul class="ul">
+						  <li><a href="iftmus.php"><span>G</span>lossary of Characters</a></li>
+						  <li><a href="iftmus.php"><span>G</span>lossary of Language</a></li>
+						  <li><a href="iftmus.php"><span>G</span>lossary of Plant & Animal Life</a></li>
+						  <li><a href="iftmus.php"><span>M</span>aps</a></li>
+						  <li><a href="iftmus.php"><span>P</span>rologue</a></li>
+					 </ul>
+				</div>
+            
+		  </div> <!-- [end books-series-summary div] -->
 			
 			<div class="book-series-summary">	
             <div class="small-header">
@@ -35,7 +44,8 @@
                 and piece together some of the related prophesies. Since their own worlds are threatened as well, they are forced by events to set off in search
                 of Greenstone, the corridor between all three worlds.
             </div>
-        </div>
+        </div>  <!-- [end books-series-summary div] -->
+		  
         <div class="text">
             Copyright &copy; 1990 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
         </div>
@@ -57,7 +67,8 @@
                 continue to pour out of their mountain holds, and with an unexpected ally march across the Da-ton&#39; Empire towards the queen city Elbron, where
                 the ruling Mage Council reside.
             </div>
-    </div>
+		  </div>  <!-- [end books-series-summary div] -->
+		  
            <div class="text">
             Copyright &copy; 1999 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
         </div>
@@ -81,10 +92,8 @@
                 force. This will in turn twart the invading Persians, plunging the world into war and inadvertently change the time line future of the coming Alexandrian
                 Empire. In blood and suffering they will change history and condemn the world to a new dark age.
             </div>
-				
-				
-				
-    </div>
+		  </div>  <!-- [end books-series-summary div] -->
+		  
 		  <div class="text">
             Copyright &copy; 1999 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
         </div>
@@ -108,10 +117,8 @@
                 themselves and others and have won as much, as they have suffered and lost. They have been the best of comrades. They have been their own worst
                 enemy. There has been death and loss on both sides and there are wounds that will never heal.
             </div>
-				
-				
-            
-    </div>
+		  </div>  <!-- [end books-series-summary div] -->
+		  
 		  <div class="text">
             Copyright &copy; 1999 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
         </div>
@@ -119,8 +126,6 @@
             <div class="return-bottom">
 				<a href="iftmus.php">Return to Iftmus Home Page</a>
 			</div>
-
-
 
 <?php
     include ('../shared/footer.html');            

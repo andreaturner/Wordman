@@ -32,7 +32,7 @@
             <div class="pages">
                 <div id="page1" class="page" style="display: block;">
                     <div class="series-pic-center">
-                        <a href="iftmus-series.php"><img src="../images/iftmus-600x879.jpg" width="600" height="879" alt="Iftmus image"></a>
+                        <a href="iftmus-series.php"><img src="../images/iftmus-579x850.jpg" width="579" height="850" alt="Iftmus image"></a>
                     </div>
                 </div>
     
