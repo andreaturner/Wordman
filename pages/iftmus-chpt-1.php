@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'Iftmus';
+    $page_title = 'Iftmus Chapter 1';
     include ('../shared/header.html');
 ?> 
     <!--<div id="pagination"> -->
@@ -8,10 +8,8 @@
         <div class="header">
             <a href="iftmus.php"><span>I</span>ftmus 
         </div>
-
             
         <div class="keep-it-together"> <!-- start keep-it-together div -->
-        
         
             <style>
                 body {
@@ -29,12 +27,13 @@
                     margin-bottom: 10px;
                 }
             </style>
+            
             <div class="pages">
                 <div id="page1" class="page" style="display: block;">
                     <div class="series-pic-center">
                         <a href="iftmus-series.php"><img src="../images/iftmus-579x850.jpg" width="579" height="850" alt="Iftmus image"></a>
                     </div>
-                </div>
+                </div>  <!-- [end page 1] -->
     
                 <div id="page2" class="page">
                     <div class="prologue-center">
@@ -78,7 +77,7 @@
                         The journey&#39;s first step, say it now&#46;&#46;&#46;<br>
                         <span>There's more to life than us!</span>
                     </div>
-                </div>
+                </div>  <!-- [end page 2] -->
     
                 <div id="page3" class="page">
                         <div class="header-chapter">
@@ -150,7 +149,7 @@
                         they would only take on a cat, if it were weakened, wounded, or an unfortunate cub separated from its pride. More often they stalked small defenseless animals, such as
                         ra-katoos or stray mud-waumps. True to the viciousness of their breed they were also known to turn on the weaker of their own, when hunger prevailed for fail of the hunt.
                     </div>
-                </div>
+                </div>  <!-- [end page 3] -->
     
                 <div id="page4" class="page">
                     
@@ -239,7 +238,7 @@
                         telling!&rdquo;</span>
                         The stones drifted quiet fell back asleep. They would only awaken again for the time of testing.
                     </div>
-                </div>
+                </div>  <!-- [end page 4] -->
     
                 <div id="page5" class="page">
                     <div class="prologue-text"> 
@@ -318,7 +317,7 @@
                     <div class="prologue-text"> 
                         <span class="italic">&ldquo;That no pride or family set itself above any other pride or family. For within the many spirits of cat, the cub of Iftmus shall always be one.&rdquo;</span>
                     </div>
-                </div>
+                </div>  <!-- [end page 5] -->
 
                 <div id="page6" class="page">
                     <div class="prologue-text"> 
@@ -387,7 +386,7 @@
                         Fa-tera looked at Ja-natia Cha-tain and saw herself younger. If only for a moment the old cat&#39;s eyes took on a subtle mist of sad. She gave her head a violent shake, along with a mental
                         reprimand for being so unpredictably weak.
                     </div>
-                </div>
+                </div>  <!-- [end page 6] -->
                 
                 <div id="page7" class="page">
                     <div class="prologue-text-center-italic">
@@ -462,7 +461,7 @@
                         cradled; a feeling that somewhere, something seemed to be enjoying all of this, taking sustenance like a kitten from its mother&#39;s teat. She could feel its consuming greed, its insatiable
                         hunger. It was a hunger that would not stop feeding till all life was sucked dry. 
                     </div>
-                </div>
+                </div>  <!-- [end page 7] -->
 
                 <div id="page8" class="page">
                     <div class="prologue-text"> 
@@ -541,7 +540,7 @@
                      <div class="prologue-text-center-italic">
                         &ldquo;&#46;&#46;&#46;&#46;to dwell in Amas&#39;ka, in the mountains of Pri-hy, above the Saber-wa!&rdquo;
                     </div>
-                </div>
+                </div>  <!-- [end page 8] -->
                 
                 <div id="page9" class="page">
                      
@@ -600,8 +599,7 @@
                         And death shall dine while evil gleans<br>
                         And fear shall plague what evil dreams!
                      </div>
-                    
-                </div>
+                </div> <!-- [end page 9] -->                     
                 
                 <div id="page10" class="page">
                     <div class="prologue-center">
@@ -653,7 +651,7 @@
                         No honor there, save but for some<br>
                         And woe to cat whose soul has none.
                     </div>
-                </div>
+                </div>  <!-- [end page 10] --> 
                 
                 <div id="page11" class="page">
                     <div class="prologue-center">
@@ -727,10 +725,9 @@
                         <span class="italic">&ldquo;The fire of dreams&rdquo;</span> or Ma-chena, <span class="itlaic">&ldquo;The trails of the wind&rdquo;</span> and thus came the abuse
                         nurtured by the ignorance and arrogance of most cat of pure blood. Ch&#39;aun were treated as lesser cat.
                     </div>
-                </div>
+                </div>  <!-- [end page 11] --> 
                 
                 <div id="page12" class="page">
-                    
                     <div class="prologue-text"> 
                         Anger welled up in Fa-tera and it tasted bitter. She had only been given her position by virtue of the arts she wielded and her unexpected ability to mindspeak.
                         If not for that, she would have been, like all other Ch&#39;aun, an outcast from the main body of cat. They were all shunned, often mistreated, until they died
@@ -797,7 +794,7 @@
                         Where were her Shi-kauti for the Du&#39;Moshk? Fa-tera squeezed her eyes shut, quickly enough to stop a single tear from falling. For the first time in her long life,
                         and for however short the rest of it might be, she truly wondered if any of their prayers would ever be heard? 
                     </div>
-                </div>
+                </div>  <!-- [end page 12] --> 
                 
                 <div id="page13" class="page">
                     <div class="prologue-center">
@@ -871,7 +868,7 @@
                         formidable foe, spending more nights than can be counted sharing thoughts and ale.  This may well be the first and only time I have regretted seeking you out, let alone
                         finding you my friend.&rdquo; He shook his head slowly, &ldquo;What has happened to you old one? You left Elbron without so much as a&#46;&#46;&#46; by your leave.&rdquo;
                     </div>
-                </div>
+                </div>  <!-- [end page 13] --> 
                 
                 <div id="page14" class="page">
                     
@@ -954,7 +951,7 @@
                         them for over three spans!&rdquo; The dwarif looked off towards the inns door. &ldquo;What in the name of Opasa is going on?  Has the whole world gone mad since I left?
                         How many have been brought up from reserve?&rdquo;
                     </div>
-                </div>
+                </div>  <!-- [end page 14] --> 
                 
                 <div id="page15" class="page">
                     
@@ -1041,8 +1038,7 @@
                         four as they walked miserably against the brutal wind rains. Both were too tired for idle conversation. Occasional thunder and heavy breathing were the only sounds that
                         interrupted the monotony of tired steps.
                     </div>
-                    
-                </div>
+                </div>  <!-- [end page 15] --> 
                 
                 <div id="page16" class="page">
                     
@@ -1111,10 +1107,9 @@
                         Samone was a mage, a Senku Dwarif and though less ominous in stature, he commanded every bit the same attention and respect. Standing only five forearms tall he weighed
                         an easy two hundred and fifty goldweight and could usually hold his own, even without magic, since much of that weight was muscle.
                     </div>
-                </div>
+                </div>  <!-- [end page 16] --> 
                 
                 <div id="page17" class="page">
-                    
                     <div class="prologue-text"> 
                         As if a part of his rebellious nature he forswore the ornate headband of his trade, preferring to let his long gray hair hang free, over the traditional copra, a long coat
                         emblazoned with the Wizards&#39; Crest. This crest bore the insignia of all four Guilds, the elements each mage had mastered. Samone&#39;s coat displayed the four symbols,
@@ -1205,10 +1200,9 @@
                         to their feeding and watering. The arrangement was far better quarters with the warmth of the animals and the fresh soft hay, and three times more pay than the boy had ever
                         experienced.
                     </div>
-                </div>
+                </div>  <!-- [end page 17] --> 
                 
                 <div id="page18" class="page">
-                    
                     <div class="prologue-text"> 
                         Soon Sagof had opened up and laughed freely whenever he was around Mauldren. The cabin boy&#39;s joy was contagious, as is usually the way of children. The mercenary found
                         himself smiling more as well. Mauldren had cautioned the boy never to mention to anyone the payment he had received. The lad was apparently seasoned, based on his reply.
@@ -1294,10 +1288,9 @@
                        The Ve-enesa docked in Orlaun and Mauldren saw to the unloading of their horses and the payment of fare. Their goodbyes had been said before docking and Mauldren avoided
                        another confrontation if only to avoid the added pain to his own heart.
                     </div>
-                </div>
+                </div>  <!-- [end page 18] --> 
                 
                 <div id="page19" class="page">
-                    
                     <div class="prologue-text"> 
                        Samone was noticeably more rested, yet all the more ill tempered over the captain&#39;s insufficient store of ship&#39;s brandy. To remind the grumpy dwarif that they had
                        held the captains quarters and had eaten the best fare on ship, would have done little good. 
@@ -1376,10 +1369,9 @@
                        older than Axtoph. One such song told of how <span class="italic">&ldquo;&#46;&#46;&#46;she drew the stars to her breast and nurtured from them, the world upon which we
                        stand.&rdquo:</span> 
                     </div>
-                </div>
+                </div>  <!-- [end page 19] -->
                 
                 <div id="page20" class="page">
-                    
                     <div class="prologue-text"> 
                        The queen city, Elbron was a collection of the regions and cultures that were spread out across the Da-ton Empire. Many churches and religions were practiced, but the
                        state religion and by far the most powerful was Icoa. This was a religion of intellectual and spiritual balance, the favored philosophy among the Mages. Consequently the
@@ -1459,10 +1451,9 @@
                        &ldquo;You would think they had better things to do! I never have trusted gossips&#46;&#46;&#46;&rdquo; the old dwarif grumbled, &ldquo;&#46;&#46;&#46;and have you
                        smelled yourself lately?&rdquo;
                     </div>
-                </div>
+                </div>  <!-- [end page 20] -->
                 
                 <div id="page21" class="page">
-                    
                     <div class="prologue-text"> 
                         Mauldren pointed back at himself with raised eyebrows, as if innocently questioning the possibility of his own offense. He then turned more serious. &ldquo;You&#39;ve
                         been absent a fair time, and if I&#39;m not mistaken, you left without much notice nor explanation before several important votes.&rdquo; He turned and surveyed the room
@@ -1549,10 +1540,9 @@
                        Samone grabbed two goblets of warmed wine right off a tray as the servant passed by him. The pleased look on the old dwarif&#39;s face was much that of a child successfully
                        filching his first fresh-baked pie at a street fair.
                     </div>
-                </div>
+                </div>  <!-- [end page 21] -->
                 
                 <div id="page22" class="page">
-                    
                     <div class="prologue-text"> 
                        Mauldren noticed Urista stealing glances at his friend while Samone was distracted gathering food and beverage. Her eyes betrayed a cross of both admiration and hurt.
                        The mercenary looked away quickly as she turned her gaze on him. When he looked up again she was smiling benignly and her eyes had gone expressionless. She motioned
@@ -1636,10 +1626,9 @@
                        Messages are being constantly sent back to the mountains. Unfortunately we have little or no information about that end of their operation. This has all happened very
                        fast and with such ferocity that we are still scrambling to keep up.&rdquo;
                     </div>
-                </div>
+                </div>  <!-- [end page 22] -->
                 
                 <div id="page23" class="page">
-                    
                     <div class="prologue-text"> 
                        &ldquo;Fifty-thousand strong? T&#39;would have to account for more than half of the adult population of that whole cursed race!&rdquo; Mauldren had returned and brought another
                        goblet as well for Samone. The old dwarif took it quickly, but the look he gave his friend indicated that the earlier issue was neither over nor forgiven. Mauldren stepped
@@ -1720,10 +1709,9 @@
                        Urista had to give her tower guards credit, if not for loyalty than just plain stupidity. A joke among the Elbron elite was, <span class="italic">&ldquo;I&#39;d rather
                        catch and hold a storm swollen river than try to do the same to one angry Trolya. At least with the river you stand a chance.&rdquo;</span>
                     </div>
-                </div>
+                </div>  <!-- [end page 23] -->
                 
                 <div id="page24" class="page">
-                    
                     <div class="prologue-text"> 
                        The dying warrior walked slowly, his feet shuffling, dragging bloodstains. He staggered until he reached the group and went to one knee in front of them.
                     </div>
@@ -1806,10 +1794,9 @@
                        were at stake. Quietly, if not sadly, the words slipped out. &ldquo;I will do what must be done to protect Elbron.&rdquo; Her eyes flashed steel, as sharp as any sword
                        blade but something deep behind those eyes pleaded for forgiveness.
                     </div>
-                </div>
+                </div>  <!-- [end page 24] -->
                 
                 <div id="page25" class="page">
-                    
                      <div class="prologue-text"> 
                        Suddenly the stalemate was shattered! Lere&#39;yll screamed and fell to the floor, her fragile body thrashing against the marble stone as she mumbled unintelligible phrases.
                        Parts of the language, Samone recognized as the ancient tongue he&#39;d learned during his stay in the Aleation Forests. The dwarif was over to her faster than his size
@@ -1842,10 +1829,9 @@
                        Without another word she whirled and left Mauldren and the two Denrus guards still facing each other off in an empty room. They stood blinking at each other; they finally
                        shrugged, and slowly put their swords to rest.
                     </div>
-                </div>
+                </div>  <!-- [end page 25] -->
                 
                 <div id="page26" class="page">
-                    
                     <div class="prologue-center">
                         <span class="italic larger">Part III</span>
                     </div>
@@ -1918,11 +1904,9 @@
                         A&#39;brean Temple of the infidel king of Babylon, wresting from it the sacred Gildna Staff, the very staff that accompanied the accursed bitch priestess visiting
                         every harvest from the vile Temple of Bast in Egypt.
                     </div>
-                    
-                </div>
+                </div> <!-- [end page 26] -->
                 
                 <div id="page27" class="page">
-                    
                     <div class="prologue-text">
                         It had not been too hard to find a convert among the priestess&#39;s entourage. One such, Etoshia, had proven a valuable pawn and after many long years of recruiting
                         and planning, the Gildna Staff had indeed been wrested and now belonged to the Shinghaut Temple and the new god Baushra&#39;. Through the staff, Baushra&#39; spoke to
@@ -1968,12 +1952,8 @@
                         Fresh oil was poured on the stone alter. It would burn long after the screams of those who lay in it. Aumerabi looked towards the doors and heard the cries for mercy ever
                         closer. The hunched little man stopped chanting, long enough to smile.
                     </div>
-                    
-                </div>
-                
-                
+                </div> <!-- [end page 27] -->
             </div>
-      
           
       </div><!-- end keep-it-together div -->
       <!--</div> end div id="pagination" div -->
