@@ -5,15 +5,15 @@
     <div class="content">
 
         <div class="header">
-            <a href="iftmus-series.php"><span>I</span>ftmus</a>
+            <a href="iftmus-chpt-1.php"><span>I</span>ftmus</a>
         </div>
 
         <div class="series-pic-center">
-            <a href="iftmus-series.php"><img src="../images/iftmus-cover-934x700.jpg" width="934" height="700" alt="Iftmus image"></a>
+            <a href="iftmus-chpt-1.php"><img src="../images/iftmus-cover-934x700.jpg" width="934" height="700" alt="Iftmus image"></a>
         </div>
                           
             <div class="header-excerpts">
-                Glossary
+                The Three World Saga
             </div>
             
         <div id="glossary">

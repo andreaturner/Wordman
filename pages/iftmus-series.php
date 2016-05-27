@@ -5,9 +5,19 @@
     <div class="content">
         <div class="book-series-summary">
             <div class="header">
-                <a href="iftmus-chpt-1.php">Iftmus</a>
+                <a href="iftmus.php">Iftmus</a>
             </div>
             <br>
+				<div class="small-header">
+                <a href="iftmus.php">The Three World Saga</a>
+            </div>
+				
+            <div class="series-pic-iftmus">
+                <a href="iftmus.php"><img src="../images/iftmus-cover-333x250.jpg" width="333" height="250" alt="Prologue Image" /></a>
+            </div>
+		  </div>
+			
+			<div class="book-series-summary">	
             <div class="small-header">
                 <a href="iftmus-chpt-1.php">Book I&nbsp;&nbsp; Iftmus: Of Dreams Like Mist</a>
             </div>
