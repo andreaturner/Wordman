@@ -6,7 +6,7 @@
         <div class="content">
 
         <div class="header">
-            <a href="iftmus.php"><span>I</span>ftmus 
+            <a href="iftmus.php"><span>I</span>ftmus <span>C</span>hapter <span>1</span>
         </div>
             
         <div class="keep-it-together"> <!-- start keep-it-together div -->

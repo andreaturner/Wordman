@@ -53,7 +53,7 @@
             <div class="small-header">
                 <a href="iftmus-book2.php">Book II&nbsp; Axtoph: To Embrace The Night</a>
             </div>
-            <div class="series-pic">
+            <div class="series-pic-iftmus">
                 <a href="iftmus-book2.php"><img src="../images/iftmus-to-embrace-the-night-328x250.jpg" width="328" height="250" alt="To Embrace The Night Image" /></a>
             </div>
             <div class="series-text-axtoph">
@@ -76,7 +76,7 @@
             <div class="small-header">
                 <a href="iftmus-book3.php">Book III Terra: To Chase A Shadow</a>
             </div>
-            <div class="series-pic">
+            <div class="series-pic-iftmus">
                 <a href="iftmus-book3.php"><img src="../images/iftmus-to-chase-a-shadow-283x250.jpg" width="283" height="250" alt="To Chase A Shadow Image" /></a>
             </div>
             <div class="series-text-axtoph">
@@ -101,7 +101,7 @@
             <div class="small-header">
                 <a href="iftmus-book4.php">Book IV Return To Iftmus: That None Shall Remain</a>
             </div>
-            <div class="series-pic">
+            <div class="series-pic-iftmus">
                 <a href="iftmus-book4.php"><img src="../images/iftmus-that-none-shall-remain-312x250.jpg" width="312" height="250" alt="That None Shall Remain Image" /></a>
             </div>
             <div class="series-text-axtoph">
@@ -123,7 +123,7 @@
         </div>
                         
             <div class="return-bottom">
-				<a href="iftmus.php">Return to Iftmus Home Page</a>
+				<a href="iftmus.php">Continue to Chapter 1</a>
 			</div>
 
 <?php
