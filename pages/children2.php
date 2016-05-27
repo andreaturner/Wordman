@@ -19,17 +19,17 @@
                     overflow: hidden;
                     margin-bottom: 10px;
                 }
-        </style>
-		  <div class="pager">
+            </style>
+		  <div class="pages">
             <div id="page1" class="page" style="display: block;">
 		  <div class="header">
 				<a href="under-construction.php"><span>C</span>hildren&#39;s  <span>B</span>ooks</a>
 		  </div>
 		  <div class="book-series-summary">
-				<div class="header">
+				<div class="small-header">
 					 <span>M</span>r. <span>B</span>.<span>E</span>.<span>R</span>.
 				</div>
-            <div class="small-header">
+            <div class="smaller-header">
                 (Five Book Children's Series)
             </div>
             <div class="series-pic-iftmus">
@@ -75,10 +75,9 @@
 									 Copyright &copy; 2000 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
 								</div>
 					 </ul>
-            </div>  <!-- [end series-text-children div] -->
+            </div>
         </div>  <!-- [end books-series-summary div] -->
 	 </div>  <!-- [end page 1] -->
-		  
 				
 		  <div id="page2" class="page">
 				<div class="book-series-summary">
@@ -89,39 +88,16 @@
 					 <div class="series-pic-iftmus">
 						  <a href="under-construction.php"><img src="../images/the-monster-there-189x250.jpg" width="185" height="250" alt="The B.E.R. Who Couldn't Afford Christmas Image" /></a>
 					 </div>
+					 
+				</div>  <!-- [end books-series-summary div] -->
 				
 				<div class="text">
 					 Copyright &copy; 1987 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
 				</div>
-				
-				</div>  <!-- [end books-series-summary div] -->
-		  </div>  <!-- [end page 2] -->
+				</div>  <!-- [end page 2] -->
+		  
 	 </div> <!-- [end pages div] -->
-	 
-	
-     
-	 <script type="text/javascript" src="../scripts/jquery-1.11.3.js"></script>
-    <script type="text/javascript" src="../scripts/jquery.simplePagination.js"></script>
-    
-    <script>
-        $(function() {
-            var currentPage = 1;
-            $(".pager").pagination({
-                items: 4,
-                itemsOnPage: 1,
-                cssStyle: 'light-theme',
-                onPageClick: onPageClick
-            });
-            
-            function onPageClick(pageNumber, event) {
-                $("#page" + currentPage).hide();
-                $("#page" + pageNumber).show();
-                currentPage = pageNumber;
-            }
-        });
-    </script>     
-      
-<div class="pager"></div>   
+        
         
         
  <?php

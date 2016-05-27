@@ -158,7 +158,6 @@ a:hover {
     font-size: 130%;
 }
 
-
 .header-left-books span {
      font-size: 130%; font-size: 130%;
 }
@@ -1103,9 +1102,21 @@ a:hover {
     text-indent: 2.5%;
 }
 
+.series-text-children {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    width: 60%;
+    text-indent: 2.5%;
+}
+
 .series-text-axtoph span {
     font-size: 130%;
 }
+
 
 
 .series-text-alyssia {
@@ -1512,13 +1523,24 @@ a:hover {
 }
 
 #pagination {
-    
 }
 
 .ul {
-   list-style-type: none; 
+   list-style-type: none;
+   padding-left: 1%;
 }
 
 .ul span {
     font-size: 130%;
+}
+
+.ul li {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.ul p {
+    font-size: large;
+    text-align: left;
+    padding-left: 3%;   
 }
