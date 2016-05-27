@@ -105,10 +105,9 @@
                     forced to sleep so that &ldquo;Ever&#39;ice&rdquo;, may live on past his season.    
                 </div>
             </div>
-                
-                
-    </div>  <!-- end content div -->
-
 <?php
     include ('../shared/footer.html');            
-?>     
+?>            
+    </div>  <!-- end content div -->
+
+    

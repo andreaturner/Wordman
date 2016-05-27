@@ -65,11 +65,12 @@
                     <span class="large">A</span>re guilty of heresy and shall be judged,<br>
                     alongside the accused, and sentenced to the same.&rdquo;
                 </div>
+            </div>
             
                 <div class="text">
                     Copyright &copy; 2013 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
                 </div>
-            </div>
+            
            
            <div class="book-series-alyssia">
                 <div class="small-header">
@@ -94,11 +95,9 @@
                     <span class="large">A</span>s a side note, I find it amusing,<br>
                     <span class="large">I</span>n a world that offers far too little amusement,<br>
                     <span class="large">T</span>o use this analogy of drowning and swimming<br>
-                </div>
-                <div class="poem-present-last">
                     <span class="large">O</span>n those of us who live here in the desert&#33;&rdquo;<br>
                 </div>
-                </div>
+            </div>
                 
                     <br>
                     <br>
@@ -109,6 +108,4 @@
         </div>
   
     
-<?php
-    include ('../shared/footer.html');            
-?>     
+   

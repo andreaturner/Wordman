@@ -130,8 +130,8 @@
             <div class="read-more">
                 <a href="sholama-tears-of-the-river-book4.php">Read more!</a>
             </div>
-    </div>
     
 <?php
     include ('../shared/footer.html');            
-?>     
+?>
+    </div>

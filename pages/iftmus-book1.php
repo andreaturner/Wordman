@@ -5,11 +5,11 @@
 
     <div class="content">
         <div class="header">
-            <span>O</span>f <span>D</span>reams <span>L</span>ike <span>M</span>ist
+            <a href="iftmus-chpt-1.php"><span>O</span>f <span>D</span>reams <span>L</span>ike <span>Mist</span></a>
         </div>
         
         <div class="series-pic-dreams-like-mist">
-            <img src="../images/iftmus-of-dreams-like-mist-353x500.jpg" width="353" height="500" alt="Of Dreams Like Mist Illustration">
+            <a href="iftmus-chpt-1.php"><img src="../images/iftmus-of-dreams-like-mist-353x500.jpg" width="353" height="500" alt="Of Dreams Like Mist Illustration"></a>
         </div>
         
         <div class="series-text-book-iftmus">

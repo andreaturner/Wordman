@@ -6,7 +6,7 @@
         <div class="content">
 
         <div class="header">
-            <a href="iftmus.php"><span>I</span>ftmus</a>
+            <a href="iftmus.php"><span>I</span>ftmus 
         </div>
 
             

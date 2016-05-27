@@ -55,8 +55,9 @@
             <div class="series-pic-about-bottom">
                     <img src="../images/wedding-302x400.jpg" width="302" height="400" alt="Eric and Leslie Koch Image" /></a>
             </div> 
-    </div>
+    
        
 <?php
     include ('../shared/footer.html');            
-?>     
+?>
+</div>
