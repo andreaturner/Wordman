@@ -354,7 +354,7 @@
                         
                         <dt>Nage</dt>
                             <dd>
-                                Daniel and Joshua’s large silver blue gray cat who due to his Abyssinian blood can mind talk with the boys. It is that bloodline that makes him the
+                                Daniel and Joshua&#39;s large silver blue gray cat who due to his Abyssinian blood can mind talk with the boys. It is that bloodline that makes him the
                                 &ldquo;magic&#39;s&rdquo; from the first world Iftmus, fulfilling and taking his place among the prophesied nine.
                             </dd>
                         <dt>Nau</dt>
@@ -437,7 +437,7 @@
                             </dd>
                         <dt>Samone</dt>
                             <dd>
-                                <span>(Sa&#39;moan)</span> The two hundred and fifty span old Dwarif wizard whose secret commits him to be the “magic’s” from the second world Axtoph, fullfilling
+                                <span>(Sa&#39;moan)</span> The two hundred and fifty span old Dwarif wizard whose secret commits him to be the &ldquo;magic&#39;s&rdquo; from the second world Axtoph, fullfilling
                                 and taking his place among the prophesied nine. from Axtoph.
                             </dd>
                         <dt>Sere&#39;rmn</dt>
@@ -446,7 +446,7 @@
                             </dd>
                         <dt>Sescua Madawn</dt>
                             <dd>
-                                Son of land owner, brother of Pro’tesna Madawn who caught the eye of Sa-mabum Makta, second under Aumerabi Istaer.
+                                Son of land owner, brother of Pro&#39;tesna Madawn who caught the eye of Sa-mabum Makta, second under Aumerabi Istaer.
                             </dd>
                         <dt>Shanlo</dt>
                             <dd>
@@ -620,7 +620,7 @@
                         <dt>Guild</dt>
                             <dd>
                                 A term of measurement or accomplishment used by most crafts but in this case the Mages in the Three Towers of Elbron on Axtoph. There are four guilds, one
-                                for each of the elements, earth, air, fire and water. A mage’s status is based on the guilds they have mastered which are displayed in some way upon their attire.
+                                for each of the elements, earth, air, fire and water. A mage&#39;s status is based on the guilds they have mastered which are displayed in some way upon their attire.
                             </dd>
                        <dt>Gua-tost</dt>
                             <dd>
@@ -1187,7 +1187,7 @@
                         </div>
                         
                         <div class="prologue-text">
-                            Though he struggled and cursed it was to no avail!  The Mage walked up to the captive Elv. He waited until the prisoner finally raised his head and their eyes met. &ldqup;Whatever possessed you Etue? Did you think we would
+                            Though he struggled and cursed it was to no avail!  The Mage walked up to the captive Elv. He waited until the prisoner finally raised his head and their eyes met. &ldquo;Whatever possessed you Etue? Did you think we would
                             not divine the purpose of this vile artifact of yours?&rdquo;
                         </div>
                         
@@ -1362,14 +1362,9 @@
         </div> <!-- end content class div -->
 		  </div> <!-- end content id div -->
 		  
-	  
-		  
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
-<!-- jquery library -->
-		<!--<script src="../scripts/jquery-1.11.3.js"></script> -->
-		
 		<!-- jQuery UI library -->
 		<script src="../scripts/jquery-ui/jquery-ui.min.js"></script>
 		

@@ -20,7 +20,7 @@
                     margin-bottom: 10px;
                 }
         </style>
-		  <div class="pager">
+		  
             <div id="page1" class="page" style="display: block;">
 		  <div class="header">
 				<a href="under-construction.php"><span>C</span>hildren&#39;s  <span>B</span>ooks</a>
@@ -87,7 +87,7 @@
 					 </div>
 					 
 					 <div class="series-pic-iftmus">
-						  <a href="under-construction.php"><img src="../images/the-monster-there-189x250.jpg" width="185" height="250" alt="The B.E.R. Who Couldn't Afford Christmas Image" /></a>
+						  <a href="under-construction.php"><img src="../images/the-monster-there-378x500.jpg" width="378" height="500" alt="The Monster There Under My Bed Image" /></a>
 					 </div>
 				
 				<div class="text">
@@ -96,9 +96,6 @@
 				
 				</div>  <!-- [end books-series-summary div] -->
 		  </div>  <!-- [end page 2] -->
-	 </div> <!-- [end pages div] -->
-	 
-	
      
 	 <script type="text/javascript" src="../scripts/jquery-1.11.3.js"></script>
     <script type="text/javascript" src="../scripts/jquery.simplePagination.js"></script>
