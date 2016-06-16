@@ -33,7 +33,7 @@
                 (Five Book Children's Series)
             </div>
             <div class="series-pic-iftmus">
-                <a href="iftmus-chpt-1.php"><img src="../images/no-christmas-353x500.jpg" width="353" height="500" alt="The B.E.R. Who Couldn't Afford Christmas Image" /></a>
+                <a href="under-construction.php"><img src="../images/no-christmas-353x500.jpg" width="353" height="500" alt="The B.E.R. Who Couldn't Afford Christmas Image" /></a>
             </div>
             <div class="series-text-children">
                 <ul class="ul">
@@ -89,6 +89,17 @@
 					 <div class="series-pic-iftmus">
 						  <a href="under-construction.php"><img src="../images/the-monster-there-378x500.jpg" width="378" height="500" alt="The Monster There Under My Bed Image" /></a>
 					 </div>
+					 
+					 <div class="series-text-monster">
+						  It started for me,<br>
+						  Oh&#46;&#46;&#46; I must have been three,<br>
+						  Those nights lying in bed trying to sleep.<br>
+						  Tucked in at my toes,<br>
+						  Blanket pulled to my nose,<br>
+						  Fingers clutching and holding my sheet.<br>
+						  
+						  
+					 </div>  <!--[end series-text-monster div] -->
 				
 				<div class="text">
 					 Copyright &copy; 1987 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.

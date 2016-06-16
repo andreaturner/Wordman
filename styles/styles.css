@@ -1113,6 +1113,16 @@ a:hover {
     text-indent: 2.5%;
 }
 
+.series-text-monster {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: center;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    width: 60%;
+}
+
 .series-text-axtoph span {
     font-size: 130%;
 }
