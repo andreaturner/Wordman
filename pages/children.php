@@ -87,7 +87,20 @@
 					 </div>
 					 
 					 <div class="series-pic-iftmus">
-						  <a href="under-construction.php"><img src="../images/the-monster-there-378x500.jpg" width="378" height="500" alt="The Monster There Under My Bed Image" /></a>
+						  <img src="../images/the-monster-there-378x500.jpg" width="378" height="500" alt="The Monster There Under My Bed Image" /></a>
+					 </div>
+				
+					 <div class="series-text-monster">
+						  <span class="italic">This story dedicated to<br>
+						  Reese Koch, our first grandson,<br>
+						  Still early in the womb.<br>
+						  I wrote this Reese&#46;&#46;&#46; before you were conceived.<br>
+						  I dedicate it to you before you took your first breath.<br>
+						  You were and are, an anticipated joy, a gift&#46;&#46;&#46;<br>
+						  And I&#39;m sure you will be a match<br>
+						  For any monster there under your bed!
+						  </span>
+						  <br><br><br>
 					 </div>
 					 
 					 <div class="series-text-monster">
@@ -234,6 +247,57 @@
 					 
 					 <div class="series-pic-iftmus">
 						  <img src="../images/the-once-little-breeze-377x500.jpg" width="377" height="500" alt="The Once Little Breeze Image" /></a>
+					 </div>
+				
+					 <div class="series-text-monster">
+						  <span class="italic">This story dedicated<br>
+						  To Lee and Dale Beasley,<br>
+						  Two mentors and friends<br>
+						  Whose faith and enthusiasm<br>
+						  Were sun and water to a seedling.<br>
+						  Thank you both for being<br>
+						  Kind friends and good teachers!
+						  </span>
+						  <br><br><br>
+					 </div>
+				
+					 <div class="prologue-text">
+						  If any wind could be jealous, then without a doubt this certain little breeze would be among the many to claim such feelings. On a feather soft
+						  autumn day it ravaged newly raked leaf piles with imaginings of great strength, as if lifting the waves of a mighty ocean and tossing them every
+						  direction. It would blow against the stubborn flowers, bending them, even as bigger winds would bend supple trees. But alas, every daydream was ever
+						  shattered by the sounds of people laughing while lifting their collars against the little breeze&#39;s face. Even the delighted screams of children, as
+						  they watched their kites soar and bob, seemed to mock its wishful thinking.
+					 </div>
+					 
+					 <div class="prologue-text">
+						  All of this was so hard for the little breeze to bear. <span class="italic">&ldquo;Why can't I,&rdquo;</span> it would breathe, <span class="italic">&ldquo;
+						  Why can't I be like the mighty wind who can turn the face of the strongest and ice the heart of the bravest? For if that were so, I would do more than
+						  just rattle windows and bend river reeds that stood in my way! But alas,&rdquo;</span> it would sadly say, <span class="italic">&ldquo;a breeze is just a
+						  breeze.&rdquo;</span> and so try to content itself with leaves and small bits of paper, tossed so casually aside by the bigger winds.
+					 </div>
+					 
+					 <div class="prologue-text">
+						  
+					 </div>
+					 
+					 <div class="prologue-text">
+						  
+					 </div>
+					 
+					 <div class="prologue-text">
+						  
+					 </div>
+					 
+					 <div class="prologue-text">
+						  
+					 </div>
+					 
+					 <div class="prologue-text">
+						  
+					 </div>
+					 
+					 <div class="prologue-text">
+						  
 					 </div>
 					 
 					 
