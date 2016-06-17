@@ -377,6 +377,10 @@ a:hover {
 
 /* span tags */
 
+.bold {
+    font-weight: 700;
+}
+
 .italic {
     font-style: italic;
 }
@@ -387,6 +391,11 @@ a:hover {
 
 .large {
     font-size: 130%;
+}
+
+.large-120 {
+    font-size: 120%;
+    font-weight: 700;
 }
 
 .larger {
@@ -1115,9 +1124,8 @@ a:hover {
 
 .series-text-monster {
     font-family:'Lora', serif;
-    font-size: large;
+    font-size: x-large;
     text-align: center;
-    padding-left: 90px;
     float: left;
     margin: auto;
     width: 60%;
@@ -1126,8 +1134,6 @@ a:hover {
 .series-text-axtoph span {
     font-size: 130%;
 }
-
-
 
 .series-text-alyssia {
     font-family:'Lora', serif;
@@ -1242,7 +1248,7 @@ a:hover {
     margin: auto;
     overflow: auto;
     width: 50%;
-    text-indent: 1.5%;.foo
+    text-indent: 1.5%;
 }
 
 .series-text-past-80 {

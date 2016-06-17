@@ -82,7 +82,7 @@
 				
 		  <div id="page2" class="page">
 				<div class="book-series-summary">
-					 <div class="small-header">
+					 <div class="header">
 						  <span>T</span>he <span>M</span>onster <span>T</span>here <span>U</span>nder <span>M</span>y <span>B</span>ed
 					 </div>
 					 
@@ -96,17 +96,153 @@
 						  Those nights lying in bed trying to sleep.<br>
 						  Tucked in at my toes,<br>
 						  Blanket pulled to my nose,<br>
-						  Fingers clutching and holding my sheet.<br>
-						  
-						  
+						  Fingers clutching and holding my sheet.
+						  <br><br>
+						  It was hard to be brave<br>
+						  But my parents would say<br>
+						  &ldquo;Don&#39;t be silly it&#39;s all in your head!&rdquo;<br>
+						  But I knew it was true<br>
+						  As you might know too it was,<br>
+						  <span class="large-120">The Monster</span><br>
+						  <span class="large-120">There Under My Bed.</span>
+						  <br><br>
+						  No matter what they would say<br>
+						  The sounds gave it away<br>
+						  As I lay there alone in the dark.<br>
+						  There were crackles and thumps<br>
+						  And whooshes and bumps<br>
+						  Not to mention my own pounding heart.<br>
+						  <br>
+						  Scared to the bone<br>
+						  I would lay there alone<br>
+						  And at times with my kitty named Fred.<br>
+						  Wishing he&#39;d be<br>
+						  A tiger for me, &#39;gainst<br>
+						  <span class="large-120">The Monster</span><br>
+						  <span class="large-120">There Under My Bed.</span>
+						  <br><br>
+						  It&#39;s true what they say<br>
+						  Things don&#39;t go away<br>
+						  Just because you are shutting your eyes.<br>
+						  I&#39;m sure I was dreaming<br>
+						  Those times I was screaming<br>
+						  &#39;Cause brave kids we try not to cry.<br>
+						  <br>
+						  In the dark shadowed night<br>
+						  With barely no light<br>
+						  Covered up to the eyes in my head.<br>
+						  I could plug both my ears<br>
+						  But still I would hear<br>
+						  <span class="large-120">The Monster</span><br>
+						  <span class="large-120">There Under My Bed.</span>
+						  <br><br>
+						  Oh my monster was smart<br>
+						  And I knew in my heart<br>
+						  That I&#39;d never convince anyone.<br>
+						  So I&#39;d lay there and shiver<br>
+						  And sweat like a river<br>
+						  Wanting to cry out or run.<br>
+						  <br>
+						  Kisses and hugs,<br>
+						  Pleasant dreams and goodnight<br>
+						  Couldn&#39;t save me, I knew that instead,<br>
+						  It came down to me<br>
+						  All alone in the dark, with<br>
+						  <span class="large-120">The Monster</span><br>
+						  <span class="large-120">There Under My Bed.</span>
+						  <br><br>
+						  By the time I reached four<br>
+						  I decided no more<br>
+						  This monster and I&#39;ll have it out!<br>
+						  Oh you would have been proud<br>
+						  To be part of the crowd,<br>
+						  Cheering my bravery no doubt.<br>
+						  <br>
+						  With my old plastic bat<br>
+						  And a flashlight at that<br>
+						  My plan now was moving ahead.<br>
+						  I would creep slowly &#39;round<br>
+						  Indeed, hunt it right down,<br>
+						  <span class="large-120">The Monster</span><br>
+						  <span class="large-120">There Under My Bed.</span>
+						  <br><br>
+						  The full moon was bright<br>
+						  Through the window that night<br>
+						  As the shadows of tree branches waved.<br>
+						  Spurring me on<br>
+						  Saying &ldquo;Let it be done,<br>
+						  This is it, go ahead now be brave.&rdquo;<br>
+						  <br>
+						  The noises were there,<br>
+						  And at first I was scared,<br>
+						  But I gulped and I swallowed my dread.<br>
+						  &ldquo;Have it out!&rdquo; was the call<br>
+						  &ldquo;End it once and for all!.&rdquo; with<br>
+						  <span class="large-120">The Monster</span><br>
+						  <span class="large-120">There Under My Bed.</span>
+						  <br><br>
+						  Slowly I crept<br>
+						  To the foot of my bed,<br>
+						  Trying not to make any sound.<br>
+						  If there could just be<br>
+						  A hundred more me&#39;s,<br>
+						  Maybe then we could all<br>
+						  Just surround it.<br>
+						  <br>
+						  The bed seemed to loom<br>
+						  In that dark scary room,<br>
+						  Whatever got into my head?<br>
+						  Only fools would suggest<br>
+						  That you go on a quest for<br>
+						  <span class="large-120">The Monster</span><br>
+						  <span class="large-120">There Under My Bed.</span>
+						  <br><br>
+						  But I couldn&#39;t stop<br>
+						  As much as I wished<br>
+						  That I could, it was all just too late.<br>
+						  The monster was stirring<br>
+						  No doubt it was luring<br>
+						  Me onward now; on toward my fate.<br>
+						  <br>
+						  My mouth was so dry<br>
+						  Why this might be goodbye,<br>
+						  At my funeral would these words be read?<br>
+						  <span class="italic">&ldquo;This child was a hero<br>
+						  Who acted to save us!&rdquo; from</span><br>
+						  <span class="bold">The monster there under my bed.</span><br>
+						  <br>
+						  I threw back the cover<br>
+						  And there did discover<br>
+						  The monster there under my bed&#46;&#46;&#46;<br>
+						  Was none other than,<br>
+						  And probably always had been,<br>
+						  My own little kitty named Fred!<br>
+						  <br>
+				
+					 <div class="text">
+						  Copyright &copy; 1987 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
+					 </div>
 					 </div>  <!--[end series-text-monster div] -->
-				
-				<div class="text">
-					 Copyright &copy; 1987 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
-				</div>
-				
 				</div>  <!-- [end books-series-summary div] -->
-		  </div>  <!-- [end page 2] -->
+		  </div>  <!-- [end page 2 -->
+		  
+		  <div id="page3" class="page">
+				<div class="book-series-summary">
+					 <div class="header">
+						  <span>T</span>he <span>O</span>nce <span>L</span>ittle <span>B</span>reeze 
+					 </div>
+					 
+					 <div class="series-pic-iftmus">
+						  <img src="../images/the-once-little-breeze-377x500.jpg" width="377" height="500" alt="The Once Little Breeze Image" /></a>
+					 </div>
+					 
+					 
+					 <div class="text">
+						  Copyright &copy; 1999 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span> &nbsp/&nbsp;All rights reserved.
+					 </div>
+					 </div>  <!--[end series-text-monster div] -->
+				</div>  <!-- [end books-series-summary div] -->
+		  </div>  <!-- [end page 3] -->
      
 	 <script type="text/javascript" src="../scripts/jquery-1.11.3.js"></script>
     <script type="text/javascript" src="../scripts/jquery.simplePagination.js"></script>
@@ -131,7 +267,6 @@
       
 <div class="pager"></div>   
         
-        
- <?php
+<?php
     include ('../shared/footer.html');            
 ?>         
