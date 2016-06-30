@@ -1,16 +1,101 @@
-<?php
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     
-    $page_title = 'Wordman Enterprise';
-    include_path = '../shared/';
-    $include = "header.html";
-    
-?> 
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		  <meta name="keywords" content="Eric, Koch, Eric Koch, Wordman, Eric Koch-Wordman, author, songwriter, poet, musician, photographer, writer, children's books, novels, series">
+        <title><?php echo $page_title; ?></title>
+        <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+        <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+        <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+        <link rel="shortcut icon" type="image/x-icon" href="/images/w_circle_logo_QM9_icon.ico" />
+        <link href='http://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="/styles/MyFontsWebfontsKit.css">
+        <link rel="stylesheet" href="styles/styles.css" type="text/css" />
+        <link rel="stylesheet" href="styles/styles1.css" type="text/css" />
+		  <link type="text/css"  href="styles/simplePagination.css" rel="stylesheet"/>
+        
+    </head>
+    <body>
+        <div class="wrapper">
+        <header style="position: relative;">
+            <div class="logo">
+                <a href="#"><img src="images/w-logo-plain.png" width="150" height="150" alt="Wordman Logo" /></a>
+            </div>
+            <div>
+                <div class="eric-koch">
+                    <span>E</span>ric <span>K</span>och
+                </div>
+                <div class="smaller-header">
+                    <span>W</span>ordman <span>E</span>nterprise
+                </div>
+                <div class="small-header">
+                    Author / Songwriter / Photographer
+                </div>
+            </div>
+        </header>
+        
+            <div class="nav">
+                <nav>
+                    <ul id="menu">
+                        <li><a href="#" target="_blank">Home</a></li>
+                        <li>/</li>
+								<li><a href="pages/novels.php" target="_blank">Novels</a></li>
+								<li>/</li>
+								<li><a href="pages/children.php" target="_blank">Children's Books</a></li>
+								<li>/</li>
+								<li><a href="pages/short-stories.php" target="_blank">Short Stories</a></li>
+								<li>/</li>
+								<li><a href="pages/essays-collections.php" target="_blank">Essays &amp; Collections</a></li>
+								<li>/</li>
+								<li><a href="pages/plays-screenplays.php" target="_blank">Plays &amp; Screenplays</a></li>
+								<li>/</li>
+								<li><a href="pages/music-albums-performances.php" target="_blank">Music, Albums &amp; Performances</a></li>
+								<li>/</li>
+								<li><a href="pages/about.php" target="_blank">Biography &amp; Credits</a></li>
+								<li>/</li>
+								<li><a href="pages/contact.php" target="_blank">Guest Book</a></li>                
+                    </ul>
+                </nav>
+            </div>
+           
+        <!-- Page specific content goes here -->
+ 
         <div class="content">
-            <div class="photo-cover">
+            <div class="image-border">
                 <img src="images/eric-standing.jpg" width="480" height="605" "alt="Eric Standing" />
             </div>
-        ></div>    
-<?php
-    include ('../shared/footer.html');            
- ?>     
+            
+            <section>
+            
+                <div class="contact-text">
+                    <span class="italic"><span class="large">&ldquo;A</span>s we get older, nature would have us trade off some of our youthful bravado for
+                    the pursuit of more insight and self-growth. Why we fight it so hard is a different issue for another time. Still, one truth remains; when
+                    we stop engaging and questioning ourselves we are more often destined to wither and die.
+                    </span>
+                </div>
+                
+                <div class="contact-text">
+                    <span class="italic"><span class="large">C</span>onsider us blessed to be part of an age where information is at our fingertips.
+                    Consider us cursed when misinformation is equally as accessible.
+                    </span>
+                </div>
+                
+                <div class="contact-text">
+                    <span class="italic"><span class="large">W</span>hether we use or abuse our resources is still a question in the wind. We all need to change,
+                    we all need to adapt, as desperately as any species that is so endangered.&rdquo;
+                    </span>
+                </div>
+            
+           </section>
+            
+            <div class="credit">
+                    <span>E</span>ric <span>K</span>och
+            </div>  <!-- [closes credit div] -->
+        </div>  <!-- [closes content div] -->
+    </div>  <!-- [closes wrapper div] -->
+   </body>
+</html>
+       
+
        
