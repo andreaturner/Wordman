@@ -1,0 +1,1591 @@
+/* general page style */
+/*html {
+    min-height: 100%;
+    position: relative;
+}*/
+
+/*div {
+    border: 1px solid red;
+}*/
+html, body {
+    font-size: larger;
+    color: #000;
+    font-family:'Lora', serif;
+    /*background-image: url("../images/brushedsteel5.jpg");*/
+    background-color: #eee;
+    /*background-repeat: repeat-y;*/
+    margin:0;
+    padding:0;
+    height:95%;
+}
+
+.main {
+    width: auto;
+    margin: 0 auto;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100%;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow: auto;
+    /*position: relative;
+    height: 100%;*/
+}
+
+.content {
+   overflow: auto;
+   padding-bottom: 20px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd span {
+    font-style: italic;
+}
+
+.keep-it-together {
+    overflow: auto;
+}
+
+.keep-it-together-80 {
+    overflow: auto;
+    width: 80%
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9F000F;
+    text-decoration: underline;
+}
+
+.header {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.header-130 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;   
+}
+
+.header-novel {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.header-credit {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.header-novel span {
+    font-size: 130%;
+}
+
+.header-credit span {
+    font-size: 130%;
+}
+
+.header span {
+    font-size: 130%;
+}
+
+.header-left {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 40%;
+    margin-bottom: 10px; 
+}
+
+.header-left-books {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 50%;
+    margin-bottom: 10px;
+    
+}
+
+.header-left-novels {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 55%;
+    margin-bottom: 10px;
+    
+}
+
+.header-left-novels span {
+     font-size: 130%; F
+}
+
+.header-left-books span {
+     font-size: 130%; font-size: 130%;
+}
+
+.header-chapter {
+   font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-top: 20px; 
+}
+
+.header-chapter span {
+    font-size: 130%;
+}
+
+.header-left span {
+    font-size: 130%;
+}
+
+.header-left-books span {
+     font-size: 130%; font-size: 130%;
+}
+
+.header-left-essays {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 160px;
+    margin-bottom: 10px; 
+}
+
+.header-left-essays span {
+    font-size: 130%;
+}
+
+.header-left-music {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px; 
+}
+
+.header-left-music span {
+    font-size: 130%;
+}
+
+.header-right {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: right;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-right: 45%;
+    margin-bottom: 10px; 
+}
+
+.header-right span {
+    font-size: 130%;
+}
+
+.header-right-short {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: right;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-right: 55%;
+    margin-bottom: 10px; 
+}
+
+.header-right-short span {
+    font-size: 130%;
+}
+
+.header-right-music {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: right;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-right: 150px;
+    margin-bottom: 10px;
+}
+
+.header-right-music span {
+    font-size: 130%;
+}
+
+.header-right-children {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: right;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-right: 170px;
+    margin-bottom: 10px;
+}
+
+.header-right-children span {
+    font-size: 130%;
+}
+
+.header-right-series {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: right;
+    width: 85%;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+    padding-right: 10%;
+}
+
+.header-right-series span {
+    font-size: 130%;
+}
+
+.header-excerpts {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin: 1% 0;
+}
+
+.small-header {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.small-header-red {
+    font-size: x-large;
+    font-weight: bold;
+    color: #9F000F;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.small-header-novels {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 130px;
+    /*margin-bottom: 10px;*/
+}
+
+.small-header-short-stories {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 200px;
+    /*margin-bottom: 10px;*/
+}
+
+.small-header-children {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 235px;
+    /*margin-bottom: 10px;*/
+}
+
+.small-header-essays {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-left: 80px;
+    /*margin-bottom: 10px;*/
+}
+
+.smaller-header {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.smaller-header-red {
+    font-size: large;
+    font-weight: bold;
+    color: #9F000F;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.smaller-header-w-logo {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.smaller-header-wordman {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+    width: auto;
+}
+
+.smallest-header {
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+}
+
+.extra-small-header {
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-bottom: 10px;
+    float: left;
+}
+
+.extra-small-header img{
+    float: left;
+}
+
+.eric-koch {
+    font-size: 225%;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'VivaldiD';
+    margin-bottom: 10px; 
+}
+
+/* span tags */
+
+.italic {
+    font-style: italic;
+}
+
+.vivaldi {
+    font-family: 'VivaldiD';
+}
+
+.large-120 {
+    font-size: 120%;
+    font-weight: 700;
+}
+
+.large {
+    font-size: 130%;
+}
+
+.larger {
+    font-size: 200%;
+}
+
+.medium {
+    font-size: 175%;
+}
+
+.small {
+    font-size: small;
+}
+
+/* end span tags */
+/* end pages style */
+
+/* navigation*/
+#menu {
+    background: none;
+    padding: 0;
+}
+
+#menu ul {
+    background: none;
+}
+
+.nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.nav ul {
+    font-weight: bold;
+    list-style: none;
+    font-size: 11pt;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav li {
+    display: inline;
+    text-decoration: none;
+    font-size: 11pt;
+    color: #000;
+    margin: 0 10px 0 10px;
+}
+
+.nav a {
+    color: #000;        
+}
+
+.nav a:hover {
+    color: #9F000F;
+}
+/* end navigation */
+
+/* photos/images */
+.image-border {
+    text-align: center;
+}
+
+.image-border img {
+    border: double #000;
+    padding: 5px;
+}
+/* end photos */
+
+/* text */
+.p {
+   font-family:'Lora', serif;
+   color: #000;
+   font-size: medium;
+   text-align: left;
+   float: left;
+   padding: 20px 0 0 40px;
+}
+
+.p span {
+    font-size: 130%;
+}
+
+.p-book {
+   font-family:'Lora', serif;
+   font-size: large;
+   text-align: left;
+   float: left;
+   padding: 20px 0 0 40px;
+}
+/* end text */
+
+/* credits */
+.p-credit {
+   width: 80%;
+   font-style: italic;
+   font-size: medium;
+   text-align: right;
+}
+
+.p-credit-river {
+   width: 40%;
+   font-style: italic;
+   font-size: medium;
+   text-align: right;
+   float: right;
+   margin-right: 250px;
+   padding-top: 20px;
+}
+
+.p-credit-mirror {
+   width: 50%;
+   font-style: italic;
+   font-size: medium;
+   text-align: right;
+   float: right;
+   padding-right: 380px;
+   padding-top: 30px;
+}
+/* end credits */
+
+.tagline{
+    text-align: left;
+    font-style: italic;
+}
+
+.tagline span {
+    font-size:larger;
+}
+
+.tagline-right {
+    text-align: right;
+    margin-right: 30%;
+    font-style: italic; 
+}
+
+.copyright {
+    font-family:'Lora', serif;
+    font-size: smaller;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.copyright span {
+    font-family: 'VivaldiD';
+}
+
+/* about */
+.bio {
+    font-family:'Lora', serif;
+    font-size: large;
+    width: 58%;
+    /*margin: 0 auto;*/
+    text-align: left;
+    float: left;
+    padding-left: 30px;
+    text-indent: 2.5%
+}
+
+.bio-para {
+    margin-bottom: 10px;
+}
+
+.divider-line {
+   width: 150px;
+   height: 5px;
+   background: #000;
+   display: inline-block;
+   border-radius: 3px;
+}
+ /* end about */
+ 
+.logo {
+    /*float: left;*/
+    position: absolute;
+    left: auto;
+    top: auto;
+    padding-left: 75px;
+    margin: 5px 0 0 0;
+}
+
+/* margins */
+.margin-rt5 {
+    margin-right: 5px;
+}
+/* end margins */
+
+/* footer */
+.footer {
+    font-size: medium;
+    height: 1%;
+    position: absolute;
+    text-align: center;
+    bottom: 2%;
+}
+
+.footer span {
+    font-size: 130%;
+}
+/* end footer */
+
+
+.text {
+    font-size: large;
+    height: 1%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.text span {
+    font-size:130%
+}
+
+/* alignment */
+.text-right {
+    text-align: right;
+    width:45%;
+}
+
+.text-right {
+    text-align: right;
+    width:45%;
+}
+
+.text-center-books {
+    text-align: center;
+    
+}
+
+.text-right-books {
+    text-align: right;
+    width: 45%;
+    float: right;
+}
+
+.text-right-short {
+    text-align: right;
+    width: 45%;
+    float: right;
+}
+
+.text-right-books-plays {
+    text-align: right;
+    width: 45%;
+    float: right;
+    padding-right: 50px;
+}
+
+.text-right-books-series {
+    text-align: right;
+    float: right;
+    padding-right: 15%;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-left-books {
+    text-align: left;
+    width: 45%;
+    float: left;
+    /*padding-left: 7%;*/
+}
+
+.text-left-novels {
+    text-align: left;
+    width: 45%;
+    float: left;
+    /*padding-left: 7%;*/
+}
+
+.text-left-books-nav1 {
+    text-align: left;
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+}
+
+.text-left-books-novels {
+    text-align: left;
+    width: 40%;
+    float: left;
+    padding-left: 15%;
+}
+
+.text-center-sholama {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.text-center-river{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.center {
+    /*width: 50%;*/
+    text-align: center;
+    padding-left: 200px;
+}
+/* end alignment */
+
+/* books */
+
+/* begin books-nav */
+.books-nav {
+    width: 50%;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    padding-bottom: 40px;
+}
+
+.books-nav a {
+    color: #000;        
+}
+
+.books-nav a:hover {
+    color: #9F000F;
+    text-decoration: underline;
+}
+
+.books-nav ul {
+    text-decoration: none;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: 11pt;
+    font-family:'Lora', serif;
+    color: #000;
+    padding: 0 0 0 20px;
+}
+    
+.books-nav li {
+    text-decoration: none;
+    font-size: 11pt;
+    color: #000;
+    margin: 10px;
+    border: solid 1px #ccc;
+    padding: 10px;
+}
+
+.books-nav a {
+    color: #000;        
+}
+/* end books-nav */
+
+/* start books-nav1 */
+.books-nav1 {
+    width: 50%;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.books-nav1 a {
+    color: #000;        
+}
+
+.books-nav1 a:hover {
+    color: #9F000F;
+    text-decoration: underline;
+}
+
+.books-nav1 ul {
+    text-decoration: none;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: large;
+    font-family:'Lora', serif;
+    color: #000;
+    padding: 0 0 0 20px;
+}
+    
+.books-nav1 li {
+    text-decoration: none;
+    font-size: large;
+    color: #000;
+    margin: 10px;
+    /*border: solid 1px #ccc;*/
+    padding: 10px;
+}
+
+.books-nav1 a {
+    color: #000;        
+}
+/* end books-nav1 */
+
+/* start books-nav2 */
+.books-nav2 {
+    width: 27%;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.books-nav2 a {
+    color: #000;        
+}
+
+.books-nav2 a:hover {
+    color: #9F000F;
+    text-decoration: underline;
+}
+
+.books-nav2 ul {
+    text-decoration: none;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: larger;
+    font-family:'Lora', serif;
+    color: #000;
+    padding: 0 0 0 20px;
+}
+    
+.books-nav2 li {
+    text-decoration: none;
+    font-size: large;
+    color: #000;
+    margin: 10px;
+    /*border: solid 1px #ccc;*/
+    padding: 10px;
+}
+
+.books-nav2 a {
+    color: #000;        
+}
+/* end books-nav2 */
+
+/*start books-nav3 */
+.books-nav3 {
+    width: 20%;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.books-nav3 a {
+    color: #000;        
+}
+
+.books-nav3 a:hover {
+    color: #9F000F;
+    text-decoration: underline;
+}
+
+.books-nav3 ul {
+    text-decoration: none;
+    font-weight: bold;
+    list-style-type: none;
+    font-size: large;
+    font-family:'Lora', serif;
+    color: #000;
+    padding: 0 0 0 20px;
+    margin-top: 30px;
+}
+    
+.books-nav3 li {
+    text-decoration: none;
+    font-size: large;
+    color: #000;
+    margin: 10px;
+    /*border: solid 1px #ccc;*/
+    padding: 10px;
+}
+
+.books-nav3 a {
+    color: #000;        
+}
+/* end books-nav3 */
+
+.series {
+    font-size: small;
+    font-family:'Lora', serif;
+    text-align: center;
+    float: left;
+    margin: auto;
+}
+
+.book-title {
+    font-family: "lucida calligraphy",arial,'sans serif';
+    text-align: left;
+    float: right;
+    margin: auto;
+}
+
+.name {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    float: left;
+}
+
+.images {
+    width: 30%;
+    display: inline;
+    padding-bottom: 15px;
+}
+
+.series-pic {
+    text-align: left;
+    padding-left: 50px;
+    float: left;
+}
+
+.series-pic-center {
+    text-align: center;
+}
+
+.series-pic-books {
+    text-align: left;
+    padding: 50px 0 40px 50px;
+    float: left;
+}
+
+.series-pic-books1 {
+    text-align: left;
+    padding: 0 0 40px 50px;
+    float: left;
+}
+
+.series-pic-books-short {
+    text-align: right;
+    float: right;
+    padding-right: 35%;
+}
+
+.series-pic-books-short img{
+    border: double #000;
+    padding: 5px; 
+    
+}
+
+.series-pic-books-novels {
+    text-align: center;
+}
+
+.series-pic-books-novels img {
+    border: double #000;
+    padding: 5px;   
+}
+
+.series-pic-tree {
+    text-align: right;
+    padding: 50px 0 40px 50px;
+    float: left;
+}
+
+.series-pic-iftmus {
+    text-align: left;
+    padding-left: 118px;
+    float: left;
+}
+
+.series-pic-dreams-like-mist {
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 15px;
+    float: left;
+}
+
+.series-pic img {
+    border: double #000;
+    padding: 5px;   
+}
+
+.series-pic-center img {
+    border: double #000;
+    padding: 5px;
+}
+
+.series-pic-iftmus img {
+    border: double  #000;
+    padding: 5px;
+}
+
+.series-pic-dreams-like-mist img{
+    border: double  #000;
+    padding: 5px;
+}
+
+.series-pic-about-top {
+    text-align: left;
+    float: left;
+    padding-left: 40px;
+    padding-top: 60px;
+}
+
+.series-pic-about-bottom {
+    float: left;
+    padding-top: 10%;
+    padding-left:3%;
+}
+
+.series-pic-about-top img {
+    border: double  #000;
+    padding: 5px;   
+}
+
+.series-pic-about-bottom img {
+    border: double #000;
+    padding: 5px;   
+}
+
+.series-pic-books img {
+    border: double #000;
+    padding: 5px;   
+}
+
+.series-pic-books1 img {
+    border: double #000;
+    padding: 5px;   
+}
+
+.series-pic-books2 img {
+    border: double #000;
+    padding: 5px;   
+}
+
+.series-pic-books2-rt img{
+    border: double #000;
+    padding: 5px;   
+}    
+
+.series-pic-construction {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.series-pic-construction img {
+    border: double #000;
+    padding: 5px;   
+}
+
+.series-text {
+    font-family:'Lora', serif;
+    font-size: medium;
+    text-align: left;
+    padding-left: 200px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 15px;
+}
+
+.series-text-book-iftmus {
+    font-family:'Lora', serif;
+    font-size: large;
+    overflow: visible;
+    padding-top: 0.5%;
+    margin-left: 20%;
+    text-indent: 2.5%;
+    width: 65%;
+}
+
+.books-series {
+   ont-family:'Lora', serif;
+    font-size: large;
+    overflow: visible;
+    padding-top: 0.5%;
+    padding-left: 5%;
+    margin: 0 auto;
+    text-indent: 2.5%;
+    width: 75%; 
+}
+
+.series-text-book-prologue {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 220px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 20px;
+    width: 75%;
+}
+.series-text-iftmus {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 15px;
+    width: 45%;
+}
+
+.series-text-iftmus-cover {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: center;
+    margin: auto;
+    overflow: auto;
+    padding-top: 15px;
+    width: 45%;
+}
+
+.series-text-iftmus-cover span {
+    font-size: 130%;   
+}
+
+
+.series-text-axtoph {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 15px;
+    width: 50%;
+    text-indent: 2.5%;
+}
+
+.series-text-children {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    width: 60%;
+    text-indent: 2.5%;
+}
+
+.series-text- {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    width: 60%;
+    text-indent: 2.5%;
+}
+
+.series-text-monster {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: center;
+    float: left;
+    margin: auto;
+    width: 60%;
+}
+
+.series-text-axtoph span {
+    font-size: 130%;
+}
+
+.series-text-alyssia {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 80px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 15px;
+    width: 50%;
+}
+
+.series-text-book-axtoph {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 140px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 20px;
+    width: 75%;
+    text-indent: 2.5%;
+}
+
+.series-text-book-shadow {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 180px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    padding-top: 20px;
+    width: 75%;
+}
+
+.series-text-sholama {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 150px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 25px;
+    width: 50%;
+}
+
+.series-text-wind {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 230px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 25px;
+    width: 50%;
+}
+
+.series-text-book {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 90px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 20px;
+    width: 87%;
+}
+
+.series-text-adventure {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 5%;
+    float: left;
+    /*margin: auto;*/
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 20px;
+    width: 55%;
+    text-indent: 1.5%;
+}
+
+.series-text-adventure-list {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 5%;
+    float: left;
+    /*margin: auto;*/
+    overflow: auto;
+    overflow-y: hidden;
+    padding-top: 20px;
+    width: 55%;
+}
+
+.series-text-past {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    width: 50%;
+    text-indent: 1.5%;.foo
+}
+
+.series-text-past-80 {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    width: 80%;
+}
+
+.series-text-mirror {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    width: 65%;
+}
+
+.series-text-tryst {
+    font-family:'Lora', serif;
+    font-size: large;
+    text-align: left;
+    padding-bottom:  10px;
+    padding-left: 45px;
+    float: left;
+    margin: auto;
+    overflow: auto;
+    width: 85%;
+}
+
+.book-series-summary {
+   font-family: Lora, serif;
+   overflow: auto;
+   margin-bottom: 10px;
+   width: 100%;
+}
+
+.book-series-summary-100 {
+   font-family: Lora, serif;
+   overflow: auto;
+   margin-bottom: 10px;
+   width: 100%;
+}
+
+.book-series-tree {
+   font-family: Lora, serif;
+   overflow: auto;
+   margin-top: 50px;
+}
+
+.book-series-books1 {
+   font-family: Lora, serif;
+   overflow: auto;
+}
+
+.book-series-alyssia {
+   font-family: Lora, serif;
+   float: left;
+   overflow: auto;
+   margin-bottom: 10px;
+   width: 100%;
+}
+
+.read-more {
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    margin-bottom: 50px;
+    clear: left;
+}
+
+.return-bottom {
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+    overflow: auto;
+    margin-top: 20px;
+}
+
+.take-me-back {
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    bottom-margin: 50px;
+    overflow: auto;
+}
+
+.poem {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 75%;
+}
+
+.poem-wind {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 100%;
+}
+
+.poem-river {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 58%;
+}
+
+.poem-smell {
+    text-align: center;
+    font-size: large;
+    float: left;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.poem-hunt {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.poem-future {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+}
+
+.poem-future-page {
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 190px;
+}
+
+.poem-present {
+    text-align: center;
+    font-size: large;
+    width: 75%;
+    /*padding-top: 2%;*/
+    padding-left: 7%;
+}
+
+.poem-present-page {
+    text-align: center;
+    font-size: large;
+    width: 70%;
+    padding-top: 20px;
+    /*padding-left: 10px;*/
+}
+
+.poem-mirror{
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 66%;
+    padding-top: 20px;
+}
+
+.poem-tryst{
+    text-align: center;
+    font-size: large;
+    float: left;
+    width: 46%;
+    padding-top: 40px;
+}
+
+.contact-text {
+    font-family:'Lora', serif;
+    font-size: large;
+    width: 75%;
+    text-align: left;
+    float: left;
+    padding-top: 1%;
+    padding-left: 10%;
+    text-indent: 2.5%;
+}
+
+.credit {
+    font-family: "vivaldi";
+    font-size: large;
+    text-align: right;
+    padding-right: 430px;
+}
+
+.back-to-top {
+    font-size: 0.9em;
+    margin-top: 10px;
+}
+
+.back-to-top span {
+    color: #3EA055;
+    font-size: 150%;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.prologue-center-title-chapter {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-top: 1%;
+}
+
+.prologue-center-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    padding-top: 1%;
+}
+
+.prologue-center-title-chapter span {
+    font-weight: 400;
+    font-size: 120%;
+}
+.prologue-center {
+    text-align: center;
+    padding-top: 1.2%;
+    font-size: large;
+    font-style: italic;
+}
+
+/*.prologue-center span {
+    font-weight: bold;
+    font-size: 120%;
+}*/
+
+.tagline-right-prologue {
+    text-align: right;
+    margin-right: 30%;
+    font-style: italic;
+    font-size: small;
+}
+
+.prologue-psi-chapter {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 1.5%;
+}
+
+.prologue-text {
+    font-family: 'Lora', serif;
+    font-size: large;
+    overflow: visible;
+    padding-top: 0.6%;
+    margin: 0 auto;
+    text-indent: 2.5%;
+    width: 80%;
+}
+
+.prologue-text .pt-oet {
+    font-family: 'Old English Text MT';
+    font-size: 130%;
+}
+
+.prologue-text-center-italic {
+    font-family: 'Lora', serif;
+    font-style: italic;
+    font-size: large;
+    overflow: visible;
+    padding-top: 0.5%;
+    margin: 0 auto;
+    text-indent: 3%;
+    text-align: justify;
+    width: 40%;
+}
+
+#pagination {
+}
+
+.ul {
+   list-style-type: none;
+   padding-left: 1%;
+}
+
+.ul span {
+    font-size: 130%;
+}
+
+.ul li {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.ul p {
+    font-size: large;
+    text-align: left;
+    padding-left: 3%;   
+}

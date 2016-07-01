@@ -3,6 +3,9 @@
     include ('../shared/header.html');
 ?>    
     <div class="content">
+		  <div class="header-novel">
+				<span>B</span>iography
+		  </div>
         <div class="series-pic-about-top">
                 <img src="../images/eric-color-head-shot-319x400.jpg" width="319" height="400" alt="Eric Color Head Shot Image" /></a>
         </div>
@@ -39,22 +42,31 @@
             <div class="bio-para">
                 <span class="large">I</span> continued writing stories for years, I treated it as an ongoing exercise; something to do when I wasn&#39;t creating or performing my music.
                 I am now winding down the traveling/performing aspect of music while recording my own songs in my home studio; smooth jazz instrumental versions of my
-                varied compositions. I&#39;ve since redirected my focus on my writings and my passion for photography.
+                varied compositions. I've since redirected my focus on my writings and my passion for photography.
             </div>
             
             <div class="bio-para">
-                <span class="large">B</span>ack on the road, while playing music in Summit New Jersey, I was lucky enough to meet a woman who rekindled hope and inspiration to my heart;
+                <span class="large">B</span>ack on the road, while playing music in Summit, New Jersey, I was lucky enough to meet a woman who rekindled hope and inspiration to my heart;
                 this is a good thing since, by then, I was a sputtering candle. She tells me that she is my souvenir from the East Coast and while I have to agree, I include Lesley as a
                 force in this final endeavor in my life; she always refused to allow me to accept anything less than my best which she is&#33;
             </div>
             <div class="entry-footer">
-                <img src="../images/breakLine.png" width="150" height="25" alt="Break Line Image"/>
+                <span class="divider-line"></span>
             </div>
             
-        </div>
-            <div class="series-pic-about-bottom">
-                    <img src="../images/wedding-302x400.jpg" width="302" height="400" alt="Eric and Leslie Koch Image" /></a>
-            </div> 
+        </div>  <!-- [closes bio div] -->
+		  <div class="series-pic-about-bottom">
+				<img src="../images/wedding-302x400.jpg" width="302" height="400" alt="Eric and Leslie Koch Image" /></a>
+		  </div>
+		</div>  <!-- [end content div] -->
+		
+		  <!-- [start credits] -->
+		  <div class="header-credit">
+				<span>C</span>redits
+		  </div>
+        
+    
+   
     
        
 <?php

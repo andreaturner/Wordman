@@ -1,0 +1,267 @@
+/* appearance styles */
+
+.cd-top.cd-is-visible {
+  /* the button becomes visible */
+  visibility: visible;
+  opacity: 1;
+}
+.cd-top.cd-fade-out {
+  /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+  opacity: .5;
+}
+.entry-signature{
+    font-family: 'VivaldiD';
+    float: right;
+}
+
+.entry-signature span {
+   font-size: 130%; 
+}
+
+#journal {
+    font-family:'Lora', serif;
+    font-size: large;
+    border: #000 double;
+    width: 80%;
+    height: auto;
+    text-align: left;
+    margin: 0 auto;
+}
+
+#glossary {
+    font-family:'Lora', serif;
+    font-size: large;
+    border: #000 double;
+    width: 80%;
+    height: auto;
+    text-align: left;
+    margin: 0 auto;
+}
+
+#language {
+    font-family:'Lora', serif;
+    font-size: large;
+    border: #000 double;
+    width: 80%;
+    height: auto;
+    text-align: left;
+    margin: 0 auto;
+}
+
+#top a {
+    color: #4863A0;
+    padding-left: 5%;
+}
+
+#top a:hover {
+    color: #000080;
+}
+/* beginning of pagination css */
+#content {
+    position:relative;
+    height: 25px;
+}
+
+#pagination {
+    position: absolute;
+    top:0px;
+    bottom: 0px;
+}
+
+.pagination {
+    padding: 2px;
+}
+
+.pagination ul {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 16px;
+}
+
+.pagination li {
+    list-style-type: none;
+    display: inline;
+    padding-bottom: 1px;
+}
+
+.pagination a, .pagination a:visited {
+    padding: 0 5px;
+    border: 1px solid #9aafe5;
+    text-decoration: none;
+    color: #2e6ab1;
+}
+
+.pagination a:hover, .pagination a:active{
+    border: 1px solid #000;
+    color: #000;
+    background-color: #FFFF80;
+}
+
+.pagination a.prevnext{
+    font-weight: bold;
+}
+
+.page_number {
+    border: 1px solid #9aafe5;
+    color: #2e6ab1;
+    padding:5px;
+    text-align: center;
+    width: 20px;
+}
+
+/* end of pagination css */
+
+.entry-footer {
+    font-weight: bold;
+    text-align: center;
+}
+
+.journal-years {
+    float: left;
+    width: 50%;
+    padding-top:100px;
+}
+
+.books-page {
+    width: 100%;
+    padding-top: 20px;
+    /*padding-left: 230px;*/
+}
+
+/* start nav1 */
+.nav1 {
+    text-align: left;
+    margin-bottom: 20px;
+    float: left;
+    padding-left: 20%;
+}
+
+.nav1 ul {
+    font-weight: bold;
+    list-style: none;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav1 li {
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    font-size: x-large;
+    color: #000;
+}
+
+.nav1 a {
+    color: #000;        
+}
+
+.nav1 a:hover {
+    color: #9F000F;
+}
+
+/* end nav1 */
+
+/*start nav2 */
+
+.nav2 {
+    text-align: left;
+    margin-bottom: 20px;
+    float: right;
+    padding-right: 7%;
+}
+
+.nav2 ul {
+    font-weight: bold;
+    list-style: none;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav2 li {
+    display: block;
+    text-align: left;
+    /*padding-left: 10%;*/
+    text-decoration: none;
+    font-size: x-large;
+    color: #000;
+}
+
+.nav2 a {
+    color: #000;        
+}
+
+.nav2 a:hover {
+    color: #9F000F;
+}
+
+/* end nav2 */
+
+/* start nav3 */
+
+.nav3 {
+    text-align: left;
+    margin-bottom: 20px;
+    /*float: right;*/
+    padding-left: 30%;
+}
+
+.nav3 ul {
+    font-weight: bold;
+    list-style: none;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav3 li {
+    display: block;
+    text-align: left;
+    /*padding-left: 10%;*/
+    text-decoration: none;
+    font-size: x-large;
+    color: #000;
+}
+
+.nav3 a {
+    color: #000;        
+}
+
+.nav3 a:hover {
+    color: #9F000F;
+}
+
+/* end nav3 */
+
+/* start nav4 */
+
+.nav4 {
+    display: inline;
+    text-align: center;
+    margin-bottom: 1%;
+    /*float: right;*/
+    /*padding-left: 30%;*/
+}
+
+.nav4 ul {
+    font-weight: bold;
+    list-style: none;
+    font-size: 24pt;
+    font-family:'Lora', serif;
+    color: #000;
+}
+    
+.nav4 li {
+    display: inline;
+    text-align: left;
+    text-decoration: none;
+    font-size: x-large;
+    color: #000;
+}
+
+.nav4 a {
+    color: #000;        
+}
+
+.nav4 a:hover {
+    color: #9F000F;
+}

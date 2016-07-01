@@ -90,7 +90,7 @@
                         <dt>Auftu Aganos</dt>
                             <dd>
                                 <span>(Off-two Nay-gore)</span> Landlord for noble owned farmland outside of Babylon on Terra. Family killed by Shinghaut  and he takes the name Goston,
-                                &kdquo;slayer of evil&rdquo; and form underground resistance swearing to battle and destroy the Shinghaut priests and their religion.
+                                &ldquo;slayer of evil&rdquo; and form underground resistance swearing to battle and destroy the Shinghaut priests and their religion.
                             </dd>
                         <dt>Astor</dt>
                             <dd>
@@ -337,7 +337,7 @@
                         <dt>Mauldren Tomphia Estavey</dt>
                             <dd>
                                 <span>(Mall-dr-en Tom-fa S-ta-vay)</span> Leader of The Seven Tribes made up of the Northland Mercenaries from up in the Northland Plains on Axtoph.  Although this human
-                                settlement is not a part of the Da-ton&339; Empire they are a powerful ally&#46;&#46;&#46; for the right price.
+                                settlement is not a part of the Da-ton&39; Empire they are a powerful ally&#46;&#46;&#46; for the right price.
                             </dd>
                         <dt>Mauca-taun</dt>
                             <dd>
@@ -608,9 +608,9 @@
                                 Unit of measurement on Axtoph. One forearm equals approx 1 foot.
                             </dd>
                              
-                             <div class="back-to-top">
-                                    <a href="#lang"><span>&#x21e7;</span>Back to Top</a>
-                             </div>
+									 <div class="back-to-top">
+											  <a href="#lang"><span>&#x21e7;</span>Back to Top</a>
+									 </div>
                             
                     <a name="G1"><h1>G</h1></a>
                         <dt>Goldweight</dt>
@@ -753,7 +753,7 @@
                             </dd>
                         <div class="back-to-top">
                                     <a href="#plant"><span>&#x21e7;</span>Back to Top</a>
-                                </div>
+                              </div>
                                 
                             <a name="C2"><h1>C</h1></a>                                                    
 						<dt>Chafi&#39;</dt>

@@ -6,14 +6,15 @@
     <div class="books-page">
         <div class="keep-it-together">
             
-                <div class="header-novel">
-                    <a href="under-construction.php"><span>E</span>ssays & <span>C</span>ollections</a>
-                </div>
-                <div class="series-pic-books-novels">
-                    <a href="under-construction.php"><img src="../images/essays-collections-900x611.jpg" width="900" height="611" alt="Essays and Collections Image" /></a>
-                </div>
-             <!-- end text-left-books div -->
+            <div class="header-novel">
+                <a href="under-construction.php"><span>E</span>ssays & <span>C</span>ollections</a>
+            </div>
+            <div class="series-pic-books-novels">
+                <a href="under-construction.php"><img src="../images/book-tree-647x800.jpg" width="647" height="800" alt="Essays and Collections Image" /></a>
+            </div>
             
+        </div>  <!-- end tkeep-it-together div -->
+    </div> <!-- [end books-page div] -->       
 <?php
     include ('../shared/footer.html');            
 ?>

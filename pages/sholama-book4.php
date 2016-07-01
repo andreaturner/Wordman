@@ -8,7 +8,7 @@
             <span class="large">T</span>ears of the <span class="large">R</span>iver
         </div>
         
-        <div class="image-border">
+        <div class="series-pic-center">
             <img src="../images/sholama-tears-of-the-river-701x500.jpg" width="701" height="500" alt="Tears Of The River Illustration">
         </div>
         
