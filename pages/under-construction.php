@@ -48,7 +48,9 @@
                     <span class="vivaldi"><span class="large">E</span>ric <span class="large">K</span>och</span>
                 </div>
                 <div class="smaller-header">
-                    <a href="mailto:wordman1@hotmail.com">wordman1@hotmail.com</a> / 253.569.8426 &bull; 253.569.1888
+                    <a href="mailto:&#119;&#111;&#114;&#100;&#109;&#097;&#110;&#049;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
+                    &#119;&#111;&#114;&#100;&#109;&#097;&#110;&#049;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
+                    / 253.569.8426 &bull; 253.569.1888
                 </div>
             
             </div>  <!-- end content div -->
