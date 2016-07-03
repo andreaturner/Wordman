@@ -24,10 +24,17 @@
 		  
 		  
 		  <div class="contact-text">
-			  <span class="italic"><span class="large">&ldquo;I</span>n the act of communication there is a responsibility by all parties to stay away from &ldquo;rant or rage&rdquo;.
-			  Interaction demands a modicum of responsible thought and mutual respect. Calm intellectual discourse is the only road to insight and possible change. The goal
-			  must be to learn and grow otherwise it is all for naught. Difference of opinion does not warrant or condone emotional outbursts or the mindless rhetoric of childish
-			  arguments!&rdquo;</span>
+			  <span class="italic"><span class="large">&ldquo;I</span>n any act of communication there is the responsibility by all persons to reject rant or rage.
+			  Interaction demands a modicum of responsible thought and mutual respect which can only be presented by the caring of calm intellectual discourse.</span>
+		  </div>
+		  
+		  <div class="contact-text">
+			  <span class="italic"><span class="large">D</span>ifference of opinion does not warrant or condone emotional outbursts or the rhetoric of childish
+			  tantrums leading to mindless arguments.</span>
+		  </div>
+		  
+		  <div class="contact-text">
+			  <span class="italic"><span class="large">A</span>ll hearts need only to quietly share and in so doing&#46;&#46;&#46; nourish the soul!&rdquo;</span>
 		  </div>
 		  
 		  <div class="credit">
