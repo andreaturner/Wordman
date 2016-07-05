@@ -1604,19 +1604,19 @@ a:hover {
 /* Contact divider styles */
 
 .border-left {
-    width: 33%;
+    width: 30%;
     height: 100%;
     padding-top: 1%;
-    margin-left: 15%;
+    margin-left: 17%;
     border: double #000;
     float: left;
 }  
 
 .border-right {
-    width: 33%;
+    width: 30%;
     height: 100%;
     padding-top: 1%;
-    margin-right: 15%;
+    margin-right: 17%;
     border: double #000;
     float: right;
 }
@@ -1634,13 +1634,13 @@ form {
     display: block;
     width: 135px;
     text-align: left;
-    padding-left: 2%;
+    padding-left: 3%;
 }
 
 .submit {
     border-radius: 5px;
-    margin-left: 1%;
+    text-align: center;
     padding: 5px;
     width: 100px;
-    margin-bottom: 8px;
+    /*margin-bottom: 8px;*/
 }

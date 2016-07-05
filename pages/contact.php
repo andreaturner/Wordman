@@ -155,7 +155,7 @@
 						  ?>
 								</label>
 								
-									 <textarea name="comments" id="comments" rows="23" cols="51"></textarea>
+									 <textarea name="comments" id="comments" rows="22" cols="51"></textarea>
 						  <?php
 								if ($errors || $missing) {
 									 echo htmlentities($comments);
