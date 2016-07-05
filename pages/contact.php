@@ -6,22 +6,25 @@
 		<!-- How to contact me. -->
 <br>
     
-	<div class="content"> 
-		  <div class="small-header">
-				(253) 569-8426 <span>&bull;</span>  (253) 569-1888<br>  
-				Email: <a href="mailto:&#119;&#111;&#114;&#100;&#109;&#097;&#110;&#049;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
-				&#119;&#111;&#114;&#100;&#109;&#097;&#110;&#049;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a><br>  
-		  </div>
-	
-		  <div class="image-border">
-				<img src="../images/gibran-392x500-5.jpg" width="392px" height="500px" alt="Gibran Drawing" />
-		  </div>
-		  
-		  <div class="smallest-header">
-				Pencil drawing of Khalil Gibran by Eric Koch<br>
-				Copyright &copy; 1975
-		  </div>
-		  
+	<div class="content">
+		  <div class="container">
+				<div class="border-left">
+					 <div class="small-header">
+						  (253) 569-8426 <span>&bull;</span>  (253) 569-1888<br>  
+						  Email: <a href="mailto:&#119;&#111;&#114;&#100;&#109;&#097;&#110;&#049;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
+						  &#119;&#111;&#114;&#100;&#109;&#097;&#110;&#049;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a><br>  
+					 </div>
+			  
+					 <div class="image-border">
+						  <img src="../images/gibran-392x500-5.jpg" width="392px" height="500px" alt="Gibran Drawing" />
+					 </div>
+					 
+					 <div class="smallest-header">
+						  Pencil drawing of Khalil Gibran by Eric Koch<br>
+						  Copyright &copy; 1975
+					 </div>
+				</div>  <!-- [End border-left] -->	 
+		  </div>  <!-- [End container div] -->
 		  
 		  <div class="contact-text">
 			  <span class="italic"><span class="large">&ldquo;I</span>n any act or effort toward communication there is the responsibility by all involved to

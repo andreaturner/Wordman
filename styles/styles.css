@@ -1600,3 +1600,20 @@ a:hover {
     text-align: left;
     padding-left: 3%;   
 }
+
+/* Contact divider styles */
+
+.border-left {
+    width: 35%;
+    height: 100%;
+    margin-left: 5%;
+    border: double #000;
+    float: left;
+}  
+
+.border-right {
+    width: 45%;
+    height: 100%;
+    border: double #000;
+    float: right;
+}
