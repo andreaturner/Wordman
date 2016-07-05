@@ -8,7 +8,7 @@
     
 	<div class="content">
 		  <div class="container">
-				<div class="border-left">
+				<div class="border-left">  <!-- [Start border-left] -->
 					 <div class="small-header">
 						  (253) 569-8426 <span>&bull;</span>  (253) 569-1888<br>  
 						  Email: <a href="mailto:&#119;&#111;&#114;&#100;&#109;&#097;&#110;&#049;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
@@ -25,7 +25,7 @@
 					 </div>
 				</div>  <!-- [End border-left] -->
 				
-				<div class="border-right">
+				<div class="border-right">  <!-- [Start border-right] -->
 					 <div class="small-header">
 						  Please Sign my Guest Book
 					 </div>
@@ -91,7 +91,6 @@
 						  </p>
 					 
 						  <p>
-					
 						  <label class="label" for="lname">Last Name:
 						  
 					 <?php
@@ -112,7 +111,6 @@
 								echo 'value="' . htmlentities($lname) . '"';
 						  }
 					 ?>
-					 
 						  </p>
 						  
 						  <p>
