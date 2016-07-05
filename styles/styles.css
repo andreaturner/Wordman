@@ -1607,7 +1607,7 @@ a:hover {
     width: 35%;
     height: 100%;
     padding-top: 1%;
-    margin-left: 5%;
+    margin-left: 10%;
     border: double #000;
     float: left;
 }  
@@ -1616,6 +1616,29 @@ a:hover {
     width: 35%;
     height: 100%;
     padding-top: 1%;
+    margin-right: 10%;
     border: double #000;
     float: right;
+}
+
+form {
+    margin: 0 auto;
+}
+
+.label {
+    font-family:'lucida calligraphy', arial,'sans serif';
+    font-size: large;
+    font-weight: 700;
+    float: left;
+    clear: left;
+    display: block;
+    width: 135px;
+    text-align: left;
+    padding-left: 2%;
+}
+
+.submit {
+    margin-left: 1%;
+    padding: 5px;
+    width: 100px;
 }

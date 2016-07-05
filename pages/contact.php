@@ -81,10 +81,8 @@
 					 <?php
 						  endif;
 					 ?>
-				
 						  </label>
 								<input type="text" name="fname" id="fname" size="20" maxlength="20">
-						  
 					 <?php
 						  if ($errors || $missing) {
 								echo 'value="' . htmlentities($fname) . '"';
@@ -144,7 +142,6 @@
 								echo 'value="' . htmlentities($email) . '"';
 						  }
 					 ?>
-						  
 						  </p>
 						  <p>
 								<label class="label" for="comments">Comments:
@@ -160,7 +157,7 @@
 						  ?>
 								</label>
 								
-									 <textarea name="comments" id="comments" rows="6" cols="46"></textarea>
+									 <textarea name="comments" id="comments" rows="23" cols="51"></textarea>
 						  <?php
 								if ($errors || $missing) {
 									 echo htmlentities($comments);
@@ -177,7 +174,6 @@
     
 					 
 				</div>  <!-- [End border-right] -->
-				
 		  </div>  <!-- [End container div] -->
 		  
 		  <div class="contact-text">
