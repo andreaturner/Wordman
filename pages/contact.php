@@ -24,17 +24,18 @@
 		  
 		  
 		  <div class="contact-text">
-			  <span class="italic"><span class="large">&ldquo;I</span>n any act of communication there is the responsibility by all persons to reject rant or rage.
-			  Interaction demands a modicum of responsible thought and mutual respect which can only be presented by the caring of calm intellectual discourse.</span>
+			  <span class="italic"><span class="large">&ldquo;I</span>n any act or effort toward communication there is the responsibility by all involved to
+			  forgo rant or rage. Interaction demands a modicum of responsible thought; mutual respect which can only be presented within the caring of calm
+			  intellectual discourse.</span>
 		  </div>
 		  
 		  <div class="contact-text">
-			  <span class="italic"><span class="large">D</span>ifference of opinion does not warrant or condone emotional outbursts or the rhetoric of childish
-			  tantrums leading to mindless arguments.</span>
+			  <span class="italic"><span class="large">D</span>ifference of opinion does not warrant or condone emotional outburst or the rhetoric of childish
+			  tantrums that can only lead to mindless arguments!</span>
 		  </div>
 		  
 		  <div class="contact-text">
-			  <span class="italic"><span class="large">A</span>ll hearts need only to quietly share and in so doing&#46;&#46;&#46; nourish the soul!&rdquo;</span>
+			  <span class="italic"><span class="large">H</span>earts need only to quietly share and in so doing&#46;&#46;&#46; nourish the soul.&rdquo;</span>
 		  </div>
 		  
 		  <div class="credit">
