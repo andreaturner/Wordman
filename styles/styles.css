@@ -1603,6 +1603,22 @@ a:hover {
 
 /* Contact divider styles */
 
+.border {
+    width: 30%;
+    height: 100%;
+    padding-top: 1%;
+    margin-left: 17%;
+    border: double #000; 
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
 .border-left {
     width: 30%;
     height: 100%;
