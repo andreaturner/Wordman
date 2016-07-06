@@ -1607,16 +1607,17 @@ a:hover {
     width: 30%;
     height: 100%;
     padding-top: 1%;
-    margin-left: 17%;
     border: double #000; 
 }
 
 .left {
     float: left;
+    margin-left: 17%
 }
 
 .right {
     float: right;
+    margin-right: 17%;
 }
 
 .border-left {
