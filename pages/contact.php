@@ -133,7 +133,7 @@
 						  endif;
 					 ?>
 								</label>
-									 <input type="email" name="email" id="email" size="50" maxlength="60">
+									 <input type="email" name="email" id="email" size="37" maxlength="60">
 									
 					 <?php
 						  if ($errors || $missing) {
@@ -165,7 +165,7 @@
 						  </p>
 						  
 						  <p>
-								<input class="submit" type="submit" name="send" id="send" value="Submit">
+								<input type="submit" name="send" id="send" value="Submit" class="submit">
 						  </p>
 						  
 						  </form>
