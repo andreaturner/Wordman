@@ -1604,7 +1604,7 @@ a:hover {
 /* Contact divider styles */
 
 .border {
-    width: 30%;
+    width: 40%;
     height: 100%;
     padding-top: 1%;
     border: double #000; 
@@ -1618,6 +1618,12 @@ a:hover {
 .right {
     float: right;
     margin-right: 17%;
+}
+
+.center {
+    text-align: center;
+    margin-left: 26%;
+    margin-right: 30%;
 }
 
 .border-left {

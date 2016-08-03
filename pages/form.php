@@ -2,7 +2,8 @@
     $page_title = 'Guest Book';
     include ('../shared/header.html');
 ?>
-					 <div class="small-header">
+					 <div class="border center">
+					 <div class="header">
 						  Guest Book
 					 </div>
 					 <?php
@@ -20,7 +21,7 @@
 								$authorized = '-fpaigeaisrael@gmail.com';
 								require 'process_mail.php';
 								if ($mailSent) {
-									 header('Location: thanks.php');
+									 header('Location: thank-you.php');
 									 exit;
 								}
 						  }
@@ -145,7 +146,7 @@
 						  </p>
 						  
 						  </form>
-    
+					 </div> <!-- [End border div] -->
 					 
 				
 		  </div>  <!-- [End con
