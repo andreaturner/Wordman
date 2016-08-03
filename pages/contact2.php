@@ -195,7 +195,7 @@
 			
 	 </div>  <!-- [end content div] -->
  
-<?php
+ <?php
     include ('../shared/footer.html');            
 ?>   
     
