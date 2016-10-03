@@ -1606,7 +1606,7 @@ a:hover {
 .border {
     width: 40%;
     height: 100%;
-    padding-top: 1%;
+    padding: 10px;
     border: double #000; 
 }
 
@@ -1620,10 +1620,9 @@ a:hover {
     margin-right: 17%;
 }
 
-.center {
+.center1{
     text-align: center;
-    margin-left: 26%;
-    margin-right: 30%;
+    margin: 50px auto;
 }
 
 .border-left {

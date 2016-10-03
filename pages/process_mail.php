@@ -1,4 +1,4 @@
-        <?php
+<?php
 
 $mailSent = false;
 
@@ -13,19 +13,6 @@ $comments = $_POST['comments'];
 $message = $fname . ' ' . $lname . ' whose email is ' . $email . " had these comments: \n" . $comments . '.';
 
 $mailSent = mail($to, $subject, $message, $headers);
-
-
-
-if (!$mailSent) {
-    $errors['mailfail'] = true;
-    header('Location: thanks.php');
-        exit;
-}
-
-if ($mailSent) {
-        header('Location: thanks.php');
-        exit;
-    }
 
 /*
 // Regular expression to search for suspect phrases
@@ -102,3 +89,4 @@ if (!$suspect) :
     endif;
 endif;
 */
+?>

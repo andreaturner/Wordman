@@ -1,12 +1,4 @@
 <?php
-    $page_title = 'Guest Book';
-    include ('../shared/header.html');
-?>
-					 <div class="border center">
-					 <div class="header">
-						  Guest Book
-					 </div>
-					 <?php
 						  $errors = [];
 						  $missing = [];
 						  if (isset($_POST['send'])) {
@@ -14,19 +6,27 @@
 								$required = ['fname','lname', 'email', 'comments'];
 								$to = 'Paige Israel <paigeaisrael@gmail.com>';
 								$subject = 'Feedback from Guest Book.';
-								// $headers = [];
 								$headers = 'From: Paige Israel <paigeaisrael@gmail.com>';
-								// $headers[] = 
-								// $headers[] = 'Content-type: text/plain; charset=utf-8';
 								$authorized = '-fpaigeaisrael@gmail.com';
 								require 'process_mail.php';
-								if ($mailSent) {
-									 header('Location: thank-you.php');
-									 exit;
-								}
+									 
+								header('Location: thank-you.php');
+								exit;
+								
 						  }
 						  ?>
-		
+						  
+						  
+						  
+						  <?php
+    $page_title = 'Guest Book!';
+    include ('../shared/header.html');
+?>
+						  
+					 <div class="border center1">
+					 <div class="header">
+						  Guest Book
+					 </div>
 					 <!-- [Create the form.] -->
 					 <?php
 						  if ($_POST && ($suspect || isset($errors['mailfail']))) :
