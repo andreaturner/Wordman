@@ -10,7 +10,7 @@
                 <a href="under-construction.php"><span>S</span>hort <span>S</span>tories</a>
             </div>
             <div class="series-pic-books-novels">
-                <a href="under-construction.php"><img src="../images/short-stories-900x629-5.jpg" width="900" height="629" alt="Short Stories Image" /></a>
+                <a href="under-construction.php"><img src="../images/short-stories-enter-900x629-5.jpg" width="900" height="629" alt="Short Stories Image" /></a>
             </div>
         </div> <!-- end keep-it-togehterdiv -->
     </div> <!-- [end books-page div] -->   

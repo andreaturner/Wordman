@@ -10,7 +10,7 @@
                 <a href="under-construction.php"><span>P</span>lays and <span>S</span>creenplays</a>
             </div>
             <div class="series-pic-books-novels">
-                <a href="under-construction.php"><img src="../images/plays-screenplays-red-900x745.jpg" width="900" height="745" alt="Plays and Screenplays Image" /></a>
+                <a href="under-construction.php"><img src="../images/plays-screenplays-red-enter-900x745.jpg" width="900" height="745" alt="Plays and Screenplays Image" /></a>
             </div>
             
         </div> <!-- end keep-it-together div -->
