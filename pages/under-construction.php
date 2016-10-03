@@ -56,7 +56,7 @@
             </div>  <!-- end content div -->
             
         <div class="footer">
-            Copyright &copy; 2016 by <span class="vivaldi"><span>E</span>ric <span>K</span>och</span>
+            Copyright &copy; 2016 by <span class="vivaldi"><span class="large">E</span>ric <span class="large">K</span>och</span>
         </div>
         
         </div> <!-- closes wrapper -->
