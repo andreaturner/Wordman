@@ -8,7 +8,7 @@
             <div class="header">
                 <span>C</span>hildren's <span>B</span>ooks
             </div>
-            <div class="small-header">
+            <div class="small-header-child">
                 <a href="under-construction.php">Mr. B.E.R.</a>
             </div>
             <div class="series-pic-iftmus">
@@ -24,7 +24,7 @@
         </div>    
             
          <div class="book-series-summary-100">
-                <div class="small-header">
+                <div class="small-header-child">
                     <a href="under-construction.php">The Monster There Under My Bed</a>
                 </div>
                 <div class="series-pic-iftmus">

@@ -290,6 +290,15 @@ a:hover {
     margin-bottom: 10px;
 }
 
+.small-header-child {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-top: 2.5%;
+    /*margin-bottom: 1%;*/
+}
+
 .small-header-novels {
     font-size: x-large;
     font-weight: bold;
@@ -1168,6 +1177,7 @@ a:hover {
     float: left;
     margin: auto;
     width: 60%;
+    margin-top: 1%;
 }
 
 .series-text-axtoph span {
