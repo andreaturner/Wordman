@@ -84,6 +84,24 @@
 					 </div>
             </div>
             
+            <div class="book-series-summary-100">
+                <div class="small-header-child">
+                    <a href="under-construction.php">Gabriel, Bali &#38; The Pickle Factory</a>
+                </div>
+                <div class="series-pic-iftmus">
+                    <img src="../images/bali-gabriel-eliz-pickle-464x350.jpg" width="464" height="350" alt="Gabriel, Bali &#38; The Pickle Factory Image" />
+                </div>
+                <div class="series-text-monster1">
+						  <span class="italic">Dedicated to Gabriel Koch<br>
+						  And all of the Kochs&#46;&#46;&#46;<br>
+						  For only in a family with<br>
+						  A sense of humor,<br>
+						  Could such a story be told.<br>
+						  </span>
+						  <br><br><br>
+					 </div>
+            </div>
+            
         
             
 <?php
