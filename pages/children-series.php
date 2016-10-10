@@ -6,19 +6,20 @@
         
         <div class="book-series-summary-100">
             <div class="header">
-                <span>N</span>ovels 
+                <span>C</span>hildren's <span>B</span>ooks
             </div>
             <div class="small-header">
-                <a href="iftmus-series.php">Iftmus</a>
+                <a href="iftmus-series.php">Mr. B.E.R.</a>
             </div>
             <div class="series-pic-iftmus">
-                <a href="iftmus-series.php"><img src="../images/iftmus-of-dreams-like-mist-253x350.jpg" width="253" height="350" alt="Iftmus Image" /></a>
+                <a href="iftmus-series.php"><img src="../images/no-christmas-247x300.jpg" width="247" height="300" alt="Mr. B.E.R. Image" /></a>
             </div>
             <div class="series-text-adventure-list">
-                Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="iftmus-book1.php">&ldquo;Of Dreams Like Mist&rdquo;</a></span><br>
-                Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="iftmus-book2.php">&ldquo;To Embace The Night&rdquo;</a></span><br>
-                Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="iftmus-book3.php">&ldquo;To Chase A Shadow&rdquo;</a></span><br>
-                Book IV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="iftmus-book4.php">&ldquo;That None Shall Remain&rdquo;</a></span><br>
+                Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;The B.E.R. Who Couldn&#39;t Afford Christmas&rdquo;</a></span><br>
+                Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;Sir BER-A-LOT &#40;In Search of the Grumble Grump&#41;&rdquo;</a></span><br>
+                Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;A B.E.R. Without A Home&rdquo;</a></span><br>
+                Book IV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;Mr. B.E.R. &#40;A Three Dog Night&#41;&rdquo;</a></span><br>
+                Book V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large">&ldquo;Mr. B.E.R. &#40;To Find The Final Stitch&#41;&rdquo;</a></span><br>
             </div>
             <div class="series-text-adventure">
                 <span class="large">T</span>hree unlikely Heroes from three worlds, make up the nine &ldquo;Nakostoma&rdquo; who are destined to be the final stand against the younger 
