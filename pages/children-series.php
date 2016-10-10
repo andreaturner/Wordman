@@ -102,7 +102,26 @@
 					 </div>
             </div>
             
-        
+            <div class="book-series-summary-100">
+                <div class="small-header-child">
+                    <a href="under-construction.php">The Broken Unicorn</a>
+                </div>
+                <div class="series-pic-iftmus">
+                    <img src="../images/broken-unicorn-483x325.jpg" width="483" height="325" alt="The Broken Unicorn Image" />
+                </div>
+                <div class="series-text-monster1">
+						  <span class="italic">Somewhere the magic was lost.<br>
+						  They say it was when the unicorn,<br>
+						  Caught up in a battle,<br>
+						  Broke its horn and could not retrieve it.<br>
+						  A portion of the magic remained<br>
+                    With both the horn and the horse<br>
+                    But never to match<br>
+                    When the horn and the horse were one!<br>
+						  </span>
+						  <br><br><br>
+					 </div>
+            </div>
             
 <?php
     include ('../shared/footer.html');            
