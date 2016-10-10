@@ -63,29 +63,29 @@
 						  </span>
 						  <br><br><br>
 					 </div>
-                    
+            </div>
+            
+            <div class="book-series-summary-100">
+                <div class="small-header-child">
+                    <a href="under-construction.php">Cuddle Puddle &#38; Thunderthump</a>
+                </div>
+                <div class="series-pic-iftmus">
+                    <img src="../images/cuddle-puddle-456x350.jpg" width="456" height="350" alt="Cuddle Puddle &#38; Thunderthump Image" />
+                </div>
+                <div class="series-text-monster1">
+						  <span class="italic">This book dedicated to a child yet coming<br>
+						  Elizabeth Dina Koch&#46;&#46;&#46; the third grandchild of the &ldquo;Kochs&rdquo;<br>
+						  who shall find prominence in this book as a child;<br>
+						  with definition in this world as a woman.<br>
+						  A woman with her own dreams<br>
+						  And her own destiny.<br>
+						  </span>
+						  <br><br><br>
+					 </div>
             </div>
             
         
-            <div class="book-series-summary">
-                <div class="small-header">
-                    <a href="sholama-series.php">The Ongoing Adventures of Sholama and Jamalok</a>
-                </div>
-                <div class="series-pic-iftmus">
-                    <a href="sholama-series.php"><img src="../images/sholama-cover-463x300.jpg" width="463" height="300" alt="Sholama and Jamalok" /></a>
-                </div>
-                <div class="series-text-adventure-list">
-                    Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book1.php"><span class="large">&ldquo;Season Out Of Time&rdquo;</span></a><br>
-                    Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book2.php"><span class="large">&ldquo;The Girl With The Wind In Her Hair&rdquo;</span></a><br>
-                    Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book3.php"><span class="large">&ldquo;The Color Of Smell&rdquo;</span></a><br>
-                    Book IV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sholama-book4.php"><span class="large">&ldquo;Tears Of The River&rdquo;</span></a><br>
-                </div>
-                <div class="series-text-adventure">
-                    <span class="large">A</span> seven-year-old girl is the unanticipated Shaman, destined to combat the spirit of winter, &ldquo;Ever&#39;ice&rdquo; who has halted 
-                    the awakening of the Seasons. The Spirits of spring; &ldquo;Da&#39;born&rdquo;, summer; &ldquo;Sun&#39;sha&rdquo; and fall; &ldquo;Co&#39;napa&rdquo; have been 
-                    forced to sleep so that &ldquo;Ever&#39;ice&rdquo;, may live on past his season.    
-                </div>
-            </div>
+            
 <?php
     include ('../shared/footer.html');            
 ?>            
